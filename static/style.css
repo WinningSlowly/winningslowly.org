@@ -10,8 +10,11 @@ body {
 #wrapper {
    width: 40em;
    padding: 0 1em;
-   margin: 1em auto;
-   border: 1px solid #efefef;
+   margin: 5em auto;
+}
+
+header#banner {
+   padding-bottom: 2em;
 }
 
 article h1, article h2 {
