@@ -1,5 +1,6 @@
 html {
    font-size: 87.5%;
+   line-height: 1.4;
 }
 
 body {
@@ -20,7 +21,6 @@ article h1, article h2 {
    margin-bottom: 0;
    padding-top: 0;
    padding-bottom: 0;
-   line-height: 1.4;
 }
 
 article h2 {
@@ -37,6 +37,18 @@ article .meta {
    text-transform: uppercase;
    display: inline-block;
    width: 48%;
+}
+
+.title, .meta {
+   width: 47%;
+   margin: 0 1%;
+   padding: 0 0 2em;
+   display: inline-block;
+   vertical-align: middle;
+}
+
+.title {
+   text-align: right;
 }
 
 #winning {
