@@ -1,0 +1,36 @@
+html {
+   font-size: 87.5%;
+}
+
+body {
+   font-family: "Museo Sans", "Century Gothic", sans-serif;
+}
+
+#wrapper {
+   width: 35em;
+   padding: 0 1em;
+   margin: 1em auto;
+   border: 1px solid #efefef;
+}
+
+article h1, article h2 {
+   font-family: "Museo Slab", Georgia, serif;
+}
+
+#winning, #slowly {
+   text-transform: uppercase;
+   display: inline-block;
+   width: 48%;
+}
+
+#winning {
+   font-weight: 500;
+   font-family: "Museo Slab", Georgia, serif;
+   letter-spacing: 2px;
+   text-align: right;
+}
+
+#slowly {
+   font-size: 1.75em;
+   font-family: "Felt Tip Senior", cursive;
+}
