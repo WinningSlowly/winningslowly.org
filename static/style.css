@@ -7,7 +7,7 @@ body {
 }
 
 #wrapper {
-   width: 35em;
+   width: 40em;
    padding: 0 1em;
    margin: 1em auto;
    border: 1px solid #efefef;
@@ -15,6 +15,22 @@ body {
 
 article h1, article h2 {
    font-family: "Museo Slab", Georgia, serif;
+   font-size: 1rem;
+   margin-top: 0;
+   margin-bottom: 0;
+   padding-top: 0;
+   padding-bottom: 0;
+   line-height: 1.4;
+}
+
+article h2 {
+   font-weight: 300;
+}
+
+article .meta {
+   font-family: "Museo Sans", Georgia, serif;
+   font-weight: 300;
+   font-style: italic;
 }
 
 #winning, #slowly {
