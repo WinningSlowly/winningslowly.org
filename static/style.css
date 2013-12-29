@@ -3,7 +3,6 @@
    v2.0 | 20110126
    License: none (public domain)
 */
-
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -129,6 +128,7 @@ table {
 
 
 /* ----- Begin local styles ----- */
+/* Modular scale: http://modularscale.com/scale/?px1=14&px2=196&ra1=1.5&ra2=0 */
 html {
    font-size: 87.5%;
    line-height: 1.4;
@@ -139,37 +139,67 @@ body {
    font-family: "Museo Sans", "Century Gothic", sans-serif;
 }
 
+h1 {
+   font-size: 2.25rem;
+}
+
+h2 {
+   font-size: 1.844rem;
+}
+
+h3 {
+   font-size: 1.5rem;
+}
+
+h4 {
+   font-size: 1.229rem;
+}
+
+h5 {
+   font-size: 1rem;
+}
+
+/* Layout */
 #wrapper {
    max-width: 44em;
    padding: 0 1em;
    margin: 5em auto;
 }
 
-/* Header */
-header#banner {
-   padding-bottom: 2em;
-}
-
-#winning {
-   font-weight: 500;
-   font-family: "Museo Slab", Georgia, serif;
-   letter-spacing: 2px;
-   text-align: right;
-}
-
-#slowly {
-   font-size: 1.75em;
-   font-family: "Felt Tip Senior", cursive;
-}
-
-/* Podcast items */
-header {
+header, #banner h1 {
    display: flex;
-   flex-direction: row;
    justify-content: center;
    align-items: flex-start;
 }
 
+/* Header */
+header#banner {
+   padding-bottom: 2rem;
+   height: 4.148rem;
+}
+
+#winning, #slowly {
+   text-transform: uppercase;
+   flex: 1 49%;
+   line-height: 1;
+   margin: 0;
+   padding: 0 0.108em;
+}
+
+#winning {
+   font-weight: 300;
+   font-family: "Museo Slab", Georgia, serif;
+   letter-spacing: 3px;
+   text-align: right;
+   padding-top: 0.85rem;
+}
+
+#slowly {
+   font-size: 4.148rem;
+   font-family: "Felt Tip Senior", cursive;
+}
+
+/* Podcast items */
 article h1, article h2 {
    font-family: "Museo Slab", Georgia, serif;
    font-size: 1rem;
@@ -192,12 +222,6 @@ article .meta {
    font-family: "Museo Sans", Georgia, serif;
    font-weight: 300;
    font-style: italic;
-}
-
-#winning, #slowly {
-   text-transform: uppercase;
-   display: inline-block;
-   flex: 1 50%;
 }
 
 .title, .meta {
