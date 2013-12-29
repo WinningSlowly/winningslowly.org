@@ -1,0 +1,119 @@
+/* style.scss */
+
+@import 'reset';
+@import 'typography';
+@import 'mixins';
+
+/* variables */
+$sans: "Museo Sans", "Century Gothic", sans-serif;
+$slab: "Museo Slab", Rockwell, Cambria, serif;
+$felt: "Felt Tip Senior", cursive;
+
+/* Modular scale: http://modularscale.com/scale/?px1=14&px2=196&ra1=1.5&ra2=0 */
+html {
+   font-size: 87.5%;
+   line-height: 1.4;
+   color: #444;
+   font-family: $sans;
+}
+
+body {
+}
+
+h1 {
+   font-size: 2.25rem;
+}
+
+h2 {
+   font-size: 1.844rem;
+}
+
+h3 {
+   font-size: 1.5rem;
+}
+
+h4 {
+   font-size: 1.229rem;
+}
+
+h5 {
+   font-size: 1rem;
+}
+
+/* Layout */
+#wrapper {
+   max-width: 44em;
+   padding: 0 1em;
+   margin: 5em auto;
+}
+
+header, #banner h1 {
+   display: flex;
+   justify-content: center;
+   align-items: flex-start;
+}
+
+/* Header */
+header#banner {
+   padding-bottom: 2rem;
+   height: 4.148rem;
+}
+
+#winning, #slowly {
+   text-transform: uppercase;
+   flex: 1 49%;
+   line-height: 1;
+   margin: 0;
+   padding: 0 0.108em;
+}
+
+#winning {
+   font-weight: 300;
+   font-family: $slab;
+   letter-spacing: 3px;
+   text-align: right;
+   padding-top: 0.85rem;
+}
+
+#slowly {
+   font-size: 4.148rem;
+   font-family: \$felt;
+}
+
+/* Podcast items */
+article {
+   h1, h2 {
+      font-family: $slab;
+      font-size: 1rem;
+      margin-top: 0;
+      margin-bottom: 0;
+      padding-top: 0;
+      padding-bottom: 0;
+   }
+
+   h2 {
+      font-weight: 300;
+   }
+
+   .meta, .title {
+      flex: 1 50%;
+      height: 4em;
+      margin: 0;
+      padding: 0 0.5em 2em;
+   }
+
+   .meta {
+      font-family: $sans;
+      font-weight: 300;
+      font-style: italic;
+   }
+
+   .title {
+      text-align: right;
+   }
+
+   .title a {
+      text-decoration: none;
+      color: #444;
+   }
+}
