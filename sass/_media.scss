@@ -1,6 +1,8 @@
+@import 'mixins';
+
 @media only screen and (max-width: 38.444rem) {
    .flex-item {
-      flex: 1 100%;
+      @include flex(1 100%);
    }
 
    #winning, #slowly {
@@ -12,7 +14,7 @@
          text-align: center;
          padding-left: 1em;
          padding-right: 1em;
-         order: 2;
+         @include order(2);
       }
 
       .meta {
@@ -22,7 +24,7 @@
          height: auto;
          margin-bottom: 0.364em;
          padding-bottom: 0;
-         order: 1;
+         @include order(1);
       }
    }
 }

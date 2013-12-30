@@ -48,14 +48,14 @@ h5 {
 }
 
 .flex-container {
-   display: flex;
+   @include flexbox();
    justify-content: space-around;
    align-items: flex-start;
    flex-flow: row wrap;
 }
 
 .flex-item {
-   flex: 1 18rem;
+   @include flex(1 18rem);
    padding-left: 0.296rem;
    padding-right: 0.296rem;
 }

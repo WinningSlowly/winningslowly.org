@@ -170,6 +170,10 @@ h5 {
 }
 
 .flex-container, #banner h1, article header {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
   display: flex;
   justify-content: space-around;
   align-items: flex-start;
@@ -177,6 +181,10 @@ h5 {
 }
 
 .flex-item, #winning, #slowly, article .meta, article .title {
+  -webkit-box-flex: 1 18rem;
+  -moz-box-flex: 1 18rem;
+  -webkit-flex: 1 18rem;
+  -ms-flex: 1 18rem;
   flex: 1 18rem;
   padding-left: 0.296rem;
   padding-right: 0.296rem;
@@ -239,8 +247,14 @@ article .title a {
 }
 
 /* Import media queries at the end to override the base */
+/* _mixins.scss */
+/* Flexbox */
 @media only screen and (max-width: 38.444rem) {
   .flex-item, #winning, #slowly, article .meta, article .title {
+    -webkit-box-flex: 1 100%;
+    -moz-box-flex: 1 100%;
+    -webkit-flex: 1 100%;
+    -ms-flex: 1 100%;
     flex: 1 100%;
   }
 
@@ -252,6 +266,10 @@ article .title a {
     text-align: center;
     padding-left: 1em;
     padding-right: 1em;
+    -webkit-box-ordinal-group: 2;
+    -moz-box-ordinal-group: 2;
+    -ms-flex-order: 2;
+    -webkit-order: 2;
     order: 2;
   }
   article .meta {
@@ -261,6 +279,10 @@ article .title a {
     height: auto;
     margin-bottom: 0.364em;
     padding-bottom: 0;
+    -webkit-box-ordinal-group: 1;
+    -moz-box-ordinal-group: 1;
+    -ms-flex-order: 1;
+    -webkit-order: 1;
     order: 1;
   }
 }
