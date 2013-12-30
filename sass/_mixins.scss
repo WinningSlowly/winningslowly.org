@@ -1,6 +1,13 @@
 /* _mixins.scss */
 
 /* Flexbox */
+@mixin align-items($values) {
+   -webkit-align-items: $values;
+   -moz-align-items: $values;
+   -ms-align-items: $values;
+   align-items: $values;
+}
+
 @mixin flexbox() {
    display: -webkit-box;
    display: -moz-box;
@@ -15,6 +22,20 @@
    -webkit-flex:  $values;
    -ms-flex:  $values;
    flex:  $values;
+}
+
+@mixin flex-flow($values) {
+   -webkit-flex-flow: $values;
+   -moz-flex-flow: $values;
+   -ms-flex-flow: $values;
+   flex-flow: $values;
+}
+
+@mixin justify-content($values) {
+   -webkit-justify-content: $values;
+   -moz-justify-content: $values;
+   -ms-justify-content: $values;
+   justify-content: $values;
 }
 
 @mixin order($val) {

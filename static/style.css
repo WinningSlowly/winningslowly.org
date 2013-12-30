@@ -175,8 +175,17 @@ h5 {
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
+  -webkit-justify-content: space-around;
+  -moz-justify-content: space-around;
+  -ms-justify-content: space-around;
   justify-content: space-around;
+  -webkit-align-items: flex-start;
+  -moz-align-items: flex-start;
+  -ms-align-items: flex-start;
   align-items: flex-start;
+  -webkit-flex-flow: row wrap;
+  -moz-flex-flow: row wrap;
+  -ms-flex-flow: row wrap;
   flex-flow: row wrap;
 }
 
@@ -186,8 +195,6 @@ h5 {
   -webkit-flex: 1 18rem;
   -ms-flex: 1 18rem;
   flex: 1 18rem;
-  padding-left: 0.296rem;
-  padding-right: 0.296rem;
 }
 
 /* Header */
@@ -237,9 +244,11 @@ article .meta {
   font-family: "Museo Sans", "Century Gothic", sans-serif;
   font-weight: 300;
   font-style: italic;
+  padding-left: 0.243rem;
 }
 article .title {
   text-align: right;
+  padding-right: 0.243rem;
 }
 article .title a {
   text-decoration: none;
