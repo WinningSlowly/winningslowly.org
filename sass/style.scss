@@ -42,15 +42,26 @@ h5 {
 
 /* Layout */
 #wrapper {
-   max-width: 44em;
-   padding: 0 1em;
+   max-width: 44rem;
+   padding: 0 1rem;
    margin: auto;
 }
 
-header, #banner h1 {
+.flex-container {
    display: flex;
-   justify-content: center;
+   justify-content: space-around;
    align-items: flex-start;
+   flex-flow: row wrap;
+}
+
+.flex-item {
+   flex: 1 18rem;
+   padding-left: 0.296rem;
+   padding-right: 0.296rem;
+}
+
+#banner h1 {
+   @extend .flex-container;
 }
 
 /* Header */
@@ -61,10 +72,10 @@ header#banner {
 
 #winning, #slowly {
    text-transform: uppercase;
-   flex: 1 49%;
    line-height: 1;
    margin: 0;
-   padding: 0 0.108em;
+
+   @extend .flex-item;
 }
 
 #winning {
@@ -82,11 +93,15 @@ header#banner {
 
 /* Podcast items */
 article {
+   header {
+      @extend .flex-container;
+   }
+
    h1, h2 {
       font-family: $slab;
       font-size: 1rem;
       margin-top: 0;
-      margin-bottom: 0;
+      margin-bottom: 0.444em;
       padding-top: 0;
       padding-bottom: 0;
    }
@@ -96,10 +111,12 @@ article {
    }
 
    .meta, .title {
-      flex: 1 50%;
       height: 4em;
       margin: 0;
-      padding: 0 0.5em 2em;
+      padding-top: 0;
+      padding-bottom: 2em;
+
+      @extend .flex-item;
    }
 
    .meta {
@@ -117,3 +134,6 @@ article {
       color: #444;
    }
 }
+
+/* Import media queries at the end to override the base */
+@import 'media';
