@@ -1,3 +1,20 @@
+# Emacs save and block files
+*~
+.*\#
+
+# OS X Finder files
+.DS_Store
+
+# IntelliJ IDEA files
+*.iml
+*.eml
+.idea
+
+# SASS
+.sass-cache
+.sass-cache/
+
+# Python elements
 *.py[cod]
 
 # C extensions
@@ -26,11 +43,3 @@ pip-log.txt
 .coverage
 .tox
 nosetests.xml
-
-# Translations
-*.mo
-
-# Mr Developer
-.mr.developer.cfg
-.project
-.pydevproject
