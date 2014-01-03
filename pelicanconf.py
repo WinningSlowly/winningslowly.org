@@ -16,8 +16,8 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Social widget
-IDENTITY = {'Site': {'Twitter': 'https://twitter.com/winningslowly',
-                     'App.net': 'https://app.net/winningslowly',},
+IDENTITY = {'Site': {'App.net': 'https://app.net/winningslowly',
+                     'Twitter': 'https://twitter.com/winningslowly',},
             'Chris': {'App.net': 'https://app.net/chriskrycho',
                       'Twitter': 'https://twitter.com/chriskrycho',},
             'Stephen': {'Twitter': 'https://twitter.com/scarradini',},}
