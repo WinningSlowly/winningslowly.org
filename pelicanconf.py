@@ -40,3 +40,9 @@ MD_EXTENSIONS = ['extra', 'toc', 'headerid']
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
+
+# Path configuration
+STATIC_PATHS = ['extra/CNAME',  # Include the CNAME file
+               ]
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},  # Copy CNAME file to /output
+                      }
