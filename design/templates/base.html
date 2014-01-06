@@ -1,7 +1,17 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-   <title>{{  }}</title>
+   <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
+   <meta name="description" content="" />
+
+   <meta charset="UTF-8"/>
+   <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no" />
+
+   {# Authorship #}
+   {% include "identity/app.net.html" %}
+   {% include "identity/twitter.html" %}
+
+   <link href="{{ SITEURL }}/{{ THEME_STATIC_URL }}/css/{{ CSS_FILE }}" type="text/css" rel="stylesheet" />
 </head>
 <body>
 

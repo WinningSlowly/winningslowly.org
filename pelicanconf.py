@@ -47,3 +47,7 @@ STATIC_PATHS = ['extra/CNAME',  # Include the CNAME file
                ]
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},  # Copy CNAME file to /output
                       }
+
+# Static configuration
+THEME_STATIC_URL = 'static'
+CSS_FILE = 'min.css'
