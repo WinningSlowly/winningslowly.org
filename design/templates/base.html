@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ DEFAULT_LANG }}">
 <head>
    <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
    <meta name="description" content="" />
@@ -12,6 +12,14 @@
    {% include "identity/twitter.html" %}
 
    <link href="{{ SITEURL }}/{{ THEME_STATIC_URL }}/css/{{ CSS_FILE }}" type="text/css" rel="stylesheet" />
+
+   {% if FEED_ALL_ATOM %}
+      <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed" />
+   {% endif %}
+   {% if FEED_ALL_RSS %}
+      <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
+   {% endif %}
+
 </head>
 <body>
 
