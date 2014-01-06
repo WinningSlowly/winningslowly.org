@@ -1,0 +1,11 @@
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@winningslowly" />
+<meta name="twitter:creator" content="@chriskrycho" />
+<meta name="twitter:creator" content="@scarradini" />
+<meta property="og:url" content="{{  }}" />
+<meta property="og:title" content="{{  }}" />
+{% if article is defined %}
+   <meta property="og:description" content="{{ article.description }}" />
+{% else %}
+   <meta property="og:description" content="{{ SITE_DESCRIPTION }}" />
+{% endif %}

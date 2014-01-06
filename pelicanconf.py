@@ -4,6 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Chris Krycho', 'Stephen Carradini'
 SITENAME = 'Winning Slowly'
+SITE_DESCRIPTION = 'Culture, art, religion, and ethics—from the long view.'
 SITEURL = ''
 
 TIMEZONE = 'America/New_York'
