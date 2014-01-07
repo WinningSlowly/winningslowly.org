@@ -3,7 +3,28 @@ $sans: "Museo Sans", "Century Gothic", sans-serif;
 $slab: "Museo Slab", Rockwell, Cambria, serif;
 $felt: "Felt Tip Senior", cursive;
 
-/* Font sizes */
+
+/* Modular scale: http://modularscale.com/scale/?px1=18&px2=540&ra1=1.5&ra2=0 */
+// Font sizes
+$fsh1: 3.375em;
+$fsh2: 2.634em;
+$fsh3: 1.25em;
+$fsh4: 1.756em;
+$fsh5: 1.5em;
+$fsh6: 1.171em;
+$fsp: 1em;
+$fs_small: 0.78em;
+
+// Line heights
+$lh: 1.5;
+$lh_rem: 1.5rem;
+$lh_em: 1.5em;
+
+
+// Account for different scales of Felt Tip Senior from Museo
+$felt_multiplier: 1.92;
+$felt_multiplier_em: 1.92em;
+
 
 /* Colors */
 $dark-orange: #D45627;
