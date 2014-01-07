@@ -6,6 +6,7 @@ AUTHOR = 'Chris Krycho', 'Stephen Carradini'
 SITENAME = 'Winning Slowly'
 SITE_DESCRIPTION = 'Culture, art, religion, and ethics—from the long view.'
 SITEURL = ''
+LOGO = '/static/images/'
 
 TIMEZONE = 'America/New_York'
 
@@ -48,10 +49,12 @@ TYPOGRIFY = True
 RELATIVE_URLS = True
 
 # Path configuration
-STATIC_PATHS = ['extra/CNAME',  # Include the CNAME file
-               ]
-EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},  # Copy CNAME file to /output
-                      }
+STATIC_PATHS = ['extra/CNAME',
+                'extra/favicon.ico',
+                'extra/favicon.png',]
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
+                       'extra/favicon.ico': {'path': 'favicon.ico'},
+                       'extra/favicon.png': {'path': 'favicon.png'},}
 
 # Static configuration
 THEME_STATIC_URL = 'static'

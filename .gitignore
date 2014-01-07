@@ -43,3 +43,6 @@ pip-log.txt
 .coverage
 .tox
 nosetests.xml
+
+# Miscellaneous design files
+design/favicon.*
