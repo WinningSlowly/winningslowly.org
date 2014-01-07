@@ -7,12 +7,12 @@
 html {
    font-size: 112.5%;
    line-height: $lh;
-   color: #444;
+   color: $text;
    font-family: $sans;
 }
 
 body {
-   background: #FFFFF6;
+   background: $background;
 }
 
 h1 {
@@ -61,42 +61,59 @@ p, ul, ol {
    @include flex(1 18rem);
 }
 
-#banner h1 {
-   @extend .flex-container;
-}
-
 /* Header */
 header#banner {
    padding-top: 5.063rem;
    padding-bottom: 3.375rem;
    text-shadow: 1px 1px 1px #DDD;
-}
 
-#winning, #slowly {
-   text-transform: uppercase;
-   line-height: 1;
-   margin: 0;
+   h1 {
+      @include flexbox();
+      @include justify-content(center);
+      @include align-items(flex-start);
+      @include flex-flow(row wrap);
 
-   @extend .flex-item;
-}
+      #logo {
+         @include flex(1 auto);
 
-#winning {
-   color: $dark-orange;
-   font-weight: 300;
-   font-family: $slab;
-   letter-spacing: 3px;
-   text-align: right;
-   padding: {
-      top: 0.85rem;
-      right: 0.25rem;
+         //text-align: center;
+         img {
+            height: $fsh6;
+            width: $fsh6;
+            margin: {
+               top: 5px;
+               left: auto;
+               right: auto;
+            }
+         }
+      }
+
+      #winning, #slowly {
+         text-transform: uppercase;
+         line-height: 1;
+         margin: 0;
+
+         @include flex(1 auto);
+      }
+
+      #winning {
+         color: $dark-orange;
+         font-weight: 300;
+         font-family: $slab;
+         letter-spacing: 3px;
+         //text-align: right;
+         padding: {
+            top: 0.85rem;
+         }
+      }
+
+      #slowly {
+         color: $light-orange;
+         font-size: $felt_multiplier_em;
+         font-family: $felt;
+         margin-top: -10px;
+      }
    }
-}
-
-#slowly {
-   color: $light-orange;
-   font-size: $felt_multiplier_em;
-   font-family: $felt;
-   margin-top: -10px;
 }
 
 /* Podcast items */
