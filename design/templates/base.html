@@ -9,6 +9,8 @@
 
    {# Authorship #}
    {% include "identity/app.net.html" %}
+   {% include "identity/facebook.html" %}
+   {% include "identity/google.html" %}
    {% include "identity/twitter.html" %}
 
    <link href="{{ SITEURL }}/{{ THEME_STATIC_URL }}/css/{{ CSS_FILE }}" type="text/css" rel="stylesheet" />
@@ -22,6 +24,10 @@
 
 </head>
 <body>
-
+   <div id="wrapper">
+      <header id="banner">
+         <h1><span id="winning">Winning</span> <span id="slowly">Slowly</span></h1>
+      </header>
+   </div>
 </body>
 </html>

@@ -1,0 +1,15 @@
+{% if article is defined %}
+   <meta property="og:url" content="{{  }}" />
+   <meta property="og:title" content="{{  }}" />
+   <meta property="og:description" content="{{ article.description }}" />
+   <meta property="og:image" content="{{  }}" />
+   {% if article.podcast_url is defined %}
+      <meta property="og:audio" content="{{ article.podcast_url }}"/>
+      <meta property="og:audio:type" content="audio/aac" />
+   {% endif %}
+{% else %}
+   <meta property="og:url" content="{{  }}" />
+   <meta property="og:title" content="{{  }}" />
+   <meta property="og:description" content="{{ SITE_DESCRIPTION }}" />
+   <meta property="og:image" content="{{  }}" />
+{% endif %}

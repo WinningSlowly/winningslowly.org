@@ -3,21 +3,18 @@
 @import 'reset';
 @import 'typography';
 @import 'mixins';
-
-/* variables */
-$sans: "Museo Sans", "Century Gothic", sans-serif;
-$slab: "Museo Slab", Rockwell, Cambria, serif;
-$felt: "Felt Tip Senior", cursive;
+@import 'variables';
 
 /* Modular scale: http://modularscale.com/scale/?px1=14&px2=196&ra1=1.5&ra2=0 */
 html {
-   font-size: 87.5%;
+   font-size: 120%;
    line-height: 1.4;
    color: #444;
    font-family: $sans;
 }
 
 body {
+   background: #FFFFF6;
 }
 
 h1 {
@@ -66,6 +63,7 @@ h5 {
 header#banner {
    padding-top: 5.063rem;
    padding-bottom: 3.375rem;
+   text-shadow: 1px 1px 1px #DDD;
 }
 
 #winning, #slowly {
@@ -77,6 +75,7 @@ header#banner {
 }
 
 #winning {
+   color: $dark-orange;
    font-weight: 300;
    font-family: $slab;
    letter-spacing: 3px;
@@ -85,6 +84,7 @@ header#banner {
 }
 
 #slowly {
+   color: $light-orange;
    font-size: 4.148rem;
    font-family: $felt;
 }

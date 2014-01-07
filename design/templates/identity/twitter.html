@@ -2,10 +2,12 @@
 <meta name="twitter:site" content="@winningslowly" />
 <meta name="twitter:creator" content="@chriskrycho" />
 <meta name="twitter:creator" content="@scarradini" />
-<meta property="og:url" content="{{  }}" />
-<meta property="og:title" content="{{  }}" />
 {% if article is defined %}
-   <meta property="og:description" content="{{ article.description }}" />
+   <meta name="twitter:title" content="{{  }}" />
+   <meta name="twitter:description" content="{{ article.summary }}" />
+   <meta name="twitter:image" content="{{  }}" />
 {% else %}
-   <meta property="og:description" content="{{ SITE_DESCRIPTION }}" />
+   <meta name="twitter:title" content="{{ SITENAME }}" />
+   <meta name="twitter:description" content="{{ SITE_DESCRIPTION }}" />
+   <meta name="twitter:image" content="{{  }}" />
 {% endif %}
