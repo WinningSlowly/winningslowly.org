@@ -1,14 +1,12 @@
-/* style.scss */
-
 @import 'reset';
 @import 'typography';
 @import 'mixins';
 @import 'variables';
 
-/* Modular scale: http://modularscale.com/scale/?px1=14&px2=196&ra1=1.5&ra2=0 */
+/* Styles */
 html {
-   font-size: 120%;
-   line-height: 1.4;
+   font-size: 112.5%;
+   line-height: $lh;
    color: #444;
    font-family: $sans;
 }
@@ -18,23 +16,31 @@ body {
 }
 
 h1 {
-   font-size: 2.25rem;
+   font-size: $fsh1;
 }
 
 h2 {
-   font-size: 1.844rem;
+   font-size: $fsh2;
 }
 
 h3 {
-   font-size: 1.5rem;
+   font-size: $fsh3;
 }
 
 h4 {
-   font-size: 1.229rem;
+   font-size: $fsh4;
 }
 
-h5 {
-   font-size: 1rem;
+h5, blockquote, blockquote p {
+   font-size: $fsh5;
+}
+
+h6 {
+   font-size: $fsh6;
+}
+
+p, ul, ol {
+   font-size: $fsp;
 }
 
 /* Layout */
@@ -80,13 +86,17 @@ header#banner {
    font-family: $slab;
    letter-spacing: 3px;
    text-align: right;
-   padding-top: 0.85rem;
+   padding: {
+      top: 0.85rem;
+      right: 0.25rem;
+   }
 }
 
 #slowly {
    color: $light-orange;
-   font-size: 4.148rem;
+   font-size: $felt_multiplier_em;
    font-family: $felt;
+   margin-top: -10px;
 }
 
 /* Podcast items */
