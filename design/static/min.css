@@ -188,51 +188,24 @@ header#banner {
   padding-bottom: 1.25em;
   text-shadow: 1px 1px 1px #DDD; }
   header#banner h1 {
-    display: -webkit-box;
-    display: -moz-box;
-    display: -ms-flexbox;
-    display: -webkit-flex;
-    display: flex;
-    -webkit-justify-content: center;
-    -moz-justify-content: center;
-    -ms-justify-content: center;
-    justify-content: center;
-    -webkit-align-items: flex-start;
-    -moz-align-items: flex-start;
-    -ms-align-items: flex-start;
-    align-items: flex-start;
-    -webkit-flex-flow: row wrap;
-    -moz-flex-flow: row wrap;
-    -ms-flex-flow: row wrap;
-    flex-flow: row wrap;
     text-align: center; }
-    header#banner h1 #logo {
-      -webkit-box-flex: 1 auto;
-      -moz-box-flex: 1 auto;
-      -webkit-flex: 1 auto;
-      -ms-flex: 1 auto;
-      flex: 1 auto; }
-      header#banner h1 #logo img {
-        height: 1.171em;
-        width: 1.171em;
-        margin-top: 5px;
-        margin-left: auto;
-        margin-right: auto; }
+    header#banner h1 #logo, header#banner h1 #winning, header#banner h1 #slowly {
+      display: inline-block; }
+    header#banner h1 #logo img {
+      height: 1.171em;
+      width: 1.171em;
+      vertical-align: middle;
+      margin-top: -10px; }
     header#banner h1 #winning, header#banner h1 #slowly {
       text-transform: uppercase;
       line-height: 1;
-      margin: 0;
-      -webkit-box-flex: 1 auto;
-      -moz-box-flex: 1 auto;
-      -webkit-flex: 1 auto;
-      -ms-flex: 1 auto;
-      flex: 1 auto; }
+      margin: 0; }
     header#banner h1 #winning {
       color: #d45627;
       font-weight: 300;
       font-family: "Museo Slab", Rockwell, Cambria, serif;
       letter-spacing: 3px;
-      padding-top: 0.85rem; }
+      margin-right: -0.78rem; }
     header#banner h1 #slowly {
       color: #ed9747;
       font-size: 1.92em;
@@ -269,6 +242,25 @@ article .title a {
 /* Import media queries at the end to override the base */
 /* _mixins.scss */
 /* Flexbox */
+@media only screen and (max-width: 800px) {
+  header#banner h1 {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: center;
+    -moz-justify-content: center;
+    -ms-justify-content: center;
+    justify-content: center;
+    -webkit-align-items: flex-start;
+    -moz-align-items: flex-start;
+    -ms-align-items: flex-start;
+    align-items: flex-start;
+    -webkit-flex-flow: row wrap;
+    -moz-flex-flow: row wrap;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap; } }
 @media only screen and (max-width: 540px) {
   .flex-item, article .meta, article .title {
     -webkit-box-flex: 1 100%;
