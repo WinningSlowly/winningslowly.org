@@ -9,6 +9,12 @@
          @include flex-flow(row wrap);
       }
    }
+
+   footer {
+      .footer_item {
+         width: 45%;
+      }
+   }
 }
 
 @media only screen and (max-width: 540px) {
@@ -36,6 +42,12 @@
          margin-bottom: 0.364em;
          padding-bottom: 0;
          @include order(1);
+      }
+   }
+
+   footer {
+      .footer_item {
+         width: 98%;
       }
    }
 }
