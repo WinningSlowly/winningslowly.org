@@ -122,18 +122,20 @@ table {
 /* Styles */
 html {
   font-size: 112.5%;
-  line-height: 1.5;
   color: #444444;
   font-family: "Museo Sans", "Century Gothic", sans-serif; }
 
 body {
-  background: #fffff8; }
+  background: #fffff6;
+  line-height: 1.5; }
 
 h1 {
-  font-size: 3.375em; }
+  font-size: 3.375em;
+  font-family: "Museo Slab", Rockwell, Cambria, serif; }
 
 h2 {
-  font-size: 2.634em; }
+  font-size: 2.634em;
+  font-family: "Museo Slab", Rockwell, Cambria, serif; }
 
 h3 {
   font-size: 1.25em; }
@@ -175,7 +177,7 @@ p, ul, ol {
   -ms-flex-flow: row wrap;
   flex-flow: row wrap; }
 
-.flex-item, article .meta, article .title {
+.flex-item, .archive article header .meta, .archive article header .title {
   -webkit-box-flex: 1 18rem;
   -moz-box-flex: 1 18rem;
   -webkit-flex: 1 18rem;
@@ -213,31 +215,44 @@ header#banner {
       margin-top: -10px; }
 
 /* Podcast items */
-article h1, article h2 {
-  font-family: "Museo Slab", Rockwell, Cambria, serif;
-  font-size: 1rem;
-  margin-top: 0;
-  margin-bottom: 0.444em;
-  padding-top: 0;
-  padding-bottom: 0; }
-article h2 {
-  font-weight: 300; }
-article .meta, article .title {
-  height: 4em;
-  margin: 0;
-  padding-top: 0;
-  padding-bottom: 2em; }
-article .meta {
-  font-family: "Museo Sans", "Century Gothic", sans-serif;
-  font-weight: 300;
-  font-style: italic;
-  padding-left: 0.243rem; }
-article .title {
-  text-align: right;
-  padding-right: 0.243rem; }
-article .title a {
-  text-decoration: none;
-  color: #444; }
+.archive article {
+  border: 5px hotpink; }
+  .archive article header {
+    line-height: 1.171; }
+    .archive article header h1, .archive article header h2 {
+      font-size: 1em;
+      margin-top: 0;
+      margin-bottom: 0;
+      padding-top: 0;
+      padding-bottom: 0; }
+    .archive article header h2 {
+      font-weight: 300; }
+    .archive article header .meta, .archive article header .title {
+      height: 4em;
+      margin: 0;
+      padding-top: 0;
+      padding-bottom: 2em; }
+    .archive article header .meta {
+      font-family: "Museo Sans", "Century Gothic", sans-serif;
+      font-weight: 300;
+      font-style: italic;
+      padding-left: 0.243rem; }
+    .archive article header .title {
+      text-align: right;
+      padding-right: 0.243rem; }
+    .archive article header .title a {
+      text-decoration: none;
+      color: #444; }
+
+footer {
+  background: #444444;
+  color: #fffff6;
+  padding-top: 1.5em;
+  font-size: 0.78em; }
+  footer .footer_item {
+    width: 35%; }
+    footer .footer_item h1 {
+      font-size: 2.634em; }
 
 /* Import media queries at the end to override the base */
 /* _mixins.scss */
@@ -262,7 +277,7 @@ article .title a {
     -ms-flex-flow: row wrap;
     flex-flow: row wrap; } }
 @media only screen and (max-width: 540px) {
-  .flex-item, article .meta, article .title {
+  .flex-item, .archive article header .meta, .archive article header .title {
     -webkit-box-flex: 1 100%;
     -moz-box-flex: 1 100%;
     -webkit-flex: 1 100%;
