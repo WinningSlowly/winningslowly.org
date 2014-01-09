@@ -1,5 +1,16 @@
 @import 'mixins';
 
+@media only screen and (max-width: 800px) {
+   header#banner {
+      h1 {
+         @include flexbox();
+         @include justify-content(center);
+         @include align-items(flex-start);
+         @include flex-flow(row wrap);
+      }
+   }
+}
+
 @media only screen and (max-width: 540px) {
    .flex-item {
       @include flex(1 100%);

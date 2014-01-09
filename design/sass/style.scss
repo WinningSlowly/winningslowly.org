@@ -68,24 +68,18 @@ header#banner {
    text-shadow: 1px 1px 1px #DDD;
 
    h1 {
-      @include flexbox();
-      @include justify-content(center);
-      @include align-items(flex-start);
-      @include flex-flow(row wrap);
       text-align: center;
 
-      #logo {
-         @include flex(1 auto);
+      #logo, #winning, #slowly {
+         display: inline-block;
+      }
 
-         //text-align: center;
+      #logo {
          img {
             height: $fsh6;
             width: $fsh6;
-            margin: {
-               top: 5px;
-               left: auto;
-               right: auto;
-            }
+            vertical-align: middle;
+            margin-top: -10px;
          }
       }
 
@@ -93,8 +87,6 @@ header#banner {
          text-transform: uppercase;
          line-height: 1;
          margin: 0;
-
-         @include flex(1 auto);
       }
 
       #winning {
@@ -102,10 +94,7 @@ header#banner {
          font-weight: 300;
          font-family: $slab;
          letter-spacing: 3px;
-         //text-align: right;
-         padding: {
-            top: 0.85rem;
-         }
+         margin-right: -0.78rem;
       }
 
       #slowly {
