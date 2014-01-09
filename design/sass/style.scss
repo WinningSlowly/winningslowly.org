@@ -111,14 +111,24 @@ header#banner {
 /* Podcast items */
 article {
    header {
-      @extend .flex-container;
    }
 }
 
 .archive article {
-   border: 5px hotpink;
+
    header {
+      @extend .flex-container;
+
       line-height: $lh_small;
+
+      a {
+         width: 100%;
+         text-decoration: none;
+         color: #444;
+
+         @extend .flex-container;
+      }
+
       h1, h2 {
          font-size: $fsp;
          margin: {
@@ -156,24 +166,36 @@ article {
          padding-right: 0.243rem;
       }
 
-      .title a {
-         text-decoration: none;
-         color: #444;
-      }
    }
 }
 
 footer {
+   @include flexbox();
+   @include justify-content(center);
+   @include align-items(flex-start);
+   @include flex-flow(row wrap);
+
    background: $text;
    color: $background;
-   padding-top: $fsh5;
-   font-size: $fs_small;
+   font-size: 90%;
+   padding: {
+      top: $fsh5;
+      bottom: $fsh1;
+   };
 
    .footer_item {
       width: 35%;
+      margin: {
+         right: 1%;
+         left: 1%;
+      };
 
       h1 {
          font-size: $fsh2;
+         color: $dark-orange;
+         text-shadow: 1px 1px 0 #585858;
+         border-bottom: 2px solid $light-orange;
+         margin-bottom: 1rem;
       }
    }
 }
