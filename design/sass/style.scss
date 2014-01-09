@@ -192,10 +192,22 @@ footer {
 
       h1 {
          font-size: $fsh3;
+         font-weight: 300;
+         letter-spacing: 1px;
          color: $dark-orange;
          text-shadow: 1px 1px 0 #585858;
          border-bottom: 2px solid $light-orange;
          margin-bottom: 1rem;
+      }
+
+      h2 {
+         font-size: $fsh5;
+         font-style: italic;
+         font-weight: 400;
+      }
+
+      ul, ol {
+         margin-bottom: 1em;
       }
    }
 }
