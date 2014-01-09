@@ -6,21 +6,23 @@
 /* Styles */
 html {
    font-size: 112.5%;
-   line-height: $lh;
    color: $text;
    font-family: $sans;
 }
 
 body {
    background: $background;
+   line-height: $lh;
 }
 
 h1 {
    font-size: $fsh1;
+   font-family: $slab;
 }
 
 h2 {
    font-size: $fsh2;
+   font-family: $slab;
 }
 
 h3 {
@@ -111,44 +113,68 @@ article {
    header {
       @extend .flex-container;
    }
+}
 
-   h1, h2 {
-      font-family: $slab;
-      font-size: 1rem;
-      margin-top: 0;
-      margin-bottom: 0.444em;
-      padding-top: 0;
-      padding-bottom: 0;
+.archive article {
+   border: 5px hotpink;
+   header {
+      line-height: $lh_small;
+      h1, h2 {
+         font-size: $fsp;
+         margin: {
+            top: 0;
+            bottom: 0;
+         }
+         padding: {
+            top: 0;
+            bottom: 0;
+         }
+      }
+
+      h2 {
+         font-weight: 300;
+      }
+
+      .meta, .title {
+         height: 4em;
+         margin: 0;
+         padding-top: 0;
+         padding-bottom: 2em;
+
+         @extend .flex-item;
+      }
+
+      .meta {
+         font-family: $sans;
+         font-weight: 300;
+         font-style: italic;
+         padding-left: 0.243rem;
+      }
+
+      .title {
+         text-align: right;
+         padding-right: 0.243rem;
+      }
+
+      .title a {
+         text-decoration: none;
+         color: #444;
+      }
    }
+}
 
-   h2 {
-      font-weight: 300;
-   }
+footer {
+   background: $text;
+   color: $background;
+   padding-top: $fsh5;
+   font-size: $fs_small;
 
-   .meta, .title {
-      height: 4em;
-      margin: 0;
-      padding-top: 0;
-      padding-bottom: 2em;
+   .footer_item {
+      width: 35%;
 
-      @extend .flex-item;
-   }
-
-   .meta {
-      font-family: $sans;
-      font-weight: 300;
-      font-style: italic;
-      padding-left: 0.243rem;
-   }
-
-   .title {
-      text-align: right;
-      padding-right: 0.243rem;
-   }
-
-   .title a {
-      text-decoration: none;
-      color: #444;
+      h1 {
+         font-size: $fsh2;
+      }
    }
 }
 
