@@ -34,10 +34,12 @@
             <span id="winning">Winning</span>
             <span id="slowly">Slowly</span></h1>
       </header>
+
+      {% block content %}{% endblock %}
    </div>
 
-   {% block content %}{% endblock %}
-
-   {% include "includes/footer.html" %}
+   <footer>
+      {% include "includes/footer.html" %}
+   </footer>
 </body>
 </html>
