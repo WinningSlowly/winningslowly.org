@@ -70,8 +70,8 @@ a, a:visited {
 
 /* Header */
 header#banner {
-   padding-top: $fsh1;
-   padding-bottom: $fsh3;
+   padding-top: $fsh3;
+   padding-bottom: $fsh5;
    text-shadow: 1px 1px 1px #DDD;
 
    h1 {
@@ -211,7 +211,7 @@ footer {
       };
 
       h1 {
-         font-size: $fsh3;
+         font-size: $fsh4;
          font-weight: 300;
          letter-spacing: 1px;
          color: $light_orange;
