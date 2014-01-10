@@ -121,8 +121,46 @@ header#banner {
 }
 
 /* Podcast items */
-article {
+.post article {
+   padding-bottom: $lh_em;
+
    header {
+      text-align: center;
+      padding-bottom: $lh_em;
+      line-height: 1;
+
+      .header-item {
+         margin-bottom: 1rem;
+      }
+
+      h1 {
+         @extend .header-item;
+         font-weight: 300;
+      }
+
+      h2 {
+         @extend .header-item;
+         font-weight: 700;
+         text-transform: uppercase;
+         letter-spacing: -2px;
+      }
+
+      .meta {
+         @extend .header-item;
+         font-family: $sans;
+         font-weight: 700;
+         color: $text_light;
+      }
+   }
+
+   audio {
+      display: block;
+      text-align: center;
+      width: 66.7%;
+      margin: {
+         left: auto;
+         right: auto;
+      }
    }
 }
 
