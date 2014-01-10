@@ -221,13 +221,13 @@ footer {
       }
 
       h2 {
-         font-size: $fsh5;
+         font-size: $fsh6;
          font-style: italic;
          font-weight: 400;
       }
 
       ul, ol {
-         margin-bottom: 1em;
+         margin-bottom: $lh_em;
       }
    }
 }
