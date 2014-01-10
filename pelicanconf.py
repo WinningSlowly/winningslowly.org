@@ -23,10 +23,14 @@ TRANSLATION_FEED_RSS = None
 
 # Social widget
 IDENTITY = {'Site': {'App.net': 'https://app.net/winningslowly',
-                     'Twitter': 'https://twitter.com/winningslowly',},
+                     'App.net Broadcast': 'https://broadcast.app.net/40022/winning-slowly-episodes/',
+                     'Twitter': 'https://twitter.com/winningslowly',
+                     'Google+': 'https://plus.google.com/+WinningslowlyOrgCast',},
             'Chris': {'App.net': 'https://app.net/chriskrycho',
-                      'Twitter': 'https://twitter.com/chriskrycho',},
-            'Stephen': {'Twitter': 'https://twitter.com/scarradini',},}
+                      'Twitter': 'https://twitter.com/chriskrycho',
+                      'Homepage': 'http://chriskrycho.com',},
+            'Stephen': {'Twitter': 'https://twitter.com/scarradini',
+                        'Homepage': 'http://stephencarradini.com',},}
 
 DEFAULT_PAGINATION = 10
 
