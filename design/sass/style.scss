@@ -64,17 +64,6 @@ a, a:visited {
    margin: auto;
 }
 
-.flex-container {
-   @include flexbox();
-   @include justify-content(space-around);
-   @include align-items(flex-start);
-   @include flex-flow(row wrap);
-}
-
-.flex-item {
-   @include flex(1 18rem);
-}
-
 /* Header */
 header#banner {
    padding-top: $fsh3;
@@ -129,27 +118,27 @@ header#banner {
       padding-bottom: $lh_em;
       line-height: 1;
 
-      .header-item {
+      @mixin header-item() {
          margin-bottom: 1rem;
       }
 
       h1 {
-         @extend .header-item;
+         @include header-item();
          font-weight: 300;
       }
 
       h2 {
-         @extend .header-item;
+         @include header-item();
          font-weight: 700;
          text-transform: uppercase;
          letter-spacing: -2px;
       }
 
       .meta {
-         @extend .header-item;
+         @include header-item();
          font-family: $sans;
          font-weight: 700;
-         color: $text_light;
+         color: $background_darkened;
       }
    }
 
@@ -158,17 +147,41 @@ header#banner {
       text-align: center;
       width: 66.7%;
       margin: {
+         bottom: 2rem;
          left: auto;
          right: auto;
       }
+   }
+
+   @mixin list() {
+      margin-left: 1rem;
+   }
+
+   ul {
+      @include list();
+   }
+
+   ol {
+      @include list();
    }
 }
 
 .archive article {
    padding-bottom: 2em;
 
+   @mixin flex-container() {
+      @include flexbox();
+      @include justify-content(space-around);
+      @include align-items(flex-start);
+      @include flex-flow(row wrap);
+   }
+
+   @mixin flex-item() {
+      @include flex(1 18rem);
+   }
+
    header {
-      @extend .flex-container;
+      @include flex-container();
 
       line-height: $lh_small;
 
@@ -177,7 +190,7 @@ header#banner {
          text-decoration: none;
          color: #444;
 
-         @extend .flex-container;
+         @include flex-container();
 
          &:hover, &:active {
             color: $light_purple;
@@ -205,7 +218,7 @@ header#banner {
          margin: 0;
          padding-top: 0;
 
-         @extend .flex-item;
+         @include flex-item();
       }
 
       .meta {
