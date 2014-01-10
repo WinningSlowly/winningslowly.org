@@ -43,9 +43,6 @@ h6 {
 
 p, ul, ol {
    font-size: $fsp;
-}
-
-p {
    padding: {
       top: 0;
       bottom: $fsp;
@@ -55,6 +52,10 @@ p {
 a, a:visited {
    color: $light_blue;
    transition: all 0.347s;
+
+   &:hover, &:active {
+      color: $light_purple;
+   }
 }
 
 /* Layout */
@@ -111,7 +112,7 @@ header#banner {
 
 /* Podcast items */
 .post article {
-   padding-bottom: $lh_em;
+   padding-bottom: $fsh1*2;
 
    header {
       text-align: center;
@@ -153,16 +154,29 @@ header#banner {
       }
    }
 
-   @mixin list() {
-      margin-left: 1rem;
+   h3 {
+      text-align: center;
    }
 
-   ul {
-      @include list();
+   #download {
+      text-align: center;
    }
 
-   ol {
-      @include list();
+   #notes {
+      @mixin list() {
+         margin-left: 2rem;
+         padding-left: 1rem;
+      }
+
+      ul {
+         @include list();
+         list-style: circle;
+      }
+
+      ol {
+         @include list();
+         list-style: decimal-leading-zero;
+      }
    }
 }
 
@@ -191,10 +205,6 @@ header#banner {
          color: #444;
 
          @include flex-container();
-
-         &:hover, &:active {
-            color: $light_purple;
-         }
       }
 
       h1, h2 {
@@ -289,7 +299,7 @@ footer {
       }
 
       ul, ol {
-         margin-bottom: $lh_em;
+         padding-bottom: $lh_em;
       }
    }
 }
