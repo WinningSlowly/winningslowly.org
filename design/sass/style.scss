@@ -45,6 +45,11 @@ p, ul, ol {
    font-size: $fsp;
 }
 
+a, a:visited {
+   color: $light_blue;
+   transition: all 0.347s;
+}
+
 /* Layout */
 #wrapper {
    max-width: 44rem;
@@ -92,7 +97,7 @@ header#banner {
       }
 
       #winning {
-         color: $dark-orange;
+         color: $dark_orange;
          font-weight: 300;
          font-family: $slab;
          letter-spacing: 3px;
@@ -100,7 +105,7 @@ header#banner {
       }
 
       #slowly {
-         color: $light-orange;
+         color: $light_orange;
          font-size: $felt_multiplier_em;
          font-family: $felt;
          margin-top: -10px;
@@ -115,6 +120,7 @@ article {
 }
 
 .archive article {
+   padding-bottom: 2em;
 
    header {
       @extend .flex-container;
@@ -127,6 +133,10 @@ article {
          color: #444;
 
          @extend .flex-container;
+
+         &:hover, &:active {
+            color: $light_purple;
+         }
       }
 
       h1, h2 {
@@ -149,7 +159,6 @@ article {
          height: 4em;
          margin: 0;
          padding-top: 0;
-         padding-bottom: 2em;
 
          @extend .flex-item;
       }
@@ -171,20 +180,31 @@ article {
 
 footer {
    @include flexbox();
-   @include justify-content(center);
+   @include justify-content(space-around);
    @include align-items(flex-start);
    @include flex-flow(row wrap);
 
    background: $text;
    color: $background;
    font-size: 90%;
-   padding: {
-      top: $fsh5;
-      bottom: $fsh1;
-   };
+   text-align: center;
+   padding-top: $fsh5;
+
+   p {
+      text-align: left;
+      font-weight: 300;
+   }
+
+   a:hover, a:active,
+   a:visited:hover, a:visited:active {
+      color: $pale_purple;
+   }
 
    .footer_item {
-      width: 35%;
+      width: 40%;
+      max-width: 360px;
+      padding-bottom: $fsh1;
+
       margin: {
          right: 1%;
          left: 1%;
@@ -194,9 +214,9 @@ footer {
          font-size: $fsh3;
          font-weight: 300;
          letter-spacing: 1px;
-         color: $dark-orange;
-         text-shadow: 1px 1px 0 #585858;
-         border-bottom: 2px solid $light-orange;
+         color: $light_orange;
+         text-shadow: 1px 1px 1px $background_darkened;
+         border-bottom: 1px solid $background_darkened;
          margin-bottom: 1rem;
       }
 
