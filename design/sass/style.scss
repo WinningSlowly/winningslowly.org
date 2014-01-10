@@ -45,6 +45,13 @@ p, ul, ol {
    font-size: $fsp;
 }
 
+p {
+   padding: {
+      top: 0;
+      bottom: $fsp;
+   }
+}
+
 a, a:visited {
    color: $light_blue;
    transition: all 0.347s;
@@ -189,6 +196,10 @@ footer {
    font-size: 90%;
    text-align: center;
    padding-top: $fsh5;
+
+   section {
+      margin-bottom: $lh_em;
+   }
 
    p {
       text-align: left;
