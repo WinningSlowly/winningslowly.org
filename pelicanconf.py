@@ -39,9 +39,10 @@ USE_FOLDER_AS_CATEGORY = True  # note: this is the default
 DEFAULT_CATEGORY = 'episodes'
 
 # Disable unused elements
-CATEGORY_SAVE_AS = False
 AUTHOR_SAVE_AS = False
 AUTHORS_SAVE_AS = False
+CATEGORY_SAVE_AS = False
+TAGS_SAVE_AS = False
 
 # Metadata
 DEFAULT_METADATA = (('Author', ('Chris Krycho', 'Stephen Carradini')),)
