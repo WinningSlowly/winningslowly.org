@@ -111,35 +111,68 @@ header#banner {
 }
 
 /* Podcast items */
+article {
+   section {
+      width: 30em;
+      margin: {
+         left: auto;
+         right: auto;
+      }
+   }
+
+
+}
+
 .post article {
    padding-bottom: $fsh1*2;
 
+   @mixin header-item() {
+      margin-bottom: 1rem;
+   }
+
+   h1 {
+      @include header-item();
+      font-weight: 300;
+      font-size: $fsh2;
+   }
+
+   h2 {
+      @include header-item();
+      font-size: $fsh3;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: -1px;
+   }
+
+   h3 {
+      font-size: $fsh4;
+      border-bottom: 2px solid $light_blue;
+      width: 50%;
+      margin: {
+         bottom: 1rem;
+         left: auto;
+         right: auto;
+      }
+
+   }
+
+   h4 {
+      font-size: $fsh5;
+   }
+
    header {
       text-align: center;
-      padding-bottom: $lh_em;
       line-height: 1;
 
-      @mixin header-item() {
-         margin-bottom: 1rem;
-      }
-
-      h1 {
-         @include header-item();
-         font-weight: 300;
-      }
-
-      h2 {
-         @include header-item();
-         font-weight: 700;
-         text-transform: uppercase;
-         letter-spacing: -2px;
-      }
-
       .meta {
-         @include header-item();
          font-family: $sans;
          font-weight: 700;
          color: $background_darkened;
+
+         ul, li {
+            display: inline-block;
+            padding-bottom: 0;
+         }
       }
    }
 
@@ -148,7 +181,8 @@ header#banner {
       text-align: center;
       width: 66.7%;
       margin: {
-         bottom: 2rem;
+         top: $fsh2;
+         bottom: $fsh3;
          left: auto;
          right: auto;
       }
