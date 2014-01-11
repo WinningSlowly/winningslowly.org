@@ -1,3 +1,6 @@
+- Google+ emailing your email address. Creeptastic.
+    + <http://arstechnica.com/business/2014/01/google-comes-up-with-a-new-way-to-infiltrate-the-gmail-inbox/>
+    + <http://gmailblog.blogspot.com/2014/01/reach-people-you-know-more-easily.html>
 - ["The Year the Stream Crested", _The Atlantic_](http://www.theatlantic.com/technology/archive/2013/12/2013-the-year-the-stream-crested/282202/)
 
     > *It is too damn hard to keep up. And most of what's out there is crap.*
