@@ -71,6 +71,10 @@ header#banner {
    padding-bottom: $fsh5;
    text-shadow: 1px 1px 1px #DDD;
 
+   a {
+      color: transparent;
+   }
+
    h1 {
       text-align: center;
 
