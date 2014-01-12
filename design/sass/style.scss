@@ -178,6 +178,19 @@ article {
             display: inline-block;
             padding-bottom: 0;
          }
+
+         li:after {
+            content: "\25E6";
+            font-size: $fs_small;
+            padding: {
+               left: 1px;
+               right: 1px;
+            }
+         }
+
+         li:last-child:after {
+            content: none;
+         }
       }
    }
 
