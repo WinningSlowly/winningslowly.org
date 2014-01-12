@@ -311,7 +311,8 @@ footer {
    color: $background;
    font-size: 90%;
    text-align: center;
-   padding-top: $fsh5;
+   padding-top: $fsh3;
+   line-height: $lh_small;
 
    section {
       margin-bottom: $lh_em;
@@ -345,6 +346,7 @@ footer {
          font-size: $fsh6;
          font-style: italic;
          font-weight: 400;
+         padding-bottom: 0.444rem;
       }
 
       ul, ol {
