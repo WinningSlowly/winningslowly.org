@@ -69,6 +69,9 @@ EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
                        'extra/favicon.ico': {'path': 'favicon.ico'},
                        'extra/favicon.png': {'path': 'favicon.png'},}
 
+# Custom 404 page
+TEMPLATE_PAGES = {'extra/404.html': '404.html'}
+
 # Static configuration
 THEME_STATIC_DIR = 'assets'
 CSS_FILE = 'min.css'
