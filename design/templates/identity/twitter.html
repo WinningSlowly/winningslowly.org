@@ -1,7 +1,6 @@
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@winningslowly" />
-<meta name="twitter:creator" content="@chriskrycho" />
-<meta name="twitter:creator" content="@scarradini" />
+<meta name="twitter:creator" content="@winningslowly" />
 {% if article is defined %}
    <meta name="twitter:title" content="{{ article.title }}" />
    <meta name="twitter:description" content="{{ article.summary }}" />
@@ -9,5 +8,5 @@
 {% else %}
    <meta name="twitter:title" content="{{ SITENAME }}" />
    <meta name="twitter:description" content="{{ SITE_DESCRIPTION }}" />
-{#   <meta name="twitter:image" content="{{  }}" />#}
+   <meta name="twitter:image" content="{{ LOGO }}" />
 {% endif %}
