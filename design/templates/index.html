@@ -1,4 +1,18 @@
 {% extends "base.html" %}
-{% block content %}
 
+{% block content %}
+{% if articles %}
+
+{% elif pages %}
+
+{% else %}
+   <article>
+      <header>
+         <div class="title">
+            <h1>Hang on&hellip;</h1>
+            <h2>We're not live yet!</h2>
+         </div>
+      </header>
+   </article>
+{% endif %}
 {% endblock content %}
