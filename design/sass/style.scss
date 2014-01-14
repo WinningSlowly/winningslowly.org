@@ -128,7 +128,7 @@ article {
 
 }
 
-.post article {
+article {
    padding-bottom: $fsh1*2;
 
    @mixin header-item() {
@@ -250,6 +250,7 @@ article {
       @include flex-container();
 
       line-height: $lh_small;
+      text-align: left;
 
       a, a:visited {
          @include flex-container();
@@ -282,6 +283,7 @@ article {
          height: 4em;
          margin: 0;
          padding-top: 0;
+         color: $text;
 
          @include flex-item();
       }
