@@ -13,9 +13,6 @@ from pelicanconf import *
 SITEURL = 'http://winningslowly.org'
 RELATIVE_URLS = False
 
-# RSS Feed
-FEED_ALL_RSS = 'feed.xml'
-
 DELETE_OUTPUT_DIRECTORY = True
 
 #GOOGLE_ANALYTICS = ""
