@@ -13,13 +13,10 @@
    {% include "identity/google.html" %}
    {% include "identity/twitter.html" %}
 
-   <link href="{{ SITEURL }}/{{ THEME_STATIC_URL }}/css/{{ CSS_FILE }}" type="text/css" rel="stylesheet" />
+   <link href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/{{ CSS_FILE }}" type="text/css" rel="stylesheet" />
 
-   {% if FEED_ALL_ATOM %}
-      <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed" />
-   {% endif %}
-   {% if FEED_ALL_RSS %}
-      <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
+   {% if CUSTOM_FEED_URL %}
+      <link href="{{ FEED_DOMAIN }}/{{ CUSTOM_FEED_URL }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
    {% endif %}
 
    <link href="{{ SITEURL }}/favicon.png" type="image/png" rel="icon" />
