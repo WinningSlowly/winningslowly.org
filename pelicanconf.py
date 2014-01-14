@@ -12,6 +12,8 @@ TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = 'en'
 
+THEME = "design"
+
 # Feed generation is usually not desired when developing
 FEED_DOMAIN = SITEURL
 FEED_ALL_ATOM = None
@@ -20,6 +22,7 @@ TRANSLATION_FEED_ATOM = None
 FEED_ALL_RSS = None
 CATEGORY_FEED_RSS = None
 TRANSLATION_FEED_RSS = None
+CUSTOM_FEED_URL = 'feed.xml'
 
 # Social widget
 IDENTITY = {'Site': {'App.net': 'https://app.net/winningslowly',
@@ -67,5 +70,5 @@ EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
                        'extra/favicon.png': {'path': 'favicon.png'},}
 
 # Static configuration
-THEME_STATIC_URL = 'static'
+THEME_STATIC_DIR = 'assets'
 CSS_FILE = 'min.css'
