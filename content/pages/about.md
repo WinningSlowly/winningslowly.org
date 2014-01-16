@@ -10,6 +10,6 @@ From crowdsourcing to twitter gaffes to superhero movies to genetics to social j
 
 Chris Krycho is a [seminarian] (http://www.sebts.edu/ "Southeastern Baptist Theological Seminary"), web designer, [writer] (http://chriskrycho.com "ChrisKrycho.com"), and classical composer. 
 
-Stephen Carradini is a [digital media scholar] (http://crdm.chass.ncsu.edu/students "Communication, Rhetoric, and Digital Media program, North Carolina State University), [writer] (http://independentclauses.com "Independent Clauses music blog"), [editor] (http://stephencarradini.com "StephenCarradini.com"), and [songwriter] (http://themidnightsons.bandcamp.com "The Midnight Sons"). 
+Stephen Carradini is a [digital media scholar] (http://crdm.chass.ncsu.edu/students "Communication, Rhetoric, and Digital Media program, North Carolina State University"), [writer] (http://independentclauses.com "Independent Clauses music blog"), [editor] (http://stephencarradini.com "StephenCarradini.com"), and [songwriter] (http://themidnightsons.bandcamp.com "The Midnight Sons"). 
 
 They both reside in North Carolina.
