@@ -53,9 +53,11 @@ a, a:visited {
    color: $light_purple;
    transition: all 0.347s;
    text-decoration: none;
+   border-bottom: 1px solid transparent;
 
    &:hover, &:active {
       color: $light_blue;
+      border-bottom: 1px solid $background_darkened;
    }
 }
 
@@ -258,8 +260,21 @@ article {
          width: 100%;
          color: #444;
 
+         border: {
+            top: none;
+            left: 1px solid transparent;
+            bottom: none;
+            right: 1px solid transparent;
+         }
+
          &:hover, &:active {
             color: $light_purple;
+            border: {
+               top: none;
+               left: 8px solid $light_purple;
+               bottom: none;
+               right: 8px solid $light_purple;
+            }
          }
       }
 
@@ -314,7 +329,6 @@ footer {
    font-size: 90%;
    text-align: center;
    padding-top: $fsh3;
-   line-height: $lh_small;
 
    section {
       margin-bottom: $lh_em;
@@ -326,7 +340,7 @@ footer {
    }
 
    a, a:visited{
-      color: $pale_purple
+      color: $pale_purple;
    }
 
    .footer_item {
@@ -355,11 +369,10 @@ footer {
          padding-bottom: $lh_em;
       }
 
-      ul li:before {
+      a i.fa {
          display: inline-block;
-         content: "\25E6";
-         padding-right: 0.5em;
-         font-size: $fs_small;
+         padding-right: 7px;
+         color: white;
       }
    }
 }
