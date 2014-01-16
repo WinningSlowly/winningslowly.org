@@ -5,8 +5,8 @@ Author: Chris Krycho
 Date: 2014-01-13
 Summary: Some things are awesome. This post might even be one of them someday…
     after it ceases to exist by being removed when we go live.
-M4A: https://soundcloud.com/chriskrycho/single-movement-for-clarinet
-MP3: https://soundcloud.com/chriskrycho/single-movement-for-clarinet
+M4A: //soundcloud.com/chriskrycho/single-movement-for-clarinet
+MP3: //soundcloud.com/chriskrycho/single-movement-for-clarinet
 Tags: tasty pie
 
 Some day, this "post" will vanish. Entirely. In the meantime, though, it has a

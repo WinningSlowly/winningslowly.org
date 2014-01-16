@@ -25,15 +25,17 @@ TRANSLATION_FEED_RSS = None
 CUSTOM_FEED_URL = 'feed.xml'
 
 # Social widget
-IDENTITY = {'Site': {'App.net': 'https://app.net/winningslowly',
-                     'App.net Broadcast': 'https://broadcast.app.net/40022/winning-slowly-episodes/',
-                     'Twitter': 'https://twitter.com/winningslowly',
-                     'Google+': 'https://plus.google.com/+WinningslowlyOrgCast',},
-            'Chris': {'App.net': 'https://app.net/chriskrycho',
-                      'Twitter': 'https://twitter.com/chriskrycho',
-                      'Homepage': 'http://chriskrycho.com',},
-            'Stephen': {'Twitter': 'https://twitter.com/scarradini',
-                        'Homepage': 'http://stephencarradini.com',},}
+IDENTITY = {'Site': {'RSS': FEED_DOMAIN + '/' + CUSTOM_FEED_URL,
+                     'iTunes': '',
+                     'App.net': '//app.net/winningslowly',
+                     'App.net Broadcast': '//broadcast.app.net/40022/winning-slowly-episodes/',
+                     'Twitter': '//twitter.com/winningslowly',
+                     'Google+': '//plus.google.com/+WinningslowlyOrgCast',},
+            'Chris': {'App.net': '//app.net/chriskrycho',
+                      'Twitter': '//twitter.com/chriskrycho',
+                      'Homepage': '//chriskrycho.com',},
+            'Stephen': {'Twitter': '//twitter.com/scarradini',
+                        'Homepage': '//stephencarradini.com',},}
 
 DEFAULT_PAGINATION = 10
 
