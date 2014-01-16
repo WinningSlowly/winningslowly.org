@@ -371,8 +371,15 @@ footer {
 
       a i.fa {
          display: inline-block;
-         padding-right: 7px;
+         padding-right: 5px;
          color: white;
+      }
+   }
+
+   #social-wrapper {
+      ul {
+         text-align: left;
+         padding-left: 8.889em;
       }
    }
 }
