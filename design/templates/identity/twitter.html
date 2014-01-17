@@ -5,12 +5,12 @@
    <meta name="twitter:title" content="{{ article.title }}" />
    <meta name="twitter:description" content="{{ article.summary }}" />
    {% if article.image is defined %}
-      <meta name="twitter:image" content="{{ PODCAST_LOGO }}" />
+      <meta name="twitter:image" content="{{ SITEURL }}/{{ PODCAST_LOGO }}" />
    {% else %}
-      <meta name="twitter:image" content="{{ PODCAST_LOGO }}" />
+      <meta name="twitter:image" content="{{ SITEURL }}/{{ PODCAST_LOGO }}" />
    {% endif %}
 {% else %}
    <meta name="twitter:title" content="{{ SITENAME }}" />
    <meta name="twitter:description" content="{{ SITE_DESCRIPTION }}" />
-   <meta name="twitter:image" content="{{ LOGO }}" />
+   <meta name="twitter:image" content="{{ SITEURL }}/{{ LOGO }}" />
 {% endif %}
