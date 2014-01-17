@@ -8,13 +8,11 @@
    <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no" />
 
    {# Authorship #}
-   {% include "identity/app.net.html" %}
-   {% include "identity/facebook.html" %}
-   {% include "identity/google.html" %}
+   {% include "identity/common.html" %}
    {% include "identity/twitter.html" %}
 
    <link href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/{{ CSS_FILE }}" type="text/css" rel="stylesheet" />
-   <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet" />
+   <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet" />
 
    {% if CUSTOM_FEED_URL %}
       <link href="{{ FEED_DOMAIN }}/{{ CUSTOM_FEED_URL }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
@@ -46,9 +44,12 @@
    <div id="wrapper">
       <header id="banner">
          <h1>
-            <span id="logo"><img src="{{ THEME_STATIC_DIR }}/images/winning-slowly_circle.png" /></span>
-            <span id="winning">Winning</span>
-            <span id="slowly">Slowly</span></h1>
+            <a href="{{ SITEURL }}">
+               <span id="logo"><img src="{{ THEME_STATIC_DIR }}/images/winning-slowly_circle.png" /></span>
+               <span id="winning">Winning</span>
+               <span id="slowly">Slowly</span>
+            </a>
+         </h1>
       </header>
 
       {% block content %}{% endblock %}
