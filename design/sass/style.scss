@@ -151,6 +151,7 @@ article {
       @include header-item();
       font-size: $fsh3;
       font-weight: 700;
+      border-bottom: 1px solid $background_darkened;
    }
 
    h3 {
@@ -176,6 +177,7 @@ article {
       h2 {
          text-transform: uppercase;
          letter-spacing: -1px;
+         border-bottom: none;
       }
 
       .meta {
