@@ -2,5 +2,12 @@
 {% block content %}
    <article>
       {% include "includes/item-header.html" %}
+
+      <audio title="{{ article.title }}" controls="controls" preload="metadata">
+         <source src="{{ article.m4a }}" />
+         <source src="{{ article.mp3 }}" />
+      </audio>
+
+      {{ article.content }}
    </article>
 {% endblock content %}

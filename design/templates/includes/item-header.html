@@ -8,6 +8,8 @@
    {% set item = page %}
 {% endif %}
 
+
+{% if item is defined %}
 <header>
    <div class="title">
       <h1>{{ item.title }}</h1>
@@ -39,3 +41,4 @@
    {% endif %}
    </div>
 </header>
+{% endif %}
