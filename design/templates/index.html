@@ -1,8 +1,22 @@
 {% extends "base.html" %}
 
+{% block body_el %}<body class="archive">{% endblock %}
+
 {% block content %}
 {% if articles %}
-
+   {% for article in articles %}
+      <article>
+         <header>
+            <a href="{{ article.url }}">
+               <div class="title">
+                  <h1>{{ article.title }}</h1>
+                  <h2>{{ article.subtitle }}</h2>
+               </div>
+               <div class="meta">{{ article.date }}</div>
+            </a>
+         </header>
+      </article>
+   {% endfor %}
 {% else %}
    {% include "includes/404-content.html" %}
 {% endif %}
