@@ -7,7 +7,7 @@ SITENAME = 'Winning Slowly'
 SITE_DESCRIPTION = 'Culture, art, religion, and ethics—from the long view.'
 SITEURL = ''
 LOGO = '/static/images/winning-slowly_circle.png'
-PODCAST_LOGO = 'static/images/winning-slowly_podcast.png'
+PODCAST_LOGO = 'static/images/winning-slowly_podcast_small.png'
 
 TIMEZONE = 'America/New_York'
 
@@ -41,9 +41,16 @@ IDENTITY = {'Site': {'RSS': FEED_DOMAIN + '/' + CUSTOM_FEED_URL,
 
 DEFAULT_PAGINATION = 10
 
+# URLs
+ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}/'
+ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}/index.html'
+PAGE_URL = '{slug}/'
+PAGE_SAVE_AS = '{slug}/index.html'
+
 # Category settings
 USE_FOLDER_AS_CATEGORY = True  # note: this is the default
 DEFAULT_CATEGORY = 'episodes'
+DIRECT_TEMPLATES = ('index', 'tags', 'archives')
 
 # Disable unused elements
 AUTHOR_SAVE_AS = False
