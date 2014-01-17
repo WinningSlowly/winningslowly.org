@@ -4,7 +4,11 @@
 {% if article is defined %}
    <meta name="twitter:title" content="{{ article.title }}" />
    <meta name="twitter:description" content="{{ article.summary }}" />
-{#   <meta name="twitter:image" content="{{  }}" />#}
+   {% if article.image is defined %}
+      <meta name="twitter:image" content="{{ PODCAST_LOGO }}" />
+   {% else %}
+      <meta name="twitter:image" content="{{ PODCAST_LOGO }}" />
+   {% endif %}
 {% else %}
    <meta name="twitter:title" content="{{ SITENAME }}" />
    <meta name="twitter:description" content="{{ SITE_DESCRIPTION }}" />

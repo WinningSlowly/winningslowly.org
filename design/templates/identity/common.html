@@ -2,7 +2,11 @@
    <meta property="og:url" content="{{ article.url }}" />
    <meta property="og:title" content="{{ article.title }}" />
    <meta property="og:description" content="{{ article.description }}" />
-{#   <meta property="og:image" content="{{  }}" />#}
+   {% if article.image is defined %}
+      <meta name="twitter:image" content="{{ PODCAST_LOGO }}" />
+   {% else %}
+      <meta name="twitter:image" content="{{ PODCAST_LOGO }}" />
+   {% endif %}
    {% if article.podcast_url is defined %}
       <meta property="og:audio" content="{{ article.podcast_url }}"/>
       <meta property="og:audio:type" content="audio/aac" />
