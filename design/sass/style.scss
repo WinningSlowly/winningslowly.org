@@ -244,6 +244,7 @@ article {
 }
 
 .archive article {
+   min-height: 4em;
    padding-bottom: 2em;
 
    @mixin flex-container() {
@@ -304,7 +305,6 @@ article {
       }
 
       .meta, .title {
-         height: 4em;
          margin: 0;
          padding-top: 0;
          color: $text;
