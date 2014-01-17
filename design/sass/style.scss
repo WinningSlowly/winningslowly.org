@@ -76,6 +76,10 @@ header#banner {
 
    a {
       color: transparent;
+
+      &:link, &:visited, &:hover, &:active {
+         border-bottom: none;
+      }
    }
 
    h1 {
