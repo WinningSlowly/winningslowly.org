@@ -151,8 +151,6 @@ article {
       @include header-item();
       font-size: $fsh3;
       font-weight: 700;
-      text-transform: uppercase;
-      letter-spacing: -1px;
    }
 
    h3 {
@@ -174,6 +172,11 @@ article {
    header {
       text-align: center;
       line-height: 1;
+
+      h2 {
+         text-transform: uppercase;
+         letter-spacing: -1px;
+      }
 
       .meta {
          font-family: $sans;
