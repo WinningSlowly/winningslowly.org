@@ -3,6 +3,9 @@
 {% block content %}
    <article>
       {% include "includes/item-header.html" %}
-      {{ page.content }}
+
+      <section id="content">
+         {{ page.content }}
+      </section>
    </article>
 {% endblock content %}
