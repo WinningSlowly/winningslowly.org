@@ -6,7 +6,7 @@ AUTHOR = 'Chris Krycho', 'Stephen Carradini'
 SITENAME = 'Winning Slowly'
 SITE_DESCRIPTION = 'Culture, art, religion, and ethics—from the long view.'
 SITEURL = ''
-LOGO = '/static/images/winning-slowly_circle.png'
+LOGO = 'static/images/winning-slowly_circle.png'
 PODCAST_LOGO = 'static/images/winning-slowly_podcast_small.png'
 
 TIMEZONE = 'America/New_York'
