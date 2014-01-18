@@ -77,10 +77,12 @@ RELATIVE_URLS = True
 # Path configuration
 STATIC_PATHS = ['extra/CNAME',
                 'extra/favicon.ico',
-                'extra/favicon.png',]
+                'extra/favicon.png',
+                'extra/feed.xml',]
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
                        'extra/favicon.ico': {'path': 'favicon.ico'},
-                       'extra/favicon.png': {'path': 'favicon.png'},}
+                       'extra/favicon.png': {'path': 'favicon.png'},
+                       'extra/feed.xml': {'path': CUSTOM_FEED_URL}}
 
 # Custom 404 page
 # TEMPLATE_PAGES = {'extra/404.html': '404.html'}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Winning Slowly</title>
+        <link>http://winningslowly.org/</link>
+        <description>A forum for two interdisciplinary thinkers to discuss the long view of current trends in technology, religion, art, ethics, and culture. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
+        <generator>Feeder 2.4.5(1806); Mac OS X Version 10.9.1 (Build 13B42) http://reinventedsoftware.com/feeder/</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <language>en</language>
+        <pubDate>Fri, 17 Jan 2014 22:44:28 -0500</pubDate>
+        <lastBuildDate>Fri, 17 Jan 2014 22:44:28 -0500</lastBuildDate>
+        <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
+        <itunes:image href="http://winningslowly.org/Winning-Slowly_podcast.png"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:owner>
+            <itunes:name>Chris Krycho</itunes:name>
+            <itunes:email>chris@winningslowly.org</itunes:email>
+        </itunes:owner>
+        <itunes:block>no</itunes:block>
+        <itunes:category text="Society &amp; Culture"/>
+        <itunes:category text="Technology"/>
+        <itunes:category text="Religion &amp; Spirituality"/>
+    </channel>
+</rss>
