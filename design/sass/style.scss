@@ -127,8 +127,8 @@ header#banner {
 
       #logo {
          img {
-            height: $fsh6;
-            width: $fsh6;
+            height: $fs_large;
+            width: $fs_large;
             vertical-align: middle;
             margin-top: -10px;
          }
@@ -180,20 +180,15 @@ article {
    h1 {
       @include header-item();
       font-weight: 300;
-      font-size: $fsh2;
    }
 
    h2 {
       @include header-item();
-      font-size: $fsh3;
       font-weight: 700;
       border-bottom: 1px solid $background_darkened;
    }
 
    h3 {
-      font-size: $fsh4;
-      border-bottom: 1px solid $background_darkened;
-      width: 50%;
       margin: {
          bottom: 1rem;
          left: auto;
@@ -202,18 +197,32 @@ article {
 
    }
 
-   h4 {
-      font-size: $fsh5;
-   }
-
    header {
       text-align: center;
       line-height: 1;
 
-      h2 {
-         text-transform: uppercase;
-         letter-spacing: -1px;
-         border-bottom: none;
+      h1 {
+         #episode-num, #episode-title {
+            display: block;
+         }
+
+         #episode-num {
+            margin-bottom: 1rem;
+         }
+
+         #episode-title {
+            font: {
+               size: $fsh2;
+               weight: 700;
+            }
+            text-transform: uppercase;
+            letter-spacing: -1px;
+            border-bottom: none;
+         }
+      }
+
+      .subtitle {
+         font-size: $fsh5;
       }
 
       .meta {

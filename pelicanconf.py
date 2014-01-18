@@ -69,6 +69,8 @@ OUTPUT_SOURCES_EXTENSION = ".txt"
 MD_EXTENSIONS = ['extra', 'toc']
 TYPOGRIFY = True
 
+DEFAULT_DATE_FORMAT = "%B %d, %Y"
+
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
