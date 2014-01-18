@@ -23,7 +23,9 @@
    </div>
    {% if item.date is defined or item.tags is defined or item.m4a is defined or item.mp3 is defined %}
    <ul class="meta">
-      {% if item.date is defined %}<li id="date">{{ item.locale_date }}</li>{% endif %}
+      {% if item.date is defined %}<li id="date">
+         {{ item.locale_date }}
+      </li>{% endif %}
 
       {% if item.tags is defined %}
       <li id="topics">
