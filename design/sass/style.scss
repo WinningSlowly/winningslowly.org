@@ -401,9 +401,12 @@ footer {
 
    background: $text;
    color: $background;
-   font-size: 90%;
    text-align: center;
    padding-top: $fsh3;
+
+   p, ul, ol, h1, h2, h3, h4, h5, h6 {
+      font-size: 90%;
+   }
 
    p {
       text-align: left;
@@ -451,6 +454,7 @@ footer {
       ul {
          text-align: left;
          padding-left: 8.889em;
+         list-style: none;
       }
    }
 }
