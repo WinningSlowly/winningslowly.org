@@ -21,30 +21,25 @@
       </h1>
       {% if item.subtitle %}<p class="subtitle">{{ item.subtitle }}</p>{% endif %}
    </div>
-   <div class="meta">
    {% if item.date is defined or item.tags is defined or item.m4a is defined or item.mp3 is defined %}
-      <ul>
-         {% if item.date %}<li id="date">{{ item.locale_date }}</li>{% endif %}
+   <ul class="meta">
+      {% if item.date is defined %}<li id="date">{{ item.locale_date }}</li>{% endif %}
 
-         {% if item.tags is defined %}
-         <li id="topics">
-            Topics:
-            {% for tag in item.tags %}
-               <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>{% if not loop.last %},{% endif %}
-            {% endfor %}
-         </li>
-         {% endif %}
+      {% if item.tags is defined %}
+      <li id="topics">
+         Topics: {% for tag in item.tags %}<a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>{% if not loop.last %}, {% endif %}{% endfor %}
+      </li>
+      {% endif %}
 
-         {% if item.m4a is defined or item.mp3 is defined %}
-         <li id="download">
-            Download:
-               {% if item.m4a %}<a href="{{ item.m4a }}" download="test.m4a">M4A</a> (for iTunes){% endif %}
-               {% if item.m4a and item.mp3 %} or {% endif %}
-               {% if item.mp3 %}<a href="audio_assets/test.mp3" download="test.mp3">MP3</a>{% endif %}
-         </li>
-         {% endif %}
-      </ul>
+      {% if item.m4a is defined or item.mp3 is defined %}
+      <li id="download">
+         Download:
+            {% if item.m4a %}<a href="{{ item.m4a }}" download="test.m4a">M4A</a> (for iTunes){% endif %}
+            {% if item.m4a and item.mp3 %} or {% endif %}
+            {% if item.mp3 %}<a href="audio_assets/test.mp3" download="test.mp3">MP3</a>{% endif %}
+      </li>
+      {% endif %}
+   </ul>
    {% endif %}
-   </div>
 </header>
 {% endif %}
