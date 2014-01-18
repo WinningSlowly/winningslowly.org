@@ -66,7 +66,7 @@ OUTPUT_SOURCES = True
 OUTPUT_SOURCES_EXTENSION = ".txt"
 
 # Markdown settings
-MD_EXTENSIONS = ['extra', 'toc', 'headerid']
+MD_EXTENSIONS = ['extra', 'toc']
 TYPOGRIFY = True
 
 # Uncomment following line if you want document-relative URLs when developing
