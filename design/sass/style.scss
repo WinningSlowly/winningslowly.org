@@ -33,7 +33,7 @@ h4 {
    font-size: $fsh4;
 }
 
-h5, blockquote, blockquote p {
+h5 {
    font-size: $fsh5;
 }
 
@@ -47,6 +47,26 @@ p, ul, ol {
       top: 0;
       bottom: $fsp;
    }
+}
+
+blockquote {
+   font: {
+      size: $fsp;
+      style: italic;
+   }
+   margin: 0.5em 0;
+   padding: 0 1em;
+   border-left: 2px solid $pale_purple;
+   color: $background_darkened;
+
+}
+
+blockquote p:last-child {
+   padding-bottom: 0;
+}
+
+li blockquote {
+   margin-bottom: 1.5rem;
 }
 
 ul {
