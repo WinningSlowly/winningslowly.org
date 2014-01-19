@@ -261,6 +261,8 @@ article {
       ul.meta {
          line-height: $lh_small;
          display: inline-block;
+         padding-bottom: 0;
+         margin-bottom: 0;
          li {
             display: inline-block;
          }
@@ -306,7 +308,7 @@ article {
 
    #notes {
       @mixin list() {
-         margin-left: 2rem;
+         margin-left: 0.5rem;
          padding-left: 1rem;
       }
 
@@ -340,7 +342,6 @@ article {
    header {
       @include flex-container();
 
-      line-height: $lh_small;
       text-align: left;
 
       a, a:visited {
@@ -371,6 +372,7 @@ article {
          margin: 0;
          padding-top: 0;
          color: $text;
+         line-height: $lh_small;
 
          @include flex-item();
          font: {
