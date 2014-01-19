@@ -361,40 +361,53 @@ article {
          }
       }
 
-      h1, h2 {
-         font-size: $fsp;
-         margin: {
-            top: 0;
-            bottom: 0;
-         }
-         padding: {
-            top: 0;
-            bottom: 0;
-         }
-      }
-
-      h2 {
-         font-weight: 300;
-      }
-
-      .meta, .title {
+      .title, .meta {
          margin: 0;
          padding-top: 0;
          color: $text;
 
          @include flex-item();
+         font: {
+            size: $fsp;
+            weight: 300;
+         }
+
+         span {
+            display: block;
+            margin: {
+               top: 0;
+               bottom: 0;
+            }
+            padding: {
+               top: 0;
+               bottom: 0;
+            }
+         }
       }
 
       .meta {
          font-family: $sans;
-         font-weight: 300;
-         font-style: italic;
-         padding-left: 0.243rem;
+         padding: {
+            top: 1px;
+            left: 0.243rem;
+         }
+
+         #episode-date {
+            font-style: italic;
+         }
       }
 
       .title {
+         font: {
+            family: $slab;
+            weight: 500;
+         }
          text-align: right;
          padding-right: 0.243rem;
+
+         #episode-title {
+            text-transform: uppercase;
+         }
       }
 
    }
