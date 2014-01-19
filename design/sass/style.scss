@@ -60,6 +60,9 @@ blockquote {
    border-left: 2px solid $pale_purple;
    color: $background_darkened;
 
+   em {
+      font-style: normal;
+   }
 }
 
 blockquote p:last-child {
@@ -220,30 +223,32 @@ article {
 
    header {
       text-align: center;
-      line-height: 1;
-
-      h1 {
-         #episode-num, #episode-title {
-            display: block;
-         }
-
-         #episode-num {
-            margin-bottom: 1rem;
-         }
-
-         #episode-title {
-            font: {
-               size: $fsh2;
-               weight: 700;
+      .title {
+         line-height: 0.9;
+         h1 {
+            #episode-num, #episode-title {
+               display: block;
             }
-            text-transform: uppercase;
-            letter-spacing: -1px;
-            border-bottom: none;
-         }
-      }
 
-      .subtitle {
-         font-size: $fsh5;
+            #episode-num {
+               margin-bottom: 1rem;
+            }
+
+            #episode-title {
+               font: {
+                  size: $fsh2;
+                  weight: 700;
+               }
+               text-transform: uppercase;
+               letter-spacing: -1px;
+               border-bottom: none;
+            }
+         }
+
+         #episode-subtitle {
+            font-size: $fsh5;
+            padding-bottom: 0;
+         }
       }
 
       .meta {
@@ -254,6 +259,7 @@ article {
       }
 
       ul.meta {
+         line-height: $lh_small;
          display: inline-block;
          li {
             display: inline-block;
