@@ -19,11 +19,11 @@
          {{ item.title }}
       {% endif %}
       </h1>
-      {% if item.subtitle %}<p class="subtitle">{{ item.subtitle }}</p>{% endif %}
+      {% if item.subtitle %}<p id="episode-subtitle">{{ item.subtitle }}</p>{% endif %}
    </div>
    {% if item.date is defined or item.tags is defined or item.m4a is defined or item.mp3 is defined %}
    <ul class="meta">
-      {% if item.date is defined %}<li id="date">
+      {% if item.date is defined %}<li id="episode-date">
          {{ item.locale_date }}
       </li>{% endif %}
 

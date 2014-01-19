@@ -43,3 +43,15 @@ table {
    border-collapse: collapse;
    border-spacing: 0;
 }
+em {
+   font-style: italic;
+   em {
+      text-decoration: underline;
+   }
+}
+strong {
+   font-weight: bold;
+   strong {
+      text-decoration: underline;
+   }
+}
