@@ -1,5 +1,6 @@
-Title: Episode -01
-Subtitle: The Podcast Before Time
+Number: &minus;01
+Title: The Podcast Before Time
+Subtitle: This one comes <em>before</em> the beginning.
 Author: Chris Krycho, Stephen Carradini
 Date: 2014-01-13
 Summary: Some things are awesome. This post might even be one of them someday…
