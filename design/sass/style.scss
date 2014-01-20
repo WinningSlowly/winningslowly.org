@@ -187,18 +187,6 @@ header#banner {
 
 /* Podcast items */
 article {
-   section {
-      width: 30em;
-      margin: {
-         left: auto;
-         right: auto;
-      }
-   }
-
-
-}
-
-article {
    padding-bottom: $fsh1*2;
 
    @mixin header-item() {
@@ -326,6 +314,14 @@ article {
       ol {
          @include list();
          list-style: decimal-leading-zero;
+      }
+   }
+
+   section {
+      width: 30em;
+      margin: {
+         left: auto;
+         right: auto;
       }
    }
 }
