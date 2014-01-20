@@ -115,7 +115,7 @@ Legalese
        granted official status by, the Licensor or others designated to receive
        attribution as provided in Section 3(a)(1)(A)(i).
 
-2. **Other rights**. 
+2. **Other rights**.
 
     1. Moral rights, such as the right of integrity, are not licensed under this
        Public License, nor are publicity, privacy, and/or other similar
