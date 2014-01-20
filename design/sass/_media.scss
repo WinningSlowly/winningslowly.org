@@ -15,6 +15,25 @@
          width: 90%;
       }
    }
+
+   .archive article header {
+      .title, .meta {
+         @include flex(1 95%);
+         text-align: center;
+         padding: {
+            right: 0;
+            left: 0;
+         }
+      }
+
+      .title {
+         @include order(1);
+      }
+
+      .meta {
+         @include order(2);
+      }
+   }
 }
 
 @media only screen and (max-width: 580px) {
@@ -51,21 +70,6 @@
          margin-bottom: 0.364em;
          padding-bottom: 0;
          @include order(1);
-      }
-   }
-
-   .archive article header {
-      .title, .meta {
-         @include flex(1 95%);
-         text-align: center;
-      }
-
-      .title {
-         @include order(1);
-      }
-
-      .meta {
-         @include order(2);
       }
    }
 
