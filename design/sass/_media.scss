@@ -1,7 +1,7 @@
 @import 'mixins';
 @import 'variables';
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 800px), only screen and (max-height: 800px) {
 
    header#banner {
       h1 {
@@ -57,7 +57,7 @@
    }
 }
 
-@media only screen and (max-width: 580px) {
+@media only screen and (max-width: 580px), only screen and (max-height: 580px) {
    html {
       font-size: 100%;
    }
@@ -92,7 +92,10 @@
 
    header#banner {
       font-size: $fsh1;
-      padding-top: $fsh5;
+      padding: {
+         top: $fsh5;
+         bottom: 0;
+      }
 
       h1 #logo img {
          height: $fsh1;
@@ -108,7 +111,7 @@
    article {
       width: 95%;
       margin: auto;
-      padding-bottom: $fsh3;
+      padding-bottom: $fsp;
 
       section, audio {
          width: 100%;
