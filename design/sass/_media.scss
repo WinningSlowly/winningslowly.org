@@ -92,9 +92,12 @@
 
    header#banner {
       font-size: $fsh1;
-      #logo img {
+      padding-top: $fsh5;
+
+      h1 #logo img {
          height: $fsh1;
          width: $fsh1;
+         margin-top: $fsp;
       }
    }
 
@@ -105,6 +108,7 @@
    article {
       width: 95%;
       margin: auto;
+      padding-bottom: $fsh3;
 
       section, audio {
          width: 100%;
