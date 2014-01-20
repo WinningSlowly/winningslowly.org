@@ -44,8 +44,8 @@ DEFAULT_PAGINATION = 10
 # URLs
 ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}/'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}/index.html'
-PAGE_URL = '{slug}/'
-PAGE_SAVE_AS = '{slug}/index.html'
+PAGE_URL = '{slug}'
+PAGE_SAVE_AS = '{slug}.html'
 
 # Category settings
 USE_FOLDER_AS_CATEGORY = True  # note: this is the default
@@ -66,7 +66,7 @@ OUTPUT_SOURCES = True
 OUTPUT_SOURCES_EXTENSION = ".txt"
 
 # Markdown settings
-MD_EXTENSIONS = ['extra', 'toc']
+MD_EXTENSIONS = ['extra']
 TYPOGRIFY = True
 
 DEFAULT_DATE_FORMAT = "%B %d, %Y"
