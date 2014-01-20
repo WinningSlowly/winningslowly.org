@@ -333,7 +333,7 @@ article {
    @mixin flex-container() {
       @include flexbox();
       @include justify-content(space-between);
-      @include align-items(flex-start);
+      @include align-content(flex-start);
       @include flex-flow(row wrap);
    }
 
@@ -426,7 +426,7 @@ article {
 footer {
    @include flexbox();
    @include justify-content(space-around);
-   @include align-items(flex-start);
+   @include align-content(flex-start);
    @include flex-flow(row wrap);
 
    background: $text;
