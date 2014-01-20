@@ -44,7 +44,7 @@ DEFAULT_PAGINATION = 10
 # URLs
 ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}/'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}/index.html'
-PAGE_URL = '{slug}'
+PAGE_URL = '{slug}.html'
 PAGE_SAVE_AS = '{slug}.html'
 
 # Category settings
