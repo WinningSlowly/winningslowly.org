@@ -1,11 +1,11 @@
 /* _mixins.scss */
 
 /* Flexbox */
-@mixin align-items($values) {
-   -webkit-align-items: $values;
-   -moz-align-items: $values;
-   -ms-align-items: $values;
-   align-items: $values;
+@mixin align-content($values) {
+   -webkit-align-content: $values;
+   -moz-align-content: $values;
+   -ms-align-content: $values;
+   align-content: $values;
 }
 
 @mixin flexbox() {
