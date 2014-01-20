@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'Chris Krycho', 'Stephen Carradini'
+AUTHOR = 'Chris Krycho and Stephen Carradini'
 SITENAME = 'Winning Slowly'
 SITE_DESCRIPTION = 'Culture, art, religion, and ethics—from the long view.'
 SITEURL = ''
@@ -57,9 +57,6 @@ AUTHOR_SAVE_AS = False
 AUTHORS_SAVE_AS = False
 CATEGORY_SAVE_AS = False
 TAGS_SAVE_AS = False
-
-# Metadata
-DEFAULT_METADATA = (('Author', ('Chris Krycho, Stephen Carradini')),)
 
 # Output
 OUTPUT_SOURCES = True

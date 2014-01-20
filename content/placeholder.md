@@ -1,7 +1,7 @@
 Number: &minus;01
 Title: The Podcast Before Time
 Subtitle: This one comes <em>before</em> the beginning.
-Author: Chris Krycho, Stephen Carradini
+Author: Chris Krycho and Stephen Carradini
 Date: 2014-01-13
 Summary: Some things are awesome. This post might even be one of them someday…
     after it ceases to exist by being removed when we go live.
