@@ -17,7 +17,7 @@
    }
 }
 
-@media only screen and (max-width: 540px) {
+@media only screen and (max-width: 580px) {
    .flex-item {
       @include flex(1 100%);
    }
