@@ -1,4 +1,5 @@
 @import 'mixins';
+@import 'variables';
 
 @media only screen and (max-width: 800px) {
 
@@ -61,13 +62,40 @@
       font-size: 100%;
    }
 
+   h1 {
+      font-size: $fsh2;
+   }
+
+   h2 {
+      font-size: $fsh3;
+   }
+
+   h3 {
+      font-size: $fsh4;
+   }
+
+   h4 {
+      font-size: $fsh5;
+   }
+
+   h5 {
+      font-size: $fsh6;
+   }
+
+   h6 {
+      font-size: $fsp;
+   }
+
    .flex-item {
       @include flex(1 100%);
    }
 
-   header#banner #logo img {
-      height: $fsh1;
-      width: $fsh1;
+   header#banner {
+      font-size: $fsh1;
+      #logo img {
+         height: $fsh1;
+         width: $fsh1;
+      }
    }
 
    #winning, #slowly {
@@ -77,16 +105,23 @@
    article {
       width: 95%;
       margin: auto;
+
       section, audio {
          width: 100%;
       }
-      .title {
-         text-align: center;
-         padding-left: 1em;
-         padding-right: 1em;
-         @include order(2);
-      }
 
+      header {
+         .title {
+            text-align: center;
+            padding-left: 1em;
+            padding-right: 1em;
+            @include order(2);
+
+            h1 #episode-title {
+               font-size: $fsh3;
+            }
+         }
+      }
       .meta {
          text-align: center;
          padding-right: 1em;
