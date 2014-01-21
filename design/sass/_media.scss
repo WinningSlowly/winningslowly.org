@@ -1,9 +1,10 @@
 @import 'mixins';
 @import 'variables';
 
-@media only screen and (max-width: 800px), only screen and (max-height: 800px) {
+@media only screen and (max-width: 800px) {
 
    header#banner {
+      padding-bottom: 0;
       h1 {
          a, a:visited {
             @include flexbox();
@@ -57,7 +58,7 @@
    }
 }
 
-@media only screen and (max-width: 580px), only screen and (max-height: 580px) {
+@media only screen and (max-width: 580px), only screen and (max-height: 400px) {
    html {
       font-size: 100%;
    }
