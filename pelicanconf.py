@@ -27,7 +27,7 @@ CUSTOM_FEED_URL = 'feed.xml'
 
 # Social widget
 IDENTITY = {'Site': {'RSS': FEED_DOMAIN + '/' + CUSTOM_FEED_URL,
-                     'iTunes': '',
+                     'iTunes': 'itpc://www.winningslowly.org/feed.xml',
                      'App.net': '//app.net/winningslowly',
                      'App.net Broadcast': '//broadcast.app.net/40022/winning-slowly-episodes/',
                      'Twitter': '//twitter.com/winningslowly',
@@ -74,11 +74,13 @@ RELATIVE_URLS = True
 STATIC_PATHS = ['extra/CNAME',
                 'extra/favicon.ico',
                 'extra/favicon.png',
-                'extra/feed.xml',]
+                'extra/feed.xml',
+                'extra/Winning-Slowly_podcast.png',]
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
                        'extra/favicon.ico': {'path': 'favicon.ico'},
                        'extra/favicon.png': {'path': 'favicon.png'},
-                       'extra/feed.xml': {'path': CUSTOM_FEED_URL}}
+                       'extra/feed.xml': {'path': CUSTOM_FEED_URL},
+                       'extra/Winning-Slowly_podcast.png': {'path': 'podcast.png'},}
 
 # Custom 404 page
 # TEMPLATE_PAGES = {'extra/404.html': '404.html'}
