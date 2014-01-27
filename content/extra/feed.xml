@@ -10,8 +10,8 @@
         <copyright>2014 Winning Slowly</copyright>
         <managingEditor>stephen@winningslowly.org (Stephen Carradini)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Mon, 27 Jan 2014 13:41:38 -0500</pubDate>
-        <lastBuildDate>Mon, 27 Jan 2014 13:41:38 -0500</lastBuildDate>
+        <pubDate>Mon, 27 Jan 2014 13:54:23 -0500</pubDate>
+        <lastBuildDate>Mon, 27 Jan 2014 13:54:23 -0500</lastBuildDate>
         <ttl>50</ttl>
         <image>
             <url>http://www.winningslowly.org/Winning-Slowly_podcast144.png</url>
@@ -23,7 +23,7 @@
         <atom:link href="http://www.winningslowly.org/feed.xml" rel="self" type="application/rss+xml"/>
         <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
         <itunes:subtitle>A biweekly podcast by Chris Krycho and Stephen Carradini, offering thoughtful commentary on trends in culture, technology, religion, ethics, and art.</itunes:subtitle>
-        <itunes:image href="http://www.winningslowly.org/Winning-Slowly_podcast.png"/>
+        <itunes:image href="http://www.winningslowly.org/podcast.png"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:owner>
             <itunes:name>Chris Krycho</itunes:name>
