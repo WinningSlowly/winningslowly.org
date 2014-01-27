@@ -10,19 +10,20 @@
         <copyright>2014 Winning Slowly</copyright>
         <managingEditor>stephen@winningslowly.org (Stephen Carradini)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Fri, 17 Jan 2014 23:59:20 -0500</pubDate>
-        <lastBuildDate>Fri, 17 Jan 2014 23:59:20 -0500</lastBuildDate>
+        <pubDate>Mon, 27 Jan 2014 13:41:38 -0500</pubDate>
+        <lastBuildDate>Mon, 27 Jan 2014 13:41:38 -0500</lastBuildDate>
         <ttl>50</ttl>
         <image>
-            <url>http://winningslowly.org/Winning-Slowly_podcast144.png</url>
+            <url>http://www.winningslowly.org/Winning-Slowly_podcast144.png</url>
             <title>Winning Slowly</title>
             <link>http://winningslowly.org/</link>
             <width>144</width>
             <height>144</height>
         </image>
-        <atom:link href="http://winningslowly.org/feed.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="http://www.winningslowly.org/feed.xml" rel="self" type="application/rss+xml"/>
         <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
-        <itunes:image href="http://winningslowly.org/Winning-Slowly_podcast.png"/>
+        <itunes:subtitle>A biweekly podcast by Chris Krycho and Stephen Carradini, offering thoughtful commentary on trends in culture, technology, religion, ethics, and art.</itunes:subtitle>
+        <itunes:image href="http://www.winningslowly.org/Winning-Slowly_podcast.png"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:owner>
             <itunes:name>Chris Krycho</itunes:name>
@@ -33,123 +34,79 @@
         <itunes:category text="Technology"/>
         <itunes:category text="Religion &amp; Spirituality"/>
         <item>
-            <title>Episode -01: The Podcast Before Time</title>
-            <link>http://winningslowly.org/2014/01/episode-01</link>
-            <description><![CDATA[<h3 id="show-notes">Show&nbsp;notes</h3>
-<p>In which we talk about how context shapes (or <em>should</em> shape) our decisions
-<br />regarding technology, with three big&nbsp;topics:</p>
+            <title>Episode 01: We Need Some Context!</title>
+            <link>http://www.winningslowly.org/2014/01/we-need-some-context/</link>
+            <description><![CDATA[<h3 id="show-notes">Show notes</h3>
+
+<p>In which we talk about how context shapes (or <em>should</em> shape) our decisions regarding technology, with three big topics:</p>
+
 <ul>
-<li>
-<p>Christian author and former pastor <a href="//www.desiringgod.org/authors/john-piper">John Piper</a> and <a href="//www.vatican.va/holy_father/francesco/">Pope Francis</a>
-<br />  on&nbsp;Twitter</p>
-</li>
-<li>
-<p>Google acquiring Nest and the ensuing internet&nbsp;freakout</p>
-</li>
-<li>
-<p>Intentionally unprofitable bands and the changing shape of music industry, as
-<br />  highlighted by miniature label <a href="//controlledburnrecords.com/">Controlled Burn Records</a> and band
-<br />  <a href="//nonagon.us">Nonagon</a></p>
-</li>
+<li>Christian author and former pastor <a href="http://www.desiringgod.org/authors/john-piper">John Piper</a> and <a href="http://www.vatican.va/holy_father/francesco/">Pope Francis</a>
+<br /> on Twitter</li>
+
+<li>Google acquiring Nest and the ensuing internet freakout</li>
+
+<li>Intentionally unprofitable bands and the changing shape of music industry, as
+<br /> highlighted by miniature label <a href="http://controlledburnrecords.com/">Controlled Burn Records</a> and band
+<br /> <a href="http://nonagon.us">Nonagon</a></li>
 </ul>
 <h3 id="links">Links</h3>
+
+<p>Sometimes we mention things in our show. When we do, we link them here. Makes it
+<br />easier for you that way… gives you some <em>context</em>, as it were.</p>
+
 <ul>
-<li>
-<p><a href="/twitter.com/johnpiper">@JohnPiper</a></p>
-</li>
-<li>
-<p><a href="/twitter.com/pontifex">@Pontifex</a></p>
-</li>
-<li>
-<p><a href="//www.wired.com/opinion/2014/01/google-didnt-just-acquire-nest-annexed-whole-new-territory/">Google Can Buy Nest, But It Can&#8217;t Buy Our&nbsp;Trust</a></p>
-<blockquote>
-<p>We need to question what it means for people to have relationships with
-<br />devices and services coming out of well-funded, fledging startups —
-<br />especially when those startups reach beyond the digital into the physical
-<br />world. Companies like Nest raise the bar for what’s needed in trustful
-<br />relationships. It’s one thing for the economics of startup exits to ignore
-<br />users in a digital space. But in a physical space, those “users” are
-<br />people who are harder to ignore, because their relationships with the
-<br />service is in part physical. Physical trust, let alone loyalty, can’t be
-<br />transferred on someone else’s&nbsp;whim.</p>
-<p></blockquote></p>
-</li>
-<li>
-<p><a href="//medium.com/tech-talk/e0bd2ec66ce8">Every Data Point is Sacred</a>: Article about home security and data&nbsp;surveillance</p>
-</li>
-<li>
-<p><a href="//www.amazon.com/The-Exploit-Networks-Electronic-Mediations/dp/0816650446">The Exploit</a>: Book on network&nbsp;theory</p>
-</li>
-<li>
-<p><a href="//controlledburnrecords.com/">Controlled Burn&nbsp;Records</a></p>
-</li>
-<li>
-<p><a href="//nonagon.us">Nonagon</a></p>
-</li>
+<li><a href="http://twitter.com/johnpiper">@JohnPiper</a></li>
+
+<li><a href="http://twitter.com/pontifex">@Pontifex</a></li>
+
+<li><a href="http://www.wired.com/opinion/2014/01/google-didnt-just-acquire-nest-annexed-whole-new-territory/">Google Can Buy Nest, But It Can’t Buy Our Trust</a></li>
+
+<li><a href="http://medium.com/tech-talk/e0bd2ec66ce8">Every Data Point is Sacred</a>: Article about home security and data
+<br /> surveillance</li>
+
+<li><a href="http://www.amazon.com/The-Exploit-Networks-Electronic-Mediations/dp/0816650446">The Exploit</a>: Book on network theory</li>
+
+<li><a href="http://controlledburnrecords.com/">Controlled Burn Records</a></li>
+
+<li><a href="http://nonagon.us">Nonagon</a></li>
 </ul>]]></description>
-            <pubDate>Tue, 21 Jan 2014 08:15:47 -0500</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.org/assets/test.m4a" length="13" type="audio/m4a"/>
-            <guid isPermaLink="false">8457B5EA-AA20-4F98-BE0C-FB5D2A5BD39A</guid>
+            <pubDate>Tue, 28 Jan 2014 08:00:29 -0500</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-01.m4a" length="20945315" type="audio/x-m4a"/>
+            <guid isPermaLink="false">AAB2B627-D3F1-4E9F-94A3-06165E126E3E</guid>
             <itunes:author>Winning Slowly</itunes:author>
             <itunes:subtitle>Religious twittering, Google nesting, and hobbyists careering.</itunes:subtitle>
-            <itunes:summary>Number: 01
-Title: We Need Some Context!
-Subtitle: Religious twittering, Google nesting, and hobbyists careering.
-Date: 2014-01-21 08:00
-Status: draft
-Author: Chris Krycho, Stephen Carradini
-Tags: Christianity, Social Media
-M4A: /
-MP3: /
-
-### Show notes
-
-In which we talk about how context shapes (or *should* shape) our decisions
+            <itunes:summary>In which we talk about how context shapes (or should shape) our decisions
 regarding technology, with three big topics:
 
-- Christian author and former pastor [John Piper][jp] and [Pope Francis][pope]
-  on Twitter
+* Christian author and former pastor John Piper and Pope Francis
+ on Twitter
 
-- Google acquiring Nest and the ensuing internet freakout
+* Google acquiring Nest and the ensuing internet freakout
 
-- Intentionally unprofitable bands and the changing shape of music industry, as
-  highlighted by miniature label [Controlled Burn Records][cbr] and band
-  [Nonagon][nonagon]
+* Intentionally unprofitable bands and the changing shape of music industry, as
+ highlighted by miniature label Controlled Burn Records and band
+ Nonagon
 
-### Links
+Sometimes we mention things in our show. When we do, we link them here. Makes it
+easier for you that way… gives you some context, as it were.
 
-- [@JohnPiper](/twitter.com/johnpiper)
+* @JohnPiper
 
-- [@Pontifex](/twitter.com/pontifex)
+* @Pontifex
 
-- [Google Can Buy Nest, But It Can't Buy Our Trust][wired]
+* Google Can Buy Nest, But It Can’t Buy Our Trust
 
-    &gt; We need to question what it means for people to have relationships with
-    &gt; devices and services coming out of well-funded, fledging startups —
-    &gt; especially when those startups reach beyond the digital into the physical
-    &gt; world. Companies like Nest raise the bar for what’s needed in trustful
-    &gt; relationships. It’s one thing for the economics of startup exits to ignore
-    &gt; users in a digital space. But in a physical space, those “users” are
-    &gt; people who are harder to ignore, because their relationships with the
-    &gt; service is in part physical. Physical trust, let alone loyalty, can’t be
-    &gt; transferred on someone else’s whim.
+* Every Data Point is Sacred: Article about home security and data
+ surveillance
 
-- [Every Data Point is Sacred](//medium.com/tech-talk/e0bd2ec66ce8): Article about home security and data surveillance
+* The Exploit: Book on network theory
 
-- [The Exploit](//www.amazon.com/The-Exploit-Networks-Electronic-Mediations/dp/0816650446): Book on network theory
+* Controlled Burn Records
 
-- [Controlled Burn Records][cbr]
-
-- [Nonagon][nonagon]
-
-
-[jp]: //www.desiringgod.org/authors/john-piper
-[pope]: //www.vatican.va/holy_father/francesco/
-[wired]: //www.wired.com/opinion/2014/01/google-didnt-just-acquire-nest-annexed-whole-new-territory/
-[cbr]: //controlledburnrecords.com/
-[nonagon]: //nonagon.us</itunes:summary>
+* Nonagon</itunes:summary>
             <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>42:33</itunes:duration>
+            <itunes:duration>42:30</itunes:duration>
         </item>
     </channel>
 </rss>

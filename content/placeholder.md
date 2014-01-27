@@ -8,6 +8,7 @@ Summary: Some things are awesome. This post might even be one of them someday…
 M4A: /assets/test.m4a
 MP3: /assets/test.mp3
 Tags: tasty pie
+Status: draft
 
 Some day, this "post" will vanish. Entirely. In the meantime, though, it has a
 pretty sweet link to some completely irrelevant files hosted on my SoundCloud

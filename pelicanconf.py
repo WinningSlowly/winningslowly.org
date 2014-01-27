@@ -63,7 +63,7 @@ OUTPUT_SOURCES = True
 OUTPUT_SOURCES_EXTENSION = ".txt"
 
 # Markdown settings
-MD_EXTENSIONS = ['extra', 'smartypants']
+MD_EXTENSIONS = ['extra', 'smartypants(smarten=old-school)']
 
 DEFAULT_DATE_FORMAT = "%B %d, %Y"
 
