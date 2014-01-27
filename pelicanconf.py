@@ -39,7 +39,9 @@ IDENTITY = {'Site': {'RSS': FEED_DOMAIN + '/' + CUSTOM_FEED_URL,
             'Stephen': {'Twitter': '//twitter.com/scarradini',
                         'Homepage': '//stephencarradini.com',},}
 
-PODTRAC = 'http://www.podtrac.com/pts/redirect.mp3'
+PODTRAC_REDIRECT = 'http://www.podtrac.com/pts/redirect'
+PODTRAC_M4A = PODTRAC_REDIRECT + '.m4a'
+PODTRAC_MP3 = PODTRAC_REDIRECT + '.mp3'
 
 DEFAULT_PAGINATION = 10
 

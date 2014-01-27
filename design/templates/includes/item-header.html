@@ -36,9 +36,9 @@
       {% if item.m4a is defined or item.mp3 is defined %}
       <li id="download">
          Download:
-            {% if item.m4a %}<a href="{{ PODTRAC }}/{{ item.m4a }}" download="{{ item.m4a }}">M4A</a> (for iTunes){% endif %}
+            {% if item.m4a %}<a href="{{ PODTRAC_M4A }}/{{ item.m4a }}" download="{{ item.m4a }}">M4A</a> (for iTunes){% endif %}
             {% if item.m4a and item.mp3 %} or {% endif %}
-            {% if item.mp3 %}<a href="{{ PODTRAC }}/{{ item.mp3 }}" download="{{ item.mp3 }}">MP3</a>{% endif %}
+            {% if item.mp3 %}<a href="{{ PODTRAC_MP3 }}/{{ item.mp3 }}" download="{{ item.mp3 }}">MP3</a>{% endif %}
       </li>
       {% endif %}
    </ul>
