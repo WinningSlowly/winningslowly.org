@@ -10,8 +10,8 @@
         <copyright>2014 Winning Slowly</copyright>
         <managingEditor>stephen@winningslowly.org (Stephen Carradini)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Mon, 27 Jan 2014 13:54:23 -0500</pubDate>
-        <lastBuildDate>Mon, 27 Jan 2014 13:54:23 -0500</lastBuildDate>
+        <pubDate>Mon, 27 Jan 2014 13:56:23 -0500</pubDate>
+        <lastBuildDate>Mon, 27 Jan 2014 13:56:23 -0500</lastBuildDate>
         <ttl>50</ttl>
         <image>
             <url>http://www.winningslowly.org/Winning-Slowly_podcast144.png</url>
@@ -30,9 +30,15 @@
             <itunes:email>chris@winningslowly.org</itunes:email>
         </itunes:owner>
         <itunes:block>no</itunes:block>
-        <itunes:category text="Society &amp; Culture"/>
-        <itunes:category text="Technology"/>
-        <itunes:category text="Religion &amp; Spirituality"/>
+        <itunes:category text="Society &amp; Culture">
+            <itunes:category text="Philosophy"/>
+        </itunes:category>
+        <itunes:category text="Technology">
+            <itunes:category text="Tech News"/>
+        </itunes:category>
+        <itunes:category text="Religion &amp; Spirituality">
+            <itunes:category text="Christianity"/>
+        </itunes:category>
         <item>
             <title>Episode 01: We Need Some Context!</title>
             <link>http://www.winningslowly.org/2014/01/we-need-some-context/</link>
