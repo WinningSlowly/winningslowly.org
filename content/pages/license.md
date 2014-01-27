@@ -4,11 +4,9 @@ Summary: Content under a Creative Commons Attribution 4.0 International.
          Software under the MIT license. Remix away.
 
 
-Our Content
-===========
+## Our Content
 
-Human-friendly
---------------
+### Human-friendly
 
 You can do basically whatever you want with *almost* all of our content. Remix
 to your heart's content. Mash it up, quote it, make a podcast-jam if you like.
@@ -24,11 +22,10 @@ The legalese below just outlines this policy in lawyer-friendly terms.
 
 [cam]: http://www.krop.com/spidercam/
 
-Legalese
---------
+### Legalese
 
-### Creative Commons -- Attribution 4.0 International -- CC BY 4.0
-#### Section 1 – Definitions.
+#### Creative Commons -- Attribution 4.0 International -- CC BY 4.0
+##### Section 1 – Definitions.
 
   1. **Adapted Material** means material subject to Copyright and Similar Rights
      that is derived from or based upon the Licensed Material and in which the
@@ -76,7 +73,7 @@ Legalese
   11. **You** means the individual or entity exercising the Licensed Rights
       under this Public License. **Your** has a corresponding meaning.
 
-#### Section 2 – Scope.
+##### Section 2 – Scope.
 
 1. **License grant**.
     1. Subject to the terms and conditions of this Public License, the Licensor
@@ -130,7 +127,7 @@ Legalese
        statutory or compulsory licensing scheme. In all other cases the Licensor
        expressly reserves any right to collect such royalties.
 
-#### Section 3 – License Conditions.
+##### Section 3 – License Conditions.
 
 Your exercise of the Licensed Rights is expressly made subject to the following
 conditions.
@@ -167,7 +164,7 @@ conditions.
        apply must not prevent recipients of the Adapted Material from complying
        with this Public License.
 
-#### Section 4 – Sui Generis Database Rights.
+##### Section 4 – Sui Generis Database Rights.
 
 Where the Licensed Rights include Sui Generis Database Rights that apply to Your
 use of the Licensed Material:
@@ -186,7 +183,7 @@ For the avoidance of doubt, this Section 4 supplements and does not replace Your
 obligations under this Public License where the Licensed Rights include other
 Copyright and Similar Rights.
 
-#### Section 5 – Disclaimer of Warranties and Limitation of Liability.
+##### Section 5 – Disclaimer of Warranties and Limitation of Liability.
 
 1. **Unless otherwise separately undertaken by the Licensor, to the extent
    possible, the Licensor offers the Licensed Material as-is and as-available,
@@ -209,7 +206,7 @@ Copyright and Similar Rights.
    be interpreted in a manner that, to the extent possible, most closely
    approximates an absolute disclaimer and waiver of all liability.
 
-#### Section 6 – Term and Termination.
+##### Section 6 – Term and Termination.
 
 1. This Public License applies for the term of the Copyright and Similar Rights
    licensed here. However, if You fail to comply with this Public License, then
@@ -227,7 +224,7 @@ Copyright and Similar Rights.
    at any time; however, doing so will not terminate this Public License.
 4. Sections 1, 5, 6, 7, and 8 survive termination of this Public License.
 
-#### Section 7 – Other Terms and Conditions.
+##### Section 7 – Other Terms and Conditions.
 
 1. The Licensor shall not be bound by any additional or different terms or
    conditions communicated by You unless expressly agreed.
@@ -235,7 +232,7 @@ Copyright and Similar Rights.
    Material not stated herein are separate from and independent of the terms and
    conditions of this Public License.
 
-#### Section 8 – Interpretation.
+##### Section 8 – Interpretation.
 
 1. For the avoidance of doubt, this Public License does not, and shall not be
    interpreted to, reduce, limit, restrict, or impose conditions on any use of
@@ -271,11 +268,9 @@ Creative Commons may be contacted at [creativecommons.org][cc].
 [policies]: //creativecommons.org/policies
 [cc]: //creativecommons.org
 
-Software
-========
+## Software
 
-Human-friendly
---------------
+### Human-friendly
 
 Pretty much the same as with our content: mash this content up however you like.
 Winning Slowly was built with the free tools of the internet age---great things
@@ -295,7 +290,7 @@ Again, the legalese below just says all of this in lawyer-friendly terms.
 [gh]: //github.com
 [chris]: //chriskrycho.com
 
-## Legalese
+### Legalese
 
 The MIT License (MIT)
 
