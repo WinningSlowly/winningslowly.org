@@ -4,8 +4,8 @@
       {% include "includes/item-header.html" %}
 
       <audio title="{{ article.title }}" controls="controls" preload="metadata">
-         <source src="{{ article.m4a }}" />
-         <source src="{{ article.mp3 }}" />
+         <source src="{{ PODTRAC_M4A }}/{{ article.m4a }}" />
+         <source src="{{ PODTRAC_MP3 }}/{{ article.mp3 }}" />
       </audio>
 
       <section id="notes">
