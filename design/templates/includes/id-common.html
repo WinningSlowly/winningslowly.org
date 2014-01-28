@@ -1,11 +1,11 @@
 {% if article is defined %}
    <meta property="og:url" content="{{ article.url }}" />
    <meta property="og:title" content="{{ article.title }}" />
-   <meta property="og:description" content="{{ article.description }}" />
+   <meta property="og:description" content="{{ article.subtitle }}" />
    {% if article.image is defined %}
-      <meta name="twitter:image" content="{{ SITEURL }}/{{ PODCAST_LOGO }}" />
+      <meta property="og:image" content="{{ article.image }}" />
    {% else %}
-      <meta name="twitter:image" content="{{ SITEURL }}/{{ PODCAST_LOGO }}" />
+      <meta property="og:image" content="{{ SITEURL }}/{{ PODCAST_LOGO }}" />
    {% endif %}
    {% if article.m4a is defined %}
       <meta property="og:audio" content="{{ SITEURL }}/{{ article.m4a }}"/>
