@@ -8,6 +8,15 @@ Winning Slowly is a forum for two interdisciplinary thinkers to discuss the long
 
 From crowdsourcing to Twitter gaffes to superhero movies to genetics to social justice issues, Winning Slowly delivers a thoughtful analysis of how the small things we do can have big impacts (and vice versa).
 
+## When
+
+Winning Slowly episodes (usually) come out every other Tuesday at 8 am. If unforeseen scheduling issues arise, we will update the schedule details below accordingly.
+
+### Upcoming Episodes:
+
+- **Feburary 11:** Episode 02: Do [Content] Right -- Internet Radio, Pastor-Authors, and Trade Agreements
+- **February 25:** Episode 03
+
 ## Who
 
 Chris Krycho is a [seminarian](//www.sebts.edu/ "Southeastern Baptist Theological Seminary"), [web designer](//github.com/chriskrycho), [writer](//chriskrycho.com "chriskrycho.com"), and [classical composer](//soundcloud.com/chriskrycho).
@@ -15,3 +24,4 @@ Chris Krycho is a [seminarian](//www.sebts.edu/ "Southeastern Baptist Theologica
 Stephen Carradini is a [digital media scholar](//crdm.chass.ncsu.edu/students "Communication, Rhetoric, and Digital Media program, North Carolina State University"), [writer](//independentclauses.com "Independent Clauses music blog"), [editor](//stephencarradini.com "StephenCarradini.com"), and [songwriter](//themidnightsons.bandcamp.com "The Midnight Sons").
 
 They both reside in North Carolina.
+
