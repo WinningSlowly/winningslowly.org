@@ -27,7 +27,7 @@ CUSTOM_FEED_URL = 'feed.xml'
 
 # Social widget
 IDENTITY = {'Site': {'RSS': FEED_DOMAIN + '/' + CUSTOM_FEED_URL,
-                     'iTunes': 'itpc://www.winningslowly.org/feed.xml',
+                     'iTunes': 'https://itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2',
                      'App.net': '//app.net/winningslowly',
                      'App.net Broadcast': '//broadcast.app.net/40022/winning-slowly-episodes/',
                      'Twitter': '//twitter.com/winningslowly',
