@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Chris Krycho and Stephen Carradini'
 SITENAME = 'Winning Slowly'
-SITE_DESCRIPTION = 'Culture, art, religion, and ethics—from the long view.'
+SITE_DESCRIPTION = 'Culture, technology, religion, ethics, and art—from the long view.'
 SITEURL = ''
 LOGO = 'static/images/winning-slowly_circle.png'
 PODCAST_LOGO = 'static/images/winning-slowly_podcast_small.png'
