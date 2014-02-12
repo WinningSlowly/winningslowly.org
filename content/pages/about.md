@@ -14,8 +14,8 @@ Winning Slowly episodes (usually) come out every other Tuesday at 8 am. If unfor
 
 ### Upcoming Episodes:
 
-- **Feburary 11:** Episode 02: Do [Content] Right -- Internet Radio, Pastor-Authors, and Trade Agreements
-- **February 25:** Episode 03
+- **February 25:** Episode 03: *But I Thought We Knew That!* -- Insane Pricing Schemes, Culture Wars and Political Silence, Losing Parts of the Internet
+- **March 11:** Episode 04
 
 ## Who
 
