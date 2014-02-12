@@ -47,5 +47,6 @@ nosetests.xml
 # Miscellaneous design files
 design/favicon.*
 
-# Don't push recordings
+# Don't push recordings and ignore output
 recordings
+output
