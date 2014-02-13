@@ -14,7 +14,7 @@ Winning Slowly episodes (usually) come out every other Tuesday at 8 am. If unfor
 
 ### Upcoming Episodes:
 
-- **February 25:** Episode 03: *But I Thought We Knew That!* -- Insane Pricing Schemes, Culture Wars and Political Silence, Losing Parts of the Internet
+- **February 25:** Episode 03: *But I Thought We Knew That!* -- Pricing Insanity, Culture Wars, and Losing Parts of the Internet
 - **March 11:** Episode 04
 
 ## Who
