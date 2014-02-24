@@ -5,108 +5,114 @@
 
 /* Styles */
 html {
-   font-size: 112.5%;
-   color: $text;
-   font-family: $sans;
+    font-size: 112.5%;
+    color: $text;
+    font-family: $sans;
 }
 
 body {
-   background: $background;
-   line-height: $lh;
+    background: $background;
+    line-height: $lh;
 }
 
 h1 {
-   font-size: $fsh1;
-   font-family: $slab;
+    font-size: $fsh1;
+    font-family: $slab;
 }
 
 h2 {
-   font-size: $fsh2;
-   font-family: $slab;
+    font-size: $fsh2;
+    font-family: $slab;
+
+    &.tag {
+        color: $light_purple;
+        padding-bottom: $fsp;
+        text-align: center;
+    }
 }
 
 h3 {
-   font-size: $fsh3;
+    font-size: $fsh3;
 }
 
 h4 {
-   font-size: $fsh4;
+    font-size: $fsh4;
 }
 
 h5 {
-   font-size: $fsh5;
+    font-size: $fsh5;
 }
 
 h6 {
-   font-size: $fsh6;
+    font-size: $fsh6;
 }
 
 p, ul, ol {
-   font-size: $fsp;
-   padding: {
-      top: 0;
-      bottom: $fsp;
-   }
-   margin: {
-      top: 0;
-      bottom: 0;
-   }
+    font-size: $fsp;
+    padding: {
+        top: 0;
+        bottom: $fsp;
+    }
+    margin: {
+        top: 0;
+        bottom: 0;
+    }
 }
 
 blockquote {
-   font: {
-      family: $slab;
-      size: $fsp;
-      style: italic;
-   }
-   margin: 0.5em 0;
-   padding: 0 1em;
-   border-left: 2px solid $pale_purple;
-   color: $background_darkened;
+    font: {
+        family: $slab;
+        size: $fsp;
+        style: italic;
+    }
+    margin: 0.5em 0;
+    padding: 0 1em;
+    border-left: 2px solid $pale_purple;
+    color: $background_darkened;
 
-   em {
-      font-style: normal;
-   }
+    em {
+        font-style: normal;
+    }
 }
 
 blockquote p:last-child {
-   padding-bottom: 0;
+    padding-bottom: 0;
 }
 
 li blockquote {
-   margin-bottom: 1.5rem;
+    margin-bottom: 1.5rem;
 }
 
 ul {
-   list-style: circle;
-   ul {
-      list-style: disc;
-      ul {
-         list-style: square;
-         ul {
-            list-style: circle;
+    list-style: circle;
+    ul {
+        list-style: disc;
+        ul {
+            list-style: square;
             ul {
-               list-style: disc;
+                list-style: circle;
+                ul {
+                    list-style: disc;
+                }
             }
-         }
-      }
-   }
+        }
+    }
 }
 
 ol {
-   list-style: decimal;
-   ol {
-      list-style: upper-alpha;
-      ol {
-         list-style: upper-roman;
-         ol {
-            list-style: lower-alpha;
+    list-style: decimal;
+    ol {
+        list-style: upper-alpha;
+        ol {
+            list-style: upper-roman;
             ol {
-               list-style-type: lower-roman;
+                list-style: lower-alpha;
+                ol {
+                    list-style-type: lower-roman;
+                }
             }
-         }
-      }
-   }
+        }
+    }
 }
 
 ol ol {
@@ -114,379 +120,379 @@ ol ol {
 }
 
 a, a:visited {
-   color: $light_purple;
-   transition: all 0.347s;
-   text-decoration: none;
-   border-bottom: 1px solid transparent;
+    color: $light_purple;
+    transition: all 0.347s;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
 
-   &:hover, &:active {
-      color: $light_blue;
-      border-bottom: 1px solid $background_darkened;
-   }
+    &:hover, &:active {
+        color: $light_blue;
+        border-bottom: 1px solid $background_darkened;
+    }
 }
 
 /* Layout */
 #wrapper {
-   max-width: 44rem;
-   padding: 0 1rem;
-   margin: auto;
+    max-width: 44rem;
+    padding: 0 1rem;
+    margin: auto;
 }
 
 /* Header */
 header#banner {
-   padding-top: $fsh3;
-   padding-bottom: $fsh5;
-   text-shadow: 1px 1px 1px #DDD;
+    padding-top: $fsh3;
+    padding-bottom: $fsh5;
+    text-shadow: 1px 1px 1px #DDD;
 
-   a {
-      color: transparent;
+    a {
+        color: transparent;
 
-      &:link, &:visited, &:hover, &:active {
-         border-bottom: none;
-      }
-   }
+        &:link, &:visited, &:hover, &:active {
+            border-bottom: none;
+        }
+    }
 
-   h1 {
-      text-align: center;
+    h1 {
+        text-align: center;
 
-      #logo, #winning, #slowly {
-         display: inline-block;
-      }
+        #logo, #winning, #slowly {
+            display: inline-block;
+        }
 
-      #logo {
-         img {
-            height: $fs_large;
-            width: $fs_large;
-            vertical-align: middle;
+        #logo {
+            img {
+                height: $fs_large;
+                width: $fs_large;
+                vertical-align: middle;
+                margin-top: -10px;
+            }
+        }
+
+        #winning, #slowly {
+            text-transform: uppercase;
+            line-height: 1;
+            margin: 0;
+        }
+
+        #winning {
+            color: $dark_orange;
+            font-weight: 300;
+            font-family: $slab;
+            letter-spacing: 3px;
+            margin-right: -0.78rem;
+        }
+
+        #slowly {
+            color: $light_orange;
+            font-size: $felt_multiplier_em;
+            font-family: $felt;
             margin-top: -10px;
-         }
-      }
-
-      #winning, #slowly {
-         text-transform: uppercase;
-         line-height: 1;
-         margin: 0;
-      }
-
-      #winning {
-         color: $dark_orange;
-         font-weight: 300;
-         font-family: $slab;
-         letter-spacing: 3px;
-         margin-right: -0.78rem;
-      }
-
-      #slowly {
-         color: $light_orange;
-         font-size: $felt_multiplier_em;
-         font-family: $felt;
-         margin-top: -10px;
-      }
-   }
+        }
+    }
 }
 
 /* Podcast items */
 article {
-   padding-bottom: $fsh1*2;
+    padding-bottom: $fsh1*2;
 
-   @mixin header-item() {
-      margin-bottom: 1rem;
-   }
+    @mixin header-item() {
+        margin-bottom: 1rem;
+    }
 
-   h1 {
-      @include header-item();
-      font-weight: 300;
-   }
+    h1 {
+        @include header-item();
+        font-weight: 300;
+    }
 
-   h2 {
-      @include header-item();
-      font-weight: 700;
-      text-align: center;
-   }
+    h2 {
+        @include header-item();
+        font-weight: 700;
+        text-align: center;
+    }
 
-   h3 {
-      margin: {
-         bottom: 1rem;
-         left: auto;
-         right: auto;
-      }
-      border-bottom: 1px solid $background_darkened
-   }
+    h3 {
+        margin: {
+            bottom: 1rem;
+            left: auto;
+            right: auto;
+        }
+        border-bottom: 1px solid $background_darkened
+    }
 
-   header {
-      text-align: center;
-      .title {
-         line-height: 0.9;
-         h1 {
-            #episode-num, #episode-title {
-               display: block;
+    header {
+        text-align: center;
+        .title {
+            line-height: 0.9;
+            h1 {
+                #episode-num, #episode-title {
+                    display: block;
+                }
+
+                #episode-num {
+                    margin-bottom: 1rem;
+                }
+
+                #episode-title {
+                    font: {
+                        size: $fsh2;
+                        weight: 700;
+                    }
+                    text-transform: uppercase;
+                    letter-spacing: -1px;
+                }
             }
 
-            #episode-num {
-               margin-bottom: 1rem;
+            #episode-subtitle {
+                font-size: $fsh5;
+                padding-bottom: 0;
             }
+        }
 
-            #episode-title {
-               font: {
-                  size: $fsh2;
-                  weight: 700;
-               }
-               text-transform: uppercase;
-               letter-spacing: -1px;
-            }
-         }
+        .meta {
+            font-family: $sans;
+            font-weight: 700;
+            color: $background_darkened;
 
-         #episode-subtitle {
-            font-size: $fsh5;
-            padding-bottom: 0;
-         }
-      }
+        }
 
-      .meta {
-         font-family: $sans;
-         font-weight: 700;
-         color: $background_darkened;
-
-      }
-
-      ul.meta {
-         line-height: $lh_small;
-         display: inline-block;
-         padding: {
-            top: 1em;
-            bottom: 0;
-         }
-         margin-bottom: 0;
-         li {
+        ul.meta {
+            line-height: $lh_small;
             display: inline-block;
-         }
-
-         > li:after {
-            content: "\25E6";
-            font-size: $fs_small;
             padding: {
-               left: 1px;
-               right: 1px;
+                top: 1em;
+                bottom: 0;
             }
-         }
+            margin-bottom: 0;
+            li {
+                display: inline-block;
+            }
 
-         > li:last-child:after {
+            > li:after {
+                content: "\25E6";
+                font-size: $fs_small;
+                padding: {
+                    left: 1px;
+                    right: 1px;
+                }
+            }
+
+            > li:last-child:after {
+                content: none;
+            }
+        }
+
+        li:last-child:after {
             content: none;
-         }
-      }
+        }
+    }
 
-         li:last-child:after {
-            content: none;
-         }
-   }
+    audio {
+        display: block;
+        text-align: center;
+        width: 66.7%;
+        margin: {
+            top: $fsh2;
+            bottom: $fsh3;
+            left: auto;
+            right: auto;
+        }
+    }
 
-   audio {
-      display: block;
-      text-align: center;
-      width: 66.7%;
-      margin: {
-         top: $fsh2;
-         bottom: $fsh3;
-         left: auto;
-         right: auto;
-      }
-   }
+    h3 {
+        text-align: center;
+    }
 
-   h3 {
-      text-align: center;
-   }
+    #download {
+        text-align: center;
+    }
 
-   #download {
-      text-align: center;
-   }
+    #notes {
+        @mixin list() {
+            margin-left: 0.5rem;
+            padding-left: 1rem;
+        }
 
-   #notes {
-      @mixin list() {
-         margin-left: 0.5rem;
-         padding-left: 1rem;
-      }
+        ul {
+            @include list();
+            list-style: circle;
+        }
 
-      ul {
-         @include list();
-         list-style: circle;
-      }
+        ol {
+            @include list();
+            list-style: decimal-leading-zero;
+        }
+    }
 
-      ol {
-         @include list();
-         list-style: decimal-leading-zero;
-      }
-   }
-
-   section {
-      width: 30em;
-      margin: {
-         left: auto;
-         right: auto;
-      }
-   }
+    section {
+        width: 30em;
+        margin: {
+            left: auto;
+            right: auto;
+        }
+    }
 }
 
 .archive article {
-   min-height: 4em;
-   padding-bottom: 2em;
+    min-height: 4em;
+    padding-bottom: 2em;
 
-   @mixin flex-container() {
-      @include flexbox();
-      @include justify-content(space-between);
-      @include align-content(flex-start);
-      @include flex-flow(row wrap);
-   }
+    @mixin flex-container() {
+        @include flexbox();
+        @include justify-content(space-between);
+        @include align-content(flex-start);
+        @include flex-flow(row wrap);
+    }
 
-   @mixin flex-item() {
-      @include flex(1 18rem);
-   }
+    @mixin flex-item() {
+        @include flex(1 18rem);
+    }
 
-   header {
-      @include flex-container();
+    header {
+        @include flex-container();
 
-      text-align: left;
+        text-align: left;
 
-      a, a:visited {
-         @include flex-container();
+        a, a:visited {
+            @include flex-container();
 
-         width: 100%;
-         color: #444;
+            width: 100%;
+            color: #444;
 
-         border: {
-            top: none;
-            left: 1px solid transparent;
-            bottom: none;
-            right: 1px solid transparent;
-         }
-
-         &:hover, &:active {
-            color: $light_purple;
             border: {
-               top: none;
-               left: 8px solid $light_purple;
-               bottom: none;
-               right: 8px solid $light_purple;
+                top: none;
+                left: 1px solid transparent;
+                bottom: none;
+                right: 1px solid transparent;
             }
-         }
-      }
 
-      .title, .meta {
-         margin: 0;
-         padding-top: 0;
-         color: $text;
-         line-height: $lh_small;
-
-         @include flex-item();
-         font: {
-            size: $fsp;
-            weight: 300;
-         }
-
-         span {
-            display: block;
-            margin: {
-               top: 0;
-               bottom: 0;
+            &:hover, &:active {
+                color: $light_purple;
+                border: {
+                    top: none;
+                    left: 8px solid $light_purple;
+                    bottom: none;
+                    right: 8px solid $light_purple;
+                }
             }
+        }
+
+        .title, .meta {
+            margin: 0;
+            padding-top: 0;
+            color: $text;
+            line-height: $lh_small;
+
+            @include flex-item();
+            font: {
+                size: $fsp;
+                weight: 300;
+            }
+
+            span {
+                display: block;
+                margin: {
+                    top: 0;
+                    bottom: 0;
+                }
+                padding: {
+                    top: 0;
+                    bottom: 0;
+                }
+            }
+        }
+
+        .meta {
+            font-family: $sans;
             padding: {
-               top: 0;
-               bottom: 0;
+                top: 1px;
+                left: 0.243rem;
             }
-         }
-      }
 
-      .meta {
-         font-family: $sans;
-         padding: {
-            top: 1px;
-            left: 0.243rem;
-         }
+            #episode-date {
+                font-style: italic;
+            }
+        }
 
-         #episode-date {
-            font-style: italic;
-         }
-      }
+        .title {
+            font: {
+                family: $slab;
+                weight: 500;
+            }
+            text-align: right;
+            padding-right: 0.243rem;
 
-      .title {
-         font: {
-            family: $slab;
-            weight: 500;
-         }
-         text-align: right;
-         padding-right: 0.243rem;
+            #episode-title {
+                text-transform: uppercase;
+            }
+        }
 
-         #episode-title {
-            text-transform: uppercase;
-         }
-      }
-
-   }
+    }
 }
 
 footer {
-   @include flexbox();
-   @include justify-content(space-around);
-   @include align-content(flex-start);
-   @include flex-flow(row wrap);
+    @include flexbox();
+    @include justify-content(space-around);
+    @include align-content(flex-start);
+    @include flex-flow(row wrap);
 
-   background: $text;
-   color: $background;
-   text-align: center;
-   padding-top: $fsh3;
+    background: $text;
+    color: $background;
+    text-align: center;
+    padding-top: $fsh3;
 
-   p, ul, ol, h1, h2, h3, h4, h5, h6 {
-      font-size: 90%;
-   }
+    p, ul, ol, h1, h2, h3, h4, h5, h6 {
+        font-size: 90%;
+    }
 
-   p {
-      text-align: left;
-      font-weight: 300;
-   }
+    p {
+        text-align: left;
+        font-weight: 300;
+    }
 
-   a, a:visited{
-      color: $pale_purple;
-   }
+    a, a:visited{
+        color: $pale_purple;
+    }
 
-   .footer_item {
-      width: 40%;
-      max-width: 461px;
-      padding-bottom: $fsh1;
+    .footer_item {
+        width: 40%;
+        max-width: 461px;
+        padding-bottom: $fsh1;
 
-      h1 {
-         font-size: $fsh4;
-         font-weight: 300;
-         letter-spacing: 1px;
-         color: $light_orange;
-         text-shadow: 1px 1px 1px $background_darkened;
-         border-bottom: 1px solid $background_darkened;
-         margin-bottom: 1rem;
-      }
+        h1 {
+            font-size: $fsh4;
+            font-weight: 300;
+            letter-spacing: 1px;
+            color: $light_orange;
+            text-shadow: 1px 1px 1px $background_darkened;
+            border-bottom: 1px solid $background_darkened;
+            margin-bottom: 1rem;
+        }
 
-      h2 {
-         font-size: $fsh6;
-         font-style: italic;
-         font-weight: 400;
-         padding-bottom: 0.444rem;
-      }
+        h2 {
+            font-size: $fsh6;
+            font-style: italic;
+            font-weight: 400;
+            padding-bottom: 0.444rem;
+        }
 
-      ul, ol {
-         padding-bottom: $lh_em;
-      }
+        ul, ol {
+            padding-bottom: $lh_em;
+        }
 
-      a i.fa {
-         display: inline-block;
-         padding-right: 5px;
-         color: white;
-      }
-   }
+        a i.fa {
+            display: inline-block;
+            padding-right: 5px;
+            color: white;
+        }
+    }
 
-   #social-wrapper {
-      ul {
-         text-align: left;
-         padding-left: 8.889em;
-         list-style: none;
-      }
-   }
+    #social-wrapper {
+        ul {
+            text-align: left;
+            padding-left: 8.889em;
+            list-style: none;
+        }
+    }
 }
 
 /* Import media queries at the end to override the base */

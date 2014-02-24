@@ -3,11 +3,12 @@
 {% block body_el %}<body class="archive">{% endblock %}
 
 {% block content %}
+{% block heading %}{% endblock %}
 {% if articles %}
    {% for article in articles %}
       <article>
          <header>
-            <a href="{{ article.url }}">
+            <a href="{{ SITEURL}}/{{ article.url }}">
                <div class="title">
                   <span id="episode-num">Episode {{ article.number }}</span>
                   <span id="episode-title">{{ article.title }}</span>
