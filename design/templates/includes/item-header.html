@@ -29,7 +29,7 @@
 
       {% if item.tags is defined %}
       <li id="topics">
-         Topics: {% for tag in item.tags %}<a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>{% if not loop.last %}, {% endif %}{% endfor %}
+         Topics: {% for tag in item.tags|sort %}<a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>{% if not loop.last %}, {% endif %}{% endfor %}
       </li>
       {% endif %}
 
