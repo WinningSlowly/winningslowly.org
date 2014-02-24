@@ -10,8 +10,8 @@
         <copyright>2014 Winning Slowly</copyright>
         <managingEditor>stephen@winningslowly.org (Stephen Carradini)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Tue, 11 Feb 2014 07:35:27 -0500</pubDate>
-        <lastBuildDate>Tue, 11 Feb 2014 07:35:27 -0500</lastBuildDate>
+        <pubDate>Sun, 23 Feb 2014 20:45:51 -0500</pubDate>
+        <lastBuildDate>Sun, 23 Feb 2014 20:45:51 -0500</lastBuildDate>
         <ttl>50</ttl>
         <image>
             <url>http://www.winningslowly.org/Winning-Slowly_podcast144.png</url>
@@ -39,6 +39,51 @@
         <itunes:category text="Religion &amp; Spirituality">
             <itunes:category text="Christianity"/>
         </itunes:category>
+        <item>
+            <title>Episode 03: Echo Chamber</title>
+            <link>http://www.winningslowly.org/2014/02/echo-chamber/</link>
+            <description><![CDATA[<h3 id="shownotes">Show Notes</h3>
+
+<p>In which we talk about how greedy pricing schemes an and will run you right out of business (by running you right out of customers), how the Ken Ham-Bill Nye debate raises questions about Christians in the public square, and how incredibly weird it is that we can (and do) lose parts of the internet.</p>
+
+<ul>
+<li>Insane pricing schemes: Network Solutions ripping off its customers (1:07&#8211;13:05)</li>
+<li>Ken Ham vs. Bill Nye, the &#8220;culture war&#8221;, and having the wisdom to decide when one ought to opt for political silence and when one ought to opt for engagement (13:06&#8211;28:53)</li>
+<li>Link rot, backups, and losing parts of the internet (28:54&#8211;41:51)</li>
+</ul>
+
+<h3 id="music">Music</h3>
+
+<ul>
+<li>Opening music: <a href="http://thedukeofnorfolk.bandcamp.com/album/birds-fly-south">&#8220;The South&#8221;</a> by The Duke of Norfolk</li>
+<li>Closing music: <a href="https://soundcloud.com/chriskrycho/winning-slowly">Winning Slowly Theme</a> by Chris Krycho. Used by dint of being written for the show.</li>
+</ul>
+
+<h3 id="links">Links</h3>
+
+<ul>
+<li><a href="http://inessential.com/2014/01/21/network_solutions_auto-enroll_1_850">Brent Simmons on Network Solutions</a></li>
+</ul>]]></description>
+            <pubDate>Tue, 25 Feb 2014 08:00:56 -0500</pubDate>
+            <enclosure url="http://winningslowly.s3.amazonaws.com/episode-03.m4a" length="21240688" type="audio/x-m4a"/>
+            <guid isPermaLink="false">410FEDCE-6431-4669-976E-5191D398AA84</guid>
+            <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
+            <itunes:subtitle>How greedy pricing schemes an and will run you right out of business, how the Ken Ham-Bill Nye debate raises questions about Christians in the public square, and how incredibly weird it is that we can (and do) lose parts of the internet.</itunes:subtitle>
+            <itunes:summary>Show Notes
+
+In which we talk about how greedy pricing schemes an and will run you right out of business (by running you right out of customers), how the Ken Ham-Bill Nye debate raises questions about Christians in the public square, and how incredibly weird it is that we can (and do) lose parts of the internet.
+
+* Insane pricing schemes: Network Solutions ripping off its customers (1:07–13:05)
+* Ken Ham vs. Bill Nye, the “culture war”, and having the wisdom to decide when one ought to opt for political silence and when one ought to opt for engagement (13:06–28:53)
+* Link rot, backups, and losing parts of the internet (28:54–41:51)
+
+Music
+
+* Opening music: “The South” by The Duke of Norfolk
+* Closing music: Winning Slowly Theme by Chris Krycho. Used by dint of being written for the show.</itunes:summary>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>42:53</itunes:duration>
+        </item>
         <item>
             <title>Episode 02: Do [Content] Right</title>
             <link>http://www.winningslowly.org/2014/02/do-content-right/</link>
