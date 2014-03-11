@@ -4,14 +4,14 @@
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>A forum for two interdisciplinary thinkers to discuss the long view of current trends in technology, religion, art, ethics, and culture. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 2.4.5(2.4.5); Mac OS X Version 10.9.1 (Build 13B42) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 2.4.5(2.4.5); Mac OS X Version 10.9.2 (Build 13C64) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2014 Winning Slowly</copyright>
         <managingEditor>stephen@winningslowly.org (Stephen Carradini)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Sun, 23 Feb 2014 20:45:51 -0500</pubDate>
-        <lastBuildDate>Sun, 23 Feb 2014 20:45:51 -0500</lastBuildDate>
+        <pubDate>Mon, 10 Mar 2014 21:14:18 -0400</pubDate>
+        <lastBuildDate>Mon, 10 Mar 2014 21:14:18 -0400</lastBuildDate>
         <ttl>50</ttl>
         <image>
             <url>http://www.winningslowly.org/Winning-Slowly_podcast144.png</url>
@@ -40,6 +40,65 @@
             <itunes:category text="Christianity"/>
         </itunes:category>
         <item>
+            <title>Episode 0.04: Tell Me What To Do</title>
+            <link>http://www.winningslowly.org/2014/03/tell-me-what-to-do/</link>
+            <description><![CDATA[<h3 id="shownotes">Show Notes</h3>
+
+<p>In which we talk about what happens when people yell at each other about what they should and shouldn&#8217;t be writing, how musicians&#8217; attitudes toward &#8220;making a career of it&#8221; seem to have shifted in the last few decades, and why not having a business plan is a bad plan.</p>
+
+<h4 id="chapters">Chapters</h4>
+
+<ul>
+<li>Beating Up Writers (1:57&#8211;17:35): everyone from tech startups to Nicholas Kristof has an opinion about what you should be writing&#8212;and so do we&#8230; sort of.</li>
+<li>Musical Careering (17:35&#8211;28:50): an interview with Future Islands prompts some reflection on what exactly a &#8220;career&#8221; in the music world is.</li>
+<li>Losing Editorially (28:50&#8211;41:55): no business plan means you might not stick around as a company&#8212;and that makes us sad.</li>
+</ul>
+
+<h3 id="music">Music</h3>
+
+<ul>
+<li>Opening music: <a href="http://papercitymusic.bandcamp.com/track/know-how-to-live">&#8220;Know How To Live&#8221;</a> by Paper City</li>
+<li>Closing music: <a href="https://soundcloud.com/chriskrycho/winning-slowly">Winning Slowly Theme</a> by Chris Krycho. Used by dint of being written for the show.</li>
+</ul>
+
+<h3 id="links">Links</h3>
+
+<ul>
+<li><a href="https://medium.com/on-startups/bc6893bb5cd5">Blogging vs. Building</a></li>
+<li><a href="http://www.nytimes.com/2014/02/16/opinion/sunday/kristof-professors-we-need-you.html">Professors, We Need You!</a></li>
+<li><a href="http://pitchfork.com/features/update/9315-future-islands/">Interview with Future Islands</a></li>
+<li><a href="http://stet.editorially.com/articles/goodbye/">Goodbye to Editorially</a></li>
+</ul>]]></description>
+            <pubDate>Tue, 11 Mar 2014 08:00:49 -0400</pubDate>
+            <enclosure url="http://winningslowly.s3.amazonaws.com/episode-0.04.m4a" length="21211200" type="audio/x-m4a"/>
+            <guid isPermaLink="false">5B4D63A6-AD71-455C-A5FF-942D92FA8ABD</guid>
+            <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
+            <itunes:subtitle>Beating Up Writers, Musical Careering, and Losing Editorially</itunes:subtitle>
+            <itunes:summary># Show Notes
+
+In which we talk about what happens when people yell at each other about what they should and shouldn't be writing, how musicians' attitudes toward "making a career of it" seem to have shifted in the last few decades, and why not having a business plan is a bad plan.
+
+## Chapters
+
+- Beating Up Writers (1:57--17:35): everyone from tech startups to Nicholas Kristof has an opinion about what you should be writing---and so do we... sort of.
+- Musical Careering (17:35--28:50): an interview with Future Islands prompts some reflection on what exactly a "career" in the music world is.
+- Losing Editorially (28:50--41:55): no business plan means you might not stick around as a company---and that makes us sad.
+
+# Music
+
+- Opening music: ["Know How To Live"](http://papercitymusic.bandcamp.com/track/know-how-to-live) by Paper City
+- Closing music: [Winning Slowly Theme](https://soundcloud.com/chriskrycho/winning-slowly) by Chris Krycho. Used by dint of being written for the show.
+
+# Links
+
+- [Blogging vs. Building](https://medium.com/on-startups/bc6893bb5cd5)
+- [Professors, We Need You!](http://www.nytimes.com/2014/02/16/opinion/sunday/kristof-professors-we-need-you.html)
+- [Interview with Future Islands](http://pitchfork.com/features/update/9315-future-islands/)
+- [Goodbye to Editorially](http://stet.editorially.com/articles/goodbye/)</itunes:summary>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>42:51</itunes:duration>
+        </item>
+        <item>
             <title>Episode 03: Echo Chamber</title>
             <link>http://www.winningslowly.org/2014/02/echo-chamber/</link>
             <description><![CDATA[<h3 id="shownotes">Show Notes</h3>
@@ -64,7 +123,7 @@
 <ul>
 <li><a href="http://inessential.com/2014/01/21/network_solutions_auto-enroll_1_850">Brent Simmons on Network Solutions</a></li>
 </ul>]]></description>
-            <pubDate>Tue, 25 Feb 2014 08:00:56 -0500</pubDate>
+            <pubDate>Tue, 25 Feb 2014 08:00:29 -0500</pubDate>
             <enclosure url="http://winningslowly.s3.amazonaws.com/episode-03.m4a" length="21240688" type="audio/x-m4a"/>
             <guid isPermaLink="false">410FEDCE-6431-4669-976E-5191D398AA84</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
