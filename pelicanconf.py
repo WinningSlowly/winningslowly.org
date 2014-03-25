@@ -75,7 +75,8 @@ DEFAULT_DATE_FORMAT = "%B %d, %Y"
 RELATIVE_URLS = True
 
 # Path configuration
-STATIC_PATHS = ['extra/CNAME',
+STATIC_PATHS = ['images',
+                'extra/CNAME',
                 'extra/favicon.ico',
                 'extra/favicon.png',
                 'extra/feed.xml',

@@ -132,6 +132,26 @@ a, a:visited {
     }
 }
 
+cite {
+    font-style: italic;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+figure {
+    margin-bottom: $fsp;
+    padding: 0.52em;
+    background: $light_orange;
+    color: $background;
+    font-weight: 300;
+    font-size: $fs_small;
+    line-height: $lh_small;
+    font-style: italic;
+}
+
 /* Layout */
 #wrapper {
     max-width: 44rem;
