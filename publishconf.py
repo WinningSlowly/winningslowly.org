@@ -14,5 +14,3 @@ SITEURL = 'http://www.winningslowly.org'
 RELATIVE_URLS = False
 
 DELETE_OUTPUT_DIRECTORY = True
-
-#GOOGLE_ANALYTICS = ""
