@@ -28,16 +28,17 @@ CUSTOM_FEED_URL = 'feed.xml'
 # Social widget
 IDENTITY = {'Site': {'RSS': FEED_DOMAIN + '/' + CUSTOM_FEED_URL,
                      'iTunes': 'https://itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2',
-                     'App.net': '//app.net/winningslowly',
-                     'App.net Broadcast': '//broadcast.app.net/40022/winning-slowly-episodes/',
-                     'Twitter': '//twitter.com/winningslowly',
-                     'Google+': '//plus.google.com/+WinningslowlyOrgCast',},
-            'Chris': {'App.net': '//app.net/chriskrycho',
-                      'GitHub': '//github.com/chriskrycho',
-                      'Twitter': '//twitter.com/chriskrycho',
-                      'Homepage': '//chriskrycho.com',},
-            'Stephen': {'Twitter': '//twitter.com/scarradini',
-                        'Homepage': '//stephencarradini.com',},}
+                     'Facebook': 'https://www.facebook.com/winningslowlypodcast',
+                     'App.net': 'https://app.net/winningslowly',
+                     'App.net Broadcast': 'https://broadcast.app.net/40022/winning-slowly-episodes/',
+                     'Twitter': 'https://twitter.com/winningslowly',
+                     'Google+': 'https://plus.google.com/+WinningslowlyOrgCast',},
+            'Chris': {'App.net': 'https://app.net/chriskrycho',
+                      'GitHub': 'https://github.com/chriskrycho',
+                      'Twitter': 'https://twitter.com/chriskrycho',
+                      'Homepage': 'https://chriskrycho.com',},
+            'Stephen': {'Twitter': 'https://twitter.com/scarradini',
+                        'Homepage': 'https://stephencarradini.com',},}
 
 PODTRAC_REDIRECT = 'http://www.podtrac.com/pts/redirect'
 PODTRAC_M4A = PODTRAC_REDIRECT + '.m4a'
