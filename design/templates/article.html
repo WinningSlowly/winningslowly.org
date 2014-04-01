@@ -1,5 +1,6 @@
 {% extends "base.html" %}
 {% block title %}{{ article.title}} &#9702; {{ SITENAME }} {% endblock %}
+{% block description %}{{ article.description|striptags }}{% endblock %}
 {% block content %}
    <article>
       {% include "includes/item-header.html" %}

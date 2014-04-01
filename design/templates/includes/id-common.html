@@ -1,7 +1,7 @@
 {% if article is defined %}
    <meta property="og:url" content="{{ article.url }}" />
-   <meta property="og:title" content="{{ article.title }}" />
-   <meta property="og:description" content="{{ article.subtitle }}" />
+   <meta property="og:title" content="{{ article.title|striptags }}" />
+   <meta property="og:description" content="{{ article.subtitle|striptags }}" />
    {% if article.image is defined %}
       <meta property="og:image" content="{{ article.image }}" />
    {% else %}

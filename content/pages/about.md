@@ -10,13 +10,13 @@ From crowdsourcing to Twitter gaffes to superhero movies to genetics to social j
 
 ## When
 
-Winning Slowly episodes (usually) come out every other Tuesday at 8 am. If unforeseen scheduling issues arise, we will update the schedule details below accordingly.
+Winning Slowly episodes (usually) come out every Tuesday at 8 am. If unforeseen scheduling issues arise, we will update the schedule details below accordingly.
 
 ### Upcoming Episodes:
 
-- **March 18:** Episode 0.05 -- With a "B"
-- **March 25:** Episode 0.06
-- **April 1:** Episode 0.07
+- **April 1:** Episode 0.07 -- Schrödinger's Law: on the Affordable Care Act and how implementation matters.
+- **April 8:** Episode 0.08 -- In which we talk about making laws of conscience and dealing with non-discrimination.
+- **April 15:** Episode 0.09 -- In which we talk about the strengths and weaknesses of conservative and progressive sentiment.
 
 ## Who
 
@@ -26,3 +26,13 @@ Stephen Carradini is a [digital media scholar](//crdm.chass.ncsu.edu/students "C
 
 They both reside in North Carolina.
 
+## Where
+
+You can follow Winning Slowly in all sorts of places around the web. To start with, you can subscribe to our feed [<i class="fa fa-fw fa-rss"></i>directly][feed] or via [<i class="fa fa-fw fa-play-circle"></i>iTunes][itunes]. You can also find us on [<i class="fa fa-fw fa-adn"></i>App.net][adn], [<i class="fa fa-twitter"></i>Twitter][tw], [<i class="fa fa-fw fa-facebook"></i>Facebook][fb], and [<i class="fa fa-fw fa-adn"></i>Google+][g+].
+
+[feed]: /feed.xml
+[itunes]: https://itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2
+[adn]: https://alpha.app.net/winningslowly
+[tw]: https://www.twitter.com/winningslowly
+[fb]: https://www.facebook.com/winningslowlypodcast
+[g+]: https://plus.google.com/+WinningslowlyOrgCast
