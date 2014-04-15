@@ -10,8 +10,8 @@
         <copyright>2014 Winning Slowly</copyright>
         <managingEditor>stephen@winningslowly.org (Stephen Carradini)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Mon, 31 Mar 2014 20:57:02 -0400</pubDate>
-        <lastBuildDate>Mon, 31 Mar 2014 20:57:02 -0400</lastBuildDate>
+        <pubDate>Mon, 14 Apr 2014 22:32:54 -0400</pubDate>
+        <lastBuildDate>Mon, 14 Apr 2014 22:32:54 -0400</lastBuildDate>
         <ttl>50</ttl>
         <image>
             <url>http://www.winningslowly.org/Winning-Slowly_podcast144.png</url>
@@ -39,6 +39,54 @@
         <itunes:category text="Religion &amp; Spirituality">
             <itunes:category text="Christianity"/>
         </itunes:category>
+        <item>
+            <title>Episode 0.09: Humility, Please!</title>
+            <link>http://www.winningslowly.org/2014/04/humility-please/</link>
+            <description><![CDATA[<h3 id="shownotes">Show Notes</h3>
+
+<p>In which we take seventeen minutes (on the dot!) to have a really great time explaining why there was no Episode 0.08. Basically: because it ended up being terrible by dint of having completely gotten away from us. The net result: a lesson in the difference between blogging and podcasting, a bit more humility, and a lot of laughter at our own expense.</p>
+
+<h4 id="chapters">Chapters</h4>
+
+<ul>
+<li>Intro (1:06)</li>
+<li>It Got Away From Us (1:06&#8211;5:56) [Don&#8217;t Blink! (3:54)]</li>
+<li>Different Media, Different Beast (5:56&#8211;11:55)</li>
+<li>A Humility Lesson (11:55&#8211;15:37)</li>
+<li>Conclusion (15:37&#8211;17:00)</li>
+</ul>
+
+<h3 id="music">Music</h3>
+
+<ul>
+<li><a href="http://kyealfredhillig.bandcamp.com/track/ugly-we-were-born">&#8220;Ugly We Were Born&#8221;</a>, from <a href="http://kyealfredhillig.bandcamp.com/album/real-snow"><em>Real Snow</em></a>, by Kye Alfred Hilling, used by permission.</li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">&#8220;Winning Slowly Theme&#8221;</a>, by Chris Krycho. Used by dint of being written for the show.</li>
+</ul>]]></description>
+            <pubDate>Tue, 15 Apr 2014 07:00:41 -0400</pubDate>
+            <enclosure url="http://winningslowly.s3.amazonaws.com/episode-0.09.m4a" length="8586118" type="audio/x-m4a"/>
+            <guid isPermaLink="false">140333D0-11A2-41FF-AD2A-52835C785B50</guid>
+            <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
+            <itunes:subtitle>Not Publishing 0.08, Learning Humility, and Differences in Media</itunes:subtitle>
+            <itunes:summary># Show Notes
+
+In which we take seventeen minutes (on the dot!) to have a really great time explaining why there was no Episode 0.08. Basically: because it ended up being terrible by dint of having completely gotten away from us. The net result: a lesson in the difference between blogging and podcasting, a bit more humility, and a lot of laughter at our own expense.
+
+## Chapters
+
+• Intro (1:06)
+• It Got Away From Us (1:06–5:56) [Don't Blink! (3:54)]
+• Different Media, Different Beast (5:56–11:55)
+• A Humility Lesson (11:55–15:37)
+• Conclusion (15:37–17:00)
+
+# Music
+
+- “Ugly We Were Born” (http://kyealfredhillig.bandcamp.com/track/ugly-we-were-born), from Real Snow (http://kyealfredhillig.bandcamp.com/album/real-snow), by Kye Alfred Hilling, used by permission.
+- “Winning Slowly Theme” (https://soundcloud.com/chriskrycho/winning-slowly), by Chris Krycho. Used by dint of being written for the show.
+</itunes:summary>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>17:00</itunes:duration>
+        </item>
         <item>
             <title>Episode 0.07: Schrödinger's Law</title>
             <link>http://www.winningslowly.org/2014/04/schrodingers-law/</link>
