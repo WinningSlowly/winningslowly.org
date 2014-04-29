@@ -4,14 +4,14 @@
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>A forum for two interdisciplinary thinkers to discuss the long view of current trends in technology, religion, art, ethics, and culture. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 2.5.1(2.5.1); Mac OS X Version 10.9.2 (Build 13C64) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 2.5.1(2.5.1); Mac OS X Version 10.9.3 (Build 13D45a) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2014 Winning Slowly</copyright>
         <managingEditor>stephen@winningslowly.org (Stephen Carradini)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Mon, 21 Apr 2014 20:55:54 -0400</pubDate>
-        <lastBuildDate>Mon, 21 Apr 2014 20:55:54 -0400</lastBuildDate>
+        <pubDate>Mon, 28 Apr 2014 20:28:09 -0400</pubDate>
+        <lastBuildDate>Mon, 28 Apr 2014 20:28:09 -0400</lastBuildDate>
         <ttl>50</ttl>
         <image>
             <url>http://www.winningslowly.org/Winning-Slowly_podcast144.png</url>
@@ -39,6 +39,76 @@
         <itunes:category text="Religion &amp; Spirituality">
             <itunes:category text="Christianity"/>
         </itunes:category>
+        <item>
+            <title>Episode 0.11: Only Acceptable Cream Cheese</title>
+            <link>http://www.winningslowly.org/2014/04/only-acceptable-cream-cheese/</link>
+            <description><![CDATA[<h3 id="shownotes">Show Notes</h3>
+
+<p>In which we tackle copyright (or left, as you like), barely touch on patents, and generally try to think about how to handle questions of intellectual property as consumers and creators thereof in the brave new world of digital economics and cheap copies of everything (even Nike shoes).</p>
+
+<h4 id="chapters">Chapters</h4>
+
+<ul>
+<li>Intro (1:02)</li>
+<li>The Reason for Copyright (1:02&#8211;8:22)</li>
+<li>Valuing Products in Different Ways (8:22&#8211;19:55)</li>
+<li>&#8220;Pay Me For This Thing&#8221; (19:55&#8211;26:55)</li>
+<li>Conclusion (28:10)</li>
+</ul>
+
+<h3 id="music">Music</h3>
+
+<p>We know. Pretty sweet sounds. Even if we do say so ourselves.</p>
+
+<ul>
+<li><a href="http://themidnightsons.bandcamp.com">&#8220;New Life&#8221;</a>, from <em>New Life</em>, by Stephen Carradini. Used because we can do whatever we want with our own music! (Turns out, in this case, so can you&#8230;)</li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">&#8220;Winning Slowly Theme&#8221;</a>, by Chris Krycho. See above!</li>
+</ul>
+
+<h3 id="links">Links</h3>
+
+<p>Things we talked about in the show you might want to read some more about. We give them to you for free!</p>
+
+<ul>
+<li><a href="http://www.amazon.com/Spreadable-Media-Creating-Networked-Postmillennial/dp/0814743501/"><em>Spreadable Media: Creating Value and Meaning in a Networked Culture</em></a>, by Henry Jenkins</li>
+<li><a href="http://stratechery.fm/episode-002-fat-as-a-service-faas/">Stratechery.fm Episode 02: Fat as a Service</a></li>
+<li><a href="http://us.ccli.com/licenses-and-services/church-copyright-license/">CCLI</a> &#8211; church copyright licenses, designed to allow churches to use music in their services without paying exorbitant fees</li>
+</ul>]]></description>
+            <pubDate>Tue, 29 Apr 2014 07:00:17 -0400</pubDate>
+            <enclosure url="http://winningslowly.s3.amazonaws.com/episode-0.11.m4a" length="14012608" type="audio/x-m4a"/>
+            <guid isPermaLink="false">3E58C11B-1010-4E13-B3D1-C6285C9BDC44</guid>
+            <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
+            <itunes:subtitle>The Reason for Copyright, Valuing Products in Different Ways, “Pay Me For This Thing”</itunes:subtitle>
+            <itunes:summary># Show Notes
+
+In which we tackle copyright (or left, as you like), barely touch on patents, and generally try to think about how to handle questions of intellectual property as consumers and creators thereof in the brave new world of digital economics and cheap copies of everything (even Nike shoes).
+
+## Chapters
+
+• Intro (1:02)
+• The Reason for Copyright (1:02–8:22)
+• Valuing Products in Different Ways (8:22–19:55)
+• "Pay Me For This Thing" (19:55–26:55)
+• Conclusion (28:10)
+
+# Music
+
+We know. Pretty sweet sounds. Even if we do say so ourselves.
+
+• “New Life” (http://themidnightsons.bandcamp.com), from the album New Life, by Stephen Carradini. Used because we can do whatever we want with our own music! (Turns out, in this case, so can you…)
+• “Winning Slowly Theme” (https://soundcloud.com/chriskrycho/winning-slowly), by Chris Krycho. See above!
+
+# Links
+
+Things we talked about in the show you might want to read some more about. We give them to you for free!
+
+• Spreadable Media: Creating Value and Meaning in a Networked Culture (http://www.amazon.com/Spreadable-Media-Creating-Networked-Postmillennial/dp/0814743501/), by Henry Jenkins
+• Stratechery.fm Episode 02: Fat as a Service (http://stratechery.fm/episode-002-fat-as-a-service-faas/)
+• CCLI (http://us.ccli.com/licenses-and-services/church-copyright-license/) – church copyright licenses, designed to allow churches to use music in their services without paying exorbitant fees</itunes:summary>
+            <itunes:keywords>copyright,intellectual property,art,digital economics</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>28:10</itunes:duration>
+        </item>
         <item>
             <title>Episode 0.10: Can You Make A Baby Smile?</title>
             <link>http://www.winningslowly.org/2014/04/can-you-make-a-baby-smile/</link>
