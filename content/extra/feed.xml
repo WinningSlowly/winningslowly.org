@@ -10,8 +10,8 @@
         <copyright>2014 Winning Slowly</copyright>
         <managingEditor>stephen@winningslowly.org (Stephen Carradini)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Mon, 28 Apr 2014 20:28:09 -0400</pubDate>
-        <lastBuildDate>Mon, 28 Apr 2014 20:28:09 -0400</lastBuildDate>
+        <pubDate>Mon, 05 May 2014 19:24:31 -0400</pubDate>
+        <lastBuildDate>Mon, 05 May 2014 19:24:31 -0400</lastBuildDate>
         <ttl>50</ttl>
         <image>
             <url>http://www.winningslowly.org/Winning-Slowly_podcast144.png</url>
@@ -39,6 +39,70 @@
         <itunes:category text="Religion &amp; Spirituality">
             <itunes:category text="Christianity"/>
         </itunes:category>
+        <item>
+            <title>Episode 0.12</title>
+            <link>http://www.winningslowly.org/2014/05/clickbait-headlines/</link>
+            <description><![CDATA[<h3 id="shownotes">Show Notes</h3>
+
+<p>In which we talk about headline-writing in general, click-bait headlines in particular, and why we don&#8217;t think that click-bait headlines are a &#8220;best practice&#8221;&#8212;or really a good thing at all. How these realities shape all sorts of discourse, not just headline-writing, including political stances.</p>
+
+<p>Note: Chris kept talking about Slate when he meant <em>not</em> Slate (and specifically &#8220;Pajiba.com&#8221;). <em>His bad.</em></p>
+
+<h4 id="chapters">Chapters</h4>
+
+<ul>
+<li>Intro (1:26)</li>
+<li>Headline-Writing (1:26&#8211;6:58)</li>
+<li>Whether Ends Justify Means (6:58&#8211;12:30)</li>
+<li>Means Shape Ends (12:30&#8211;16:47)</li>
+<li>Truthy, or Truly? (16:47&#8211;21:07)</li>
+<li>Conclusion (21:07&#8211;22:10)</li>
+</ul>
+
+<h3 id="music">Music</h3>
+
+<ul>
+<li><a href="http://thedukeofnorfolk.bandcamp.com/album/birds-fly-south">&#8220;Nightingale Movement I&#8221;</a>, from Birds… Fly South!, by The Duke of Norfolk &#8211; used by permission.</li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">&#8220;Winning Slowly Theme&#8221;</a>, by Chris Krycho. Used because it was written just so you could hear it at the end of every show!</li>
+</ul>
+
+<h3 id="links">Links</h3>
+
+<ul>
+<li><a href="http://www.pajiba.com/think_pieces/how-saloncom-rewrote-my-headline-and-turned-me-into-an-internet-troll.php">&#8220;How Salon.com Rewrote My Headline and Turned Me Into an Internet Troll&#8221;</a></li>
+</ul>]]></description>
+            <pubDate>Tue, 06 May 2014 07:00:48 -0400</pubDate>
+            <enclosure url="http://winningslowly.s3.amazonaws.com/episode-0.12.m4a" length="11065304" type="audio/x-m4a"/>
+            <guid isPermaLink="false">042D323E-F9B7-4C25-92A3-BF674808D2AC</guid>
+            <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
+            <itunes:subtitle>Headline-Writing, Whether Ends Justify Means, Means Shape Ends, Truthy, or Truly?</itunes:subtitle>
+            <itunes:summary># Show Notes
+
+In which we talk about headline-writing in general, click-bait headlines in particular, and why we don't think that click-bait headlines are a “best practice”—or really a good thing at all. How these realities shape all sorts of discourse, not just headline-writing, including political stances.
+
+Note: Chris kept talking about Slate when he meant *not* Slate (and specifically "Pajiba.com"). *His bad.*
+
+## Chapters
+
+• Intro (1:26)
+• Headline-Writing (1:26–6:58)
+• Whether Ends Justify Means (6:58–12:30)
+• Means Shape Ends (12:30–16:47)
+• Truthy, or Truly? (16:47–21:07)
+• Conclusion (21:07–22:10)
+
+# Music
+
+• “Nightingale Movement I” (http://thedukeofnorfolk.bandcamp.com/album/birds-fly-south), from Birds… Fly South!, by The Duke of Norfolk – used by permission.
+• “Winning Slowly Theme” (https://soundcloud.com/chriskrycho/winning-slowly), by Chris Krycho. Used because it was written just so you could hear it at the end of every show!
+
+# Links
+
+• “How Salon.com Rewrote My Headline and Turned Me Into an Internet Troll” (http://www.pajiba.com/think_pieces/how-saloncom-rewrote-my-headline-and-turned-me-into-an-internet-troll.php)</itunes:summary>
+            <itunes:keywords>ethics,economics</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>22:10</itunes:duration>
+        </item>
         <item>
             <title>Episode 0.11: Only Acceptable Cream Cheese</title>
             <link>http://www.winningslowly.org/2014/04/only-acceptable-cream-cheese/</link>
