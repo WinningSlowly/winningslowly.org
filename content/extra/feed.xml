@@ -4,14 +4,14 @@
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>A forum for two interdisciplinary thinkers to discuss the long view of current trends in technology, religion, art, ethics, and culture. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 2.5.1(2.5.1); Mac OS X Version 10.9.3 (Build 13D45a) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 2.5.2(2.5.2); Mac OS X Version 10.9.3 (Build 13D45a) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2014 Winning Slowly</copyright>
         <managingEditor>stephen@winningslowly.org (Stephen Carradini)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Wed, 07 May 2014 11:28:13 -0400</pubDate>
-        <lastBuildDate>Wed, 07 May 2014 11:28:13 -0400</lastBuildDate>
+        <pubDate>Mon, 12 May 2014 19:31:57 -0400</pubDate>
+        <lastBuildDate>Mon, 12 May 2014 19:31:57 -0400</lastBuildDate>
         <ttl>50</ttl>
         <image>
             <url>http://www.winningslowly.org/Winning-Slowly_podcast144.png</url>
@@ -39,6 +39,66 @@
         <itunes:category text="Religion &amp; Spirituality">
             <itunes:category text="Christianity"/>
         </itunes:category>
+        <item>
+            <title>Episode 0.13: Ten Thousandth Lightbulb</title>
+            <link>http://www.winningslowly.org/2014/05/ten-thousandth-lightbulb/</link>
+            <description><![CDATA[<h3 id="shownotes">Show Notes</h3>
+
+<p>In which we talk about App.net closing down, how even good business models do not guarantee successful businesses, and the future of paying for things on the internet&#8212;especially whether social media will ever be the kind of thing people are willing to pay for.</p>
+
+<h4 id="chapters">Chapters</h4>
+
+<ul>
+<li>Intro (0:53)</li>
+<li>Follow-up: Fixed and Marginal Costs (0:53&#8211;1:44)</li>
+<li>What Happened to ADN? (1:44&#8211;7:26)</li>
+<li>Paying to Socialize (7:26&#8211;17:41)</li>
+<li>Free or Not Free (17:41&#8211;23:00)</li>
+<li>Conclusion (23:00&#8211;24:47)</li>
+</ul>
+
+<h3 id="music">Music</h3>
+
+<ul>
+<li><a href="http://little-chief.bandcamp.com/album/lions-den">&#8220;Mountain Song&#8221;</a>, from <em>Lion&#8217;s Den</em> by Little Chief. Used by permission.</li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">&#8220;Winning Slowly Theme&#8221;</a>, by Chris Krycho. Used because we don&#8217;t need permission to use our own stuff!</li>
+</ul>
+
+<h3 id="links">Links</h3>
+
+<ul>
+<li><a href="http://blog.app.net/2014/05/06/app-net-state-of-the-union/">App.Net State of the Union</a> &#8211; in which Dalton Caldwell (founder of App.net) announced publicly the layoffs and future of the service.</li>
+</ul>]]></description>
+            <pubDate>Tue, 13 May 2014 07:00:43 -0400</pubDate>
+            <enclosure url="http://winningslowly.s3.amazonaws.com/episode-0.13.m4a" length="12341825" type="audio/x-m4a"/>
+            <guid isPermaLink="false">11144328-39FD-4664-8353-D244EA65C874</guid>
+            <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
+            <itunes:subtitle>What Happened to App.net, Paying to Socialize, Free or Not Free</itunes:subtitle>
+            <itunes:summary># Show Notes
+
+In which we talk about App.net closing down, how even good business models do not guarantee successful businesses, and the future of paying for things on the internet—especially whether social media will ever be the kind of thing people are willing to pay for.
+
+## Chapters
+
+• Intro (0:53)
+• Follow-up: Fixed and Marginal Costs (0:53–1:44)
+• What Happened to ADN? (1:44–7:26)
+• Paying to Socialize (7:26–17:41)
+• Free or Not Free (17:41–23:00)
+• Conclusion (23:00–24:47)
+
+# Music
+
+• “Mountain Song” (http://little-chief.bandcamp.com/album/lions-den), from Lion's Den by Little Chief. Used by permission.
+• “Winning Slowly Theme” (https://soundcloud.com/chriskrycho/winning-slowly), by Chris Krycho. Used because we don't need permission to use our own stuff!
+
+# Links
+
+• [App.Net State of the Union](http://blog.app.net/2014/05/06/app-net-state-of-the-union/) – in which Dalton Caldwell (founder of App.net) announced publicly the layoffs and future of the service.</itunes:summary>
+            <itunes:keywords>social media,economics</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>24:47</itunes:duration>
+        </item>
         <item>
             <title>Episode 0.12: You’ll Never Guess What the Hosts Say in This Podcast!</title>
             <link>http://www.winningslowly.org/2014/05/clickbait-headlines/</link>

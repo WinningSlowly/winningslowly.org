@@ -10,11 +10,7 @@ From crowdsourcing to Twitter gaffes to superhero movies to genetics to social j
 
 ## When
 
-Winning Slowly episodes (usually) come out every Tuesday at 8 am. If unforeseen scheduling issues arise, we will update the schedule details below accordingly.
-
-### Upcoming Episodes:
-
-- **April 15:** Episode 0.09 -- In which we talk about why there is no 0.08: how different media forms work in surprisingly different ways.
+Winning Slowly episodes (usually) come out every Tuesday at 7 am Eastern time. If unforeseen scheduling issues arise, we will add a note below accordingly.
 
 ## Who
 
