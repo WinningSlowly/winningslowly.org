@@ -31,14 +31,13 @@ IDENTITY = {'Site': {'RSS': FEED_DOMAIN + '/' + CUSTOM_FEED_URL,
                      'Facebook': 'https://www.facebook.com/winningslowlypodcast',
                      'App.net': 'https://app.net/winningslowly',
                      'App.net Broadcast': 'https://broadcast.app.net/40022/winning-slowly-episodes/',
-                     'Twitter': 'https://twitter.com/winningslowly',
-                     'Google+': 'https://plus.google.com/+WinningslowlyOrgCast',},
+                     'Twitter': 'https://twitter.com/winningslowly',},
             'Chris': {'App.net': 'https://app.net/chriskrycho',
                       'GitHub': 'https://github.com/chriskrycho',
                       'Twitter': 'https://twitter.com/chriskrycho',
-                      'Homepage': 'https://chriskrycho.com',},
+                      'Homepage': 'http://chriskrycho.com',},
             'Stephen': {'Twitter': 'https://twitter.com/scarradini',
-                        'Homepage': 'https://stephencarradini.com',},}
+                        'Homepage': 'http://stephencarradini.com',},}
 
 PODTRAC_REDIRECT = 'http://www.podtrac.com/pts/redirect'
 PODTRAC_M4A = PODTRAC_REDIRECT + '.m4a'
