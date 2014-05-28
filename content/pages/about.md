@@ -12,6 +12,10 @@ From crowdsourcing to Twitter gaffes to superhero movies to genetics to social j
 
 Winning Slowly episodes (usually) come out every Tuesday at 7 am Eastern time. If unforeseen scheduling issues arise, we will add a note below accordingly.
 
+### Season 1
+
+Winning Slowly is on hiatus until July 15, when it will relaunch with the start of Season 1. In the meantime, feel free to listen to the episodes in Season 0, and send us thoughts, comments, and suggestions on [Twitter](https://twitter.com/winningslowly), [Facebook](https://www.facebook.com/winningslowlypodcast), or [App.net](https://app.net/winningslowly)!
+
 ## Who
 
 Chris Krycho is a [seminarian](//www.sebts.edu/ "Southeastern Baptist Theological Seminary"), [web designer](//github.com/chriskrycho), [writer](//chriskrycho.com "chriskrycho.com"), and [classical composer](//soundcloud.com/chriskrycho).
