@@ -50,3 +50,4 @@ design/favicon.*
 # Don't push recordings and ignore output
 recordings
 output
+cache
