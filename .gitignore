@@ -51,3 +51,6 @@ design/favicon.*
 recordings
 output
 cache
+
+# Ulysses bits
+.Ulysses*
