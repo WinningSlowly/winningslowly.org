@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
     <channel>
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
@@ -10,8 +10,8 @@
         <copyright>2014 Winning Slowly</copyright>
         <managingEditor>stephen@winningslowly.org (Stephen Carradini)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Mon, 01 Sep 2014 14:37:29 -0400</pubDate>
-        <lastBuildDate>Mon, 01 Sep 2014 14:37:29 -0400</lastBuildDate>
+        <pubDate>Wed, 03 Sep 2014 20:03:18 -0400</pubDate>
+        <lastBuildDate>Wed, 03 Sep 2014 20:03:18 -0400</lastBuildDate>
         <ttl>50</ttl>
         <image>
             <url>http://www.winningslowly.org/Winning-Slowly_podcast144.png</url>
@@ -22,7 +22,9 @@
         </image>
         <atom:link href="http://www.winningslowly.org/feed.xml" rel="self" type="application/rss+xml"/>
         <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
-        <itunes:subtitle>A biweekly podcast by Chris Krycho and Stephen Carradini, offering thoughtful commentary on trends in culture, technology, religion, ethics, and art.</itunes:subtitle>
+        <itunes:subtitle>A weekly podcast by Chris Krycho and Stephen Carradini, offering thoughtful commentary on trends in culture, technology, religion, ethics, and art. Releases Tuesdays at 7am Eastern time.</itunes:subtitle>
+        <itunes:summary>Winning Slowly is a forum for two interdisciplinary thinkers to discuss the long view of current trends in technology, religion, art, ethics, and culture. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond? From crowdsourcing to Twitter gaffes to superhero movies to genetics to social justice issues, Winning Slowly delivers a thoughtful analysis of how the small things we do can have big impacts (and vice versa).</itunes:summary>
+        <itunes:keywords>technology,religion,ethics,art,music,journalism,Christianity,new media,patience,winning,slowly,social justice,movies</itunes:keywords>
         <itunes:image href="http://www.winningslowly.org/podcast.png"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:owner>
@@ -30,12 +32,8 @@
             <itunes:email>chris@winningslowly.org</itunes:email>
         </itunes:owner>
         <itunes:block>no</itunes:block>
-        <itunes:category text="Society &amp; Culture">
-            <itunes:category text="Philosophy"/>
-        </itunes:category>
-        <itunes:category text="Technology">
-            <itunes:category text="Tech News"/>
-        </itunes:category>
+        <itunes:category text="Technology"/>
+        <itunes:category text="Arts"/>
         <itunes:category text="Religion &amp; Spirituality">
             <itunes:category text="Christianity"/>
         </itunes:category>
