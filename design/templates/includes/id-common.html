@@ -1,5 +1,5 @@
 {% if article is defined %}
-   <meta property="og:url" content="{{ article.url }}" />
+   <meta property="og:url" content="{{ SITEURL }}/{{ article.url }}" />
    <meta property="og:title" content="{{ article.title|striptags }}" />
    <meta property="og:description" content="{{ article.subtitle|striptags }}" />
    <meta property="og:type" content="article" />
