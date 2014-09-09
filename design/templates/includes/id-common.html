@@ -12,6 +12,10 @@
       <meta property="og:audio" content="{{ SITEURL }}/{{ article.m4a }}"/>
       <meta property="og:audio:type" content="audio/aac" />
    {% endif %}
+   {% if article.mp3 is defined %}
+      <meta property="og:audio" content="{{ SITEURL }}/{{ article.mp3 }}"/>
+      <meta property="og:audio:type" content="audio/mp3" />
+   {% endif %}
 {% else %}
    <meta property="og:url" content="{{ SITEURL }}" />
    <meta property="og:title" content="{{ SITENAME }}" />
