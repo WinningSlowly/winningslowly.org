@@ -4,14 +4,14 @@
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>A forum for two interdisciplinary thinkers to discuss the long view of current trends in technology, religion, art, ethics, and culture. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 2.5.3(2.5.3); Mac OS X Version 10.10 (Build 14A329r) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 2.5.3(2.5.3); Mac OS X Version 10.10 (Build 14A361p) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2014 Winning Slowly</copyright>
         <managingEditor>stephen@winningslowly.org (Stephen Carradini)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Mon, 15 Sep 2014 21:08:29 -0400</pubDate>
-        <lastBuildDate>Mon, 15 Sep 2014 21:08:29 -0400</lastBuildDate>
+        <pubDate>Mon, 22 Sep 2014 23:42:50 -0400</pubDate>
+        <lastBuildDate>Mon, 22 Sep 2014 23:42:50 -0400</lastBuildDate>
         <ttl>50</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -38,37 +38,49 @@
             <itunes:category text="Christianity"/>
         </itunes:category>
         <item>
-            <title>1.10: Because Capitalism Yay!</title>
-            <link>http://www.winningslowly.org/2014/09/because-capitalism-yay/</link>
+            <title>1.11: We Need Life Editors</title>
+            <link>http://www.winningslowly.org/2014/09/we-need-life-editors/</link>
             <description><![CDATA[<h3 id="shownotes">Show Notes</h3>
 
-<p>In which we talk about something Apple did this week&#8230; but not the thing they announced, and almost certainly not what you&#8217;d expect. Namely: the death of the iPod Classic: Apple&#8217;s oldest consumer product outside the Mac, and a veritable gamechanger for the music industry. It&#8217;s gone, and Stephen is upset. (Chris, not so much.)</p>
+<p>In which we geek out about Doctor Who&#8230; and do our best to say something meaningful about the necessity of people who can tell us what we&#8217;re getting wrong in life, and who can be strong where we have weaknesses.</p>
+
+<h4 id="recommendedstephenmoffatepisodesofdoctorwho">Recommended Stephen Moffat Episodes of <em>Doctor Who</em></h4>
+
+<ul>
+<li>&#8220;The Empty Child&#8221; and &#8220;The Doctor Dances&#8221;</li>
+<li>&#8220;The Girl in the Fireplace&#8221;</li>
+<li>&#8220;Blink&#8221;</li>
+<li>&#8220;Silence in the Library&#8221; and &#8220;Forest of the Dead&#8221;</li>
+<li>&#8220;The Day of the Doctor&#8221; (fiftieth anniversary special)</li>
+</ul>
 
 <h4 id="chapters">Chapters</h4>
 
 <ul>
-<li>Intro (1:32)</li>
-<li>It&#8217;s Probably Pastel White (1:32&#8211;9:45)</li>
-<li>You&#8217;re Probably in my Hundred Friends (9:45&#8211;14:45)</li>
-<li>What the Corporate Overlord Giveth (14:45&#8211;19:45)</li>
-<li>How You Relate to an Object (19:45&#8211;26:45)</li>
-<li>Conclusion (26:45&#8211;27:58)</li>
+<li>Intro (1:10)</li>
+<li>I Am Awesome At This (1:10&#8211;7:03)</li>
+<li>Actually It Was a Robot in a Dream (7:03&#8211;14:48)</li>
+<li>Lone Rebel Genius (14:48&#8211;20:38)</li>
+<li>Hip Motion is for Losers (20:38&#8211;25:04)</li>
+<li>Conclusion (25:04&#8211;26:30)</li>
+<li>Things We Cut. Yep. (26:30&#8211;27:08)</li>
 </ul>
 
 <h3 id="music">Music</h3>
 
 <ul>
-<li><a href="https://soundcloud.com/yomontoya/carry-oceans">&#8220;Carry Oceans&#8221;</a>, by <a href="http://yomontoya.com">Montoya</a> &#8211; used by permission.</li>
-<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">&#8220;Winning Slowly Theme&#8221;</a> by Chris Krycho, who can use his own music in public context whenever he so desires.</li>
+<li><a href="https://itunes.apple.com/us/album/doctor-who-theme-tv-version/id211202668?i=211202676">&#8220;Doctor Who Theme&#8221;</a>, by Ron Grainer, arranged by Murray Gold. We&#8217;re pretty confident this goes under Fair Use.</li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">&#8220;Winning Slowly Theme&#8221;</a> by Chris Krycho. No dance beat today, sorry.</li>
 </ul>
 
-<h3 id="links">Links</h3>
+<h3 id="linksnotes">Links</h3>
+
+<p>In which we link to neat things you might like.</p>
 
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/IPod_Classic">iPod Classic</a> (Wikipedia)</li>
-<li><a href="https://flipboard.com">Flipboard</a></li>
-<li><a href="http://www.lumosity.com">Lumosity</a></li>
-<li><a href="http://www.inkpadnotepad.com">Inkpad</a></li>
+<li><a href="http://reallifecomics.com/?comic=august-26-2014">Allergic to Consensus</a> &#8211; Real Life Comics by Greg Dean</li>
+<li><a href="http://www.writingexcuses.com/2014/08/24/writing-excuses-9-35-what-to-do-when-you-disagree-with-your-editor/">&#8220;What to do when you disagree with your editor&#8221;</a> &#8211; Writing Excuses, Season 9, Episode 35</li>
+<li>Previously on the show: <a href="http://www.winningslowly.org/2014/08/superhero-movies/">1.04 Superhero Movies!</a></li>
 </ul>
 
 <h4 id="followsubcribe">Follow/Subcribe</h4>
@@ -77,6 +89,111 @@
 <li><a href="https://itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2">iTunes</a></li>
 <li><a href="https://twitter.com/winningslowly">Twitter</a></li>
 <li><a href="https://www.facebook.com/winningslowlypodcast">Facebook</a></li>
+<li><a href="https://alpha.app.net/winningslowly">App.net</a></li>
+</ul>]]></description>
+            <pubDate>Tue, 23 Sep 2014 07:00:09 -0400</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/www.winningslowly.org/episode-1.11.m4ahttp://www.podtrac.com/pts/redirect.m4a/www.winningslowly.org/episode-1.11.m4a" length="13517638" type="audio/x-m4a"/>
+            <guid isPermaLink="false">A4922B54-7399-4922-BD0F-137304AD625A</guid>
+            <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
+            <itunes:subtitle>I Am Awesome At This, Actually It Was a Robot in a Dream, Lone Rebel Genius, Hip Motion is for Losers</itunes:subtitle>
+            <itunes:summary>Show Notes
+
+In which we geek out about Doctor Who... and do our best to say something meaningful about the necessity of people who can tell us what we're getting wrong in life, and who can be strong where we have weaknesses.
+
+Recommended Stephen Moffat Episodes of Doctor Who
+
+◦ “The Empty Child” and “The Doctor Dances”
+◦ “The Girl in the Fireplace”
+◦ “Blink”
+◦ “Silence in the Library” and “Forest of the Dead”
+◦ “The Day of the Doctor” (fiftieth anniversary special)
+
+
+Chapters
+
+◦ Intro (1:10)
+◦ I Am Awesome At This (1:10–7:03)
+◦ Actually It Was a Robot in a Dream (7:03–14:48)
+◦ Lone Rebel Genius (14:48–20:38)
+◦ Hip Motion is for Losers (20:38–25:04)
+◦ Conclusion (25:04–26:30)
+◦ Things We Cut. Yep. (26:30–27:08)
+
+Music
+
+◦ “Doctor Who Theme” (https://itunes.apple.com/us/album/doctor-who-theme-tv-version/id211202668?i=211202676), by Ron Grainer, arranged by Murray Gold. We're pretty confident this goes under Fair Use.
+◦ “Winning Slowly Theme” (https://soundcloud.com/chriskrycho/winning-slowly) by Chris Krycho. No dance beat today, sorry.
+
+Links
+
+In which we link to neat things you might like.
+
+◦ Allergic to Consensus (http://reallifecomics.com/?comic=august-26-2014) – Real Life Comics by Greg Dean
+◦ “What to do when you disagree with your editor” (http://www.writingexcuses.com/2014/08/24/writing-excuses-9-35-what-to-do-when-you-disagree-with-your-editor/) – Writing Excuses, Season 9, Episode 35
+◦ Previously on the show: 1.04 Superhero Movies! (http://www.winningslowly.org/2014/08/superhero-movies/)
+
+Follow/Subscribe
+
+◦ iTunes (https://itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2)
+◦ Twitter (https://twitter.com/winningslowly)
+◦ Facebook (https://www.facebook.com/winningslowlypodcast)
+◦ App.net (https://alpha.app.net/winningslowly)
+
+</itunes:summary>
+            <itunes:keywords>Doctor Who,art,friendship,editors</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>27:08</itunes:duration>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+        </item>
+        <item>
+            <title>1.10: Because Capitalism Yay!</title>
+            <link>http://www.winningslowly.org/2014/09/because-capitalism-yay/</link>
+            <description><![CDATA[<h3 id="shownotes">Show Notes</h3>
+
+In which we talk about something Apple did this week… but not the thing they announced, and almost certainly not what you’d expect. Namely: the death of the iPod Classic: Apple’s oldest consumer product outside the Mac, and a veritable gamechanger for the music industry. It’s gone, and Stephen is upset. (Chris, not so much.)
+<br />
+<h4 id="chapters">Chapters</h4>
+
+<ul>
+<li>Intro (1:32)</li>
+
+<li>It’s Probably Pastel White (1:32–9:45)</li>
+
+<li>You’re Probably in my Hundred Friends (9:45–14:45)</li>
+
+<li>What the Corporate Overlord Giveth (14:45–19:45)</li>
+
+<li>How You Relate to an Object (19:45–26:45)</li>
+
+<li>Conclusion (26:45–27:58)</li>
+</ul>
+<h3 id="music">Music</h3>
+
+<ul>
+<li><a href="https://soundcloud.com/yomontoya/carry-oceans">“Carry Oceans”</a>, by <a href="http://yomontoya.com">Montoya</a> – used by permission.</li>
+
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho, who can use his own music in public context whenever he so desires.</li>
+</ul>
+<h3 id="links">Links</h3>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/IPod_Classic">iPod Classic</a> (Wikipedia)</li>
+
+<li><a href="https://flipboard.com">Flipboard</a></li>
+
+<li><a href="http://www.lumosity.com">Lumosity</a></li>
+
+<li><a href="http://www.inkpadnotepad.com">Inkpad</a></li>
+</ul>
+<h4 id="followsubcribe">Follow/Subscribe</h4>
+
+<ul>
+<li><a href="https://itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2">iTunes</a></li>
+
+<li><a href="https://twitter.com/winningslowly">Twitter</a></li>
+
+<li><a href="https://www.facebook.com/winningslowlypodcast">Facebook</a></li>
+
 <li><a href="https://alpha.app.net/winningslowly">App.net</a></li>
 </ul>]]></description>
             <pubDate>Tue, 16 Sep 2014 07:00:44 -0400</pubDate>
@@ -109,7 +226,7 @@ Links
 ◦ Lumosity (http://www.lumosity.com)
 ◦ Inkpad (http://www.inkpadnotepad.com)
 
-Follow/Subcribe
+Follow/Subscribe
 
 ◦ iTunes (https://itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2)
 ◦ Twitter (https://twitter.com/winningslowly)
@@ -120,49 +237,59 @@ Follow/Subcribe
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>27:58</itunes:duration>
             <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
-            <media:thumbnail url="http://www.winningslowly.org/podcast.png"/>
+            <media:thumbnail url="http://www.winningslowly.org/6G_iPod.svg.png"/>
         </item>
         <item>
             <title>1.09: Kind of Like a Virus</title>
             <link>http://www.winningslowly.org/2014/09/kind-of-like-a-virus/</link>
             <description><![CDATA[<h3 id="shownotes">Show Notes</h3>
 
-<p>In which we talk about the recent celebrity nude selfies leak from just about every angle: the people who hijacked the photos, those who took the photos, the technology used to store the photos, and society at large. We talk about what individuals&#8217; relationship with technology should look like, how we should view those who behave wickedly, and where there might be hope for solving these kinds of problems in our society.</p>
-
+In which we talk about the recent celebrity nude selfies leak from just about every angle: the people who hijacked the photos, those who took the photos, the technology used to store the photos, and society at large. We talk about what individuals’ relationship with technology should look like, how we should view those who behave wickedly, and where there might be hope for solving these kinds of problems in our society.
+<br />
 <h4 id="chapters">Chapters</h4>
 
 <ul>
 <li>Intro (0:58)</li>
-<li>The Internet is Not &#8220;Safe&#8221; (0:58&#8211;07:23)</li>
-<li>Degrading Women (7:23&#8211;15:51)</li>
-<li>People Do Wicked Things (15:51&#8211;20:57)</li>
-<li>No Better Answers (20:57&#8211;27:45)</li>
-<li>Conclusion (27:45&#8211;28:45)</li>
-</ul>
 
+<li>The Internet is Not “Safe” (0:58–07:23)</li>
+
+<li>Degrading Women (7:23–15:51)</li>
+
+<li>People Do Wicked Things (15:51–20:57)</li>
+
+<li>No Better Answers (20:57–27:45)</li>
+
+<li>Conclusion (27:45–28:45)</li>
+</ul>
 <h3 id="music">Music</h3>
 
 <ul>
-<li>&#8220;Trap&#8221; from <a href="http://remediesbham.bandcamp.com"><em>Believers</em></a> by Remedies. Used by permission.</li>
-<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">&#8220;Winning Slowly Theme&#8221;</a> by Chris Krycho, who can use his own music in public context whenever he so desires.</li>
-</ul>
+<li>“Trap” from <a href="http://remediesbham.bandcamp.com"><em>Believers</em></a> by Remedies. Used by permission.</li>
 
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho, who can use his own music in public context whenever he so desires.</li>
+</ul>
 <h3 id="links">Links</h3>
 
 <ul>
 <li><a href="http://www.theguardian.com/world/2014/sep/01/nude-photos-of-jennifer-lawrence-and-others-posted-online-by-alleged-hacker">Nude photos of Jennifer Lawrence and others posted online by alleged hacker</a> (The Guardian)</li>
+
 <li><a href="http://arstechnica.com/security/2014/09/what-jennifer-lawrence-can-teach-you-about-cloud-security/">Update: What Jennifer Lawrence can teach you about cloud security</a> (Ars Technica)</li>
+
 <li><a href="http://arstechnica.com/tech-policy/2014/09/apple-confirms-celebrities-accounts-breached-in-highly-targeted-attack/">Apple confirms celebrities’ accounts breached in “highly targeted” attack</a> (Ars Technica)</li>
+
 <li><a href="http://www.theverge.com/2014/9/1/6092089/nude-celebrity-hack">Hack leaks hundreds of nude celebrity photos</a> (The Verge)</li>
+
 <li><a href="http://www.theverge.com/2014/9/2/6098107/apple-denies-icloud-breach-celebrity-nude-photo-hack">Apple Denies iCloud breach in celebrity nude photo hack</a> (The Verge)</li>
 </ul>
-
-<h4 id="followsubcribe">Follow/Subcribe</h4>
+<h4 id="followsubcribe">Follow/Subscribe</h4>
 
 <ul>
 <li><a href="https://itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2">iTunes</a></li>
+
 <li><a href="https://twitter.com/winningslowly">Twitter</a></li>
+
 <li><a href="https://www.facebook.com/winningslowlypodcast">Facebook</a></li>
+
 <li><a href="https://alpha.app.net/winningslowly">App.net</a></li>
 </ul>]]></description>
             <pubDate>Tue, 09 Sep 2014 07:00:39 -0400</pubDate>
@@ -196,7 +323,7 @@ Links
 ◦ Hack leaks hundreds of nude celebrity photos (http://www.theverge.com/2014/9/1/6092089/nude-celebrity-hack) (The Verge)
 ◦ Apple Denies iCloud breach in celebrity nude photo hack (http://www.theverge.com/2014/9/2/6098107/apple-denies-icloud-breach-celebrity-nude-photo-hack) (The Verge)
 
-Follow/Subcribe
+Follow/Subscribe
 
 ◦ iTunes (https://itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2)
 ◦ Twitter (https://twitter.com/winningslowly)
@@ -214,88 +341,128 @@ Follow/Subcribe
             <link>http://www.winningslowly.org/2014/09/how-victor-hugo-could-afford-to-live/</link>
             <description><![CDATA[<h3 id="shownotes">Show Notes</h3>
 
-<p>In which we talk about the drive to publish all the time and the value of publishing more substantive content at a slower pace. We talk about the way the internet has driven us toward rapid-fire publishing models and how long-form and high-quality content is difficult (if not impossible) to publish on this model. We look at how to build an audience via quality and the slow route instead of the click-driven model, note that this is difficult to sustain as a means of income, and even think a bit about the history of long-form and serial publishing.</p>
-
+In which we talk about the drive to publish all the time and the value of publishing more substantive content at a slower pace. We talk about the way the internet has driven us toward rapid-fire publishing models and how long-form and high-quality content is difficult (if not impossible) to publish on this model. We look at how to build an audience via quality and the slow route instead of the click-driven model, note that this is difficult to sustain as a means of income, and even think a bit about the history of long-form and serial publishing.
+<br />
 <h4 id="chapters">Chapters</h4>
 
 <ul>
 <li>Intro (1:23)</li>
-<li>Peak Stream (1:23&#8211;6:44)</li>
-<li>Winning Slowly Quickly (6:44&#8211;11:14)</li>
-<li>Winning Slowly Slowly (11:14&#8211;23:33)</li>
-<li>Conclusion (23:33&#8211;24:35)</li>
-</ul>
 
+<li>Peak Stream (1:23–6:44)</li>
+
+<li>Winning Slowly Quickly (6:44–11:14)</li>
+
+<li>Winning Slowly Slowly (11:14–23:33)</li>
+
+<li>Conclusion (23:33–24:35)</li>
+</ul>
 <h3 id="music">Music</h3>
 
 <ul>
-<li>&#8220;Seasons&#8221; from <em>Palm Ghosts</em> by <a href="http://palmghosts.com">Palm Ghosts</a></li>
-<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">&#8220;Winning Slowly Theme&#8221;</a> by Chris Krycho. Mmm. Piano.</li>
-</ul>
+<li>“Seasons” from <em>Palm Ghosts</em> by <a href="http://palmghosts.com">Palm Ghosts</a></li>
 
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho. Mmm. Piano.</li>
+</ul>
 <h3 id="links">Links</h3>
 
 <ul>
-<li><a href="http://www.theatlantic.com/technology/archive/2013/12/2013-the-year-the-stream-crested/282202/">&#8220;2013: The Year the &#8216;Stream&#8217; Crested&#8221;</a> &#8211; the Atlantic</li>
-<p><li>Chris&#8217; favorite podcasts (the ones he gets sad if they come out late):</p>
+<li><a href="http://www.theatlantic.com/technology/archive/2013/12/2013-the-year-the-stream-crested/282202/">“2013: The Year the ‘Stream’ Crested”</a> – the Atlantic</li>
+
+
+<p><li>Chris’ favorite podcasts (the ones he gets sad if they come out late):</p>
 
 <ul>
 <li><a href="http://5by5.tv/incomparable">The Incomparable</a></li>
+
 <li><a href="http://atp.fm">Accidental Tech Podcast</a></li>
-</ul></li>
-<p><li><a href="http://independentclauses.com">Independent Clauses</a> &#8211; Stephen&#8217;s independent music site, with reviews that work as press quotes for small indie bands.</p>
+</ul>
+</li>
+
+
+<p><li><a href="http://independentclauses.com">Independent Clauses</a> – Stephen’s independent music site, with reviews that work as press quotes for small indie bands.</p>
 
 <ul>
-<li>Stephen&#8217;s <a href="http://independentclauses.com/palm-ghosts-combine-multiple-genres-into-a-warm-relaxed-record/">review</a> of <em>Palm Ghosts</em></li>
-</ul></li>
+<li>Stephen’s <a href="http://independentclauses.com/palm-ghosts-combine-multiple-genres-into-a-warm-relaxed-record/">review</a> of <em>Palm Ghosts</em></li>
+</ul>
+</li>
+
+
 <p><li><a href="http://craigmod.com">Craig Mod</a></p>
 
 <ul>
 <li><a href="http://craigmod.com/journal/post_artifact/">Post-Artifact Books &amp; Publishing</a></li>
+
 <li><a href="http://craigmod.com/journal/subcompact_publishing/">Subcompact Publishing</a></li>
+
 <li><a href="http://craigmod.com/journal/hack_the_cover/">Hack the Cover</a></li>
-</ul></li>
+</ul>
+</li>
+
+
 <p><li>John Siracusa</p>
 
 <ul>
-<p><li><a href="http://arstechnica.com/apple/2013/10/os-x-10-9/">OS X 10.9 &#8220;Mavericks&#8221; Review</a></p>
+
+<p><li><a href="http://arstechnica.com/apple/2013/10/os-x-10-9/">OS X 10.9 “Mavericks” Review</a></p>
 
 <ul>
 <li><a href="https://itunes.apple.com/us/book/os-x-10.9-mavericks-ars-technica/id728112618?mt=11&amp;uo=4&amp;at=11l6SN">iBooks</a></li>
+
 <li><a href="http://www.amazon.com/OS-10-9-Mavericks-Technica-Review-ebook/dp/B00G3J8NPQ/">Kindle</a></li>
-</ul></li>
+</ul>
+</li>
+
 <li><a href="http://hypercritical.co">Hypercritical</a></li>
-</ul></li>
-<li><a href="https://www.kickstarter.com/projects/cyaninc/obduction">Obduction Kickstarter</a> &#8211; the new game from the folks behind Myst</li>
-<p><li><a href="http://www.elitedangerous.com">Elite: Dangerous</a> &#8211; a crowdfunded space sim currently in development</p>
+</ul>
+</li>
+
+<li><a href="https://www.kickstarter.com/projects/cyaninc/obduction">Obduction Kickstarter</a> – the new game from the folks behind Myst</li>
+
+
+<p><li><a href="http://www.elitedangerous.com">Elite: Dangerous</a> – a crowdfunded space sim currently in development</p>
 
 <ul>
 <li>the <a href="https://www.kickstarter.com/projects/1461411552/elite-dangerous">Kickstarter</a> project</li>
-</ul></li>
-<p><li><a href="https://robertsspaceindustries.com">Star Citizen</a> &#8211; another crowdfunded space sim</p>
+</ul>
+</li>
+
+
+<p><li><a href="https://robertsspaceindustries.com">Star Citizen</a> – another crowdfunded space sim</p>
 
 <ul>
 <li>the <a href="https://www.kickstarter.com/projects/cig/star-citizen">Kickstarter</a> project</li>
-</ul></li>
+</ul>
+</li>
+
 <li><a href="http://www.theguardian.com/technology/gamesblog/2012/apr/27/shigeru-miyamoto-rushed-game-forever-bad">Shigeru Miyamoto: A rushed game is forever bad</a></li>
+
 <li><a href="http://longform.org">Longform</a></li>
+
 <li><a href="https://medium.com">Medium</a></li>
-<li><a href="http://journal.neilgaiman.com/2009/05/entitlement-issues.html">Entitlement issues&#8230;</a> &#8211; Neil Gaiman on George R. R. Martin&#8217;s writing pace</li>
+
+<li><a href="http://journal.neilgaiman.com/2009/05/entitlement-issues.html">Entitlement issues…</a> – Neil Gaiman on George R. R. Martin’s writing pace</li>
+
+
 <p><li>Previous episodes referenced on the show:</p>
 
 <ul>
 <li><a href="http://www.winningslowly.org/2014/04/humility-please/">0.09: Humility Please</a></li>
-<li><a href="http://www.winningslowly.org/2014/08/ars-moriendi/">1.05: Ars Moriendi</a></li>
-<li><a href="http://www.winningslowly.org/2014/08/they-both-start-with-t/">1.07: They Both Start With a &#8216;T&#8217;</a></li>
-</ul></li>
-</ul>
 
-<h4 id="followsubcribe">Follow/Subcribe</h4>
+<li><a href="http://www.winningslowly.org/2014/08/ars-moriendi/">1.05: Ars Moriendi</a></li>
+
+<li><a href="http://www.winningslowly.org/2014/08/they-both-start-with-t/">1.07: They Both Start With a ‘T’</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="followsubcribe">Follow/Subscribe</h4>
 
 <ul>
 <li><a href="https://itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2">iTunes</a></li>
+
 <li><a href="https://twitter.com/winningslowly">Twitter</a></li>
+
 <li><a href="https://www.facebook.com/winningslowlypodcast">Facebook</a></li>
+
 <li><a href="https://alpha.app.net/winningslowly">App.net</a></li>
 </ul>]]></description>
             <pubDate>Tue, 02 Sep 2014 07:00:53 -0400</pubDate>
@@ -351,7 +518,7 @@ Links
   • 1.05: Ars Moriendi (http://www.winningslowly.org/2014/08/ars-moriendi/)
   • 1.07: They Both Start With a 'T' (http://www.winningslowly.org/2014/08/they-both-start-with-t/)
 
-Follow/Subcribe
+Follow/Subscribe
 
 ◦ iTunes (https://itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2)
 ◦ Twitter (https://twitter.com/winningslowly)
@@ -452,7 +619,6 @@ Links
             <title>1.06: Rebuke Me Some People</title>
             <link>http://www.winningslowly.org/2014/08/rebuke-me-some-people/</link>
             <description><![CDATA[<h3 id="show-notes">Show Notes</h3>
-
 In which we discuss the necessity of extending charity to each other in our conversations, especially conversations on controversial issues. Springboarding from public/internet reactions to Christian musician Michael Gungor’s discussion of his views on Genesis, we talk about the necessity of charity, Chris’ Rules for Argument, the importance of taking a long-term view on friendship and persuasion, and what to do in the face of serious disagreement about important issues.
 <br />
 <h4 id="chapters">Chapters</h4>
@@ -496,7 +662,7 @@ In which we discuss the necessity of extending charity to each other in our conv
 
 <li><a href="http://www.winningslowly.org/2014/02/echo-chamber/">Episode 0.03: Echo Chamber</a> – in which we talked about Ken Ham, Bill Nye, culture wars, and the importance of wisdom in knowing how to engage appropriate in a given context</li>
 </ul>
-<h4 id="followsubcribe">Follow/Subcribe</h4>
+<h4 id="followsubcribe">Follow/Subscribe</h4>
 
 <ul>
 <li><a href="https://itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2">iTunes</a></li>
@@ -541,7 +707,7 @@ Links
 ◦ “Duty Calls” (https://xkcd.com/386/) – the “obligatory XKCD” (“Someone is wrong on the internet.”)
 ◦ Episode 0.03: Echo Chamber (http://www.winningslowly.org/2014/02/echo-chamber/) – in which we talked about Ken Ham, Bill Nye, culture wars, and the importance of wisdom in knowing how to engage appropriate in a given context
 
-Follow/Subcribe
+Follow/Subscribe
 
 ◦ iTunes (https://itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2)
 ◦ Twitter (https://twitter.com/winningslowly)
@@ -625,7 +791,7 @@ Links
 ◦ Ars Moriendi (https://thecollection.bandcamp.com/album/ars-moriendi) on Bandcamp. Seriously, why haven't you gone and bought this album yet?
 ◦ Episode 0.06 – Romans: The Movie (http://www.winningslowly.org/2014/03/romans-the-movie/), in which Chris and Stephen talked at length about the question of good art.
 
-Follow/Subscript
+Follow/Subscribe
 
 ◦ iTunes (https://itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2)
 ◦ Twitter (https://twitter.com/winningslowly)
