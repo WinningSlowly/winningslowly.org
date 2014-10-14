@@ -4,14 +4,14 @@
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>A forum for two interdisciplinary thinkers to discuss the long view of current trends in technology, religion, art, ethics, and culture. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 2.5.3(2.5.3); Mac OS X Version 10.10 (Build 14A379b) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 2.5.3(2.5.3); Mac OS X Version 10.10 (Build 14A388b) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2014 Winning Slowly</copyright>
         <managingEditor>stephen@winningslowly.org (Stephen Carradini)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Mon, 06 Oct 2014 22:22:07 -0400</pubDate>
-        <lastBuildDate>Mon, 06 Oct 2014 22:22:07 -0400</lastBuildDate>
+        <pubDate>Tue, 14 Oct 2014 08:46:23 -0400</pubDate>
+        <lastBuildDate>Tue, 14 Oct 2014 08:46:23 -0400</lastBuildDate>
         <ttl>50</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -37,6 +37,180 @@
         <itunes:category text="Religion &amp; Spirituality">
             <itunes:category text="Christianity"/>
         </itunes:category>
+        <item>
+            <title>1.13: Hello Ello?</title>
+            <link>http://www.winningslowly.org/2014/10/hello-ello/</link>
+            <description><![CDATA[<h3 id="shownotes">Show Notes</h3>
+
+<p>In which we talk about new social media player <a href="https://ello.co">Ello</a>&#8212;some initial impressions, venture capital&#8217;s influence in Silicon Valley and its <em>distinctive</em> shape there vs. elsewhere, and thoughts on business model and communication.</p>
+
+<h4 id="chapters">Chapters</h4>
+
+<ul>
+<li>Intro (0:44)</li>
+<li>Definitely Still a Beta (0:44&#8211;5:27)</li>
+<li>That&#8217;s Not a Gift (5:27&#8211;14:02)</li>
+<li>How People React to News (14:02&#8211;22:32)</li>
+<li>A Working Business Model (22:32&#8211;28:32)</li>
+<li>Conclusion (28:32&#8211;30:04)</li>
+<li>Outtake (30:04&#8211;30:10)</li>
+</ul>
+
+<h3 id="music">Music</h3>
+
+<ul>
+<li><a href="http://falconarrow.bandcamp.com/track/aldebaran-serpent">&#8220;Aldebaran Serpent&#8221;</a> from <a href="http://falconarrow.bandcamp.com/album/tower"><em>Tower</em></a> by Falcon Arrow. Used by permission. (Isn&#8217;t that album art fantastic?)</li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">&#8220;Winning Slowly Theme&#8221;</a> by Chris Krycho. We asked him for permission, and he said &#8220;Yes.&#8221;</li>
+</ul>
+
+<h3 id="links">Links</h3>
+
+<p>Things we talked about on the show that we thought you might want to click a lovely link and read about.</p>
+
+<ul>
+<p><li><a href="https://ello.co/">Ello</a></p>
+
+<ul>
+<p><li>About:</p>
+
+<ul>
+<li><p><a href="https://ello.co/wtf/post/about-ello">What is Ello?</a></p></li>
+<li><p><a href="https://ello.co/wtf/post/founders">Who Created Ello?</a></p></li>
+<li><p><a href="https://ello.co/wtf/post/manifesto">Ello Manifesto</a>:</p>
+
+<blockquote>
+<p>Your social network is owned by advertisers.</p>
+
+<p>Every post you share, every friend you make, and every link you follow is tracked, recorded, and converted into data. Advertisers buy your data so they can show you more ads. You are the product that’s bought and sold.
+<br />We believe there is a better way. We believe in audacity. We believe in beauty, simplicity, and transparency. We believe that the people who make things and the people who use them should be in partnership.</p>
+
+<p>We believe a social network can be a tool for empowerment. Not a tool to deceive, coerce, and manipulate &#8211; but a place to connect, create, and celebrate life.</p>
+
+<p>You are not a product.</p>
+</blockquote></li>
+<li><p><a href="https://ello.co/wtf/post/why-no-ads">Ello Doesn&#8217;t Have Ads</a></p></li>
+</ul></li>
+<p><li>Criticism:</p>
+
+<ul>
+<li>Aral Balkan: <a href="https://aralbalkan.com/notes/ello-goodbye/">&#8220;Ello, goodbye.&#8221;</a></li>
+<li>Ello user <a href="https://ello.co/waxpancake">Andy Baio (@waxpancake)</a> on Ello&#8217;s <a href="https://ello.co/waxpancake/post/oy73kFfDdhOPh8Jv9z9pFA">venture capital</a></li>
+<p><li><a href="http://www.freshtrackscap.com/">fresh Tracks Capital</a></p>
+
+<ul>
+<li><a href="http://www.freshtrackscap.com/fund-iii-companies/Ello">Their information page on Ello</a></li>
+</ul></li>
+</ul></li>
+<p><li>Ello&#8217;s and freshTrack&#8217;s responses:</p>
+
+<ul>
+<li><a href="http://betabeat.com/2014/09/ello-founder-says-vc-funding-is-no-big-secret-thats-silly/">Ello Founder Says VC Funding Is No Big Secret: ‘That’s Silly’</a></li>
+<li><a href="https://gigaom.com/2014/09/25/ello-investor-co-founder-funding-or-not-we-hate-ads-and-we-want-to-shift-values/">Ello investor, co-founder: Funding or not, we hate ads and we want to “shift values”</a></li>
+<li><a href="http://betabeat.com/2014/09/ello-cofounder-we-have-no-exit-strategy/">Ello Cofounder: ‘We Have NO Exit Strategy’</a></li>
+<li>Ben Thompson: <a href="http://stratechery.com/2014/ello-consumer-friendly-business-models/">&#8220;Ello and Consumer Friendly Business Models&#8221;</a></li>
+</ul></li>
+<li><p>The Vox: <a href="http://www.vox.com/2014/9/26/6844633/what-is-ello-should-i-care">&#8220;31,000 people an hour are joining the social network Ello. The anti-Facebook, explained.&#8221;</a></p></li>
+<li><p><a href="http://atp.fm/episodes/86">86: Moving the Party to the Bar Down the Block</a> (Accidental Tech Podcast)</p></li>
+<li><p><a href="https://ello.co/chriskrycho/post/n4U3NdHR_gqBVj64YE075A">&#8220;Considering the audience&#8221;</a> &#8211; Chris&#8217; conversation with <a href="https://ello.co/oluseyi">@oluseyi</a> (and others) on Ello about iOS and Android</p></li>
+</ul></li>
+<p><li>Other social networks attempting to break free of the ad-driven model:</p>
+
+<ul>
+<li><a href="https://app.net/">App.net</a></li>
+<li><a href="https://cupcake.io">Tent.is/Cupcake.io</a></li>
+<li><a href="https://joindiaspora.com">Diaspora</a></li>
+</ul></li>
+<p><li><a href="http://daringfireball.net/projects/markdown/">Markdown</a> &#8211; a simple syntax for writing text for the web.</p>
+
+<ul>
+<li><a href="http://2012-2013.chriskrycho.com/web/markdown-and-academic-writing/">Chris&#8217; post on using Markdown for academic writing</a></li>
+</ul></li>
+<p><li>Previously on the show:</p>
+
+<ul>
+<li><a href="http://www.winningslowly.org/2014/03/tell-me-what-to-do/">0.04 Tell Me What to Do</a>: on Editorially and startup business models, and also on bands making genre shifts.</li>
+<li><a href="http://www.winningslowly.org/2014/05/ten-thousandth-lightbulb/">0.13 Ten Thousandth Lightbulb</a>: on App.net, social media, and funding models.</li>
+<li><a href="http://www.winningslowly.org/2014/08/they-both-start-with-t/">1.07 They Both Start With T?</a>: on Taylor Swift, Twitter, and messaging.</li>
+<li><a href="http://www.winningslowly.org/2014/09/we-need-life-editors/">1.11 We Need Life Editors</a>: in which we inveighed gainst the going-it-alone approach to the arts.</li>
+</ul></li>
+</ul>
+
+<h4 id="followsubscribe">Follow/Subscribe</h4>
+
+<ul>
+<li><a href="https://itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2">iTunes</a></li>
+<li><a href="https://alpha.app.net/winningslowly">App.net</a></li>
+<li><a href="https://ello.co/winningslowly">Ello</a></li>
+<li><a href="https://twitter.com/winningslowly">Twitter</a></li>
+<li><a href="https://www.facebook.com/winningslowlypodcast">Facebook</a></li>
+</ul>]]></description>
+            <pubDate>Tue, 14 Oct 2014 09:00:54 -0400</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-1.13.m4a" length="15031340" type="audio/x-m4a"/>
+            <guid isPermaLink="false">950A2E90-AF72-4368-8F67-508E039F7404</guid>
+            <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
+            <itunes:subtitle>Definitely Still a Beta, That's Not a Gift, How People React to News, A Working Business Model</itunes:subtitle>
+            <itunes:summary>In which we talk about new social media player Ello (https://ello.co)—some initial impressions, venture capital’s influence in Silicon Valley and its *distinctive* shape there vs. elsewhere, and thoughts on business model and communication.
+
+◦ Intro (0:44)
+◦ Definitely Still a Beta (0:44–5:27)
+◦ That’s Not a Gift (5:27–14:02)
+◦ How People React to News (14:02–22:32)
+◦ A Working Business Model (22:32–28:32)
+◦ Conclusion (28:32–30:04)
+◦ Outtake (30:04–30:10)
+
+Music
+
+◦ “Aldebaran Serpent” (http://falconarrow.bandcamp.com/track/aldebaran-serpent) from Tower (http://falconarrow.bandcamp.com/album/tower) by Falcon Arrow. Used by permission. (Isn’t that album art fantastic?)
+◦ “Winning Slowly Theme” (https://soundcloud.com/chriskrycho/winning-slowly) by Chris Krycho. We asked him for permission, and he said “Yes.”
+
+Links
+
+◦ Ello (https://ello.co/)
+  • About:
+    ◦ What is Ello? (https://ello.co/wtf/post/about-ello)
+    ◦ Who Created Ello? (https://ello.co/wtf/post/founders)
+    ◦ Ello Manifesto (https://ello.co/wtf/post/manifesto)
+    ◦ Ello Doesn’t Have Ads (https://ello.co/wtf/post/why-no-ads)
+  • Criticism: 
+    ◦ Aral Balkan: “Ello, goodbye.” (https://aralbalkan.com/notes/ello-goodbye/)
+    ◦ Ello user Andy Baio (@waxpancake) (https://ello.co/waxpancake) on Ello’s venture capital (https://ello.co/waxpancake/post/oy73kFfDdhOPh8Jv9z9pFA)
+    ◦ fresh Tracks Capital (http://www.freshtrackscap.com/)
+      • Their information page on Ello (http://www.freshtrackscap.com/fund-iii-companies/Ello)
+  • Ello’s and freshTrack’s responses:
+    ◦ Ello Founder Says VC Funding Is No Big Secret: ‘That’s Silly’ (http://betabeat.com/2014/09/ello-founder-says-vc-funding-is-no-big-secret-thats-silly/)
+    ◦ Ello investor, co-founder: Funding or not, we hate ads and we want to “shift values” (https://gigaom.com/2014/09/25/ello-investor-co-founder-funding-or-not-we-hate-ads-and-we-want-to-shift-values/)
+    ◦ Ello Cofounder: ‘We Have NO Exit Strategy’ (http://betabeat.com/2014/09/ello-cofounder-we-have-no-exit-strategy/)
+    ◦ Ben Thompson: “Ello and Consumer Friendly Business Models” (http://stratechery.com/2014/ello-consumer-friendly-business-models/)
+  • The Vox: “31,000 people an hour are joining the social network Ello. The anti-Facebook, explained.” (http://www.vox.com/2014/9/26/6844633/what-is-ello-should-i-care)
+  • 86: Moving the Party to the Bar Down the Block (http://atp.fm/episodes/86) (Accidental Tech Podcast)
+  • “Considering the audience” (https://ello.co/chriskrycho/post/n4U3NdHR_gqBVj64YE075A) – Chris’ conversation with @oluseyi (https://ello.co/oluseyi) (and others) on Ello about iOS and Android
+◦ Other social networks attempting to break free of the ad-driven model:
+  • App.net (https://app.net/)
+  • Tent.is/Cupcake.io (https://cupcake.io)
+  • Diaspora (https://joindiaspora.com)
+◦ Markdown (http://daringfireball.net/projects/markdown/) – a simple syntax for writing text for the web.
+  • Chris’ post on using Markdown for academic writing (http://2012-2013.chriskrycho.com/web/markdown-and-academic-writing/)
+◦ Previously on the show: 
+  • 0.04 Tell Me What to Do (http://www.winningslowly.org/2014/03/tell-me-what-to-do/): on Editorially and startup business models, and also on bands making genre shifts.
+  • 0.13 Ten Thousandth Lightbulb (http://www.winningslowly.org/2014/05/ten-thousandth-lightbulb/): on App.net, social media, and funding models.
+  • 1.07 They Both Start With T? (http://www.winningslowly.org/2014/08/they-both-start-with-t/): on Taylor Swift, Twitter, and messaging.
+  • 1.11 We Need Life Editors (http://www.winningslowly.org/2014/09/we-need-life-editors/): in which we inveighed gainst the going-it-alone approach to the arts.
+
+Follow/Subscribe
+
+◦ iTunes (https://itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2)
+◦ App.net (https://alpha.app.net/winningslowly)
+◦ Ello (https://ello.co/winningslowly)
+◦ Twitter (https://twitter.com/winningslowly)
+◦ Facebook (https://www.facebook.com/winningslowlypodcast)
+</itunes:summary>
+            <itunes:keywords>social media,Ello,business</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>30:10</itunes:duration>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="http://www.winningslowly.org/assets/images/winning-slowly_podcast.png"/>
+        </item>
         <item>
             <title>1.12: Political Appinations</title>
             <link>http://www.winningslowly.org/2014/10/political-appinations/</link>
