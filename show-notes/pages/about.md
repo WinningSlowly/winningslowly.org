@@ -10,7 +10,23 @@ From crowdsourcing to Twitter gaffes to superhero movies to genetics to social j
 
 ## When
 
-Winning Slowly episodes (usually) come out every Tuesday at 7 am Eastern time. If unforeseen scheduling issues arise, we will add a note below accordingly.
+Winning Slowly episodes (usually) come out every Tuesday at 7 am Eastern time. If unforeseen scheduling issues arise, we will add a note below accordingly. Episodes are normally 25--30 minutes long.
+
+### Season 2
+
+Assuming everything stays on schedule, Season 2 will start with 2.01 on January 13, 2015. In the meantime, we'll be preparing: improving the website, improving our recording setups, and putting together ideas for the upcoming episodes. Enjoy the archives!
+
+### Season 1
+
+Our first "official" season---the one that was *not* a "beta"---started on July 15, 2014, with [1.01: Massive Emotional Contagion](//www.winningslowly.org/2014/07/massive-emotional-contagion/), and wrapped up with the release of [1.18: Keep On Keepin' On](//www.winningslowly.org/2014/11/keep-on-keepin-on/) on November 18, 2014. We published 18 episodes, missed just one week, and delayed the publishing only one more week---despite the fact that Stephen was planning a wedding!
+
+The main hiccup in Season 1? Stephen's audio. It varies like crazy week to week, for reasons that eluded us. We blame grumpy, grumpy monkeys.
+
+### Season 0
+
+Our first season: "This is a beta; bear with us!"---in which we spent a few months just figuring out what we were doing, ran from January 28, 2014 until May 20, 2014. Seriously: we had *no idea* what we were doing; we just knew we had a good idea for a show and wanted to figure out how to make it work. There is good content here, but we have kept this around mostly for historical interest---it's *rough*.
+
+Episodes ranged in length from over 45 minutes to under 20 minutes as we figured out our approach to the show, solicited regular feedback, and general got a handle on the whole thing. By the final episode, [0.14: Deep In Their Bones](//www.winningslowly.org/2014/05/deep-in-their-bones/), we had found our basic formula and settled into a nice rhythm, which we were then able to carry into Season 1.
 
 ## Who
 
