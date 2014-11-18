@@ -10,8 +10,8 @@
         <copyright>2014 Winning Slowly</copyright>
         <managingEditor>stephen@winningslowly.org (Stephen Carradini)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Mon, 17 Nov 2014 23:27:32 -0500</pubDate>
-        <lastBuildDate>Mon, 17 Nov 2014 23:27:32 -0500</lastBuildDate>
+        <pubDate>Tue, 18 Nov 2014 08:38:18 -0500</pubDate>
+        <lastBuildDate>Tue, 18 Nov 2014 08:38:18 -0500</lastBuildDate>
         <ttl>50</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -120,8 +120,8 @@ In which we talk about iPhone cameras, long-term thinking in general—including
 </ul>
 </li>
 </ul>]]></description>
-            <pubDate>Tue, 18 Nov 2014 07:00:10 -0500</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-1.18.m4a" length="12624217" type="audio/x-m4a"/>
+            <pubDate>Tue, 18 Nov 2014 08:45:10 -0500</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-1.18.m4a" length="12871383" type="audio/x-m4a"/>
             <guid isPermaLink="false">32D20C84-D87C-4D2F-9BA9-228FB6E8E46C</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>People Taking Pictures With iPhones, Whether or Not It Pays Off, What Do You Think?</itunes:subtitle>
@@ -171,8 +171,9 @@ Contact
 </itunes:summary>
             <itunes:keywords>podcasting,Apple,iPhone,camera,technology</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>25:46</itunes:duration>
+            <itunes:duration>26:17</itunes:duration>
             <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="http://www.winningslowly.org/assets/images/winning-slowly_podcast.png"/>
         </item>
         <item>
             <title>1.17: Love/Hate Relationship</title>
