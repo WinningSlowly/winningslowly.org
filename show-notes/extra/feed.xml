@@ -4,14 +4,14 @@
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>A forum for two interdisciplinary thinkers to discuss the long view of current trends in technology, religion, art, ethics, and culture. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 2.5.5(1879); Mac OS X Version 10.10.1 (Build 14B23) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 2.5.5(1879); Mac OS X Version 10.10.1 (Build 14B25) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2014 Winning Slowly</copyright>
         <managingEditor>stephen@winningslowly.org (Stephen Carradini)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Tue, 18 Nov 2014 08:38:18 -0500</pubDate>
-        <lastBuildDate>Tue, 18 Nov 2014 08:38:18 -0500</lastBuildDate>
+        <pubDate>Thu, 04 Dec 2014 10:33:12 -0500</pubDate>
+        <lastBuildDate>Thu, 04 Dec 2014 10:33:12 -0500</lastBuildDate>
         <ttl>50</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -38,7 +38,7 @@
             <itunes:category text="Christianity"/>
         </itunes:category>
         <item>
-            <title>Keep On Keepin' On</title>
+            <title>1.18: Keep On Keepin' On</title>
             <link>http://www.winningslowly.org/2014/11/keep-on-keepin-on/</link>
             <description><![CDATA[<h3 id="shownotes">Show Notes</h3>
 In which we talk about iPhone cameras, long-term thinking in general—including the kind that lets you keep going even when no one in your lifetime gets what you’re doing—and finally some thoughts on the first (non-beta) season of Winning Slowly.
@@ -121,7 +121,7 @@ In which we talk about iPhone cameras, long-term thinking in general—including
 </li>
 </ul>]]></description>
             <pubDate>Tue, 18 Nov 2014 08:45:10 -0500</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-1.18.m4a" length="12871383" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-1.18.m4a" length="13059023" type="audio/x-m4a"/>
             <guid isPermaLink="false">32D20C84-D87C-4D2F-9BA9-228FB6E8E46C</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>People Taking Pictures With iPhones, Whether or Not It Pays Off, What Do You Think?</itunes:subtitle>
@@ -171,7 +171,7 @@ Contact
 </itunes:summary>
             <itunes:keywords>podcasting,Apple,iPhone,camera,technology</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>26:17</itunes:duration>
+            <itunes:duration>26:40</itunes:duration>
             <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
             <media:thumbnail url="http://www.winningslowly.org/assets/images/winning-slowly_podcast.png"/>
         </item>
