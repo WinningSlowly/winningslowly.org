@@ -1,7 +1,6 @@
 Title: Licenses
 Slug: licenses
-Summary: Content under a Creative Commons Attribution 4.0 International.
-         Software under the MIT license. Remix away.
+Summary: Content under a Creative Commons Attribution 4.0 International. Software under the MIT license. Remix away.
 
 
 ## Our Content
@@ -10,8 +9,8 @@ Summary: Content under a Creative Commons Attribution 4.0 International.
 
 You can do basically whatever you want with *almost* all of our content. Remix
 to your heart's content. Mash it up, quote it, make a podcast-jam if you like.
-The only restriction we have on the use of our content is that you cite it---
-that's just being a good neighbor.
+The only restriction we have on the use of our content is that you cite
+it---that's just being a good neighbor.
 
 Our name and logo? Feel free to riff on them. You just can't claim the work as
 your own. The design of the logo belongs to our friend [Cameron Morgan][cam].
