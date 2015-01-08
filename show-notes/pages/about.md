@@ -4,35 +4,80 @@ Summary: Winning Slowly: The long view of tech, religion, art, ethics, and cultu
 
 ## What
 
-Winning Slowly is a forum for two interdisciplinary thinkers to discuss the long view of current trends in technology, religion, art, ethics, and culture. There are plenty of podcasts that will tell you how Apple's latest product will affect the tech landscape tomorrow, but there aren't that many concerned with the potential impact of that tech in 2024. In a culture obsessed with *now*, how can we make choices with a view for tomorrow, next year, and beyond?
+Winning Slowly is a forum for two interdisciplinary thinkers to discuss
+the long view of current trends in technology, religion, art, ethics,
+and culture. There are plenty of podcasts that will tell you how Apple's
+latest product will affect the tech landscape tomorrow, but there aren't
+that many concerned with the potential impact of that tech in 2024. In a
+culture obsessed with *now*, how can we make choices with a view for
+tomorrow, next year, and beyond?
 
-From crowdsourcing to Twitter gaffes to superhero movies to genetics to social justice issues, Winning Slowly delivers a thoughtful analysis of how the small things we do can have big impacts (and vice versa).
+From crowdsourcing to Twitter gaffes to superhero movies to genetics to
+social justice issues, Winning Slowly delivers a thoughtful analysis of
+how the small things we do can have big impacts (and vice versa).
 
 ## When
 
-Winning Slowly episodes (usually) come out every Tuesday at 7 am Eastern time. If unforeseen scheduling issues arise, we will add a note below accordingly. Episodes are normally 25--30 minutes long.
+Winning Slowly episodes (usually) come out every Tuesday at 7 am Eastern
+time. If unforeseen scheduling issues arise, we will add a note below
+accordingly. Episodes are normally 25--30 minutes long.
 
 ### Season 2
 
-Assuming everything stays on schedule, Season 2 will start with 2.01 on January 13, 2015. In the meantime, we'll be preparing: improving the website, improving our recording setups, and putting together ideas for the upcoming episodes. Enjoy the archives!
+Assuming everything stays on schedule, Season 2 will start with 2.01 on
+January 27, 2015. In the meantime, we'll be preparing: improving the
+website, improving our recording setups, and putting together ideas for
+the upcoming episodes. Enjoy the archives!
 
 ### Season 1
 
-Our first "official" season---the one that was *not* a "beta"---started on July 15, 2014, with [1.01: Massive Emotional Contagion](//www.winningslowly.org/2014/07/massive-emotional-contagion/), and wrapped up with the release of [1.18: Keep On Keepin' On](//www.winningslowly.org/2014/11/keep-on-keepin-on/) on November 18, 2014. We published 18 episodes, missed just one week, and delayed the publishing only one more week---despite the fact that Stephen was planning a wedding!
+Our first "official" season---the one that was *not* a "beta"---started on July
+15, 2014, with [1.01: Massive Emotional Contagion][1.01], and wrapped up with
+the release of [1.18: Keep On Keepin' On][1.18] on November 18,
+2014. We published 18 episodes, missed just one week, and delayed the
+publishing only one more week---despite the fact that Stephen was
+planning a wedding!
 
-The main hiccup in Season 1? Stephen's audio. It varies like crazy week to week, for reasons that eluded us. We blame grumpy, grumpy monkeys.
+[1.01]: //www.winningslowly.org/2014/07/massive-emotional-contagion/
+[1.18]: //www.winningslowly.org/2014/11/keep-on-keepin-on/
+
+The main hiccup in Season 1? Stephen's audio. It varies like crazy week
+to week, for reasons that eluded us. We blame grumpy, grumpy monkeys.
 
 ### Season 0
 
-Our first season: "This is a beta; bear with us!"---in which we spent a few months just figuring out what we were doing, ran from January 28, 2014 until May 20, 2014. Seriously: we had *no idea* what we were doing; we just knew we had a good idea for a show and wanted to figure out how to make it work. There is good content here, but we have kept this around mostly for historical interest---it's *rough*.
+Our first season: "This is a beta; bear with us!"---in which we spent a few
+months just figuring out what we were doing, ran from January 28, 2014 until May
+20, 2014. Seriously: we had *no idea* what we were doing; we just knew we had a
+good idea for a show and wanted to figure out how to make it work. There is good
+content here, but we have kept this around mostly for historical interest---it's
+*rough*.
 
-Episodes ranged in length from over 45 minutes to under 20 minutes as we figured out our approach to the show, solicited regular feedback, and general got a handle on the whole thing. By the final episode, [0.14: Deep In Their Bones](//www.winningslowly.org/2014/05/deep-in-their-bones/), we had found our basic formula and settled into a nice rhythm, which we were then able to carry into Season 1.
+Episodes ranged in length from over 45 minutes to under 20 minutes as we figured
+out our approach to the show, solicited regular feedback, and general got a
+handle on the whole thing. By the final episode, [0.14: Deep In Their Bones], we
+had found our basic formula and settled into a nice rhythm, which we were then
+able to carry into Season 1.
+
+[0.14: Deep In Their Bones]: //www.winningslowly.org/2014/05/deep-in-their-bones/
 
 ## Who
 
-Chris Krycho is a [seminarian](//www.sebts.edu/ "Southeastern Baptist Theological Seminary"), [web designer](//github.com/chriskrycho), [writer](//chriskrycho.com "chriskrycho.com"), and [classical composer](//soundcloud.com/chriskrycho).
+**Chris Krycho** is a [seminarian], [web designer and developer], [writer][ckc], and
+[classical composer].
 
-Stephen Carradini is a [digital media scholar](//crdm.chass.ncsu.edu/students "Communication, Rhetoric, and Digital Media program, North Carolina State University"), [writer](//independentclauses.com "Independent Clauses music blog"), [editor](//stephencarradini.com "StephenCarradini.com"), and [songwriter](//themidnightsons.bandcamp.com "The Midnight Sons").
+[seminarian]: //www.sebts.edu/ "Southeastern Baptist Theological Seminary"
+[web designer and developer]: //represent.io/chriskrycho
+[ckc]: //chriskrycho.com "chriskrycho.com"
+[classical composer]: //soundcloud.com/chriskrycho
+
+**Stephen Carradini** is a [digital media scholar], [writer][ic], [editor],
+and [songwriter].
+
+[digital media scholar]: //crdm.chass.ncsu.edu/students "Communication, Rhetoric, and Digital Media program, North Carolina State University"
+[ic]: //independentclauses.com "Independent Clauses music blog"
+[editor]: //stephencarradini.com "StephenCarradini.com"
+[songwriter]: //themidnightsons.bandcamp.com "The Midnight Sons"
 
 They both reside in North Carolina.
 
