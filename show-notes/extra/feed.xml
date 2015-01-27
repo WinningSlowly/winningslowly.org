@@ -4,14 +4,14 @@
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>A forum for two interdisciplinary thinkers to discuss the long view of current trends in technology, religion, art, ethics, and culture. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 2.5.5(1879); Mac OS X Version 10.10.1 (Build 14B25) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 2.5.8(1906); Mac OS X Version 10.10.2 (Build 14C106a) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2014 Winning Slowly</copyright>
         <managingEditor>stephen@winningslowly.org (Stephen Carradini)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Thu, 04 Dec 2014 10:33:12 -0500</pubDate>
-        <lastBuildDate>Thu, 04 Dec 2014 10:33:12 -0500</lastBuildDate>
+        <pubDate>Mon, 26 Jan 2015 22:44:49 -0500</pubDate>
+        <lastBuildDate>Mon, 26 Jan 2015 22:44:49 -0500</lastBuildDate>
         <ttl>50</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -23,7 +23,7 @@
         <atom:link href="http://www.winningslowly.org/feed.xml" rel="self" type="application/rss+xml"/>
         <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
         <itunes:subtitle>A weekly podcast by Chris Krycho and Stephen Carradini, offering thoughtful commentary on trends in culture, technology, religion, ethics, and art. Releases Tuesdays at 7am Eastern time.</itunes:subtitle>
-        <itunes:summary>Winning Slowly is a forum for two interdisciplinary thinkers to discuss the long view of current trends in technology, religion, art, ethics, and culture. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond? From crowdsourcing to Twitter gaffes to superhero movies to genetics to social justice issues, Winning Slowly delivers a thoughtful analysis of how the small things we do can have big impacts (and vice versa).</itunes:summary>
+        <itunes:summary><![CDATA[Winning Slowly is a forum for two interdisciplinary thinkers to discuss the long view of current trends in technology, religion, art, ethics, and culture. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond? From crowdsourcing to Twitter gaffes to superhero movies to genetics to social justice issues, Winning Slowly delivers a thoughtful analysis of how the small things we do can have big impacts (and vice versa).]]></itunes:summary>
         <itunes:keywords>technology,religion,ethics,art,music,journalism,Christianity,new media,patience,winning,slowly,social justice,movies</itunes:keywords>
         <itunes:image href="http://www.winningslowly.org/podcast.png"/>
         <itunes:explicit>no</itunes:explicit>
@@ -37,6 +37,63 @@
         <itunes:category text="Religion &amp; Spirituality">
             <itunes:category text="Christianity"/>
         </itunes:category>
+        <item>
+            <title>2.01: Take My Money Now!</title>
+            <link>http://www.winningslowly.org/2015/01/take-my-money-now/</link>
+            <description><![CDATA[<h3>Show Notes</h3>
+
+<p>In which we discuss news app Circa, the value it provides in the rapidly evolving world of new journalism, and why we’re super sad about it. (Hint: it’s a Silicon Valley startup and you know what that means about its business model. Namely: as near as we can tell, they don’t have one.)</p>
+<h3>Before You Go</h3>
+<ul>
+<li><a href="http://www.huffingtonpost.com/2015/01/17/niger-charlie-hebdo_n_6492054.html">Churches Torched In Anti-Charlie Hebdo Protests</a></li>
+<li><a href="http://www.theguardian.com/world/2015/jan/22/drop-in-ebola-cases-signals-turning-point">Drop in Ebola cases ‘signals turning point’</a></li>
+</ul>
+<h3>Music</h3>
+<ul>
+<li><a href="https://soundcloud.com/jaredfoldy/everglow-single/s-b3d9z">“Everglow”</a> by Jared Foldy. Used by permission.</li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho. Used without a dance beat, because it’s been a busy few months.</li>
+</ul>
+<h3>Links</h3>
+<ul>
+<li><a href="http://cir.ca">Circa</a></li>
+
+<li>Previous episodes mentioned on the show
+<ul>
+<li><a href="http://www.winningslowly.org/2014/05/clickbait-headlines/">0.12: You’ll Never Guess What the Hosts Say in This Podcast!</a></li>
+<li><a href="http://www.winningslowly.org/2014/01/we-need-some-context/">0.01: We Need Some Context</a></li>
+</ul></li>
+</ul>]]></description>
+            <pubDate>Tue, 27 Jan 2015 07:00:47 -0500</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-2.01.m4a" length="14060102" type="audio/x-m4a"/>
+            <guid isPermaLink="false">760E85CB-0215-4FE4-A4D6-9DAAAB594690</guid>
+            <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
+            <itunes:subtitle>A News App Without a Business Model</itunes:subtitle>
+            <itunes:summary><![CDATA[Show Notes
+
+In which we discuss news app Circa, the value it provides in the rapidly evolving world of new journalism, and why we're super sad about it. (Hint: it's a Silicon Valley startup and you know what that means about its business model. Namely: as near as we can tell, they don't have one.)
+
+Before You Go
+
+◦ Churches Torched In Anti-Charlie Hebdo Protests (http://www.huffingtonpost.com/2015/01/17/niger-charlie-hebdo_n_6492054.html)
+◦ Drop in Ebola cases 'signals turning point' (http://www.theguardian.com/world/2015/jan/22/drop-in-ebola-cases-signals-turning-point)
+
+Music
+
+◦ “Everglow” (https://soundcloud.com/jaredfoldy/everglow-single/s-b3d9z) by Jared Foldy. Used by permission.
+◦ “Winning Slowly Theme” (https://soundcloud.com/chriskrycho/winning-slowly) by Chris Krycho. Used without a dance beat, because it's been a busy few months.
+
+Links
+
+◦ Circa (http://cir.ca)
+◦ Previous episodes mentioned on the show
+  • 0.12: You'll Never Guess What the Hosts Say in This Podcast! (http://www.winningslowly.org/2014/05/clickbait-headlines/)
+  • 0.01: We Need Some Context (http://www.winningslowly.org/2014/01/we-need-some-context/)
+]]></itunes:summary>
+            <itunes:keywords>ethics,journalism,technology</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>28:43</itunes:duration>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+        </item>
         <item>
             <title>1.18: Keep On Keepin' On</title>
             <link>http://www.winningslowly.org/2014/11/keep-on-keepin-on/</link>
@@ -125,7 +182,7 @@ In which we talk about iPhone cameras, long-term thinking in general—including
             <guid isPermaLink="false">32D20C84-D87C-4D2F-9BA9-228FB6E8E46C</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>People Taking Pictures With iPhones, Whether or Not It Pays Off, What Do You Think?</itunes:subtitle>
-            <itunes:summary>Show Notes
+            <itunes:summary><![CDATA[Show Notes
 
 In which we talk about iPhone cameras, long-term thinking in general—including the kind that lets you keep going even when no one in your lifetime gets what you’re doing—and finally some thoughts on the first (non-beta) season of Winning Slowly.
 
@@ -168,7 +225,7 @@ Contact
 ◦ Each of us individually:
   • chris [at] winningslowly [dot] org
   • stephen [at] winningslowly [dot] org
-</itunes:summary>
+]]></itunes:summary>
             <itunes:keywords>podcasting,Apple,iPhone,camera,technology</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>26:40</itunes:duration>
@@ -229,7 +286,7 @@ Contact
             <guid isPermaLink="false">088A2EDD-0150-41DB-9BF4-F51BDEE0F4F9</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>SCIENCE Drives Policy!, Elitist, Protectionist, Obstructionist, Obscurantist?, Pressures and Responsibilities All Around</itunes:subtitle>
-            <itunes:summary>Show Notes
+            <itunes:summary><![CDATA[Show Notes
 
 In which we talk about science journalism—the ways in which it is sometimes broken, the reasons why it ends up broken in those cases, and the responsibilities of scientists, scientific journalists, and the science-reading public in publishing and interpreting scientific findings. Science is hard. Reporting on it is hard. Making policy on it is hard. And we need all of them.
 
@@ -264,7 +321,7 @@ Follow/Subscribe
 ◦ Ello (https://ello.co/winningslowly)
 ◦ Twitter (https://twitter.com/winningslowly)
 ◦ Facebook (https://www.facebook.com/winningslowlypodcast)
-</itunes:summary>
+]]></itunes:summary>
             <itunes:keywords>ethics,science,journalism</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>25:22</itunes:duration>
@@ -319,7 +376,7 @@ Follow/Subscribe
             <guid isPermaLink="false">081D8C58-6B4E-47A7-A514-7EDEDCA323BC</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Ups and Downs and Foibles, Individualism and Community, Self-Aggrandizement in the Name of Other Good Things, Cults of Personality</itunes:subtitle>
-            <itunes:summary>Show Notes
+            <itunes:summary><![CDATA[Show Notes
 
 In which we take a megachurch pastor's resignation as a jumping off point for talking about individualism and community in the church, self-aggrandizement in the name of evangelism and church growth, and the danger of cults of personality, not only but especially in Christian communities.
 
@@ -352,7 +409,7 @@ Follow/Subscribe
 ◦ Ello (https://ello.co/winningslowly)
 ◦ Twitter (https://twitter.com/winningslowly)
 ◦ Facebook (https://www.facebook.com/winningslowlypodcast)
-</itunes:summary>
+]]></itunes:summary>
             <itunes:keywords>Christianity,ethics,church,community,megachurches</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>32:36</itunes:duration>
@@ -429,7 +486,7 @@ Follow/Subscribe
             <guid isPermaLink="false">5D799EF6-9CA7-4CDB-A68F-EAD3C9B37503</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>White People Making Rap Videos, An Episode of Ishes, Put Things in Slow Motion to Make Them Awesome</itunes:subtitle>
-            <itunes:summary>Show Notes
+            <itunes:summary><![CDATA[Show Notes
 
 In which we laugh our way through a podcast about the world’s greatest humor website: homestarrunner.com. Why is it still funny? How does “funny” (of all things) manage to endure? What role does humor play in culture? How do things become timeless(ish)?
 
@@ -465,7 +522,7 @@ By “links” we basically just mean: go read Hyperbole and a Half (http://hype
 ◦ Hyperbole and a Half
   • The origin of “Clean All The Things”: “This is Why I’ll Never Be An Adult” (http://hyperboleandahalf.blogspot.com/2010/06/this-is-why-ill-never-be-adult.html) (minor profanity warning)
   • “The Alot is Better Than You at Everything” (http://hyperboleandahalf.blogspot.com/2010/04/alot-is-better-than-you-at-everything.html)
-◦ “Lampshade Hanging” (http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging) (warning: if you click that link, it will take you to TVTropes.com... and you will waste all your time forever.</itunes:summary>
+◦ “Lampshade Hanging” (http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging) (warning: if you click that link, it will take you to TVTropes.com... and you will waste all your time forever.]]></itunes:summary>
             <itunes:keywords>strongbad,homestarrunner.com,humor,comedy,art,economics</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>28:49</itunes:duration>
@@ -562,7 +619,7 @@ In which we ask: “Who funds the arts? And how does that impact the artist ethi
             <guid isPermaLink="false">8120ACF6-42F7-4DD6-8DA6-4DC1BB6BB8D0</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>No One Would Be Left, Drop the Big Bombs, To Power Their Evil Machines of Death</itunes:subtitle>
-            <itunes:summary>Note: if you downloaded this episode before 8:45pm Eastern time on October 21, 2014, you should re-download it. Chris made an error in mixing it together, leading to his and Stephen’s audio being slightly out of sync for the entire episode (!), which has since been fixed. If you downloaded it after that time, you’re good to go!
+            <itunes:summary><![CDATA[Note: if you downloaded this episode before 8:45pm Eastern time on October 21, 2014, you should re-download it. Chris made an error in mixing it together, leading to his and Stephen’s audio being slightly out of sync for the entire episode (!), which has since been fixed. If you downloaded it after that time, you’re good to go!
 
 Show Notes
 
@@ -604,7 +661,7 @@ Follow/Subscribe
 ◦ App.net (https://alpha.app.net/winningslowly)
 ◦ Ello (https://ello.co/winningslowly)
 ◦ Twitter (https://twitter.com/winningslowly)
-◦ Facebook (https://www.facebook.com/winningslowlypodcast)</itunes:summary>
+◦ Facebook (https://www.facebook.com/winningslowlypodcast)]]></itunes:summary>
             <itunes:keywords>ethics,art,economics,corporations</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>30:04</itunes:duration>
@@ -723,7 +780,7 @@ Follow/Subscribe
             <guid isPermaLink="false">950A2E90-AF72-4368-8F67-508E039F7404</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Definitely Still a Beta, That's Not a Gift, How People React to News, A Working Business Model</itunes:subtitle>
-            <itunes:summary>In which we talk about new social media player Ello (https://ello.co)—some initial impressions, venture capital’s influence in Silicon Valley and its *distinctive* shape there vs. elsewhere, and thoughts on business model and communication.
+            <itunes:summary><![CDATA[In which we talk about new social media player Ello (https://ello.co)—some initial impressions, venture capital’s influence in Silicon Valley and its *distinctive* shape there vs. elsewhere, and thoughts on business model and communication.
 
 ◦ Intro (0:44)
 ◦ Definitely Still a Beta (0:44–5:27)
@@ -778,7 +835,7 @@ Follow/Subscribe
 ◦ Ello (https://ello.co/winningslowly)
 ◦ Twitter (https://twitter.com/winningslowly)
 ◦ Facebook (https://www.facebook.com/winningslowlypodcast)
-</itunes:summary>
+]]></itunes:summary>
             <itunes:keywords>social media,Ello,business</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>30:10</itunes:duration>
@@ -844,7 +901,7 @@ Follow/Subscribe
             <guid isPermaLink="false">C7088310-950B-4DF7-BA0A-0918467AB764</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Techo-Utopianism, 8,000 Years of Human History, Do You Know Your Neighbors?</itunes:subtitle>
-            <itunes:summary>Show Notes
+            <itunes:summary><![CDATA[Show Notes
 
 In which we start with a look at some really neat apps designed to ease political engagement in the United States and then branch out to talk about the limits of political engagement, the importance of valuing other forms of public life, and what it means to be fully-realized human beings.
 
@@ -884,7 +941,7 @@ The things we talk about in the show that might interest you. Click them! Click 
 ◦ Bowling Alone: The Collapse and Revival of American Community (http://www.amazon.com/Bowling-Alone-Collapse-American-Community/dp/0743203046/), Robert D. Putnam
 ◦ The Westminster Shorter Catechism (http://www.reformed.org/documents/WSC.html)
 
-</itunes:summary>
+]]></itunes:summary>
             <itunes:keywords>politics,apps,technology,religion,philosophy,history</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>26:06</itunes:duration>
@@ -955,7 +1012,7 @@ The things we talk about in the show that might interest you. Click them! Click 
             <guid isPermaLink="false">A4922B54-7399-4922-BD0F-137304AD625A</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>I Am Awesome At This, Actually It Was a Robot in a Dream, Lone Rebel Genius, Hip Motion is for Losers</itunes:subtitle>
-            <itunes:summary>Show Notes
+            <itunes:summary><![CDATA[Show Notes
 
 In which we geek out about Doctor Who... and do our best to say something meaningful about the necessity of people who can tell us what we're getting wrong in life, and who can be strong where we have weaknesses.
 
@@ -1004,7 +1061,7 @@ Follow/Subscribe
 ◦ Facebook (https://www.facebook.com/winningslowlypodcast)
 ◦ App.net (https://alpha.app.net/winningslowly)
 
-</itunes:summary>
+]]></itunes:summary>
             <itunes:keywords>Doctor Who,art,friendship,editors</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>27:08</itunes:duration>
@@ -1066,7 +1123,7 @@ In which we talk about something Apple did this week… but not the thing they a
             <guid isPermaLink="false">B65786C7-26D2-484E-95AE-E394BABC70BA</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>It’s Probably Pastel White, You’re Probably in My Hundred Friends, What the Corporate Overlord Giveth, How You Relate to an Object</itunes:subtitle>
-            <itunes:summary>Show Notes
+            <itunes:summary><![CDATA[Show Notes
 
 In which we talk about something Apple did this week… but not the thing they announced, and almost certainly not what you'd expect. Namely: the death of the iPod Classic: Apple's oldest consumer product outside the Mac, and a veritable gamechanger for the music industry. It's gone, and Stephen is upset. (Chris, not so much.)
 
@@ -1097,7 +1154,7 @@ Follow/Subscribe
 ◦ Twitter (https://twitter.com/winningslowly)
 ◦ Facebook (https://www.facebook.com/winningslowlypodcast)
 ◦ App.net (https://alpha.app.net/winningslowly)
-</itunes:summary>
+]]></itunes:summary>
             <itunes:keywords>ethics,technology,ipod classic,apple,materialism,art,music</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>27:58</itunes:duration>
@@ -1162,7 +1219,7 @@ In which we talk about the recent celebrity nude selfies leak from just about ev
             <guid isPermaLink="false">97A73184-8DF2-419D-94DC-4821738DAAC4</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>The Internet is Not “Safe”, Degrading Women, People Do Wicked Things, No Better Answers</itunes:subtitle>
-            <itunes:summary>Show Notes
+            <itunes:summary><![CDATA[Show Notes
 
 In which we talk about the recent celebrity nude selfies leak from just about every angle: the people who hijacked the photos, those who took the photos, the technology used to store the photos, and society at large. We talk about what individuals' relationship with technology should look like, how we should view those who behave wickedly, and where there might be hope for solving these kinds of problems in our society.
 
@@ -1194,7 +1251,7 @@ Follow/Subscribe
 ◦ Twitter (https://twitter.com/winningslowly)
 ◦ Facebook (https://www.facebook.com/winningslowlypodcast)
 ◦ App.net (https://alpha.app.net/winningslowly)
-</itunes:summary>
+]]></itunes:summary>
             <itunes:keywords>ethics,technology,celebrities,Christianity</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>28:45</itunes:duration>
@@ -1335,7 +1392,7 @@ In which we talk about the drive to publish all the time and the value of publis
             <guid isPermaLink="false">FF96E408-8C40-421D-A5B1-47D75E85D3CB</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Peak Stream, Winning Slowly Quickly, Winning Slowly Slowly</itunes:subtitle>
-            <itunes:summary>Show Notes
+            <itunes:summary><![CDATA[Show Notes
 
 In which we talk about the drive to publish all the time and the value of publishing more substantive content at a slower pace. We talk about the way the internet has driven us toward rapid-fire publishing models and how long-form and high-quality content is difficult (if not impossible) to publish on this model. We look at how to build an audience via quality and the slow route instead of the click-driven model, note that this is difficult to sustain as a means of income, and even think a bit about the history of long-form and serial publishing.
 
@@ -1361,12 +1418,12 @@ Links
 ◦ Independent Clauses (http://independentclauses.com) – Stephen's independent music site, with reviews that work as press quotes for small indie bands.
   • Stephen's review (http://independentclauses.com/palm-ghosts-combine-multiple-genres-into-a-warm-relaxed-record/) of Palm Ghosts
 ◦ Craig Mod (http://craigmod.com)
-  • Post-Artifact Books &amp; Publishing (http://craigmod.com/journal/post_artifact/)
+  • Post-Artifact Books & Publishing (http://craigmod.com/journal/post_artifact/)
   • Subcompact Publishing (http://craigmod.com/journal/subcompact_publishing/)
   • Hack the Cover (http://craigmod.com/journal/hack_the_cover/)
 ◦ John Siracusa
   • OS X 10.9 “Mavericks” Review (http://arstechnica.com/apple/2013/10/os-x-10-9/)
-    ◦ iBooks (https://itunes.apple.com/us/book/os-x-10.9-mavericks-ars-technica/id728112618?mt=11&amp;uo=4&amp;at=11l6SN)
+    ◦ iBooks (https://itunes.apple.com/us/book/os-x-10.9-mavericks-ars-technica/id728112618?mt=11&uo=4&at=11l6SN)
     ◦ Kindle (http://www.amazon.com/OS-10-9-Mavericks-Technica-Review-ebook/dp/B00G3J8NPQ/)
   • Hypercritical (http://hypercritical.co)
 ◦ Obduction Kickstarter (https://www.kickstarter.com/projects/cyaninc/obduction) – the new game from the folks behind Myst
@@ -1389,7 +1446,7 @@ Follow/Subscribe
 ◦ Twitter (https://twitter.com/winningslowly)
 ◦ Facebook (https://www.facebook.com/winningslowlypodcast)
 ◦ App.net (https://alpha.app.net/winningslowly)
-</itunes:summary>
+]]></itunes:summary>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>24:34</itunes:duration>
         </item>
@@ -1442,7 +1499,7 @@ Follow/Subscribe
             <guid isPermaLink="false">240A08B9-239D-4714-BC0C-7EE1970A62A3</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Haters Gonna Hate, Turning Itself Into Facebook, Artists and Corporations Are Not the Same, Social Media of Record</itunes:subtitle>
-            <itunes:summary>Show Notes
+            <itunes:summary><![CDATA[Show Notes
 
 In which we talk about Taylor Swift, Twitter, and changes in expectations. We admit that Chris is a Taylor Swift fan and that Stephen is a hipster. Then we get down to the business of talking about how these two changes differ both in messaging and in content, and look at the ways that both consumers and producers have to be intentional in managing expectations.
 
@@ -1476,7 +1533,7 @@ Links
   • 1.06: Rebuke Me Some People (http://www.winningslowly.org/2014/08/rebuke-me-some-people/) – Act Like Grownups, Rules 0 and 1, But We Still Disagree, Calling People on the Carpet
 
 
-</itunes:summary>
+]]></itunes:summary>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>29:40</itunes:duration>
         </item>
@@ -1543,7 +1600,7 @@ In which we discuss the necessity of extending charity to each other in our conv
             <guid isPermaLink="false">FF5554A8-F513-48FF-8492-C1EDD2BD4BFF</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Act Like Grownups, Rules 0 and 1, But We Still Disagree, Calling People on the Carpet</itunes:subtitle>
-            <itunes:summary>Show Notes
+            <itunes:summary><![CDATA[Show Notes
 
 In which we discuss the necessity of extending charity to each other in our conversations, especially conversations on controversial issues. Springboarding from public/internet reactions to Christian musician Michael Gungor's discussion of his views on Genesis, we talk about the necessity of charity, Chris' Rules for Argument, the importance of taking a long-term view on friendship and persuasion, and what to do in the face of serious disagreement about important issues.
 
@@ -1578,7 +1635,7 @@ Follow/Subscribe
 ◦ Twitter (https://twitter.com/winningslowly)
 ◦ Facebook (https://www.facebook.com/winningslowlypodcast)
 ◦ App.net (https://alpha.app.net/winningslowly)
-</itunes:summary>
+]]></itunes:summary>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>31:45</itunes:duration>
         </item>
@@ -1630,7 +1687,7 @@ Follow/Subscribe
             <guid isPermaLink="false">FABFDBDF-BEF7-46D6-B064-AAA3BF0D366E</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>This Is An Orchestra, Those Lyrics, You Have to Go Through Death</itunes:subtitle>
-            <itunes:summary>Warning: this episode touches on some very difficult topics, including both death in general and suicide in particular. If these are especially sensitive topics for you, we recommend you skip this episode. Maybe go back and listen to Superhero Movies! (http://www.winningslowly.org/2014/08/superhero-movies/) instead.
+            <itunes:summary><![CDATA[Warning: this episode touches on some very difficult topics, including both death in general and suicide in particular. If these are especially sensitive topics for you, we recommend you skip this episode. Maybe go back and listen to Superhero Movies! (http://www.winningslowly.org/2014/08/superhero-movies/) instead.
 
 Show Notes
 
@@ -1662,7 +1719,7 @@ Follow/Subscribe
 ◦ Twitter (https://twitter.com/winningslowly)
 ◦ Facebook (https://www.facebook.com/winningslowlypodcast)
 ◦ App.net (https://alpha.app.net/winningslowly)
-</itunes:summary>
+]]></itunes:summary>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>30:01</itunes:duration>
         </item>
@@ -1707,7 +1764,7 @@ Follow/Subscribe
             <guid isPermaLink="false">5767C9D7-FE6A-417D-8E77-F3B1EC8712E5</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Reboots, Copying the Other Guy, Not Learning From Failure, The Gold Standard</itunes:subtitle>
-            <itunes:summary># Show Notes
+            <itunes:summary><![CDATA[# Show Notes
 
 In which we talk about superhero movies as context for dealing well and poorly with success and failure. And geek out about superhero movies. (Honestly, we mostly just geek out about superhero movies.) But along the way, we do note that DC, Marvel, Sony, and Fox have dealt with their successes and failures in some radically different ways, and note some ways in which we might all learn from our superhero friends.
 
@@ -1741,7 +1798,7 @@ Also, we unabashedly make mistakes ourselves, own them, and laugh at them. One o
 ◦ Twitter: https://www.twitter.com/winningslowly
 ◦ Facebook: https://www.facebook.com/winningslowlypodcast
 ◦ App.net: https://alpha.app.net/winningslowly
-◦ RSS Feed: http://www.winningslowly.org/feed.xml</itunes:summary>
+◦ RSS Feed: http://www.winningslowly.org/feed.xml]]></itunes:summary>
             <itunes:keywords>marvel,dc,x-men,sony,fox,spiderman,batman,superman,guardians of the galaxy,spiderman,movies</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>29:39</itunes:duration>
@@ -1799,7 +1856,7 @@ Also, we unabashedly make mistakes ourselves, own them, and laugh at them. One o
             <guid isPermaLink="false">EF9347DD-1B18-47C6-9E09-62CE9A78F31B</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>MOOCs! Watches! Shoes!, The Cult of Disruption, Technological Imperialism, Recognizing Tech’s Limitations</itunes:subtitle>
-            <itunes:summary># Show Notes
+            <itunes:summary><![CDATA[# Show Notes
 
 In which we look (rather critically) at the tech sphere’s tendency to assume everything not only can but should be disrupted. Snarky asides on smartwatches and smartshoes segue into a discussion of the necessity of humility and the importance of recognizing what technology *cannot* do and what it *should* not do.
 
@@ -1832,7 +1889,7 @@ Note: by “disruption” we are focused not on the particular concept developed
 • Twitter (https://www.twitter.com/winningslowly)
 • Facebook (https://www.facebook.com/winningslowlypodcast)
 • App.net (https://alpha.app.net/winningslowly)
-• RSS Feed (http://www.winningslowly.org/feed.xml)</itunes:summary>
+• RSS Feed (http://www.winningslowly.org/feed.xml)]]></itunes:summary>
             <itunes:keywords>ethics,economics,technology,disruption</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>28:36</itunes:duration>
@@ -1869,7 +1926,7 @@ In which we talk about one of the <em>longest</em> views: family. In particular,
             <guid isPermaLink="false">D5224072-0DA5-4072-B080-2B83B3B8190C</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>You Can't Have It All; Singleness Not a Disaster; and Family, Work, Innovation, and the Long View</itunes:subtitle>
-            <itunes:summary># Show Notes
+            <itunes:summary><![CDATA[# Show Notes
 
 In which we talk about one of the *longest* views: family. In particular, we look at the ways that all our pursuits—especially those having to do with family—force us to make choices about what we value most and to allocate our time accordingly. After all, one's impact on one's family is far more long-lasting than nearly anything else we do. We also spend some time thinking about the responsibilities of corporations to develop expectations that support families as genuinely valuable to culture
 
@@ -1885,7 +1942,7 @@ In which we talk about one of the *longest* views: family. In particular, we loo
 
 • “Walls For The Wind” (http://theparmesans.bandcamp.com), from Nature's Burrito, by The Parmesans. Used by permission.
 • “Winning Slowly Theme” (https://soundcloud.com/chriskrycho/winning-slowly), by Chris Krycho. Used by dint of being written the show. Not too bad for a digitally voiced piano.
-</itunes:summary>
+]]></itunes:summary>
             <itunes:keywords>family,innovation,work,ethics</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>32:09</itunes:duration>
@@ -1925,7 +1982,7 @@ In which we talk about one of the *longest* views: family. In particular, we loo
             <guid isPermaLink="false">B6059083-A381-4633-93E3-29F8B9DD3CE9</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Facebook’s Social (Network) Science, User Responsibility, and Corporate Ethics</itunes:subtitle>
-            <itunes:summary># Show Notes
+            <itunes:summary><![CDATA[# Show Notes
 
 We talk about Facebook’s much-discussed study of user responses to variations in their News Feed: what did Facebook do, exactly? Was it ethical? What responsibilities do users and consumers of different media (social included) have? What reponsibilities do companies have to their users?
 
@@ -1945,7 +2002,7 @@ We talk about Facebook’s much-discussed study of user responses to variations 
 # Links
 
 • Facebook tinkered with users’ feeds for a massive psychology experiment (http://www.avclub.com/article/facebook-tinkered-users-feeds-massive-psychology-e-206324), by William Hughes
-• In Defense of Facebook (http://www.talyarkoni.org/blog/2014/06/28/in-defense-of-facebook/), by Tal Yarkoni (and see the comments for a helpful back-and-forth)</itunes:summary>
+• In Defense of Facebook (http://www.talyarkoni.org/blog/2014/06/28/in-defense-of-facebook/), by Tal Yarkoni (and see the comments for a helpful back-and-forth)]]></itunes:summary>
             <itunes:keywords>social media,ethics,technology,Facebook</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>30:00</itunes:duration>
@@ -1997,7 +2054,7 @@ We talk about Facebook’s much-discussed study of user responses to variations 
             <guid isPermaLink="false">C867135B-5C67-449B-B2D5-B6DF41AC52B4</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Tech Companies Which Just Can't Pivot, Denominations Don't Change Fast Either, Dealing in Institutional Realities</itunes:subtitle>
-            <itunes:summary># Show Notes
+            <itunes:summary><![CDATA[# Show Notes
 
 In which we talk about how watching companies like Google, Apple, and Facebook try to “pivot”—that is, attempting (and usually failing) to do something outside their core areas of competency—highlights the difficulty of institutional change in general. We apply this idea to everything from the strengths and weaknesses of different Christian denominations to the way structural change occurs in the government.
 
@@ -2027,7 +2084,7 @@ Things we mentioned in the show—news, books, articles, etc.
 • Facebook buying Oculus VR for $2 billion (http://www.theverge.com/2014/3/25/5547456/facebook-buying-oculus-for-2-billion)
 • Apple reportedly nearing $3.2B acquisition of Beats Electronics (http://appleinsider.com/articles/14/05/08/apple-reportedly-nearing-32-billion-buy-for-beats-electronics)
 • Culture Making (http://www.amazon.com/Culture-Making-Recovering-Creative-Calling-ebook/dp/B001IDYIMY/), Andy Crouch
-• To Change the World (http://www.amazon.com/Change-World-Tragedy-Possibility-Christianity-ebook/dp/B003TWNDVY/), James Davison Hunter</itunes:summary>
+• To Change the World (http://www.amazon.com/Change-World-Tragedy-Possibility-Christianity-ebook/dp/B003TWNDVY/), James Davison Hunter]]></itunes:summary>
             <itunes:keywords>Christianity,technology,art</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>24:24</itunes:duration>
@@ -2067,7 +2124,7 @@ Things we mentioned in the show—news, books, articles, etc.
             <guid isPermaLink="false">11144328-39FD-4664-8353-D244EA65C874</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>What Happened to App.net, Paying to Socialize, Free or Not Free</itunes:subtitle>
-            <itunes:summary># Show Notes
+            <itunes:summary><![CDATA[# Show Notes
 
 In which we talk about App.net closing down, how even good business models do not guarantee successful businesses, and the future of paying for things on the internet—especially whether social media will ever be the kind of thing people are willing to pay for.
 
@@ -2087,7 +2144,7 @@ In which we talk about App.net closing down, how even good business models do no
 
 # Links
 
-• [App.Net State of the Union](http://blog.app.net/2014/05/06/app-net-state-of-the-union/) – in which Dalton Caldwell (founder of App.net) announced publicly the layoffs and future of the service.</itunes:summary>
+• [App.Net State of the Union](http://blog.app.net/2014/05/06/app-net-state-of-the-union/) – in which Dalton Caldwell (founder of App.net) announced publicly the layoffs and future of the service.]]></itunes:summary>
             <itunes:keywords>social media,economics</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>24:47</itunes:duration>
@@ -2129,7 +2186,7 @@ In which we talk about App.net closing down, how even good business models do no
             <guid isPermaLink="false">042D323E-F9B7-4C25-92A3-BF674808D2AC</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Headline-Writing, Whether Ends Justify Means, Means Shape Ends, Truthy, or Truly?</itunes:subtitle>
-            <itunes:summary># Show Notes
+            <itunes:summary><![CDATA[# Show Notes
 
 In which we talk about headline-writing in general, click-bait headlines in particular, and why we don't think that click-bait headlines are a “best practice”—or really a good thing at all. How these realities shape all sorts of discourse, not just headline-writing, including political stances.
 
@@ -2151,7 +2208,7 @@ Note: Chris kept talking about Slate when he meant *not* Slate (and specifically
 
 # Links
 
-• “How Salon.com Rewrote My Headline and Turned Me Into an Internet Troll” (http://www.pajiba.com/think_pieces/how-saloncom-rewrote-my-headline-and-turned-me-into-an-internet-troll.php)</itunes:summary>
+• “How Salon.com Rewrote My Headline and Turned Me Into an Internet Troll” (http://www.pajiba.com/think_pieces/how-saloncom-rewrote-my-headline-and-turned-me-into-an-internet-troll.php)]]></itunes:summary>
             <itunes:keywords>ethics,economics</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>22:10</itunes:duration>
@@ -2196,7 +2253,7 @@ Note: Chris kept talking about Slate when he meant *not* Slate (and specifically
             <guid isPermaLink="false">3E58C11B-1010-4E13-B3D1-C6285C9BDC44</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>The Reason for Copyright, Valuing Products in Different Ways, “Pay Me For This Thing”</itunes:subtitle>
-            <itunes:summary># Show Notes
+            <itunes:summary><![CDATA[# Show Notes
 
 In which we tackle copyright (or left, as you like), barely touch on patents, and generally try to think about how to handle questions of intellectual property as consumers and creators thereof in the brave new world of digital economics and cheap copies of everything (even Nike shoes).
 
@@ -2221,7 +2278,7 @@ Things we talked about in the show you might want to read some more about. We gi
 
 • Spreadable Media: Creating Value and Meaning in a Networked Culture (http://www.amazon.com/Spreadable-Media-Creating-Networked-Postmillennial/dp/0814743501/), by Henry Jenkins
 • Stratechery.fm Episode 02: Fat as a Service (http://stratechery.fm/episode-002-fat-as-a-service-faas/)
-• CCLI (http://us.ccli.com/licenses-and-services/church-copyright-license/) – church copyright licenses, designed to allow churches to use music in their services without paying exorbitant fees</itunes:summary>
+• CCLI (http://us.ccli.com/licenses-and-services/church-copyright-license/) – church copyright licenses, designed to allow churches to use music in their services without paying exorbitant fees]]></itunes:summary>
             <itunes:keywords>copyright,intellectual property,art,digital economics</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>28:10</itunes:duration>
@@ -2263,7 +2320,7 @@ Things we talked about in the show you might want to read some more about. We gi
             <guid isPermaLink="false">050A39DF-DA0C-4552-A28C-DEEE35F42709</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Prosumerization, I'm-Trying-To-Be-A-Professional Buttons, and the Digital Economy</itunes:subtitle>
-            <itunes:summary># Show Notes
+            <itunes:summary><![CDATA[# Show Notes
 
 In which we talk about how anyone with a camera can be a "photographer," anyone with a laptop can be a "musician," anyone with a SquareSpace account can be a "designer," and so on---and how these things are both beautifully empowering and incredibly frustrating for the pros in these fields.
 
@@ -2285,7 +2342,7 @@ In which we talk about how anyone with a camera can be a "photographer," anyone 
 Things we mentioned in the show you might care about:
 
 - Squarespace design kerfuffle (http://www.pastemagazine.com/articles/2014/01/on-january-22-squarespacehttpwwwsquarespacecom-ann.html)
-- Ben Thompson/Stratechery (http://stratechery.com)</itunes:summary>
+- Ben Thompson/Stratechery (http://stratechery.com)]]></itunes:summary>
             <itunes:keywords>economics,art,SquareSpace,technology,design</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>29:08</itunes:duration>
@@ -2318,7 +2375,7 @@ Things we mentioned in the show you might care about:
             <guid isPermaLink="false">140333D0-11A2-41FF-AD2A-52835C785B50</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Not Publishing 0.08, Learning Humility, and Differences in Media</itunes:subtitle>
-            <itunes:summary># Show Notes
+            <itunes:summary><![CDATA[# Show Notes
 
 In which we take seventeen minutes (on the dot!) to have a really great time explaining why there was no Episode 0.08. Basically: because it ended up being terrible by dint of having completely gotten away from us. The net result: a lesson in the difference between blogging and podcasting, a bit more humility, and a lot of laughter at our own expense.
 
@@ -2334,7 +2391,7 @@ In which we take seventeen minutes (on the dot!) to have a really great time exp
 
 - “Ugly We Were Born” (http://kyealfredhillig.bandcamp.com/track/ugly-we-were-born), from Real Snow (http://kyealfredhillig.bandcamp.com/album/real-snow), by Kye Alfred Hilling, used by permission.
 - “Winning Slowly Theme” (https://soundcloud.com/chriskrycho/winning-slowly), by Chris Krycho. Used by dint of being written for the show.
-</itunes:summary>
+]]></itunes:summary>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>17:00</itunes:duration>
         </item>
@@ -2372,7 +2429,7 @@ In which we take seventeen minutes (on the dot!) to have a really great time exp
             <guid isPermaLink="false">80B433E5-25B2-4076-89E2-1806C303BF14</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>The Affordable Care Act (“Obamacare”) and Implementation Driving Policy</itunes:subtitle>
-            <itunes:summary># Show Notes
+            <itunes:summary><![CDATA[# Show Notes
 
 In which we talk about the Affordable Care Act and how implementation—both at a technological level and at a general political level—public perception, and policy combine in strange and surprising ways.
 
@@ -2391,7 +2448,7 @@ In which we talk about the Affordable Care Act and how implementation—both at 
 # Links
 
 - HealthCare.gov
-- One of many articles talking about the dysfunction that led to the technological failure: Healthcare.gov and Obama's Micromanagement Problem: http://www.theatlantic.com/politics/archive/2013/12/healthcaregov-and-obamas-micromanagement-problem/281943/</itunes:summary>
+- One of many articles talking about the dysfunction that led to the technological failure: Healthcare.gov and Obama's Micromanagement Problem: http://www.theatlantic.com/politics/archive/2013/12/healthcaregov-and-obamas-micromanagement-problem/281943/]]></itunes:summary>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>17:28</itunes:duration>
         </item>
@@ -2446,7 +2503,7 @@ In which we talk about the Affordable Care Act and how implementation—both at 
             <guid isPermaLink="false">495DD174-5163-4E0F-AC6F-4CE7F3F85CCF</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>God’s Not Dead, Son of God, Noah, and Getting Heaven Thrown In</itunes:subtitle>
-            <itunes:summary># Show Notes
+            <itunes:summary><![CDATA[# Show Notes
 
 In which we talk at length about art and the arts in the context of Christianity, taking the three religiously themed movies in theaters right now as our jumping off point.
 
@@ -2468,12 +2525,12 @@ Aside: Stephen made a tent to record in his hotel room in Indianapolis. Some scr
 
 (This week, sorted alphabetically rather than by the order mentioned in the show… because I have no idea what order we introduced the books in the show.)
 
-* Art and the Bible, Francis Schaeffer (http://www.christianbook.com/Christian/Books/product?event=AFF&amp;amp;amp;p=1179430&amp;amp;amp;item_no=834011)
-* An Experiment in Criticism, C.S. Lewis (http://www.christianbook.com/Christian/Books/product?event=AFF&amp;amp;amp;p=1179430&amp;amp;amp;item_no=04728X)
+* Art and the Bible, Francis Schaeffer (http://www.christianbook.com/Christian/Books/product?event=AFF&amp;amp;p=1179430&amp;amp;item_no=834011)
+* An Experiment in Criticism, C.S. Lewis (http://www.christianbook.com/Christian/Books/product?event=AFF&amp;amp;p=1179430&amp;amp;item_no=04728X)
 * God’s Not Dead official movie site: http://godsnotdeadthemovie.com
 * Noah official movie site: http://www.noahmovie.com
 * Son of God official movie site: http://www.sonofgodmovie.com
-* The Tolkien Reader, J.R.R. Tolkien, including “On Fairy-Stories” (http://www.christianbook.com/Christian/Books/product?event=AFF&amp;amp;amp;p=1179430&amp;amp;amp;item_no=345066)</itunes:summary>
+* The Tolkien Reader, J.R.R. Tolkien, including “On Fairy-Stories” (http://www.christianbook.com/Christian/Books/product?event=AFF&amp;amp;p=1179430&amp;amp;item_no=345066)]]></itunes:summary>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>32:02</itunes:duration>
         </item>
@@ -2510,7 +2567,7 @@ Aside: Stephen made a tent to record in his hotel room in Indianapolis. Some scr
             <guid isPermaLink="false">05EFC06A-86D5-4C84-A63D-12F8AD9273E4</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Kickstarting All The Things and Ungreedy Capitalism</itunes:subtitle>
-            <itunes:summary># Show Notes
+            <itunes:summary><![CDATA[# Show Notes
 
 In which we try out a 15-minute show format (and manage to run to 22 minutes, of course---you're not really surprised, are you?) on one topic: Kickstarter hitting a *billion* dollars funded.
 
@@ -2528,7 +2585,7 @@ In which we try out a 15-minute show format (and manage to run to 22 minutes, of
 
 - Kickstarter: http://kickstarter.com/
 - Kickstarter's latest stats: http://kickstarter.com/help/stats
-- Freakonomics: Pontiff-icating on the Free-Market System http://freakonomics.com/2013/12/19/pontiff-icating-on-the-free-market-system-a-new-freakonomics-radio-podcast/</itunes:summary>
+- Freakonomics: Pontiff-icating on the Free-Market System http://freakonomics.com/2013/12/19/pontiff-icating-on-the-free-market-system-a-new-freakonomics-radio-podcast/]]></itunes:summary>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>23:02</itunes:duration>
         </item>
@@ -2567,7 +2624,7 @@ In which we try out a 15-minute show format (and manage to run to 22 minutes, of
             <guid isPermaLink="false">5B4D63A6-AD71-455C-A5FF-942D92FA8ABD</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Beating Up Writers, Musical Careering, and Losing Editorially</itunes:subtitle>
-            <itunes:summary># Show Notes
+            <itunes:summary><![CDATA[# Show Notes
 
 In which we talk about what happens when people yell at each other about what they should and shouldn't be writing, how musicians' attitudes toward "making a career of it" seem to have shifted in the last few decades, and why not having a business plan is a bad plan.
 
@@ -2587,7 +2644,7 @@ In which we talk about what happens when people yell at each other about what th
 - [Blogging vs. Building](https://medium.com/on-startups/bc6893bb5cd5)
 - [Professors, We Need You!](http://www.nytimes.com/2014/02/16/opinion/sunday/kristof-professors-we-need-you.html)
 - [Interview with Future Islands](http://pitchfork.com/features/update/9315-future-islands/)
-- [Goodbye to Editorially](http://stet.editorially.com/articles/goodbye/)</itunes:summary>
+- [Goodbye to Editorially](http://stet.editorially.com/articles/goodbye/)]]></itunes:summary>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>42:51</itunes:duration>
         </item>
@@ -2621,7 +2678,7 @@ In which we talk about what happens when people yell at each other about what th
             <guid isPermaLink="false">410FEDCE-6431-4669-976E-5191D398AA84</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>How greedy pricing schemes an and will run you right out of business, how the Ken Ham-Bill Nye debate raises questions about Christians in the public square, and how incredibly weird it is that we can (and do) lose parts of the internet.</itunes:subtitle>
-            <itunes:summary>Show Notes
+            <itunes:summary><![CDATA[Show Notes
 
 In which we talk about how greedy pricing schemes an and will run you right out of business (by running you right out of customers), how the Ken Ham-Bill Nye debate raises questions about Christians in the public square, and how incredibly weird it is that we can (and do) lose parts of the internet.
 
@@ -2632,7 +2689,7 @@ In which we talk about how greedy pricing schemes an and will run you right out 
 Music
 
 * Opening music: “The South” by The Duke of Norfolk
-* Closing music: Winning Slowly Theme by Chris Krycho. Used by dint of being written for the show.</itunes:summary>
+* Closing music: Winning Slowly Theme by Chris Krycho. Used by dint of being written for the show.]]></itunes:summary>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>42:53</itunes:duration>
         </item>
@@ -2850,14 +2907,14 @@ Music
             <guid isPermaLink="false">FA4FB1B9-9398-40BD-A0D3-B8F6425BA24F</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Internet Radio, Pastor-Authors, and Trade Agreements</itunes:subtitle>
-            <itunes:summary>In which we talk about doing “content” right—whether that content is streaming
+            <itunes:summary><![CDATA[In which we talk about doing “content” right—whether that content is streaming
 radio, books published by Christian pastors, or massive trade laws.
 
 * Spotify, Pandora, and iTunes Radio: thinking about the ups and downs of each service
 
 * Pastor-authors: thinking about “plagiarism” and whose names end up on books
 
-* The Trans-Pacific Partnership: or, how making laws in secret as fast as possible is bad for democracy</itunes:summary>
+* The Trans-Pacific Partnership: or, how making laws in secret as fast as possible is bad for democracy]]></itunes:summary>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>45:42</itunes:duration>
         </item>
@@ -2904,7 +2961,7 @@ radio, books published by Christian pastors, or massive trade laws.
             <guid isPermaLink="false">AAB2B627-D3F1-4E9F-94A3-06165E126E3E</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Religious twittering, Google nesting, and hobbyists careering.</itunes:subtitle>
-            <itunes:summary>In which we talk about how context shapes (or should shape) our decisions
+            <itunes:summary><![CDATA[In which we talk about how context shapes (or should shape) our decisions
 regarding technology, with three big topics:
 
 * Christian author and former pastor John Piper and Pope Francis
@@ -2932,7 +2989,7 @@ easier for you that way… gives you some context, as it were.
 
 * Controlled Burn Records
 
-* Nonagon</itunes:summary>
+* Nonagon]]></itunes:summary>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>42:30</itunes:duration>
         </item>
