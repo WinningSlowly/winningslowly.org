@@ -18,16 +18,13 @@ how the small things we do can have big impacts (and vice versa).
 
 ## When
 
-Winning Slowly episodes (usually) come out every Tuesday at 7 am Eastern
-time. If unforeseen scheduling issues arise, we will add a note below
-accordingly. Episodes are normally 25--30 minutes long.
+Winning Slowly episodes (usually) come out every Tuesday at 7 am Eastern time.
+If unforeseen scheduling issues arise, we will add a note below accordingly.
+Episodes are normally 25--30 minutes long.
 
-### Season 2
+Season 2 began with  [2.01: Take My Money Please!][2.01] on January 27, 2015. If
+you are looking for more content, please enjoy the archives!
 
-Assuming everything stays on schedule, Season 2 will start with 2.01 on
-January 27, 2015. In the meantime, we'll be preparing: improving the
-website, improving our recording setups, and putting together ideas for
-the upcoming episodes. Enjoy the archives!
 
 ### Season 1
 
