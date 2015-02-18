@@ -10,8 +10,8 @@
         <copyright>2014 Winning Slowly</copyright>
         <managingEditor>stephen@winningslowly.org (Stephen Carradini)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Tue, 17 Feb 2015 20:32:58 -0500</pubDate>
-        <lastBuildDate>Tue, 17 Feb 2015 20:32:58 -0500</lastBuildDate>
+        <pubDate>Tue, 17 Feb 2015 20:43:50 -0500</pubDate>
+        <lastBuildDate>Tue, 17 Feb 2015 20:43:50 -0500</lastBuildDate>
         <ttl>50</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -80,7 +80,7 @@
 </ul></li>
 </ul>]]></description>
             <pubDate>Tue, 17 Feb 2015 20:00:36 -0500</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-2.04.m4a" length="14823818" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-2.04.m4a" length="14057354" type="audio/x-m4a"/>
             <guid isPermaLink="false">A934AE79-6AE8-4C7C-84A4-A3BC3381F55F</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Elon Musk, Tesla, Space X, and Capital-ism</itunes:subtitle>
@@ -111,7 +111,7 @@ Links
   • “SpaceX elbows into Air Force launch program after dropping lawsuit” (http://arstechnica.com/business/2015/01/spacex-elbows-into-air-force-launch-program-after-dropping-lawsuit/)]]></itunes:summary>
             <itunes:keywords>tesla,spacex,elon musk,technology,ethics,capitalism,business</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>30:17</itunes:duration>
+            <itunes:duration>28:42</itunes:duration>
             <dc:creator>Stephen Carradini and Chris Krycho</dc:creator>
         </item>
         <item>
