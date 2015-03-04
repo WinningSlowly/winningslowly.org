@@ -4,14 +4,14 @@
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>A forum for two interdisciplinary thinkers to discuss the long view of current trends in technology, religion, art, ethics, and culture. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 2.5.8(1906); Mac OS X Version 10.10.2 (Build 14C109) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 2.5.9(1915); Mac OS X Version 10.10.2 (Build 14C109) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2014–2015 Winning Slowly</copyright>
         <managingEditor>stephen@winningslowly.org (Stephen Carradini)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Mon, 23 Feb 2015 22:15:38 -0500</pubDate>
-        <lastBuildDate>Mon, 23 Feb 2015 22:15:38 -0500</lastBuildDate>
+        <pubDate>Tue, 03 Mar 2015 22:39:33 -0500</pubDate>
+        <lastBuildDate>Tue, 03 Mar 2015 22:39:33 -0500</lastBuildDate>
         <ttl>50</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -37,6 +37,86 @@
         <itunes:category text="Religion &amp; Spirituality">
             <itunes:category text="Christianity"/>
         </itunes:category>
+        <item>
+            <title>2.06: The Ones- and Zeros-Sphere</title>
+            <link>http://www.winningslowly.org/2015/03/the-ones-and-zeros-sphere</link>
+            <description><![CDATA[<h3 id="shownotes">Show Notes</h3>
+
+<p>In which we talk about how companies have to deal with the inherent leak-ability of digital media, especially things like movie trailers. How <em>should</em> Marvel respond to whoever leaked the first Age of Ultron trailer? Stephen and Chris have a friendly disagreement about the best way to respond to this kind of thing.</p>
+
+<p>Today&#8217;s blooper section is&#8230; amazing.</p>
+
+<p>Alternate title we ultimately decided not to foist upon you: MPAAwful. You can thank Stephen for that one (as well as the much better actual title!)</p>
+
+<h3 id="beforeyougo">Before You Go</h3>
+
+<ul>
+<li><a href="https://www.kickstarter.com/projects/597507018/pebble-time-awesome-smartwatch-no-compromises">Pebble Time Kickstarter</a></li>
+<li><a href="https://pebbletimetracker.herokuapp.com">How much money has the Pebble Time Kickstarter raised?</a>&#8212;graphing the craziness for fun and&#8230; fun. (Unfortunately, the graph is less interesting than it was the first day the project was live, when it earned most of the over $10M it has pledged.)</li>
+</ul>
+
+<h3 id="music">Music</h3>
+
+<ul>
+<li><a href="http://brooklyndoran.bandcamp.com/track/theres-a-light-on-kitchen-song">&#8220;There&#8217;s a Light On (Kitchen Song)&#8221;</a> from <a href="http://brooklyndoran.bandcamp.com/album/theres-a-light-on"><em>There&#8217;s a Light On</em></a> by Brooklyn Duran. Used by permission.</li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">&#8220;Winning Slowly Theme&#8221;</a> by Chris Krycho. <em>We&#8217;re running out of clever things to say here.</em></li>
+</ul>
+
+<h3 id="links">Links</h3>
+
+<ul>
+<li><p><a href="https://www.techdirt.com/articles/20030909/0116235.shtml">When the RIAA sued a 12-year-old and a 71-year-old</a></p></li>
+<li><p><a href="https://twitter.com/marvel/status/525071656306626560">&#8220;Dammit, Hydra&#8221;</a>&#8212;Marvel&#8217;s (brilliant) PR-move tweet</p></li>
+<li><p><a href="http://www.washingtonpost.com/blogs/style-blog/wp/2014/11/07/all-powerful-marvel-subpoenas-google-over-trailer-leak/">&#8220;All-powerful Marvel subpoenas Google over trailer leak&#8221;</a></p>
+
+<blockquote>
+<p>Marvel is seeking out the person responsible for a leak not of a script or of a movie, but of a trailer. Yes, Marvel’s executives are taking matters to the courts because people were able to watch about two minutes of footage that looked like every other Marvel trailer — fireballs and terrified citizens, heroes with far-off gazes and narration by an evil nemesis — before the company was ready for people to see it.</p>
+</blockquote></li>
+<p><li>Previously on the show:</p>
+
+<ul>
+<li><a href="http://www.winningslowly.org/2014/08/superhero-movies/">1.08: Superhero Movies!</a>&#8212;the first time we talked at length about Marvel.</li>
+<li><a href="http://www.winningslowly.org/2015/02/basketballs-pumpkins/">2.02: Basketballs≠Pumpkins</a>&#8212;on things on the internet growing beyond people&#8217;s ability to control.</li>
+</ul></li>
+</ul>]]></description>
+            <pubDate>Tue, 03 Mar 2015 22:38:23 -0500</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-2.06.m4a" length="15173539" type="audio/x-m4a"/>
+            <guid isPermaLink="false">B393CBE0-31C4-4B80-BF72-5420BB992A5A</guid>
+            <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
+            <itunes:subtitle>Pragmatism, Cynicism, and Realism in the Digital Age</itunes:subtitle>
+            <itunes:summary><![CDATA[In which we talk about how companies have to deal with the inherent leak-ability of digital media, especially things like movie trailers. How should Marvel respond to whoever leaked the first Age of Ultron trailer? Stephen and Chris have a friendly disagreement about the best way to respond to this kind of thing.
+
+Today’s blooper section is… amazing.
+
+Alternate title we ultimately decided not to foist upon you: MPAAwful. You can thank Stephen for that one (as well as the much better actual title!).
+
+Before You Go
+
+◦ Pebble Time Kickstarter (https://www.kickstarter.com/projects/597507018/pebble-time-awesome-smartwatch-no-compromises)
+◦ How much money has the Pebble Time Kickstarter raised? (https://pebbletimetracker.herokuapp.com)—graphing the craziness for fun and... fun. (Unfortunately, the graph is less interesting than it was the first day the project was live, when it earned most of the over $10M it has pledged.)
+
+Music
+
+◦ “There's a Light On (Kitchen Song)” (http://brooklyndoran.bandcamp.com/track/theres-a-light-on-kitchen-song) from There's a Light On (http://brooklyndoran.bandcamp.com/album/theres-a-light-on) by Brooklyn Duran. Used by permission.
+◦ “Winning Slowly Theme” (https://soundcloud.com/chriskrycho/winning-slowly) by Chris Krycho. We're running out of clever things to say here.
+
+Links
+
+◦ When the RIAA sued a 12-year-old and a 71-year-old (https://www.techdirt.com/articles/20030909/0116235.shtml)
+◦ “Dammit, Hydra” (https://twitter.com/marvel/status/525071656306626560)—Marvel's (brilliant) PR-move tweet
+◦ “All-powerful Marvel subpoenas Google over trailer leak” (http://www.washingtonpost.com/blogs/style-blog/wp/2014/11/07/all-powerful-marvel-subpoenas-google-over-trailer-leak/)
+    
+  Marvel is seeking out the person responsible for a leak not of a script or of a movie, but of a trailer. Yes, Marvel’s executives are taking matters to the courts because people were able to watch about two minutes of footage that looked like every other Marvel trailer — fireballs and terrified citizens, heroes with far-off gazes and narration by an evil nemesis — before the company was ready for people to see it.
+
+◦ Previously on the show: 
+  • 1.08: Superhero Movies! (http://www.winningslowly.org/2014/08/superhero-movies/)—the first time we talked at length about Marvel.
+  • 2.02: Basketballs≠Pumpkins (http://www.winningslowly.org/2015/02/basketballs-pumpkins/)—on things on the internet growing beyond people's ability to control.
+]]></itunes:summary>
+            <itunes:keywords>Marvel,MPAA,RIAA,technology,movies</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>31:00</itunes:duration>
+            <dc:creator>Stephen Carradini and Chris Krycho</dc:creator>
+        </item>
         <item>
             <title>2.05: Beauty-Making</title>
             <link>http://www.winningslowly.org/2015/02/beauty-making/</link>
