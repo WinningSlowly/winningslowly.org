@@ -4,14 +4,14 @@
         <title>(TEST) Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>A forum for two interdisciplinary thinkers to discuss the long view of current trends in technology, religion, art, ethics, and culture. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 2.5.9(1915); Mac OS X Version 10.10.3 (Build 14D87p) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 2.5.9(1915); Mac OS X Version 10.10.3 (Build 14D105g) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2014–2015 Winning Slowly</copyright>
         <managingEditor>stephen@winningslowly.org (Stephen Carradini)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Mon, 16 Mar 2015 20:06:07 -0400</pubDate>
-        <lastBuildDate>Mon, 16 Mar 2015 20:06:07 -0400</lastBuildDate>
+        <pubDate>Thu, 02 Apr 2015 20:01:34 -0400</pubDate>
+        <lastBuildDate>Thu, 02 Apr 2015 20:01:34 -0400</lastBuildDate>
         <ttl>50</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -37,6 +37,93 @@
         <itunes:category text="Religion &amp; Spirituality">
             <itunes:category text="Christianity"/>
         </itunes:category>
+        <item>
+            <title>2.09: Hi, We’re the Internet</title>
+            <link>http://www.winningslowly.org/2015/04/hi-were-the-internet/</link>
+            <description><![CDATA[<h3 id="show-notes">Show Notes</h3>
+<p>Chris and Stephen use Chris’s first two ridesharing experiences as a jumping-off point to discuss services like Uber and Lyft from a host of angles: ethical, financial, technological, social, legal, and personal. Put on your seatbelts, folks: this one’s a long one.</p>
+<p><em>Note:</em> Chris told the drivers of his Lyft and Uber rides that he was going to talk about his experience on this podcast, and they agreed to talk with him.</p>
+<h3 id="before-you-go">Before You Go</h3>
+<ul>
+<li><a href="http://www.wral.com/nc-state-disbands-pi-kappa-phi-chapter-following-investigation/14539264/">NC State: PKP brothers must vacate house by the weekend</a> by Ken Smith, Mark Simpson, Stan Chambers Jr., and Angie Basiouny</li>
+<li><a href="http://www.newsobserver.com/news/local/community/midtown-raleigh-news/article16298969.html">NC State to conduct thorough review of its Greek system</a> by Michelle Hankerson</li>
+</ul>
+<h3 id="music">Music</h3>
+<ul>
+<li><a href="http://mondraggor.com/">“It’s Quiet Now”</a> by Mon Draggor. Used by permission.</li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho. <em>Alas, you’ll never hear this on the radio in an Uber car.</em></li>
+</ul>
+<h3 id="links">Links</h3>
+<ul>
+<li><a href="https://www.uber.com/">Uber</a></li>
+<li><a href="https://www.lyft.com/">Lyft</a></li>
+<li><a href="https://circanews.com/">Circa</a> news app</li>
+<li><a href="http://time.com/3757398/uber-rape-philadelphia/">Philadelphia Woman Accuses UberX Driver of Rape</a> Stephen mentioned that safety issues haven’t been in the news as much, and that was challenged very shortly after this was recorded.</li>
+<li><a href="http://www.cnn.com/2014/12/07/world/asia/india-uber-alleged-rape/">Indian Uber driver arrested after alleged rape, police say</a> Here’s another instance of passenger safety being breached in dangerous ways.<br /></li>
+<li><a href="https://circanews.com/news/regulatory-issues-with-uber">Uber Regulatory Issues</a> via Circa News</li>
+<li><a href="http://www.theverge.com/2014/8/26/6067663/this-is-ubers-playbook-for-sabotaging-lyft">This is Uber’s playbook for sabotaging Lyft</a> by Casey Newton</li>
+<li><a href="https://nakedsecurity.sophos.com/2015/03/26/uber-goes-big-data-shares-customers-data-with-a-hotel-chain/">Uber goes Big Data, shares customers’ data with a hotel chain</a> by Lisa Vaas</li>
+</ul>
+<h4 id="further-reading">Further Reading</h4>
+<ul>
+<li><a href="http://stratechery.com/2014/uber-fights/">Why Uber Fights</a> by Ben Thompson</li>
+<li><a href="http://stratechery.com/2014/uber-worth-18-2-billion/">Why Uber Is Worth $18.2 Billion</a> by Ben Thompson</li>
+<li><a href="http://stratechery.com/2013/obsoletive/">Obsoletive</a> by Ben Thompson</li>
+<li><a href="http://stratechery.com/2014/dont-blame-uber/">Don’t Blame Uber</a> by Ben Thompson</li>
+</ul>
+<h4 id="previously-on-the-show">Previously on the show:</h4>
+<ul>
+<li><a href="http://www.winningslowly.org/2014/07/disrupting-all-the-things/">1.03: Disrupting All the Things!</a>—When talked about disruptions in tech.</li>
+<li><a href="http://www.winningslowly.org/2014/10/political-appinations/">1.12: Political Appinations</a>—When we talked about the limits of technology in the real world.</li>
+<li><a href="http://www.winningslowly.org/2014/09/kind-of-like-a-virus/">1.09: Kind of Like a Virus</a>—When we talked about seemingly intractable evil.</li>
+</ul>]]></description>
+            <pubDate>Thu, 02 Apr 2015 20:00:26 -0400</pubDate>
+            <enclosure url="http://winningslowly.s3.amazonaws.com/episode-2.09.m4a" length="15629215" type="audio/x-m4a"/>
+            <guid isPermaLink="false">B7FC218F-8E51-4D42-95CE-6707D0753AB8</guid>
+            <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
+            <itunes:subtitle>Ridesharing, Disruption, Regulation, and Zero-Sum Games</itunes:subtitle>
+            <itunes:summary><![CDATA[Chris and Stephen use Chris’s first two ridesharing experiences as a jumping-off point to discuss services like Uber and Lyft from a host of angles: ethical, financial, technological, social, legal, and personal. Put on your seatbelts, folks: this one’s a long one.
+
+*Note:* Chris told the drivers of his Lyft and Uber rides that he was going to talk about his experience on this podcast, and they agreed to talk with him.
+
+Before You Go
+
+◦ NC State: PKP brothers must vacate house by the weekend by Ken Smith, Mark Simpson, Stan Chambers Jr., and Angie Basiouny
+◦ NC State to conduct thorough review of its Greek system by Michelle Hankerson
+
+Music
+
+◦ “It’s Quiet Now” by Mon Draggor. Used by permission.
+◦ “Winning Slowly Theme” by Chris Krycho. _Alas, you’ll never hear this on the radio in an Uber car._
+
+Links
+
+◦ Uber
+◦ Lyft
+◦ Circa news app
+◦ Philadelphia Woman Accuses UberX Driver of Rape Stephen mentioned that safety issues haven’t been in the news as much, and that was challenged very shortly after this was recorded.
+◦ Indian Uber driver arrested after alleged rape, police say Here’s another instance of passenger safety being breached in dangerous ways.
+◦ Uber Regulatory Issues via Circa News
+◦ This is Uber’s playbook for sabotaging Lyft by Casey Newton
+◦ Uber goes Big Data, shares customers’ data with a hotel chain by Lisa Vaas
+
+Further Reading
+
+◦ Why Uber Fights by Ben Thompson
+◦ Why Uber Is Worth $18.2 Billion by Ben Thompson
+◦ Obsoletive by Ben Thompson
+◦ Don’t Blame Uber by Ben Thompson
+
+Previously on the show:
+
+◦ 1.03: Disrupting All the Things!—When talked about disruptions in tech.
+◦ 1.12: Political Appinations—When we talked about the limits of technology in the real world.
+◦ 1.09: Kind of Like a Virus—When we talked about seemingly intractable evil.]]></itunes:summary>
+            <itunes:keywords>technology,ethics</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>31:56</itunes:duration>
+            <dc:creator>Stephen Carradini and Chris Krycho</dc:creator>
+        </item>
         <item>
             <title>2.08: More Than Thick or Thin</title>
             <link>http://www.winningslowly.org/2015/03/more-than-thick-or-thin/</link>
