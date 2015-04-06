@@ -4,14 +4,14 @@
         <title>(TEST) Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>A forum for two interdisciplinary thinkers to discuss the long view of current trends in technology, religion, art, ethics, and culture. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 2.5.9(1915); Mac OS X Version 10.10.3 (Build 14D105g) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 2.5.9(1915); Mac OS X Version 10.10.3 (Build 14D130a) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2014–2015 Winning Slowly</copyright>
         <managingEditor>stephen@winningslowly.org (Stephen Carradini)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Thu, 02 Apr 2015 20:01:34 -0400</pubDate>
-        <lastBuildDate>Thu, 02 Apr 2015 20:01:34 -0400</lastBuildDate>
+        <pubDate>Mon, 06 Apr 2015 18:06:09 -0400</pubDate>
+        <lastBuildDate>Mon, 06 Apr 2015 18:06:09 -0400</lastBuildDate>
         <ttl>50</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -37,6 +37,85 @@
         <itunes:category text="Religion &amp; Spirituality">
             <itunes:category text="Christianity"/>
         </itunes:category>
+        <item>
+            <title>2.10: So You’ve Been Hacked</title>
+            <link>http://www.winningslowly.org/2015/04/so-youve-been-hacked/</link>
+            <description><![CDATA[<h3 id="show-notes">Show Notes</h3>
+<p>Chris and Stephen use the news of communications tool Slack’s recent hacking incident to discuss the nature of digital security. Along the way we make a plea for candy, claim that almost all companies are digital companies now, offer some security tips to our listeners, and deliver a long bloopers reel. We hope we induce just enough paranoia to get things moving in your security life, but not too much.</p>
+<h3 id="before-you-go">Before You Go</h3>
+<ul>
+<li><a href="http://www.theverge.com/2015/4/1/8321437/maps-show-why-internet-is-more-expensive-us-europe-competition">These maps show why internet is way more expensive in the US than Europe</a> by Allan Holmes and Chris Zubak-Skees</li>
+</ul>
+<p><em>Note</em>: The <a href="http://en.wikipedia.org/wiki/Digital_divide">digital divide</a> primarily has to do with socio-economic issues of development in rich and poor areas. Our BYG discussion points out the structural corporate collusion that enables the digital divide, which may not have been entirely clear.</p>
+<h3 id="music">Music</h3>
+<ul>
+<li><a href="https://brothermoses.bandcamp.com/track/older">“Older”</a> by Brother Moses. Used by permission.</li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho. <em>Watch out, Hans Zimmer.</em></li>
+</ul>
+<h3 id="links">Links</h3>
+<ul>
+<li><a href="http://www.Slack.com">Slack</a></li>
+<li><a href="http://slackhq.com/post/114696167740/march-2015-security-incident-and-launch-of-2fa">March 2015 security incident and the launch of two factor authentication</a> Slack’s blog response to their hacking incident.</li>
+<li><a href="http://money.cnn.com/2014/01/10/news/companies/target-hacking/">Target: Hacking hit up to 110 million customers</a></li>
+<li><a href="http://www.newsmax.com/Newsfront/target-hacking-/2014/01/19/id/547879/">Target hacking mastermind identified as 17-year-old Russian</a> Here’s another instance of passenger safety being breached in dangerous ways.<br /></li>
+<li><a href="http://heartbleed.com/">Heartbleed</a></li>
+<li><a href="http://www.symantec.com/connect/blogs/shellshock-all-you-need-know-about-bash-bug-vulnerability">Bash bug vulnerability</a></li>
+<li><a href="http://www.capterra.com/church-management-software/">A big list of church management software</a></li>
+<li><a href="http://www.cio.com/article/2899488/data-breach/health-insurance-companies-prime-targets-for-hackers.html">Health insurance companies prime targets for hackers</a> by Jen A. Miller</li>
+<li><a href="https://blog.fortinet.com/post/premera-hacked-4-key-takeaways-from-another-healthcare-data-grab">Premera hacked - 4 key takeaways from another healthcare data grab</a></li>
+</ul>
+<h4 id="further-reading">Further Reading</h4>
+<ul>
+<li><a href="https://blog.opendns.com/2015/04/02/the-new-normal-were-all-security-companies-now/?utm_source=gplus&amp;utm_medium=social&amp;utm_campaign=2015/04/02/the-new-normal-were-all-security-companies-now/">The new normal — We’re all security companies now</a> by David Ulevitch</li>
+<li><a href="http://www.businessinsider.com/a-security-firm-claims-it-was-russia-that-hacked-sony-and-that-they-still-have-access-2015-2">A security firm claims it was Russia that hacked Sony — and that it still has access</a> Stephen mentioned that safety issues haven’t been in the news as much, and that was challenged very shortly after this was recorded.</li>
+</ul>
+<h4 id="previously-on-the-show">Previously on the show</h4>
+<ul>
+<li><a href="http://www.winningslowly.org/2015/03/the-ones-and-zeros-sphere/">2.06: The Ones- and Zeros-sphere</a>—we talked about Marvel’s hack.</li>
+</ul>]]></description>
+            <pubDate>Tue, 07 Apr 2015 08:00:40 -0400</pubDate>
+            <enclosure url="http://winningslowly.s3.amazonaws.com/episode-2.10.m4a" length="15401705" type="audio/x-m4a"/>
+            <guid isPermaLink="false">BA68EE9F-786C-46B6-A3DA-7197714E62FA</guid>
+            <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
+            <itunes:subtitle>The Professional and Personal Burdens of Near-Ubiquitous Bad Acting</itunes:subtitle>
+            <itunes:summary><![CDATA[Chris and Stephen use the news of communications tool Slack’s recent hacking incident to discuss the nature of digital security. Along the way we make a plea for candy, claim that almost all companies are digital companies now, offer some security tips to our listeners, and deliver a long bloopers reel. We hope we induce just enough paranoia to get things moving in your security life, but not too much.
+
+Before You Go
+
+◦ These maps show why internet is way more expensive in the US than Europe by Allan Holmes and Chris Zubak-Skees
+
+_Note_: The digital divide primarily has to do with socio-economic issues of development in rich and poor areas. Our BYG discussion points out the structural corporate collusion that enables the digital divide, which may not have been entirely clear.
+
+Music
+
+◦ “Older” by Brother Moses. Used by permission.
+◦ “Winning Slowly Theme” by Chris Krycho. _Watch out, Hans Zimmer._
+
+Links
+
+◦ Slack
+◦ March 2015 security incident and the launch of two factor authentication Slack’s blog response to their hacking incident.
+◦ Target: Hacking hit up to 110 million customers
+◦ Target hacking mastermind identified as 17-year-old Russian Here’s another instance of passenger safety being breached in dangerous ways.
+◦ Heartbleed
+◦ Bash bug vulnerability
+◦ A big list of church management software
+◦ Health insurance companies prime targets for hackers by Jen A. Miller
+◦ Premera hacked—4 key takeaways from another healthcare data grab
+
+Further Reading
+
+◦ The new normal—We’re all security companies now by David Ulevitch
+◦ A security firm claims it was Russia that hacked Sony—and that it still has access Stephen mentioned that safety issues haven’t been in the news as much, and that was challenged very shortly after this was recorded.
+
+Previously on the show
+
+◦ 2.06: The Ones- and Zeros-sphere—we talked about Marvel’s hack.]]></itunes:summary>
+            <itunes:keywords>technology,ethics,religion</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>31:28</itunes:duration>
+            <dc:creator>Stephen Carradini and Chris Krycho</dc:creator>
+        </item>
         <item>
             <title>2.09: Hi, We’re the Internet</title>
             <link>http://www.winningslowly.org/2015/04/hi-were-the-internet/</link>
