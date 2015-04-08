@@ -10,8 +10,8 @@
         <copyright>2014–2015 Winning Slowly</copyright>
         <managingEditor>stephen@winningslowly.org (Stephen Carradini)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Mon, 06 Apr 2015 18:12:43 -0400</pubDate>
-        <lastBuildDate>Mon, 06 Apr 2015 18:12:43 -0400</lastBuildDate>
+        <pubDate>Tue, 07 Apr 2015 20:36:24 -0400</pubDate>
+        <lastBuildDate>Tue, 07 Apr 2015 20:36:24 -0400</lastBuildDate>
         <ttl>50</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -41,37 +41,76 @@
             <title>2.10: So You’ve Been Hacked</title>
             <link>http://www.winningslowly.org/2015/04/so-youve-been-hacked/</link>
             <description><![CDATA[<h3 id="show-notes">Show Notes</h3>
-<p>Chris and Stephen use the news of communications tool Slack’s recent hacking incident to discuss the nature of digital security. Along the way we make a plea for candy, claim that almost all companies are digital companies now, offer some security tips to our listeners, and deliver a long bloopers reel. We hope we induce just enough paranoia to get things moving in your security life, but not too much.</p>
+Chris and Stephen use the news of communications tool Slack’s recent hacking incident to discuss the nature of digital security. Along the way we make a plea for candy, claim that almost all companies are digital companies now, offer some security tips to our listeners, and deliver a long bloopers reel. We hope we induce just enough paranoia to get things moving in your security life, but not too much.
+<br />
 <h3 id="before-you-go">Before You Go</h3>
+
 <ul>
-<li><a href="http://www.theverge.com/2015/4/1/8321437/maps-show-why-internet-is-more-expensive-us-europe-competition">These maps show why internet is way more expensive in the US than Europe</a> by Allan Holmes and Chris Zubak-Skees</li>
-</ul>
-<p><em>Note</em>: The <a href="http://en.wikipedia.org/wiki/Digital_divide">digital divide</a> primarily has to do with socio-economic issues of development in rich and poor areas. Our BYG discussion points out the structural corporate collusion that enables the digital divide, which may not have been entirely clear.</p>
+
+<li><a href="http://www.theverge.com/2015/4/1/8321437/maps-show-why-internet-is-more-expensive-us-europe-competition">These maps show why internet is way more expensive in the US than Europe</a> by Allan Holmes and Chris Zubak-Skees</li></ul>
+<em>Note</em>: The <a href="http://en.wikipedia.org/wiki/Digital_divide">digital divide</a> primarily has to do with socio-economic issues of development in rich and poor areas. Our BYG discussion points out the structural corporate collusion that enables the digital divide, which may not have been entirely clear.
+<br />
 <h3 id="music">Music</h3>
+
 <ul>
+
 <li><a href="https://brothermoses.bandcamp.com/track/older">“Older”</a> by Brother Moses. Used by permission.</li>
-<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho. <em>Watch out, Hans Zimmer.</em></li>
-</ul>
-<h3 id="links">Links</h3>
+
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho. <em>Watch out, Hans Zimmer.</em></li></ul><h3 id="links">Links</h3>
+
 <ul>
+
 <li><a href="http://www.Slack.com">Slack</a></li>
+
 <li><a href="http://slackhq.com/post/114696167740/march-2015-security-incident-and-launch-of-2fa">March 2015 security incident and the launch of two factor authentication</a> Slack’s blog response to their hacking incident.</li>
+
 <li><a href="http://money.cnn.com/2014/01/10/news/companies/target-hacking/">Target: Hacking hit up to 110 million customers</a></li>
-<li><a href="http://www.newsmax.com/Newsfront/target-hacking-/2014/01/19/id/547879/">Target hacking mastermind identified as 17-year-old Russian</a> Here’s another instance of passenger safety being breached in dangerous ways.<br /></li>
+
+<li><a href="http://www.newsmax.com/Newsfront/target-hacking-/2014/01/19/id/547879/">Target hacking mastermind identified as 17-year-old Russian</a> Here’s another instance of passenger safety being breached in dangerous ways.
+</li>
+
 <li><a href="http://heartbleed.com/">Heartbleed</a></li>
+
 <li><a href="http://www.symantec.com/connect/blogs/shellshock-all-you-need-know-about-bash-bug-vulnerability">Bash bug vulnerability</a></li>
+
 <li><a href="http://www.capterra.com/church-management-software/">A big list of church management software</a></li>
+
 <li><a href="http://www.cio.com/article/2899488/data-breach/health-insurance-companies-prime-targets-for-hackers.html">Health insurance companies prime targets for hackers</a> by Jen A. Miller</li>
-<li><a href="https://blog.fortinet.com/post/premera-hacked-4-key-takeaways-from-another-healthcare-data-grab">Premera hacked - 4 key takeaways from another healthcare data grab</a></li>
-</ul>
-<h4 id="further-reading">Further Reading</h4>
+
+<li><a href="https://blog.fortinet.com/post/premera-hacked-4-key-takeaways-from-another-healthcare-data-grab">Premera hacked - 4 key takeaways from another healthcare data grab</a></li></ul><h4 id="further-reading">Further Reading</h4>
+
 <ul>
+
 <li><a href="https://blog.opendns.com/2015/04/02/the-new-normal-were-all-security-companies-now/?utm_source=gplus&amp;utm_medium=social&amp;utm_campaign=2015/04/02/the-new-normal-were-all-security-companies-now/">The new normal — We’re all security companies now</a> by David Ulevitch</li>
-<li><a href="http://www.businessinsider.com/a-security-firm-claims-it-was-russia-that-hacked-sony-and-that-they-still-have-access-2015-2">A security firm claims it was Russia that hacked Sony — and that it still has access</a> Stephen mentioned that safety issues haven’t been in the news as much, and that was challenged very shortly after this was recorded.</li>
-</ul>
-<h4 id="previously-on-the-show">Previously on the show</h4>
+
+<li><a href="http://www.businessinsider.com/a-security-firm-claims-it-was-russia-that-hacked-sony-and-that-they-still-have-access-2015-2">A security firm claims it was Russia that hacked Sony — and that it still has access</a> Stephen mentioned that safety issues haven’t been in the news as much, and that was challenged very shortly after this was recorded.</li></ul><h4 id="previously-on-the-show">Previously on the show</h4>
+
 <ul>
-<li><a href="http://www.winningslowly.org/2015/03/the-ones-and-zeros-sphere/">2.06: The Ones- and Zeros-sphere</a>—we talked about Marvel’s hack.</li>
+
+<li><a href="http://www.winningslowly.org/2015/03/the-ones-and-zeros-sphere/">2.06: The Ones- and Zeros-sphere</a>—we talked about Marvel’s hack.</li></ul>
+
+<h3 id="followsubscribe">Follow/Subscribe</h3>
+
+<ul>
+<p><li>Twitter:</p>
+
+<ul>
+<li><a href="//www.twitter.com/winningslowly">@winningslowly</a></li>
+<li><a href="//www.twitter.com/chriskrycho">@chriskrycho</a></li>
+<li><a href="//www.twitter.com/scarradini">@scarradini</a></li>
+</ul></li>
+<p><li>App.net</p>
+
+<ul>
+<li><a href="//alpha.app.net/winningslowly">@winningslowly</a></li>
+<li><a href="//alpha.app.net/chriskrycho">@chriskrycho</a></li>
+</ul></li>
+<p><li>Subscribe</p>
+
+<ul>
+<li><a href="//www.winningslowly.org/feed.xml">RSS</a></li>
+<li><a href="//itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2">iTunes</a></li>
+</ul></li>
 </ul>]]></description>
             <pubDate>Tue, 07 Apr 2015 08:00:40 -0400</pubDate>
             <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-2.10.m4a" length="15401705" type="audio/x-m4a"/>
@@ -121,40 +160,82 @@ Previously on the show
             <link>http://www.winningslowly.org/2015/04/hi-were-the-internet/</link>
             <description><![CDATA[<h3 id="show-notes">Show Notes</h3>
 <p>Chris and Stephen use Chris’s first two ridesharing experiences as a jumping-off point to discuss services like Uber and Lyft from a host of angles: ethical, financial, technological, social, legal, and personal. Put on your seatbelts, folks: this one’s a long one.</p>
-<p><em>Note:</em> Chris told the drivers of his Lyft and Uber rides that he was going to talk about his experience on this podcast, and they agreed to talk with him.</p>
+
+<em>Note:</em> Chris told the drivers of his Lyft and Uber rides that he was going to talk about his experience on this podcast, and they agreed to talk with him.
+<br />
 <h3 id="before-you-go">Before You Go</h3>
+
 <ul>
+
 <li><a href="http://www.wral.com/nc-state-disbands-pi-kappa-phi-chapter-following-investigation/14539264/">NC State: PKP brothers must vacate house by the weekend</a> by Ken Smith, Mark Simpson, Stan Chambers Jr., and Angie Basiouny</li>
-<li><a href="http://www.newsobserver.com/news/local/community/midtown-raleigh-news/article16298969.html">NC State to conduct thorough review of its Greek system</a> by Michelle Hankerson</li>
-</ul>
-<h3 id="music">Music</h3>
+
+<li><a href="http://www.newsobserver.com/news/local/community/midtown-raleigh-news/article16298969.html">NC State to conduct thorough review of its Greek system</a> by Michelle Hankerson</li></ul><h3 id="music">Music</h3>
+
 <ul>
+
 <li><a href="http://mondraggor.com/">“It’s Quiet Now”</a> by Mon Draggor. Used by permission.</li>
-<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho. <em>Alas, you’ll never hear this on the radio in an Uber car.</em></li>
-</ul>
-<h3 id="links">Links</h3>
+
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho. <em>Alas, you’ll never hear this on the radio in an Uber car.</em></li></ul><h3 id="links">Links</h3>
+
 <ul>
+
 <li><a href="https://www.uber.com/">Uber</a></li>
+
 <li><a href="https://www.lyft.com/">Lyft</a></li>
+
 <li><a href="https://circanews.com/">Circa</a> news app</li>
+
 <li><a href="http://time.com/3757398/uber-rape-philadelphia/">Philadelphia Woman Accuses UberX Driver of Rape</a> Stephen mentioned that safety issues haven’t been in the news as much, and that was challenged very shortly after this was recorded.</li>
-<li><a href="http://www.cnn.com/2014/12/07/world/asia/india-uber-alleged-rape/">Indian Uber driver arrested after alleged rape, police say</a> Here’s another instance of passenger safety being breached in dangerous ways.<br /></li>
+
+<li><a href="http://www.cnn.com/2014/12/07/world/asia/india-uber-alleged-rape/">Indian Uber driver arrested after alleged rape, police say</a> Here’s another instance of passenger safety being breached in dangerous ways.
+</li>
+
 <li><a href="https://circanews.com/news/regulatory-issues-with-uber">Uber Regulatory Issues</a> via Circa News</li>
+
 <li><a href="http://www.theverge.com/2014/8/26/6067663/this-is-ubers-playbook-for-sabotaging-lyft">This is Uber’s playbook for sabotaging Lyft</a> by Casey Newton</li>
-<li><a href="https://nakedsecurity.sophos.com/2015/03/26/uber-goes-big-data-shares-customers-data-with-a-hotel-chain/">Uber goes Big Data, shares customers’ data with a hotel chain</a> by Lisa Vaas</li>
-</ul>
-<h4 id="further-reading">Further Reading</h4>
+
+<li><a href="https://nakedsecurity.sophos.com/2015/03/26/uber-goes-big-data-shares-customers-data-with-a-hotel-chain/">Uber goes Big Data, shares customers’ data with a hotel chain</a> by Lisa Vaas</li></ul><h4 id="further-reading">Further Reading</h4>
+
 <ul>
+
 <li><a href="http://stratechery.com/2014/uber-fights/">Why Uber Fights</a> by Ben Thompson</li>
+
 <li><a href="http://stratechery.com/2014/uber-worth-18-2-billion/">Why Uber Is Worth $18.2 Billion</a> by Ben Thompson</li>
+
 <li><a href="http://stratechery.com/2013/obsoletive/">Obsoletive</a> by Ben Thompson</li>
-<li><a href="http://stratechery.com/2014/dont-blame-uber/">Don’t Blame Uber</a> by Ben Thompson</li>
-</ul>
-<h4 id="previously-on-the-show">Previously on the show:</h4>
+
+<li><a href="http://stratechery.com/2014/dont-blame-uber/">Don’t Blame Uber</a> by Ben Thompson</li></ul><h4 id="previously-on-the-show">Previously on the show:</h4>
+
 <ul>
+
 <li><a href="http://www.winningslowly.org/2014/07/disrupting-all-the-things/">1.03: Disrupting All the Things!</a>—When talked about disruptions in tech.</li>
+
 <li><a href="http://www.winningslowly.org/2014/10/political-appinations/">1.12: Political Appinations</a>—When we talked about the limits of technology in the real world.</li>
-<li><a href="http://www.winningslowly.org/2014/09/kind-of-like-a-virus/">1.09: Kind of Like a Virus</a>—When we talked about seemingly intractable evil.</li>
+
+<li><a href="http://www.winningslowly.org/2014/09/kind-of-like-a-virus/">1.09: Kind of Like a Virus</a>—When we talked about seemingly intractable evil.</li></ul>
+
+<h3 id="followsubscribe">Follow/Subscribe</h3>
+
+<ul>
+<p><li>Twitter:</p>
+
+<ul>
+<li><a href="//www.twitter.com/winningslowly">@winningslowly</a></li>
+<li><a href="//www.twitter.com/chriskrycho">@chriskrycho</a></li>
+<li><a href="//www.twitter.com/scarradini">@scarradini</a></li>
+</ul></li>
+<p><li>App.net</p>
+
+<ul>
+<li><a href="//alpha.app.net/winningslowly">@winningslowly</a></li>
+<li><a href="//alpha.app.net/chriskrycho">@chriskrycho</a></li>
+</ul></li>
+<p><li>Subscribe</p>
+
+<ul>
+<li><a href="//www.winningslowly.org/feed.xml">RSS</a></li>
+<li><a href="//itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2">iTunes</a></li>
+</ul></li>
 </ul>]]></description>
             <pubDate>Thu, 02 Apr 2015 20:01:17 -0400</pubDate>
             <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-2.09.m4a" length="15629215" type="audio/x-m4a"/>
@@ -207,34 +288,70 @@ Previously on the show:
             <title>2.08: More Than Thick or Thin</title>
             <link>http://www.winningslowly.org/2015/03/more-than-thick-or-thin/</link>
             <description><![CDATA[<h3 id="shownotes">Show Notes</h3>
-
-<p>Chris and Stephen discuss the ethics of individual health, a complex and idiosyncratic problem if there ever was one. How do we be responsible stewards of our bodies? How do we think about activities and intakes in moral, ethical, deeply personal ways? We suggest thinking about personal health in community, as well as from a spiritual perspective. </p>
-
+Chris and Stephen discuss the ethics of individual health, a complex and idiosyncratic problem if there ever was one. How do we be responsible stewards of our bodies? How do we think about activities and intakes in moral, ethical, deeply personal ways? We suggest thinking about personal health in community, as well as from a spiritual perspective. 
+<br />
 <h3 id="beforeyougo">Before You Go</h3>
 
 <ul>
-<li><a href="http://www.nytimes.com/2015/03/11/us/university-of-oklahoma-sigma-alpha-epsilon-racist-fraternity-video.html?_r=0">As Two Oklahoma Students Are Expelled for Racist Chant, Sigma Alpha Epsilon Vows Wider Inquiry</a></li>
-</ul>
 
-<h3 id="music">Music</h3>
+<li><a href="http://www.nytimes.com/2015/03/11/us/university-of-oklahoma-sigma-alpha-epsilon-racist-fraternity-video.html?_r=0">As Two Oklahoma Students Are Expelled for Racist Chant, Sigma Alpha Epsilon Vows Wider Inquiry</a></li></ul><h3 id="music">Music</h3>
 
 <ul>
-<li><a href="https://soundcloud.com/mtwolf/red">&#8220;Red&#8221;</a> by Mt. Wolf. Used by permission.</li>
-<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">&#8220;Winning Slowly Theme&#8221;</a> by Chris Krycho. <em>Boomshakalaka.</em></li>
-</ul>
 
-<h3 id="links">Links</h3>
+<li><a href="https://soundcloud.com/mtwolf/red">“Red”</a> by Mt. Wolf. Used by permission.</li>
+
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho. <em>Boomshakalaka.</em></li></ul><h3 id="links">Links</h3>
 
 <ul>
-<li><p><a href="http://well.blogs.nytimes.com/2015/03/04/one-twin-exercises-the-other-doesnt/?_r=1">&#8220;One Twin Exercises, the Other Doesn&#8217;t&#8221;</a> by Gretchen Reynolds</p></li>
-<li><p><a href="http://www.amazon.com/Earthen-Vessels-Bodies-Matter-Faith/dp/076420856X/ref=sr_1_2"><em>Earthen Vessels</em></a> by <a href="http://mereorthodoxy.com/">Matthew Lee Anderson</a></p></li>
-<li><p><a href="http://www.amazon.com/Bowling-Alone-Collapse-American-Community/dp/0743203046/ref=sr_1_1"><em>Bowling Alone</em></a> by Robert D. Putnam</p></li>
-<li><p><a href="http://biblehub.com/1_timothy/4-8.htm">1 Timothy 4:8</a> by Paul</p></li>
-<li><p><a href="http://biblehub.com/1_corinthians/6-19.htm">1 Corinthians 6:19</a> by Paul</p></li>
+
+<li>
+<a href="http://well.blogs.nytimes.com/2015/03/04/one-twin-exercises-the-other-doesnt/?_r=1">“One Twin Exercises, the Other Doesn’t”</a> by Gretchen Reynolds
+</li>
+
+<li>
+<a href="http://www.amazon.com/Earthen-Vessels-Bodies-Matter-Faith/dp/076420856X/ref=sr_1_2"><em>Earthen Vessels</em></a> by <a href="http://mereorthodoxy.com/">Matthew Lee Anderson</a>
+</li>
+
+<li>
+<a href="http://www.amazon.com/Bowling-Alone-Collapse-American-Community/dp/0743203046/ref=sr_1_1"><em>Bowling Alone</em></a> by Robert D. Putnam
+</li>
+
+<li>
+<a href="http://biblehub.com/1_timothy/4-8.htm">1 Timothy 4:8</a> by Paul
+</li>
+
+<li>
+<a href="http://biblehub.com/1_corinthians/6-19.htm">1 Corinthians 6:19</a> by Paul
+</li>
+
+
 <p><li>Previously on the show:</p>
 
 <ul>
-<li><a href="http://www.winningslowly.org/2014/10/political-appinations/">1.12: Political Appinations</a>&#8212;The first time we talked about neighbors</li>
+
+<li><a href="http://www.winningslowly.org/2014/10/political-appinations/">1.12: Political Appinations</a>—The first time we talked about neighbors</li></ul></li></ul>
+
+<h3 id="followsubscribe">Follow/Subscribe</h3>
+
+<ul>
+<p><li>Twitter:</p>
+
+<ul>
+<li><a href="//www.twitter.com/winningslowly">@winningslowly</a></li>
+<li><a href="//www.twitter.com/chriskrycho">@chriskrycho</a></li>
+<li><a href="//www.twitter.com/scarradini">@scarradini</a></li>
+</ul></li>
+<p><li>App.net</p>
+
+<ul>
+<li><a href="//alpha.app.net/winningslowly">@winningslowly</a></li>
+<li><a href="//alpha.app.net/chriskrycho">@chriskrycho</a></li>
+</ul></li>
+<p><li>Subscribe</p>
+
+<ul>
+<li><a href="//www.winningslowly.org/feed.xml">RSS</a></li>
+<li><a href="//itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2">iTunes</a></li>
 </ul></li>
 </ul>]]></description>
             <pubDate>Tue, 17 Mar 2015 07:00:42 -0400</pubDate>
@@ -269,14 +386,17 @@ Links
         <item>
             <title>2.07: A Liturgy, A Legacy, &amp; A Ragamuffin Band</title>
             <link>http://www.winningslowly.org/2015/03/a-liturgy-a-legacy-and-a-ragamuffin-band/</link>
-            <description><![CDATA[<h3 id="shownotes">Show Notes</h3>
-Chris and Stephen “review” Rich Mullins’ 1993 album <em>A Liturgy, a Legacy, and a Ragamuffin Band</em> because it’s beautiful, thoughtful, and still relevant today. The music is still passionate, raw, and wild; the lyrics are still pensive, powerful, and awe-struck. We look at how Mullins wrote the album as a letter to Christians about how to be alive in the hope of Christ and reality of America. Also, there’s hammered dulcimer.
+            <description><![CDATA[<h3 id="shownotes">Show Notes</h3>Chris and Stephen “review” Rich Mullins’ 1993 album <em>A Liturgy, a Legacy, and a Ragamuffin Band</em> because it’s beautiful, thoughtful, and still relevant today. The music is still passionate, raw, and wild; the lyrics are still pensive, powerful, and awe-struck. We look at how Mullins wrote the album as a letter to Christians about how to be alive in the hope of Christ and reality of America. Also, there’s hammered dulcimer.
 <br />Thanks to our listener Austin Taylor for <a href="https://twitter.com/austintaylor/status/499391801938440194">encouraging us to review more albums</a>.
 <br />
 <h3 id="beforeyougo">Before You Go</h3>
 
 <ul>
-<li><a href="http://www.theatlantic.com/features/archive/2015/02/what-isis-really-wants/384980/">“What ISIS Really Wants”</a> by Graeme Wood.<ul>
+
+<p><li><a href="http://www.theatlantic.com/features/archive/2015/02/what-isis-really-wants/384980/">“What ISIS Really Wants”</a> by Graeme Wood.</p>
+
+<ul>
+
 <li><a href="http://www.theatlantic.com/international/archive/2015/02/what-muslims-really-want-isis-atlantic/386156/">“The Phony Islam of ISIS”</a> by Caner K. Dagli. A response to “What Isis Really Wants.”</li>
 
 <li><a href="http://www.theatlantic.com/international/archive/2015/02/what-isis-really-wants-reader-response-atlantic/385710/">“‘What ISIS Really Wants’: The Response”</a> by Graeme Wood. A collection of responses to responses to the original article.</li></ul></li>
@@ -308,7 +428,31 @@ Chris and Stephen “review” Rich Mullins’ 1993 album <em>A Liturgy, a Legac
 
 <ul>
 
-<li><a href="http://www.winningslowly.org/2014/08/ars-moriendi/">1.05: <em>Ars Moriendi</em></a>—The first album we reviewed here on WS.</li></ul></li></ul>]]></description>
+<li><a href="http://www.winningslowly.org/2014/08/ars-moriendi/">1.05: <em>Ars Moriendi</em></a>—The first album we reviewed here on WS.</li></ul></li></ul>
+
+<h3 id="followsubscribe">Follow/Subscribe</h3>
+
+<ul>
+<p><li>Twitter:</p>
+
+<ul>
+<li><a href="//www.twitter.com/winningslowly">@winningslowly</a></li>
+<li><a href="//www.twitter.com/chriskrycho">@chriskrycho</a></li>
+<li><a href="//www.twitter.com/scarradini">@scarradini</a></li>
+</ul></li>
+<p><li>App.net</p>
+
+<ul>
+<li><a href="//alpha.app.net/winningslowly">@winningslowly</a></li>
+<li><a href="//alpha.app.net/chriskrycho">@chriskrycho</a></li>
+</ul></li>
+<p><li>Subscribe</p>
+
+<ul>
+<li><a href="//www.winningslowly.org/feed.xml">RSS</a></li>
+<li><a href="//itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2">iTunes</a></li>
+</ul></li>
+</ul>]]></description>
             <pubDate>Tue, 10 Mar 2015 07:00:51 -0400</pubDate>
             <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-2.07.m4a" length="14565348" type="audio/x-m4a"/>
             <guid isPermaLink="false">296988C7-DC8A-4E3F-9B64-16F97E36AAE8</guid>
@@ -349,42 +493,74 @@ Links
             <title>2.06: The Ones- and Zeros-Sphere</title>
             <link>http://www.winningslowly.org/2015/03/the-ones-and-zeros-sphere</link>
             <description><![CDATA[<h3 id="shownotes">Show Notes</h3>
-
 <p>In which we talk about how companies have to deal with the inherent leak-ability of digital media, especially things like movie trailers. How <em>should</em> Marvel respond to whoever leaked the first Age of Ultron trailer? Stephen and Chris have a friendly disagreement about the best way to respond to this kind of thing.</p>
 
-<p>Today&#8217;s blooper section is&#8230; amazing.</p>
+<p>Today’s blooper section is… amazing.</p>
 
-<p>Alternate title we ultimately decided not to foist upon you: MPAAwful. You can thank Stephen for that one (as well as the much better actual title!)</p>
-
+Alternate title we ultimately decided not to foist upon you: MPAAwful. You can thank Stephen for that one (as well as the much better actual title!)
+<br />
 <h3 id="beforeyougo">Before You Go</h3>
 
 <ul>
+
 <li><a href="https://www.kickstarter.com/projects/597507018/pebble-time-awesome-smartwatch-no-compromises">Pebble Time Kickstarter</a></li>
-<li><a href="https://pebbletimetracker.herokuapp.com">How much money has the Pebble Time Kickstarter raised?</a>&#8212;graphing the craziness for fun and&#8230; fun. (Unfortunately, the graph is less interesting than it was the first day the project was live, when it earned most of the over $10M it has pledged.)</li>
-</ul>
 
-<h3 id="music">Music</h3>
+<li><a href="https://pebbletimetracker.herokuapp.com">How much money has the Pebble Time Kickstarter raised?</a>—graphing the craziness for fun and… fun. (Unfortunately, the graph is less interesting than it was the first day the project was live, when it earned most of the over $10M it has pledged.)</li></ul><h3 id="music">Music</h3>
 
 <ul>
-<li><a href="http://brooklyndoran.bandcamp.com/track/theres-a-light-on-kitchen-song">&#8220;There&#8217;s a Light On (Kitchen Song)&#8221;</a> from <a href="http://brooklyndoran.bandcamp.com/album/theres-a-light-on"><em>There&#8217;s a Light On</em></a> by Brooklyn Duran. Used by permission.</li>
-<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">&#8220;Winning Slowly Theme&#8221;</a> by Chris Krycho. <em>We&#8217;re running out of clever things to say here.</em></li>
-</ul>
 
-<h3 id="links">Links</h3>
+<li><a href="http://brooklyndoran.bandcamp.com/track/theres-a-light-on-kitchen-song">“There’s a Light On (Kitchen Song)”</a> from <a href="http://brooklyndoran.bandcamp.com/album/theres-a-light-on"><em>There’s a Light On</em></a> by Brooklyn Duran. Used by permission.</li>
+
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho. <em>We’re running out of clever things to say here.</em></li></ul><h3 id="links">Links</h3>
 
 <ul>
-<li><p><a href="https://www.techdirt.com/articles/20030909/0116235.shtml">When the RIAA sued a 12-year-old and a 71-year-old</a></p></li>
-<li><p><a href="https://twitter.com/marvel/status/525071656306626560">&#8220;Dammit, Hydra&#8221;</a>&#8212;Marvel&#8217;s (brilliant) PR-move tweet</p></li>
-<li><p><a href="http://www.washingtonpost.com/blogs/style-blog/wp/2014/11/07/all-powerful-marvel-subpoenas-google-over-trailer-leak/">&#8220;All-powerful Marvel subpoenas Google over trailer leak&#8221;</a></p>
+
+<li>
+<a href="https://www.techdirt.com/articles/20030909/0116235.shtml">When the RIAA sued a 12-year-old and a 71-year-old</a>
+</li>
+
+<li>
+<a href="https://twitter.com/marvel/status/525071656306626560">“Dammit, Hydra”</a>—Marvel’s (brilliant) PR-move tweet
+</li>
+
+<li>
+<p><a href="http://www.washingtonpost.com/blogs/style-blog/wp/2014/11/07/all-powerful-marvel-subpoenas-google-over-trailer-leak/">“All-powerful Marvel subpoenas Google over trailer leak”</a></p>
 
 <blockquote>
-<p>Marvel is seeking out the person responsible for a leak not of a script or of a movie, but of a trailer. Yes, Marvel’s executives are taking matters to the courts because people were able to watch about two minutes of footage that looked like every other Marvel trailer — fireballs and terrified citizens, heroes with far-off gazes and narration by an evil nemesis — before the company was ready for people to see it.</p>
+Marvel is seeking out the person responsible for a leak not of a script or of a movie, but of a trailer. Yes, Marvel’s executives are taking matters to the courts because people were able to watch about two minutes of footage that looked like every other Marvel trailer — fireballs and terrified citizens, heroes with far-off gazes and narration by an evil nemesis — before the company was ready for people to see it.
+<br />
 </blockquote></li>
+
+
 <p><li>Previously on the show:</p>
 
 <ul>
-<li><a href="http://www.winningslowly.org/2014/08/superhero-movies/">1.08: Superhero Movies!</a>&#8212;the first time we talked at length about Marvel.</li>
-<li><a href="http://www.winningslowly.org/2015/02/basketballs-pumpkins/">2.02: Basketballs≠Pumpkins</a>&#8212;on things on the internet growing beyond people&#8217;s ability to control.</li>
+
+<li><a href="http://www.winningslowly.org/2014/08/superhero-movies/">1.08: Superhero Movies!</a>—the first time we talked at length about Marvel.</li>
+
+<li><a href="http://www.winningslowly.org/2015/02/basketballs-pumpkins/">2.02: Basketballs≠Pumpkins</a>—on things on the internet growing beyond people’s ability to control.</li></ul></li></ul>
+
+<h3 id="followsubscribe">Follow/Subscribe</h3>
+
+<ul>
+<p><li>Twitter:</p>
+
+<ul>
+<li><a href="//www.twitter.com/winningslowly">@winningslowly</a></li>
+<li><a href="//www.twitter.com/chriskrycho">@chriskrycho</a></li>
+<li><a href="//www.twitter.com/scarradini">@scarradini</a></li>
+</ul></li>
+<p><li>App.net</p>
+
+<ul>
+<li><a href="//alpha.app.net/winningslowly">@winningslowly</a></li>
+<li><a href="//alpha.app.net/chriskrycho">@chriskrycho</a></li>
+</ul></li>
+<p><li>Subscribe</p>
+
+<ul>
+<li><a href="//www.winningslowly.org/feed.xml">RSS</a></li>
+<li><a href="//itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2">iTunes</a></li>
 </ul></li>
 </ul>]]></description>
             <pubDate>Tue, 03 Mar 2015 22:38:23 -0500</pubDate>
@@ -429,44 +605,49 @@ Links
             <title>2.05: Beauty-Making</title>
             <link>http://www.winningslowly.org/2015/02/beauty-making/</link>
             <description><![CDATA[<h3>Show Notes</h3>
-
 <p>In which we ask: What exactly <em>is</em> art? Specifically, is photography art? But more generally, can anyone actually define art? How does the difficulty in defining art affect the makers of art, and why do people spend so much time trying to draw lines around it? How have democratizing forces changed the nature of art in the last few decades, and what does that bode for our future?</p>
 
 <h3>Before You Go</h3>
-
-<p>N.B. In addition to the clarifications Stephen offered, we should note that Chris&#8217; initial description overstated the case a bit. The law did not technically <em>forbid</em> classes from teaching AP US History. It just, you know&#8230; promised to <em>defund</em> the teaching thereof.</p>
+<p>N.B. In addition to the clarifications Stephen offered, we should note that Chris’ initial description overstated the case a bit. The law did not technically <em>forbid</em> classes from teaching AP US History. It just, you know… promised to <em>defund</em> the teaching thereof.</p>
 
 <ul>
-<li><a href="http://www.washingtonpost.com/politics/2014/10/05/fa6136a2-4b12-11e4-b72e-d60a9229cc10_story.html">&#8220;Changes in AP history trigger a culture clash in Colorado&#8221;</a></li>
-<li><a href="http://nymag.com/daily/intelligencer/2015/02/why-oklahoma-lawmakers-want-to-ban-ap-us-history.html">&#8220;Why Oklahoma Lawmakers Voted to Ban AP U.S. History&#8221;</a></li>
-</ul>
+
+<li><a href="http://www.washingtonpost.com/politics/2014/10/05/fa6136a2-4b12-11e4-b72e-d60a9229cc10_story.html">“Changes in AP history trigger a culture clash in Colorado”</a></li>
+
+<li><a href="http://nymag.com/daily/intelligencer/2015/02/why-oklahoma-lawmakers-want-to-ban-ap-us-history.html">“Why Oklahoma Lawmakers Voted to Ban AP U.S. History”</a></li></ul>
 
 <h3>Music</h3>
 
 <ul>
-<li><a href="https://soundcloud.com/wonderfulhumans/justwhatineeded">&#8220;Just What I Needed&#8221;</a> by Wonderful Humans. Used by permission.</li>
-<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">&#8220;Winning Slowly Theme&#8221;</a> by Chris Krycho. Still delightful? We think yes.</li>
-</ul>
+
+<li><a href="https://soundcloud.com/wonderfulhumans/justwhatineeded">“Just What I Needed”</a> by Wonderful Humans. Used by permission.</li>
+
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho. Still delightful? We think yes.</li></ul>
 
 <h3>Links</h3>
 
 <ul>
-<li><a href="http://www.theguardian.com/artanddesign/jonathanjonesblog/2014/dec/10/most-expensive-photograph-ever-hackneyed-tasteless">&#8220;The $6.5m canyon: it&#8217;s the most expensive photograph ever – but it&#8217;s like a hackneyed poster in a posh hotel&#8221;</a></li>
-<li><a href="http://www.theguardian.com/artanddesign/jonathanjonesblog/2015/feb/03/instagram-generation-amateur-photographers-art-plagiarism">&#8220;Why does our Instagram generation think its snaps are so special?&#8221;</a></li>
-<li>The <a href="https://en.wikipedia.org/wiki/Olympus_OM-10">Olympus OM&#8211;10</a>&#8212;the camera Stephen learned to shoot darkroom-style with.</li>
-<li><a href="http://en.wikipedia.org/wiki/I_know_it_when_I_see_it">&#8220;I know it when I see it&#8221;</a>&#8212;the history of the phrase.</li>
-<li><a href="https://instagram.com/p/m0OXxHGo6U/?modal=true">Chris&#8217; snail picture on Instagram</a></li>
+
+<li><a href="http://www.theguardian.com/artanddesign/jonathanjonesblog/2014/dec/10/most-expensive-photograph-ever-hackneyed-tasteless">“The $6.5m canyon: it’s the most expensive photograph ever – but it’s like a hackneyed poster in a posh hotel”</a></li>
+
+<li><a href="http://www.theguardian.com/artanddesign/jonathanjonesblog/2015/feb/03/instagram-generation-amateur-photographers-art-plagiarism">“Why does our Instagram generation think its snaps are so special?”</a></li>
+
+<li>The <a href="https://en.wikipedia.org/wiki/Olympus_OM-10">Olympus OM–10</a>—the camera Stephen learned to shoot darkroom-style with.</li>
+
+<li><a href="http://en.wikipedia.org/wiki/I_know_it_when_I_see_it">“I know it when I see it”</a>—the history of the phrase.</li>
+
+<li><a href="https://instagram.com/p/m0OXxHGo6U/?modal=true">Chris’ snail picture on Instagram</a></li>
+
+
 <p><li>Previously on the show:</p>
 
 <ul>
-<li><a href="http://www.winningslowly.org/2014/11/keep-on-keepin-on/">1.18: Keep on Keepin&#8217; On</a></li>
-</ul></li>
-</ul>
+
+<li><a href="http://www.winningslowly.org/2014/11/keep-on-keepin-on/">1.18: Keep on Keepin’ On</a></li></ul></li></ul>
 
 <h3>GIFs!</h3>
 
-<h4>Stephen&#8217;s Favorites</h4>
-
+<h4>Stephen’s Favorites</h4>
 <p><img src="http://cdn.smosh.com/sites/default/files/bloguploads/haters-owl.gif" alt="&quot;Haters Gonna Hate" />
 <br />
 <img src="http://i.imgur.com//nHVi4MH.gif" alt="Oh, wow, I totally didnt expect that" />
@@ -474,11 +655,35 @@ Links
 <img src="http://awesomegifs.com/wp-content/uploads/dead-horse.gif" alt="Beating a dead horse" /></p>
 
 <h4>Doctor Who</h4>
-
 <p><img src="https://38.media.tumblr.com/aad16b48f70aa59442874c91af4f36a5/tumblr_nb26ob3R1J1teco02o1_500.gif" alt="Look at the eyebrows!" />
 <br />
 <img src="http://33.media.tumblr.com/e846f1b7c534625960c7988b82d64508/tumblr_naxrk8rnEG1r3mjw1o2_500.gif" alt="These are attack eyebrows, you could take bottle caps off with these!" />
-<br /><img src="https://33.media.tumblr.com/d7503b74309dc46ccbdb7165ffbe66eb/tumblr_ncat36GqxZ1rkgihao3_500.gif" alt="&quot;Theyre independently cross! They probably want to secede" /></p>]]></description>
+<br />
+<img src="https://33.media.tumblr.com/d7503b74309dc46ccbdb7165ffbe66eb/tumblr_ncat36GqxZ1rkgihao3_500.gif" alt="&quot;Theyre independently cross! They probably want to secede" /></p>
+
+<h3 id="followsubscribe">Follow/Subscribe</h3>
+
+<ul>
+<p><li>Twitter:</p>
+
+<ul>
+<li><a href="//www.twitter.com/winningslowly">@winningslowly</a></li>
+<li><a href="//www.twitter.com/chriskrycho">@chriskrycho</a></li>
+<li><a href="//www.twitter.com/scarradini">@scarradini</a></li>
+</ul></li>
+<p><li>App.net</p>
+
+<ul>
+<li><a href="//alpha.app.net/winningslowly">@winningslowly</a></li>
+<li><a href="//alpha.app.net/chriskrycho">@chriskrycho</a></li>
+</ul></li>
+<p><li>Subscribe</p>
+
+<ul>
+<li><a href="//www.winningslowly.org/feed.xml">RSS</a></li>
+<li><a href="//itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2">iTunes</a></li>
+</ul></li>
+</ul>]]></description>
             <pubDate>Tue, 24 Feb 2015 07:00:49 -0500</pubDate>
             <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-2.05.m4a" length="15182923" type="audio/x-m4a"/>
             <guid isPermaLink="false">DDA1012B-430C-4EE8-9DDE-4191C8D064B5</guid>
@@ -527,38 +732,75 @@ Doctor Who
         <item>
             <title>2.04: Might Actually Be Iron Man</title>
             <link>http://www.winningslowly.org/2015/02/might-actually-be-iron-man/</link>
-            <description><![CDATA[<h3>Show Notes</h3>
+            <description><![CDATA[<p><h3>Show Notes</h3>In which we ask: Is Elon Musk really Iron Man? (We have no evidence that he has a suit, but really, it seems like he should.) We reflect on how longer-term approaches are helping Tesla and SpaceX do things that few other companies are doing, how we hope other companies learn from their example, and how it would be nice if “capitalism” meant what it used to mean—long-term investment, not short-term greed.</p>
 
-In which we ask: Is Elon Musk really Iron Man? (We have no evidence that he has a suit, but really, it seems like he should.) We reflect on how longer-term approaches are helping Tesla and SpaceX do things that few other companies are doing, how we hope other companies learn from their example, and how it would be nice if “capitalism” meant what it used to mean—long-term investment, not short-term greed.
-<br />
 <h3>Before You Go</h3>
+
 <ul>
+
 <li><a href="http://www.nytimes.com/2015/02/12/us/muslim-student-shootings-north-carolina.html">“In Chapel Hill Shooting of 3 Muslims, a Question of Motive”</a></li>
-<li><a href="https://news.ncsu.edu/2015/02/funeral-vigil-counseling/">“NC State Hosts Funeral, Vigil, Continues Counseling”</a></li>
-</ul>
+
+<li><a href="https://news.ncsu.edu/2015/02/funeral-vigil-counseling/">“NC State Hosts Funeral, Vigil, Continues Counseling”</a></li></ul>
+
 <h3>Music</h3>
+
 <ul>
+
 <li><a href="http://inneroutlaws.bandcamp.com/track/just-like-moonlight">“Just Like Moonlight”</a> by Inner Outlaws. Sounds like James Bond, perfect for Elon Musk-as-Iron Man. Used by permission.</li>
-<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho, who has been practicing piano so that he’ll eventually be able to sit down at some glorious Bösendorfer or Steinway and dazzle you with a <em>real</em> version of this.</li>
-</ul>
+
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho, who has been practicing piano so that he’ll eventually be able to sit down at some glorious Bösendorfer or Steinway and dazzle you with a <em>real</em> version of this.</li></ul>
+
 <h3>Links</h3>
+
 <ul>
+
 <li><a href="http://en.wikipedia.org/wiki/Elon_Musk">Elon Musk</a></li>
 
-<li><a href="http://www.teslamotors.com">Tesla Motors</a>
-<ul>
-<li><a href="http://www.teslamotors.com/models">Model S</a></li>
-<li><a href="http://www.teslamotors.com/modelx">Model X</a></li>
-<li><a href="https://medium.com/@CARandDRIVER/four-reasons-why-tesla-wont-sink-even-if-the-signs-say-it-should-8ff2ca0e226a">“Four Reasons Why Tesla Won’t Sink (Even If the Signs Say It Should)”</a></li>
-<li><a href="http://arstechnica.com/cars/2015/02/teslas-q4-results-show-lots-of-cars-and-lots-of-losses/">“Tesla’s Q4 Results Show Lots of Cars and Lots of Losses”</a></li>
-</ul></li>
+<p><li><a href="http://www.teslamotors.com">Tesla Motors</a></p>
 
-<li><a href="http://www.spacex.com">SpaceX</a>
 <ul>
+
+<li><a href="http://www.teslamotors.com/models">Model S</a></li>
+
+<li><a href="http://www.teslamotors.com/modelx">Model X</a></li>
+
+<li><a href="https://medium.com/@CARandDRIVER/four-reasons-why-tesla-wont-sink-even-if-the-signs-say-it-should-8ff2ca0e226a">“Four Reasons Why Tesla Won’t Sink (Even If the Signs Say It Should)”</a></li>
+
+<li><a href="http://arstechnica.com/cars/2015/02/teslas-q4-results-show-lots-of-cars-and-lots-of-losses/">“Tesla’s Q4 Results Show Lots of Cars and Lots of Losses”</a></li></ul></li>
+
+<p><li><a href="http://www.spacex.com">SpaceX</a></p>
+
+<ul>
+
 <li><a href="http://www.spacex.com/news/2013/03/31/reusability-key-making-human-life-multi-planetary">“Reusability: The Key to Making Human Life Multi-Planetary”</a></li>
+
 <li><a href="http://arstechnica.com/science/2015/01/spacex-launch-successful-landing-not-so-much/">“SpaceX: launch successful, landing not so much”</a></li>
+
 <li><a href="http://arstechnica.com/science/2015/02/dscovr-space-weather-satellite-launched-by-spacex-successfully/">“DSCOVR space weather satellite launched by SpaceX successfully”</a></li>
-<li><a href="http://arstechnica.com/business/2015/01/spacex-elbows-into-air-force-launch-program-after-dropping-lawsuit/">“SpaceX elbows into Air Force launch program after dropping lawsuit”</a></li>
+
+<li><a href="http://arstechnica.com/business/2015/01/spacex-elbows-into-air-force-launch-program-after-dropping-lawsuit/">“SpaceX elbows into Air Force launch program after dropping lawsuit”</a></li></ul></li></ul>
+
+<h3 id="followsubscribe">Follow/Subscribe</h3>
+
+<ul>
+<p><li>Twitter:</p>
+
+<ul>
+<li><a href="//www.twitter.com/winningslowly">@winningslowly</a></li>
+<li><a href="//www.twitter.com/chriskrycho">@chriskrycho</a></li>
+<li><a href="//www.twitter.com/scarradini">@scarradini</a></li>
+</ul></li>
+<p><li>App.net</p>
+
+<ul>
+<li><a href="//alpha.app.net/winningslowly">@winningslowly</a></li>
+<li><a href="//alpha.app.net/chriskrycho">@chriskrycho</a></li>
+</ul></li>
+<p><li>Subscribe</p>
+
+<ul>
+<li><a href="//www.winningslowly.org/feed.xml">RSS</a></li>
+<li><a href="//itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2">iTunes</a></li>
 </ul></li>
 </ul>]]></description>
             <pubDate>Tue, 17 Feb 2015 20:00:36 -0500</pubDate>
@@ -600,43 +842,76 @@ Links
             <title>2.03: Impervious Scale</title>
             <link>http://www.winningslowly.org/2015/02/impervious-scale/</link>
             <description><![CDATA[<h3>Show Notes</h3>
-
-<p>In which we look at Zoë Keating&#8217;s ongoing kerfuffle with YouTube. Is YouTube strong-arming indie artists? Should megacorporations force all their clients&#8212;customer and producer&#8212;to fit in a one-size-fits-all setup, or should they take the long view and do what is best not only for the bottom line but also for the relationship between artist and audience. Oh, and what about those monopolies and monopsonies? They might have some extra ethical responsibility, too!</p>
+<p>In which we look at Zoë Keating’s ongoing kerfuffle with YouTube. Is YouTube strong-arming indie artists? Should megacorporations force all their clients—customer and producer—to fit in a one-size-fits-all setup, or should they take the long view and do what is best not only for the bottom line but also for the relationship between artist and audience. Oh, and what about those monopolies and monopsonies? They might have some extra ethical responsibility, too!</p>
 
 <h3>Before You Go</h3>
 
 <ul>
+
 <li><a href="http://www.pastemagazine.com/articles/2015/02/lego-announces-doctor-who-set-for-later-this-year.html">LEGO Announces Doctor Who Set for Later this year</a></li>
+
+
 <p><li>FCC announces intent to regulate broadband under Title II:</p>
 
 <ul>
-<li><a href="http://www.wired.com/2015/02/fcc-chairman-wheeler-net-neutrality/">&#8220;This Is How We Will Ensure Net Neutrality&#8221;</a> (FCC Chairman Tom Wheeler)</li>
-<li>The Verge <a href="http://www.theverge.com/2015/2/4/7977569/its-official-the-fcc-will-seek-to-reclassify-the-internet-as-a-utility">summarizes</a> and <a href="http://www.theverge.com/2015/2/4/7978815/fcc-net-neutrality-proposal-internet-victory-review">editorializes</a></li>
-</ul></li>
-</ul>
+
+<li><a href="http://www.wired.com/2015/02/fcc-chairman-wheeler-net-neutrality/">“This Is How We Will Ensure Net Neutrality”</a> (FCC Chairman Tom Wheeler)</li>
+
+<li>The Verge <a href="http://www.theverge.com/2015/2/4/7977569/its-official-the-fcc-will-seek-to-reclassify-the-internet-as-a-utility">summarizes</a> and <a href="http://www.theverge.com/2015/2/4/7978815/fcc-net-neutrality-proposal-internet-victory-review">editorializes</a></li></ul></li></ul>
 
 <h3>Music</h3>
 
 <ul>
-<li><a href="https://soundcloud.com/magicgiant/let-it-burn-1">&#8220;Let It Burn&#8221;</a> by Magic Giant. Used by permission.</li>
-<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">&#8220;Winning Slowly Theme&#8221;</a> by Chris Krycho, who has been practicing piano so that he&#8217;ll eventually be able to sit down at some glorious Bösendorfer or Steinway and dazzle you with a <em>real</em> version of this.</li>
-</ul>
+
+<li><a href="https://soundcloud.com/magicgiant/let-it-burn-1">“Let It Burn”</a> by Magic Giant. Used by permission.</li>
+
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho, who has been practicing piano so that he’ll eventually be able to sit down at some glorious Bösendorfer or Steinway and dazzle you with a <em>real</em> version of this.</li></ul>
 
 <h3>Links</h3>
 
 <ul>
-<p><li><a href="http://zoekeating.tumblr.com/post/108898194009/what-should-i-do-about-youtube">&#8220;What should I do about Youtube?&#8221;</a>&#8212;Zoë Keating&#8217;s original post</p>
+
+
+<p><li><a href="http://zoekeating.tumblr.com/post/108898194009/what-should-i-do-about-youtube">“What should I do about Youtube?”</a>—Zoë Keating’s original post</p>
 
 <ul>
-<li><a href="http://zoekeating.tumblr.com/post/109312851929/clarity">&#8220;Clarity&#8221;</a>&#8212;her follow-up with her transcript of the conversation</li>
-</ul></li>
-<li>Ben Thompson: <a href="http://stratechery.com/2015/niches-problem-subscription-services/">&#8220;Dear Zoë Keating: Tell YouTube to Take a Hike&#8221;</a></li>
-<li>The Guardian recaps the affair: <a href="http://www.theguardian.com/technology/2015/jan/27/zoe-keating-youtube-google-music">&#8220;Zoe Keating v YouTube: key sticking points in Google&#8217;s latest music row&#8221;</a></li>
-<li>David Lowery on the whole business: <a href="http://thetrichordist.com/2015/01/26/zoe-keating-vs-youtube-the-end-of-an-artists-right-to-choose-where-their-music-appears-on-the-internet/">&#8220;Zoë Keating vs YouTube: The End of an Artist&#8217;s Right to Choose Where Their Music Appears on The Internet.&#8221;</a></li>
+
+<li><a href="http://zoekeating.tumblr.com/post/109312851929/clarity">“Clarity”</a>—her follow-up with her transcript of the conversation</li></ul></li>
+
+<li>Ben Thompson: <a href="http://stratechery.com/2015/niches-problem-subscription-services/">“Dear Zoë Keating: Tell YouTube to Take a Hike”</a></li>
+
+<li>The Guardian recaps the affair: <a href="http://www.theguardian.com/technology/2015/jan/27/zoe-keating-youtube-google-music">“Zoe Keating v YouTube: key sticking points in Google’s latest music row”</a></li>
+
+<li>David Lowery on the whole business: <a href="http://thetrichordist.com/2015/01/26/zoe-keating-vs-youtube-the-end-of-an-artists-right-to-choose-where-their-music-appears-on-the-internet/">“Zoë Keating vs YouTube: The End of an Artist’s Right to Choose Where Their Music Appears on The Internet.”</a></li>
+
+
 <p><li>Previous episodes:</p>
 
 <ul>
-<li><a href="http://www.winningslowly.org/2014/07/massive-emotional-contagion/">1.01: Massive Emotional Contagion</a></li>
+
+<li><a href="http://www.winningslowly.org/2014/07/massive-emotional-contagion/">1.01: Massive Emotional Contagion</a></li></ul></li></ul>
+
+<h3 id="followsubscribe">Follow/Subscribe</h3>
+
+<ul>
+<p><li>Twitter:</p>
+
+<ul>
+<li><a href="//www.twitter.com/winningslowly">@winningslowly</a></li>
+<li><a href="//www.twitter.com/chriskrycho">@chriskrycho</a></li>
+<li><a href="//www.twitter.com/scarradini">@scarradini</a></li>
+</ul></li>
+<p><li>App.net</p>
+
+<ul>
+<li><a href="//alpha.app.net/winningslowly">@winningslowly</a></li>
+<li><a href="//alpha.app.net/chriskrycho">@chriskrycho</a></li>
+</ul></li>
+<p><li>Subscribe</p>
+
+<ul>
+<li><a href="//www.winningslowly.org/feed.xml">RSS</a></li>
+<li><a href="//itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2">iTunes</a></li>
 </ul></li>
 </ul>]]></description>
             <pubDate>Tue, 10 Feb 2015 07:00:05 -0500</pubDate>
@@ -676,44 +951,76 @@ Links
             <title>2.02: Basketballs ≠ Pumpkins</title>
             <link>http://www.winningslowly.org/2015/02/basketballs-pumpkins/</link>
             <description><![CDATA[<h3>Show Notes</h3>
+<p>In which we talk about Marco Arment, Kirby Delauter, and the general phenomenon of things you say on the internet going viral (often when you least expect them to). How do you deal with the reality that your audience is <em>never</em> limited but may universalize at any moment? What is the audience’s responsibility, and what are creators’ responsibilities? How do we deal charitably with authors writing “in-house” on controversial topics?</p>
 
-<p>In which we talk about Marco Arment, Kirby Delauter, and the general phenomenon of things you say on the internet going viral (often when you least expect them to). How do you deal with the reality that your audience is <em>never</em> limited but may universalize at any moment? What is the audience&#8217;s responsibility, and what are creators&#8217; responsibilities? How do we deal charitably with authors writing &#8220;in-house&#8221; on controversial topics?</p>
-
-<p>P.S. You&#8217;re going to want to listen to the bloopers on this one, all the way through to the end. Trust us.</p>
+<p>P.S. You’re going to want to listen to the bloopers on this one, all the way through to the end. Trust us.</p>
 
 <h3>Before You Go</h3>
 
 <ul>
-<li><a href="https://encrypted.google.com/search?hl=en&amp;q=israel%20hezbollah#q=israel+hezbollah&amp;hl=en&amp;tbm=nws">Google News: &#8220;Israel Hezbollah&#8221;</a></li>
-<li><a href="http://cir.ca/news/children-of-former-slaves">Son of ex-slave who fought in Union Army dies at age 97</a></li>
-</ul>
+
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=israel%20hezbollah#q=israel+hezbollah&amp;hl=en&amp;tbm=nws">Google News: “Israel Hezbollah”</a></li>
+
+<li><a href="http://cir.ca/news/children-of-former-slaves">Son of ex-slave who fought in Union Army dies at age 97</a></li></ul>
 
 <h3>Music</h3>
 
 <ul>
+
 <li><a href="https://soundcloud.com/cablestreetcollective/wasted-hours">&quot;Wasted Hours</a> from <em>The Best of Times</em> by <a href="http://www.cablestreetcollective.co.uk">Cable Street Collective</a></li>
-<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">&#8220;Winning Slowly Theme&#8221;</a> by Chris Krycho. Used even though it&#8217;s still just a digital recording. Some day maybe he can play it on a real piano!</li>
-</ul>
+
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho. Used even though it’s still just a digital recording. Some day maybe he can play it on a real piano!</li></ul>
 
 <h3>Links</h3>
 
 <ul>
-<p><li><a href="http://www.marco.org/2015/01/04/apple-lost-functional-high-ground">Marco Arment&#8217;s original post</a> (&#8220;Apple has lost the functional high ground&#8221;)</p>
+
+
+<p><li><a href="http://www.marco.org/2015/01/04/apple-lost-functional-high-ground">Marco Arment’s original post</a> (“Apple has lost the functional high ground”)</p>
 
 <ul>
-<li>His follow-up: <a href="http://www.marco.org/2015/01/05/popular-for-a-day">&quot;What it&#8217;s like to be way too popular for a day</a></li>
-</ul></li>
-<p><li><a href="http://www.washingtonpost.com/news/volokh-conspiracy/wp/2015/01/05/this-post-shamelessly-uses-frederick-county-md-council-member-kirby-delauters-name-without-authorization/">Kirby Delauter&#8217;s original post</a></p>
+
+<li>His follow-up: <a href="http://www.marco.org/2015/01/05/popular-for-a-day">&quot;What it’s like to be way too popular for a day</a></li></ul></li>
+
+
+<p><li><a href="http://www.washingtonpost.com/news/volokh-conspiracy/wp/2015/01/05/this-post-shamelessly-uses-frederick-county-md-council-member-kirby-delauters-name-without-authorization/">Kirby Delauter’s original post</a></p>
 
 <ul>
+
 <li><a href="http://www.fredericknewspost.com/news/politics_and_government/kirby-delauter-kirby-delauter-kirby-delauter/article_da85d6f4-fa3c-524f-bbf6-8e5ddc0d1c0a.html">The Frederick News-Post responds</a> (seriously, this is <em>hilarious</em>)</li>
-<li><a href="http://www.washingtonpost.com/news/volokh-conspiracy/wp/2015/01/07/kirby-delauter-apologizes/">His apology&#8230; of sorts</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Streisand_effect">The Streisand Effect</a></li>
-</ul></li>
+
+<li><a href="http://www.washingtonpost.com/news/volokh-conspiracy/wp/2015/01/07/kirby-delauter-apologizes/">His apology… of sorts</a></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Streisand_effect">The Streisand Effect</a></li></ul></li>
+
+
 <p><li>Previous episodes:</p>
 
 <ul>
-<li><a href="http://www.winningslowly.org/2014/05/clickbait-headlines/">0.12: You&#8217;ll Never Guess What the Hosts Say in This Podcast!</a></li>
+
+<li><a href="http://www.winningslowly.org/2014/05/clickbait-headlines/">0.12: You’ll Never Guess What the Hosts Say in This Podcast!</a></li></ul></li></ul>
+
+<h3 id="followsubscribe">Follow/Subscribe</h3>
+
+<ul>
+<p><li>Twitter:</p>
+
+<ul>
+<li><a href="//www.twitter.com/winningslowly">@winningslowly</a></li>
+<li><a href="//www.twitter.com/chriskrycho">@chriskrycho</a></li>
+<li><a href="//www.twitter.com/scarradini">@scarradini</a></li>
+</ul></li>
+<p><li>App.net</p>
+
+<ul>
+<li><a href="//alpha.app.net/winningslowly">@winningslowly</a></li>
+<li><a href="//alpha.app.net/chriskrycho">@chriskrycho</a></li>
+</ul></li>
+<p><li>Subscribe</p>
+
+<ul>
+<li><a href="//www.winningslowly.org/feed.xml">RSS</a></li>
+<li><a href="//itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2">iTunes</a></li>
 </ul></li>
 </ul>]]></description>
             <pubDate>Tue, 03 Feb 2015 07:00:44 -0500</pubDate>
@@ -756,26 +1063,59 @@ Links
             <title>2.01: Take My Money Now!</title>
             <link>http://www.winningslowly.org/2015/01/take-my-money-now/</link>
             <description><![CDATA[<h3>Show Notes</h3>
-
 <p>In which we discuss news app Circa, the value it provides in the rapidly evolving world of new journalism, and why we’re super sad about it. (Hint: it’s a Silicon Valley startup and you know what that means about its business model. Namely: as near as we can tell, they don’t have one.)</p>
+
 <h3>Before You Go</h3>
+
 <ul>
+
 <li><a href="http://www.huffingtonpost.com/2015/01/17/niger-charlie-hebdo_n_6492054.html">Churches Torched In Anti-Charlie Hebdo Protests</a></li>
-<li><a href="http://www.theguardian.com/world/2015/jan/22/drop-in-ebola-cases-signals-turning-point">Drop in Ebola cases ‘signals turning point’</a></li>
-</ul>
+
+<li><a href="http://www.theguardian.com/world/2015/jan/22/drop-in-ebola-cases-signals-turning-point">Drop in Ebola cases ‘signals turning point’</a></li></ul>
+
 <h3>Music</h3>
+
 <ul>
+
 <li><a href="https://soundcloud.com/jaredfoldy/everglow-single/s-b3d9z">“Everglow”</a> by Jared Foldy. Used by permission.</li>
-<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho. Used without a dance beat, because it’s been a busy few months.</li>
-</ul>
+
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho. Used without a dance beat, because it’s been a busy few months.</li></ul>
+
 <h3>Links</h3>
+
 <ul>
+
 <li><a href="http://cir.ca">Circa</a></li>
 
-<li>Previous episodes mentioned on the show
+<p><li>Previous episodes mentioned on the show</p>
+
 <ul>
+
 <li><a href="http://www.winningslowly.org/2014/05/clickbait-headlines/">0.12: You’ll Never Guess What the Hosts Say in This Podcast!</a></li>
-<li><a href="http://www.winningslowly.org/2014/01/we-need-some-context/">0.01: We Need Some Context</a></li>
+
+<li><a href="http://www.winningslowly.org/2014/01/we-need-some-context/">0.01: We Need Some Context</a></li></ul></li></ul>
+
+<h3 id="followsubscribe">Follow/Subscribe</h3>
+
+<ul>
+<p><li>Twitter:</p>
+
+<ul>
+<li><a href="//www.twitter.com/winningslowly">@winningslowly</a></li>
+<li><a href="//www.twitter.com/chriskrycho">@chriskrycho</a></li>
+<li><a href="//www.twitter.com/scarradini">@scarradini</a></li>
+</ul></li>
+<p><li>App.net</p>
+
+<ul>
+<li><a href="//alpha.app.net/winningslowly">@winningslowly</a></li>
+<li><a href="//alpha.app.net/chriskrycho">@chriskrycho</a></li>
+</ul></li>
+<p><li>Subscribe</p>
+
+<ul>
+<li><a href="//www.winningslowly.org/feed.xml">RSS</a></li>
+<li><a href="//itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2">iTunes</a></li>
 </ul></li>
 </ul>]]></description>
             <pubDate>Tue, 27 Jan 2015 07:00:47 -0500</pubDate>
