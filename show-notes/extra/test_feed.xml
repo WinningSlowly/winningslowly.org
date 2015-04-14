@@ -4,14 +4,14 @@
         <title>(TEST) Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>A forum for two interdisciplinary thinkers to discuss the long view of current trends in technology, religion, art, ethics, and culture. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 2.5.9(1915); Mac OS X Version 10.10.3 (Build 14D130a) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 2.5.9(1915); Mac OS X Version 10.10.3 (Build 14D131) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2014–2015 Winning Slowly</copyright>
         <managingEditor>stephen@winningslowly.org (Stephen Carradini)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Mon, 06 Apr 2015 18:06:09 -0400</pubDate>
-        <lastBuildDate>Mon, 06 Apr 2015 18:06:09 -0400</lastBuildDate>
+        <pubDate>Tue, 14 Apr 2015 13:49:48 -0400</pubDate>
+        <lastBuildDate>Tue, 14 Apr 2015 13:49:48 -0400</lastBuildDate>
         <ttl>50</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -37,6 +37,92 @@
         <itunes:category text="Religion &amp; Spirituality">
             <itunes:category text="Christianity"/>
         </itunes:category>
+        <item>
+            <title>2.11: Download Speed: Potato</title>
+            <link>http://www.winningslowly.org/2015/04/download-speed-potato/</link>
+            <description><![CDATA[<h3 id="shownotes">Show Notes</h3>
+
+<p>Chris and Stephen note the launch of Tidal with some skepticism, then contrast the service with what could be considered Tidal&#8217;s polar opposite: YouTube. We look at the international aspects of music distribution, and think about how youth factor in to the ever-changing equation. And, good news, there&#8217;s a happy ending. I love happy endings. </p>
+
+<h3 id="beforeyougo">Before You Go</h3>
+
+<ul>
+<li><a href="http://www.nytimes.com/2015/04/06/opinion/thomas-friedman-the-obama-doctrine-and-iran-interview.html?_r=0">Iran and the Obama Doctrine</a> by Thomas Friedman</li>
+</ul>
+
+<h3 id="music">Music</h3>
+
+<ul>
+<li><a href="http://thesideshowtragedy.com/">&#8220;Number One&#8221;</a> by The Sideshow Tragedy. Used by permission.</li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">&#8220;Winning Slowly Theme&#8221;</a> by Chris Krycho. <em>Now with more techno! Just kidding.</em></li>
+</ul>
+
+<h3 id="links">Links</h3>
+
+<ul>
+<li><a href="http://tidal.com/us">Tidal</a></li>
+<li><a href="https://www.spotify.com/us/">Spotify</a></li>
+<li><a href="https://ponomusic.force.com/">Pono</a></li>
+<li><a href="http://bandcamp.com">Bandcamp</a></li>
+<li><a href="http://www.beatport.com">Beatport</a></li>
+<li><a href="https://www.youtube.com/user/ThePianoGuys">The Piano Guys&#8217; YouTube Page</a></li>
+<li><a href="https://www.youtube.com/user/PTXofficial">Pentatonix&#8217;s Youtube Page</a></li>
+<li><a href="http://expandedramblings.com/index.php/youtube-statistics/">By the Numbers: 80+ Amazing YouTube Statistics</a></li>
+<li><a href="http://www.reelseo.com/youtube-facts-stats-2014/">33 Amazing YouTube Facts &amp; Stats to Tweet &amp; Share</a></li>
+<li><a href="http://www.reelseo.com/13-24-watching-more-youtube-than-tv/">13&#8211;24 Year Olds Watching More YouTube Than TV - To The Surprise of No-one</a> by Andy Smith</li>
+<li><a href="http://www.digitalmusicnews.com/permalink/2015/04/06/lily-allen-tidal-will-make-fans-swarm-back-piracy">Lily Allen: “Tidal Will Make Fans Swarm Back to Piracy…”</a></li>
+<li><a href="https://www.yahoo.com/tech/it-was-one-of-kickstarters-most-successful-109496883039.html">Neil Young&#8217;s PonoPlayer: The Emperor Has No Clothes</a></li>
+<li><a href="http://qz.com/321190/why-netflix-needs-to-crack-down-on-foreigners-accessing-its-us-site/">Why Netflix needs to crack down on foreigners accessing its US site</a> by Leo Mirani</li>
+<li><a href="http://www.billboard.com/articles/business/6494556/bandcamp-100-million-payout-milestone-artist-subscriptions-ethan-diamond">Bandcamp Hits $100 Million Payout Milestone, Plans Artist Subscriptions</a> by Andrew Flanagan</li>
+</ul>
+
+<h4 id="furtherreading">Further Reading</h4>
+
+<ul>
+<li><a href="http://hypebot.com/hypebot/2015/03/jay-z-relaunches-artist-owned-tidal-music-service-big-on-star-power-short-on-details-.html">Jay Z Launches TIDAL As &#8220;Artist Owned&#8221; Music Service: Big On Star Power, Short On Details</a> by David Ulevitch</li>
+</ul>
+
+<h4 id="previouslyontheshow">Previously on the show</h4>
+
+<ul>
+<li><a href="http://www.winningslowly.org/2015/02/impervious-scale/">2.03: Impervious Scale</a>&#8212;we talked about YouTube&#8217;s Music Key product and their problems with artists like Zoe Keating.</li>
+<li><a href="http://www.winningslowly.org/2015/04/so-youve-been-hacked/">2.10: So You&#8217;ve Been Hacked</a>&#8212;we talked about how all industries are affected by the Internet.</li>
+</ul>
+
+<h3 id="followsubscribe">Follow/Subscribe</h3>
+
+<ul>
+<p><li>Twitter:</p>
+
+<ul>
+<li><a href="https://www.twitter.com/winningslowly">@winningslowly</a></li>
+<li><a href="https://www.twitter.com/chriskrycho">@chriskrycho</a></li>
+<li><a href="https://www.twitter.com/scarradini">@scarradini</a></li>
+</ul></li>
+<p><li>App.net</p>
+
+<ul>
+<li><a href="https://alpha.app.net/winningslowly">@winningslowly</a></li>
+<li><a href="https://alpha.app.net/chriskrycho">@chriskrycho</a></li>
+</ul></li>
+<p><li>Subscribe</p>
+
+<ul>
+<li><a href="http://www.winningslowly.org/feed.xml">RSS</a></li>
+<li><a href="https://itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2">iTunes</a></li>
+</ul></li>
+</ul>]]></description>
+            <pubDate>Tue, 14 Apr 2015 14:00:16 -0400</pubDate>
+            <enclosure url="http://winningslowly.s3.amazonaws.com/episode-2.11.m4a" length="14825599" type="audio/x-m4a"/>
+            <guid isPermaLink="false">73B2BE2F-C9C2-43F9-A62E-BC6C6B97B377</guid>
+            <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
+            <itunes:subtitle>Tidal, Youtube, Bandcamp, and the Future of Music Distribution</itunes:subtitle>
+            <itunes:summary><![CDATA[Chris and Stephen note the launch of Tidal with some skepticism, then contrast the service with what could be considered Tidal's polar opposite: YouTube. We look at the international aspects of music distribution, and think about how youth factor in to the ever-changing equation. And, good news, there's a happy ending. I love happy endings.]]></itunes:summary>
+            <itunes:keywords>art,technology,ethics</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>30:17</itunes:duration>
+            <dc:creator>Stephen Carradini and Chris Krycho</dc:creator>
+        </item>
         <item>
             <title>2.10: So You’ve Been Hacked</title>
             <link>http://www.winningslowly.org/2015/04/so-youve-been-hacked/</link>
