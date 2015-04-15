@@ -10,8 +10,8 @@
         <copyright>2014–2015 Winning Slowly</copyright>
         <managingEditor>stephen@winningslowly.org (Stephen Carradini)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Tue, 14 Apr 2015 13:51:13 -0400</pubDate>
-        <lastBuildDate>Tue, 14 Apr 2015 13:51:13 -0400</lastBuildDate>
+        <pubDate>Wed, 15 Apr 2015 11:43:45 -0400</pubDate>
+        <lastBuildDate>Wed, 15 Apr 2015 11:43:45 -0400</lastBuildDate>
         <ttl>50</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -38,8 +38,8 @@
             <itunes:category text="Christianity"/>
         </itunes:category>
         <item>
-            <title>2.11: Download Speed: Potato</title>
-            <link>http://www.winningslowly.org/2015/04/download-speed-potato/</link>
+            <title>2.11: Encoding Quality: Potato</title>
+            <link>http://www.winningslowly.org/2015/04/encoding-quality-potato/</link>
             <description><![CDATA[<h3 id="shownotes">Show Notes</h3>
 
 <p>Chris and Stephen note the launch of Tidal with some skepticism, then contrast the service with what could be considered Tidal&#8217;s polar opposite: YouTube. We look at the international aspects of music distribution, and think about how youth factor in to the ever-changing equation. And, good news, there&#8217;s a happy ending. I love happy endings. </p>
@@ -112,7 +112,7 @@
 <li><a href="https://itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2">iTunes</a></li>
 </ul></li>
 </ul>]]></description>
-            <pubDate>Tue, 14 Apr 2015 14:00:16 -0400</pubDate>
+            <pubDate>Tue, 14 Apr 2015 14:00:59 -0400</pubDate>
             <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-2.11.m4a" length="14825599" type="audio/x-m4a"/>
             <guid isPermaLink="false">73B2BE2F-C9C2-43F9-A62E-BC6C6B97B377</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
