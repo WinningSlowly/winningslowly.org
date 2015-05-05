@@ -16,6 +16,7 @@
 
 # Python elements
 *.py[cod]
+.python-version
 
 # C extensions
 *.so
