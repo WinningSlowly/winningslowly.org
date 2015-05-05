@@ -4,14 +4,14 @@
         <title>(TEST) Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>A forum for two interdisciplinary thinkers to discuss the long view of current trends in technology, religion, art, ethics, and culture. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 2.5.9(1915); Mac OS X Version 10.10.3 (Build 14D131) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 2.5.10(2061); Mac OS X Version 10.10.3 (Build 14D136) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2014–2015 Winning Slowly</copyright>
         <managingEditor>stephen@winningslowly.org (Stephen Carradini)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Wed, 15 Apr 2015 11:43:54 -0400</pubDate>
-        <lastBuildDate>Wed, 15 Apr 2015 11:43:54 -0400</lastBuildDate>
+        <pubDate>Mon, 04 May 2015 21:45:05 -0400</pubDate>
+        <lastBuildDate>Mon, 04 May 2015 21:45:05 -0400</lastBuildDate>
         <ttl>50</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -37,6 +37,394 @@
         <itunes:category text="Religion &amp; Spirituality">
             <itunes:category text="Christianity"/>
         </itunes:category>
+        <item>
+            <title>2.14: Starbucks University</title>
+            <link>http://www.winningslowly.org/2015/05/starbucks-university/</link>
+            <description><![CDATA[<h3 id="show-notes">Show Notes</h3>
+<p>Chris and Stephen take three recent articles about the super-structure of how our society pays for college and scrutinize the issue. How does American society value what college delivers? (What does it deliver?) How do we fund it? Should we fund it? We take the time not just to ponder, but to celebrate an unlikely organization that’s doing some incredibly innovative moves in the space. Also Stephen inadvertently insults a whole group of people. Sorry about that.</p>
+<h3 id="before-you-go">Before You Go</h3>
+<ul>
+<li><a href="http://www.theatlantic.com/politics/archive/2015/04/the-brutality-of-police-culture-in-baltimore/391158/">“The Brutality of Police Culture in Baltimore”</a> by Conor Friedersdorf</li>
+<li><a href="http://washington.cbslocal.com/2015/04/27/orioles-vp-angelos-makes-profound-statement-on-twitter-following-baltimore-protests/">“Orioles VP Angelos Makes Profound Statement Following Baltimore Protests”</a> by Conor Friedersdorf</li>
+</ul>
+<h3 id="music">Music</h3>
+<ul>
+<li><a href="http://themidnightsons.bandcamp.com/track/st-julian">“St. Julian”</a> by The Midnight Sons. Used by permission.</li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho. <em>Fact: Chris studied music composition in college.</em></li>
+</ul>
+<h3 id="links">Links</h3>
+<ul>
+<li><a href="http://www.theatlantic.com/magazine/archive/2015/05/the-upwardly-mobile-barista/389513/">“The Upwardly Mobile Barista”</a> by Amanda Ripley</li>
+<li><a href="http://www.nbcnews.com/business/economy/amid-funding-cuts-will-lsu-have-declare-bankruptcy-n347951">“Amid Funding Cuts, Will LSU have to declare ‘Bankruptcy’?”</a> by Martha C. White</li>
+<li><a href="http://www.nbcnews.com/news/education/corinthian-colleges-shuts-down-ending-classes-16-000-overnight-n348741">“Corinthian Colleges Shuts Down, Ending Classes for 16,000 overnight”</a></li>
+<li><a href="http://www.jubalacoffee.com/">Jubala Coffee</a></li>
+<li><a href="http://www.politifact.com/wisconsin/article/2015/feb/17/scott-walkers-university-budget-cuts-13-25-16-mayb/">Scott Walker’s University Budget Cuts–How Big?</a> by Dave Umhoefer</li>
+<li><a href="http://www.rider.edu/">Rider University</a> Apologies to Rider grads.</li>
+<li><a href="https://www.insidehighered.com/news/2012/10/16/companys-skills-tests-offer-glimpse-alternative-credentialing">Getting Smarter on Skills Testing</a> by Paul Fain. An article about skills-based credentialing.</li>
+</ul>
+<h4 id="previously-on-the-show">Previously on the show</h4>
+<ul>
+<li><a href="http://www.winningslowly.org/2015/04/in-the-meanwhile/">2.12: In the Meanwhile</a>— We talked about a small corporation being ethical.</li>
+<li><a href="http://www.winningslowly.org/2015/04/hi-were-the-internet/">2.11: Hi, We’re The Internet</a>— We talked about Uber acting unethically.</li>
+<li><a href="http://www.winningslowly.org/2015/03/the-ones-and-zeros-sphere/">2.06: The Ones- and Zeros-sphere</a>— We talked about Marvel’s ethics.</li>
+</ul>
+<h3 id="followsubscribe">Follow/Subscribe</h3>
+<ul>
+<li>Twitter:
+<ul>
+<li><a href="https://www.twitter.com/winningslowly">@winningslowly</a></li>
+<li><a href="https://www.twitter.com/chriskrycho">@chriskrycho</a></li>
+<li><a href="https://www.twitter.com/scarradini">@scarradini</a></li>
+</ul></li>
+<li>App.net
+<ul>
+<li><a href="https://alpha.app.net/winningslowly">@winningslowly</a></li>
+<li><a href="https://alpha.app.net/chriskrycho">@chriskrycho</a></li>
+</ul></li>
+<li>Subscribe
+<ul>
+<li><a href="http://www.winningslowly.org/feed.xml">RSS</a></li>
+<li><a href="https://itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2">iTunes</a></li>
+</ul></li>
+</ul>]]></description>
+            <pubDate>Tue, 05 May 2015 07:00:20 -0400</pubDate>
+            <enclosure url="http://winningslowly.s3.amazonaws.com/episode-2.13.m4a" length="15466335" type="audio/x-m4a"/>
+            <guid isPermaLink="false">C13A36F6-B13A-44EB-BBE5-564853B6DF53</guid>
+            <itunes:author>Stephen Carradini and Chris Krycho</itunes:author>
+            <itunes:subtitle>The short and long view on how our society pays for college</itunes:subtitle>
+            <itunes:summary><![CDATA[Chris and Stephen take three recent articles about the super-structure of how our society pays for college and scrutinize the issue. How does American society value what college delivers? (What does it deliver?) How do we fund it? Should we fund it? We take the time not just to ponder, but to celebrate an unlikely organization that’s doing some incredibly innovative moves in the space. Also Stephen inadvertently insults a whole group of people. Sorry about that.
+
+### Before You Go
+
+◦ “The Brutality of Police Culture in Baltimore” (http://www.theatlantic.com/politics/archive/2015/04/the-brutality-of-police-culture-in-baltimore/391158/) by Conor Friedersdorf
+◦ “Orioles VP Angelos Makes Profound Statement Following Baltimore Protests” (http://washington.cbslocal.com/2015/04/27/orioles-vp-angelos-makes-profound-statement-on-twitter-following-baltimore-protests/) by Conor Friedersdorf
+
+### Music
+
+◦ “St. Julian” (http://themidnightsons.bandcamp.com/track/st-julian) by The Midnight Sons. Used by permission.
+◦ “Winning Slowly Theme” (https://soundcloud.com/chriskrycho/winning-slowly) by Chris Krycho. *Fact: Chris studied music composition in college.*
+
+### Links
+
+◦ “The Upwardly Mobile Barista” (http://www.theatlantic.com/magazine/archive/2015/05/the-upwardly-mobile-barista/389513/) by Amanda Ripley
+◦ “Amid Funding Cuts, Will LSU have to declare ‘Bankruptcy’?” (http://www.nbcnews.com/business/economy/amid-funding-cuts-will-lsu-have-declare-bankruptcy-n347951) by Martha C. White
+◦ “Corinthian Colleges Shuts Down, Ending Classes for 16,000 overnight” (http://www.nbcnews.com/news/education/corinthian-colleges-shuts-down-ending-classes-16-000-overnight-n348741)
+◦ Jubala Coffee (http://www.jubalacoffee.com/)
+◦ Scott Walker’s University Budget Cuts–How Big? (http://www.politifact.com/wisconsin/article/2015/feb/17/scott-walkers-university-budget-cuts-13-25-16-mayb/) by Dave Umhoefer
+◦ Rider University (http://www.rider.edu/) Apologies to Rider grads.
+◦ Getting Smarter on Skills Testing (https://www.insidehighered.com/news/2012/10/16/companys-skills-tests-offer-glimpse-alternative-credentialing) by Paul Fain. An article about skills-based credentialing.
+
+#### Previously on the show
+
+◦ 2.12: In the Meanwhile (http://www.winningslowly.org/2015/04/in-the-meanwhile/)— We talked about a small corporation being ethical.
+◦ 2.11: Hi, We’re The Internet (http://www.winningslowly.org/2015/04/hi-were-the-internet/)— We talked about Uber acting unethically.
+◦ 2.06: The Ones- and Zeros-sphere (http://www.winningslowly.org/2015/03/the-ones-and-zeros-sphere/)— We talked about Marvel’s ethics.
+
+### Follow/Subscribe
+
+◦ Twitter:
+    • @winningslowly (https://www.twitter.com/winningslowly)
+    • @chriskrycho (https://www.twitter.com/chriskrycho)
+    • @scarradini (https://www.twitter.com/scarradini)
+◦ App.net
+    • @winningslowly (https://alpha.app.net/winningslowly)
+    • @chriskrycho (https://alpha.app.net/chriskrycho)
+◦ Subscribe
+    • RSS (http://www.winningslowly.org/feed.xml)
+    • iTunes (https://itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2)]]></itunes:summary>
+            <itunes:keywords>starbucks,ethics,technology,economics</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>31:36</itunes:duration>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+        </item>
+        <item>
+            <title>2.13: A Disputation of Theses</title>
+            <link>http://www.winningslowly.org/2015/04/a-disputation-of-theses/</link>
+            <description><![CDATA[<h3 id="show-notes">Show Notes</h3>
+<p>Chris and Stephen do something different this week and read Alan Jacobs’ 79 Theses on Technology (For Disputation) as an oral presentation. We throw in some thoughts at the end, thereby jumping into the conversation ourselves. But mostly we give Alan Jacobs the credit he is due and give his thoughts the space they deserve.</p>
+<h3 id="before-you-go">Before You Go</h3>
+<ul>
+<li><a href="http://www.nytimes.com/2015/04/25/world/middleeast/american-naval-force-off-yemen-gets-credit-after-iranian-convoy-turns-away.html">The Middle East</a></li>
+</ul>
+<h3 id="music">Music</h3>
+<ul>
+<li><a href="https://soundcloud.com/thebandicoots/mind-your-manors">“Mind Your Manors”</a> by The Bandicoots. Used by permission.</li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho. <em>“I am moved by this music” -Aeschylus, probably, if he had heard it</em></li>
+</ul>
+<h3 id="links">Links</h3>
+<ul>
+<li><a href="http://iasc-culture.org/THR/channels/Infernal_Machine/2015/03/79-theses-on-technology-for-disputation/">79 Theses on Technology. For Disputation.</a> by Alan Jacobs</li>
+<li><a href="http://iasc-culture.org/THR/channels/Infernal_Machine/category/79-theses-on-technology/">An archive of blog post responses to the 79 Theses</a></li>
+<li><a href="http://ayjay.org/">Alan Jacobs’ website</a></li>
+<li><a href="http://www.amazon.com/The-Shallows-Internet-Doing-Brains/dp/0393339750">The Shallows: What the Internet is Doing to Our Brains</a> by Nicholas Carr.</li>
+</ul>
+<h4 id="previously-on-the-show">Previously on the show</h4>
+<ul>
+<li><a href="http://www.winningslowly.org/2014/02/echo-chamber/">0.03: Echo Chamber</a>—we talked about losing parts of the Internet.</li>
+</ul>
+<h3 id="followsubscribe">Follow/Subscribe</h3>
+<ul>
+<li>Twitter:
+<ul>
+<li><a href="https://www.twitter.com/winningslowly">@winningslowly</a></li>
+<li><a href="https://www.twitter.com/chriskrycho">@chriskrycho</a></li>
+<li><a href="https://www.twitter.com/scarradini">@scarradini</a></li>
+</ul></li>
+<li>App.net
+<ul>
+<li><a href="https://alpha.app.net/winningslowly">@winningslowly</a></li>
+<li><a href="https://alpha.app.net/chriskrycho">@chriskrycho</a></li>
+</ul></li>
+<li>Subscribe
+<ul>
+<li><a href="http://www.winningslowly.org/feed.xml">RSS</a></li>
+<li><a href="https://itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2">iTunes</a></li>
+</ul></li>
+</ul>]]></description>
+            <pubDate>Wed, 29 Apr 2015 17:27:02 -0400</pubDate>
+            <enclosure url="http://winningslowly.s3.amazonaws.com/episode-2.13.m4a" length="13640679" type="audio/x-m4a"/>
+            <guid isPermaLink="false">67E51417-FF17-4B78-8037-07F14B70EE2E</guid>
+            <itunes:author>Stephen Carradini and Chris Krycho</itunes:author>
+            <itunes:subtitle>Thinking deeply about technology and culture with Alan Jacobs</itunes:subtitle>
+            <itunes:summary><![CDATA[Chris and Stephen do something different this week and read Alan Jacobs’ 79 Theses on Technology (For Disputation) as an oral presentation. We throw in some thoughts at the end, thereby jumping into the conversation ourselves. But mostly we give Alan Jacobs the credit he is due and give his thoughts the space they deserve.
+
+Before You Go
+
+◦ The Middle East
+
+Music
+
+◦ “Mind Your Manors” by The Bandicoots. Used by permission.
+◦ “Winning Slowly Theme” by Chris Krycho. _“I am moved by this music” -Aeschylus, probably, if he had heard it_
+
+Links
+
+◦ 79 Theses on Technology. For Disputation. by Alan Jacobs
+◦ An archive of blog post responses to the 79 Theses
+◦ Alan Jacobs’ website
+◦ The Shallows: What the Internet is Doing to Our Brains by Nicholas Carr.
+
+Previously on the show
+
+◦ 0.03: Echo Chamber—we talked about losing parts of the Internet.
+
+Follow/Subscribe
+
+◦ Twitter:
+    • @winningslowly
+    • @chriskrycho
+    • @scarradini
+◦ App.net
+    • @winningslowly
+    • @chriskrycho
+◦ Subscribe
+    • RSS
+    • iTunes]]></itunes:summary>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>27:51</itunes:duration>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+        </item>
+        <item>
+            <title>1.03: Disrupting All The Things</title>
+            <link>http://www.winningslowly.org/2014/07/disrupting-all-the-things/</link>
+            <description><![CDATA[<h3 id="shownotes">Show Notes</h3>
+
+<p>In which we look (rather critically) at the tech sphere&#8217;s tendency to assume everything not only can but should be disrupted. Snarky asides on smartwatches and smartshoes segue into a discussion of the necessity of humility and the importance of recognizing what technology <em>cannot</em> do and what it <em>should</em> not do.</p>
+
+<p><em>Note:</em> by &#8220;disruption&#8221; we are focused not on the particular concept developed by Clay Christensen, but on the popular view of the word. We are aware of the distinction, but decided to set it aside for the purposes of this particular episode.</p>
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Massive_open_online_course">MOOCs</a>: Massively Open Online Courses</li>
+</ul>
+
+<h4 id="chapters">Chapters</h4>
+
+<ul>
+<li>Intro (2:09)</li>
+<li>MOOCs! Watches! Shoes! (2:09&#8211;9:06)</li>
+<li>The Cult of Disruption (9:06&#8211;15:32)</li>
+<li>Technological Imperialism (15:32&#8211;21:22)</li>
+<li>Recognizing Tech&#8217;s Limitations (21:22&#8211;27:36)</li>
+<li>Conclusion (27:36&#8211;28:36)</li>
+</ul>
+
+<h3 id="music">Music</h3>
+
+<ul>
+<li>&#8220;Cado Año (Version Two)&#8221;, from <a href="http://fierycrash.bandcamp.com/album/for-tomorrow-will-worry-about-itself-ep"><em>For Tomorrow Will Worry About Itself</em></a>, by Fiery Crash. Used by permission.</li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">&#8220;Winning Slowly Theme&#8221;</a>, by Chris Krycho. Used by dint of being written the show.</li>
+</ul>
+
+<h3 id="links">Links</h3>
+
+<ul>
+<p><li>Chris&#8217; friend Kyle West, now self-publishing successfully:</p>
+
+<ul>
+<li><a href="http://kylewestwriter.wordpress.com/">website</a></li>
+<li><a href="https://twitter.com/kylewestwriter">Twitter</a></li>
+<li><a href="https://www.facebook.com/kyledangerwest/about">Facebook</a></li>
+</ul></li>
+</ul>
+
+<h4 id="followsubscribe">Follow/Subscribe</h4>
+
+<ul>
+<li><a href="https://itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2">iTunes</a></li>
+<li><a href="https://www.twitter.com/winningslowly">Twitter</a></li>
+<li><a href="https://www.facebook.com/winningslowlypodcast">Facebook</a></li>
+<li><a href="https://alpha.app.net/winningslowly">App.net</a></li>
+<li><a href="http://www.winningslowly.org/feed.xml">RSS Feed</a></li>
+</ul>]]></description>
+            <pubDate>Mon, 28 Jul 2014 20:20:54 -0400</pubDate>
+            <enclosure url="http://winningslowly.s3.amazonaws.com/episode-1.03.m4a" length="14263989" type="audio/x-m4a"/>
+            <guid isPermaLink="false">EF9347DD-1B18-47C6-9E09-62CE9A78F31B</guid>
+            <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
+            <itunes:subtitle>MOOCs! Watches! Shoes!, The Cult of Disruption, Technological Imperialism, Recognizing Tech’s Limitations</itunes:subtitle>
+            <itunes:summary><![CDATA[# Show Notes
+
+In which we look (rather critically) at the tech sphere’s tendency to assume everything not only can but should be disrupted. Snarky asides on smartwatches and smartshoes segue into a discussion of the necessity of humility and the importance of recognizing what technology *cannot* do and what it *should* not do.
+
+Note: by “disruption” we are focused not on the particular concept developed by Clay Christensen, but on the popular view of the word. We are aware of the distinction, but decided to set it aside for the purposes of this particular episode.
+
+• MOOCs: Massively Open Online Courses (http://en.wikipedia.org/wiki/Massive_open_online_course)
+
+## Chapters
+
+• Intro (2:09)
+• MOOCs! Watches! Shoes! (2:09–9:06)
+• The Cult of Disruption (9:06–15:32)
+• Technological Imperialism (15:32–21:22)
+• Recognizing Tech’s Limitations (21:22–27:36)
+• Conclusion (27:36–28:36)
+
+# Music
+
+• “Cado Año (Version Two)”, from For Tomorrow Will Worry About Itself (http://fierycrash.bandcamp.com/album/for-tomorrow-will-worry-about-itself-ep), by Fiery Crash. Used by permission.
+• “Winning Slowly Theme” (https://soundcloud.com/chriskrycho/winning-slowly), by Chris Krycho. Used by dint of being written the show.
+
+# Links
+
+• Chris’ friend Kyle West, now self-publishing successfully:
+	◦ website (http://kylewestwriter.wordpress.com/)
+	◦ Twitter (https://twitter.com/kylewestwriter)
+	◦ Facebook (https://www.facebook.com/kyledangerwest/about)
+
+## Follow/Subscribe
+
+• iTunes (https://itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2)
+• Twitter (https://www.twitter.com/winningslowly)
+• Facebook (https://www.facebook.com/winningslowlypodcast)
+• App.net (https://alpha.app.net/winningslowly)
+• RSS Feed (http://www.winningslowly.org/feed.xml)]]></itunes:summary>
+            <itunes:keywords>ethics,economics,technology,disruption</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>28:36</itunes:duration>
+        </item>
+        <item>
+            <title>2.12: In the Meanwhile</title>
+            <link>http://www.winningslowly.org/2015/04/in-the-meanwhile/</link>
+            <description><![CDATA[<h3 id="show-notes">Show Notes</h3>
+<p>Chris and Stephen give three cheers for Dan Price, who voluntarily cut his own pay and raised the pay of his employees to a minimum of $70K a year. We discuss the nature of money, income inequality, how we can fix problems in non-governmental ways (sometimes, and in some ways), and about the limits of praise. We also inaugurate Mr. Price into the newly-founded Winning Slowly Hall of Fame amidst celebratory explosions. (No, really.)</p>
+<h3 id="before-you-go">Before You Go</h3>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=GeIHJ-i7yVk">SpaceX Rocket’s First Stage Crashes During Landing Attempt | Video</a> by Thomas Friedman</li>
+</ul>
+<h3 id="music">Music</h3>
+<ul>
+<li><a href="http://laurajoymusic.com/tag/phoenix/">“Phoenix”</a> by Laura Joy. Used by permission.</li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho. <em>We considered adding an explosion just because of the Before You Go, but alas, time constraints.</em></li>
+</ul>
+<h3 id="links">Links</h3>
+<ul>
+<li><a href="http://www.nytimes.com/2015/04/14/business/owner-of-gravity-payments-a-credit-card-processor-is-setting-a-new-minimum-wage-70000-a-year.html?_r=0">One Company’s New Minimum Wage: $70,000 a year</a> by Patricia Cohen</li>
+<li><a href="http://www.pnas.org/content/107/38/16489.full">High income improves evaluation of life but not emotional well-being</a> by Daniel Kahneman and Angus Deaton. The article that Dan Price read.</li>
+<li><a href="http://biblehub.com/leviticus/19-10.htm">Scripture about Gleaning: Leviticus 19:10</a></li>
+<li><a href="http://www.bloomberg.com/bw/articles/2013-06-06/costco-ceo-craig-jelinek-leads-the-cheapest-happiest-company-in-the-world">Costco CEO Craig Jelinek Leads the Cheapest, Happiest Company in the World</a> by Brad Stone. Costco</li>
+<li><a href="http://en.wikipedia.org/wiki/Public-benefit_corporation">Public-benefit corporation Wikipedia page</a></li>
+<li><a href="http://rollingjubilee.org/">Rolling Jubilee</a></li>
+<li><a href="http://fightfor15.org/april15/">Fight for $15</a></li>
+<li><a href="http://www.amazon.com/When-Helping-Hurts-Alleviating-Ourselves/dp/1596448741">When Helping Hurts: Alleviating the Poverty Without Hurting The Poor…And Ourselves</a> by Steve Corbett &amp; Brian Fikkert</li>
+</ul>
+<h4 id="further-reading">Further Reading</h4>
+<ul>
+<li><a href="http://www.nytimes.com/2015/04/20/business/praise-and-skepticism-as-one-executive-sets-minimum-wage-to-70000-a-year.html">Praise and Skepticism as One Executive Sets Minimum Wage to $70,000 a year</a> by Patricia Cohen</li>
+</ul>
+<h4 id="previously-on-the-show">Previously on the show</h4>
+<ul>
+<li><a href="http://www.winningslowly.org/2014/10/buying-me-off-with-warm-fuzzies/">1.14: Buying Me Off With Warm Fuzzies</a>—we talked about how corporations fund the arts.</li>
+</ul>
+<h3 id="followsubscribe">Follow/Subscribe</h3>
+<ul>
+<li>Twitter:
+<ul>
+<li><a href="https://www.twitter.com/winningslowly">@winningslowly</a></li>
+<li><a href="https://www.twitter.com/chriskrycho">@chriskrycho</a></li>
+<li><a href="https://www.twitter.com/scarradini">@scarradini</a></li>
+</ul></li>
+<li>App.net
+<ul>
+<li><a href="https://alpha.app.net/winningslowly">@winningslowly</a></li>
+<li><a href="https://alpha.app.net/chriskrycho">@chriskrycho</a></li>
+</ul></li>
+<li>Subscribe
+<ul>
+<li><a href="http://www.winningslowly.org/feed.xml">RSS</a></li>
+<li><a href="https://itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2">iTunes</a></li>
+</ul></li>
+</ul>]]></description>
+            <pubDate>Tue, 21 Apr 2015 20:24:51 -0400</pubDate>
+            <enclosure url="http://winningslowly.s3.amazonaws.com/episode-2.12.m4a" length="14224532" type="audio/x-m4a"/>
+            <guid isPermaLink="false">E59ADA18-446D-4A62-BC50-8F6E4C42F60E</guid>
+            <itunes:author>Stephen Carradini and Chris Krycho</itunes:author>
+            <itunes:subtitle>Dan Price, $70K a year, Human Flourishing, and the Winning Slowly Hall of Fame</itunes:subtitle>
+            <itunes:summary><![CDATA[Chris and Stephen give three cheers for Dan Price, who voluntarily cut his own pay and raised the pay of his employees to a minimum of $70K a year. We discuss the nature of money, income inequality, how we can fix problems in non-governmental ways (sometimes, and in some ways), and about the limits of praise. We also inaugurate Mr. Price into the newly-founded Winning Slowly Hall of Fame amidst celebratory explosions. (No, really.)
+
+Before You Go
+
+◦ SpaceX Rocket’s First Stage Crashes During Landing Attempt | Video (https://www.youtube.com/watch?v=GeIHJ-i7yVk) by Thomas Friedman
+
+Music
+
+◦ “Phoenix” (http://laurajoymusic.com/tag/phoenix/) by Laura Joy. Used by permission.
+◦ “Winning Slowly Theme” (https://soundcloud.com/chriskrycho/winning-slowly) by Chris Krycho. *We considered adding an explosion just because of the Before You Go, but alas, time constraints.*
+
+Links
+
+◦ One Company’s New Minimum Wage: $70,000 a year (http://www.nytimes.com/2015/04/14/business/owner-of-gravity-payments-a-credit-card-processor-is-setting-a-new-minimum-wage-70000-a-year.html?_r=0) by Patricia Cohen
+◦ High income improves evaluation of life but not emotional well-being (http://www.pnas.org/content/107/38/16489.full) by Daniel Kahneman and Angus Deaton. The article that Dan Price read.
+◦ Scripture about Gleaning: Leviticus 19:10 (http://biblehub.com/leviticus/19-10.htm)
+◦ Costco CEO Craig Jelinek Leads the Cheapest, Happiest Company in the World (http://www.bloomberg.com/bw/articles/2013-06-06/costco-ceo-craig-jelinek-leads-the-cheapest-happiest-company-in-the-world) by Brad Stone. Costco
+◦ Public-benefit corporation Wikipedia page (http://en.wikipedia.org/wiki/Public-benefit_corporation)
+◦ Rolling Jubilee (http://rollingjubilee.org/)
+◦ Fight for $15 (http://fightfor15.org/april15/)
+◦ When Helping Hurts: Alleviating the Poverty Without Hurting The Poor…And Ourselves (http://www.amazon.com/When-Helping-Hurts-Alleviating-Ourselves/dp/1596448741) by Steve Corbett & Brian Fikkert
+
+Further Reading
+
+◦ Praise and Skepticism as One Executive Sets Minimum Wage to $70,000 a year (http://www.nytimes.com/2015/04/20/business/praise-and-skepticism-as-one-executive-sets-minimum-wage-to-70000-a-year.html) by Patricia Cohen
+
+Previously on the show
+
+◦ 1.14: Buying Me Off With Warm Fuzzies (http://www.winningslowly.org/2014/10/buying-me-off-with-warm-fuzzies/)—we talked about how corporations fund the arts.
+
+Follow/Subscribe
+
+◦ Twitter:
+    • @winningslowly (https://www.twitter.com/winningslowly)
+    • @chriskrycho (https://www.twitter.com/chriskrycho)
+    • @scarradini (https://www.twitter.com/scarradini)
+◦ App.net
+    • @winningslowly (https://alpha.app.net/winningslowly)
+    • @chriskrycho (https://alpha.app.net/chriskrycho)
+◦ Subscribe
+    • RSS (http://www.winningslowly.org/feed.xml)
+    • iTunes (https://itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2)]]></itunes:summary>
+            <itunes:keywords>Dan Price,ethics,economics,business</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>29:03</itunes:duration>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+        </item>
         <item>
             <title>2.11: Encoding Quality: Potato</title>
             <link>http://www.winningslowly.org/2015/04/encoding-quality-potato/</link>
@@ -1708,97 +2096,6 @@ In which we talk about one of the *longest* views: family. In particular, we loo
             <itunes:keywords>family,innovation,work,ethics</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>32:09</itunes:duration>
-        </item>
-        <item>
-            <title>1.03: Disrupting All The Things</title>
-            <link>http://www.winningslowly.org/2014/07/disrupting-all-the-things/</link>
-            <description><![CDATA[<h3>Show Notes</h3>
-
-<p>In which we look (rather critically) at the tech sphere&#8217;s tendency to assume everything not only can but should be disrupted. Snarky asides on smartwatches and smartshoes segue into a discussion of the necessity of humility and the importance of recognizing what technology <em>cannot</em> do and what it <em>should</em> not do.</p>
-
-<p><em>Note:</em> by &#8220;disruption&#8221; we are focused not on the particular concept developed by Clay Christensen, but on the popular view of the word. We are aware of the distinction, but decided to set it aside for the purposes of this particular episode.</p>
-
-<h4>Chapters</h4>
-
-<ul>
-<li>Intro (2:09)</li>
-<li>MOOCs! Watches! Shoes! (2:09&#8211;9:06)</li>
-<li>The Cult of Disruption (9:06&#8211;15:32)</li>
-<li>Technological Imperialism (15:32&#8211;21:22)</li>
-<li>Recognizing Tech&#8217;s Limitations (21:22&#8211;27:36)</li>
-<li>Conclusion (27:36&#8211;28:36)</li>
-</ul>
-
-<h3>Music</h3>
-
-<ul>
-<li>&#8220;Cado Año (Version Two)&#8221;, from <a href="http://fierycrash.bandcamp.com/album/for-tomorrow-will-worry-about-itself-ep"><em>For Tomorrow Will Worry About Itself</em></a>, by Fiery Crash. Used by permission.</li>
-<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">&#8220;Winning Slowly Theme&#8221;</a>, by Chris Krycho. Used by dint of being written the show.</li>
-</ul>
-
-<h3>Links</h3>
-
-<ul>
-<p><li>Chris&#8217; friend Kyle West, now self-publishing successfully:</p>
-
-<ul>
-<li><a href="http://kylewestwriter.wordpress.com/">website</a></li>
-<li><a href="https://twitter.com/kylewestwriter">Twitter</a></li>
-<li><a href="https://www.facebook.com/kyledangerwest/about">Facebook</a></li>
-</ul></li>
-</ul>
-
-<h4>Follow/Subscribe</h4>
-
-<ul>
-<li><a href="https://itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2">iTunes</a></li>
-<li><a href="https://www.twitter.com/winningslowly">Twitter</a></li>
-<li><a href="https://www.facebook.com/winningslowlypodcast">Facebook</a></li>
-<li><a href="https://alpha.app.net/winningslowly">App.net</a></li>
-<li><a href="http://www.winningslowly.org/feed.xml">RSS Feed</a></li>
-</ul>]]></description>
-            <pubDate>Mon, 28 Jul 2014 20:20:57 -0400</pubDate>
-            <enclosure url="http://winningslowly.s3.amazonaws.com/episode-1.03.m4a" length="14263989" type="audio/x-m4a"/>
-            <guid isPermaLink="false">EF9347DD-1B18-47C6-9E09-62CE9A78F31B</guid>
-            <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
-            <itunes:subtitle>MOOCs! Watches! Shoes!, The Cult of Disruption, Technological Imperialism, Recognizing Tech’s Limitations</itunes:subtitle>
-            <itunes:summary><![CDATA[# Show Notes
-
-In which we look (rather critically) at the tech sphere’s tendency to assume everything not only can but should be disrupted. Snarky asides on smartwatches and smartshoes segue into a discussion of the necessity of humility and the importance of recognizing what technology *cannot* do and what it *should* not do.
-
-Note: by “disruption” we are focused not on the particular concept developed by Clay Christensen, but on the popular view of the word. We are aware of the distinction, but decided to set it aside for the purposes of this particular episode.
-
-## Chapters
-
-• Intro (2:09)
-• MOOCs! Watches! Shoes! (2:09–9:06)
-• The Cult of Disruption (9:06–15:32)
-• Technological Imperialism (15:32–21:22)
-• Recognizing Tech’s Limitations (21:22–27:36)
-• Conclusion (27:36–28:36)
-
-# Music
-
-• “Cado Año (Version Two)”, from For Tomorrow Will Worry About Itself (http://fierycrash.bandcamp.com/album/for-tomorrow-will-worry-about-itself-ep), by Fiery Crash. Used by permission.
-• “Winning Slowly Theme” (https://soundcloud.com/chriskrycho/winning-slowly), by Chris Krycho. Used by dint of being written the show.
-
-# Links
-
-• Chris’ friend Kyle West, now self-publishing successfully:
-	◦ website (http://kylewestwriter.wordpress.com/)
-	◦ Twitter (https://twitter.com/kylewestwriter)
-	◦ Facebook (https://www.facebook.com/kyledangerwest/about)
-
-## Follow/Subscribe
-
-• iTunes (https://itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2)
-• Twitter (https://www.twitter.com/winningslowly)
-• Facebook (https://www.facebook.com/winningslowlypodcast)
-• App.net (https://alpha.app.net/winningslowly)
-• RSS Feed (http://www.winningslowly.org/feed.xml)]]></itunes:summary>
-            <itunes:keywords>ethics,economics,technology,disruption</itunes:keywords>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>28:36</itunes:duration>
         </item>
         <item>
             <title>1.04: Superhero Movies!</title>
