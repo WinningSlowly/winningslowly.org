@@ -46,8 +46,9 @@ PODTRAC_MP3 = PODTRAC_REDIRECT + '.mp3'
 DEFAULT_PAGINATION = 10
 
 # URLs
-ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}/'
-ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}/index.html'
+SLUGIFY_SOURCE='basename'
+ARTICLE_URL = '{number}/'
+ARTICLE_SAVE_AS = '{number}/index.html'
 PAGE_URL = '{slug}.html'
 PAGE_SAVE_AS = '{slug}.html'
 
@@ -81,13 +82,13 @@ STATIC_PATHS = ['images',
                 'extra/favicon.png',
                 'extra/feed.xml',
                 'extra/test_feed.xml',
-                'extra/Winning-Slowly_podcast.png',]
+                'extra/Winning-Slowly_podcast.png']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
                        'extra/favicon.ico': {'path': 'favicon.ico'},
                        'extra/favicon.png': {'path': 'favicon.png'},
                        'extra/feed.xml': {'path': CUSTOM_FEED_URL},
                        'extra/test_feed.xml': {'path': 'test_feed.xml'},
-                       'extra/Winning-Slowly_podcast.png': {'path': 'podcast.png'},}
+                       'extra/Winning-Slowly_podcast.png': {'path': 'podcast.png'}}
 
 # Custom 404 page
 # TEMPLATE_PAGES = {'extra/404.html': '404.html'}
