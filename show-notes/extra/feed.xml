@@ -4,14 +4,14 @@
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>A forum for two interdisciplinary thinkers to discuss the long view of current trends in technology, religion, art, ethics, and culture. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 2.5.10(2061); Mac OS X Version 10.10.4 (Build 14E11f) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 2.5.10(2061); Mac OS X Version 10.10.4 (Build 14E17e) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2014–2015 Winning Slowly</copyright>
         <managingEditor>stephen@winningslowly.org (Stephen Carradini)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
         <pubDate>Mon, 11 May 2015 22:19:36 -0400</pubDate>
-        <lastBuildDate>Mon, 11 May 2015 22:19:36 -0400</lastBuildDate>
+        <lastBuildDate>Sat, 16 May 2015 15:28:31 -0400</lastBuildDate>
         <ttl>50</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -78,7 +78,7 @@
 </ul></li>
 </ul>]]></description>
             <pubDate>Tue, 12 May 2015 07:00:17 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.objects.dreamhost.com/2.15.m4a" length="12050539" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/2.15.m4a" length="12050539" type="audio/x-m4a"/>
             <guid isPermaLink="false">9AB76C16-98C2-4DAB-9B94-13F05AA148B6</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Two non-beta seasons down. Metapodcasting is in.</itunes:subtitle>
@@ -172,7 +172,7 @@ Follow/Subscribe
 </ul></li>
 </ul>]]></description>
             <pubDate>Mon, 04 May 2015 21:52:32 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-2.14.m4a" length="15466335" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-2.14.m4a" length="15466335" type="audio/x-m4a"/>
             <guid isPermaLink="false">C13A36F6-B13A-44EB-BBE5-564853B6DF53</guid>
             <itunes:author>Stephen Carradini and Chris Krycho</itunes:author>
             <itunes:subtitle>The short and long view on how our society pays for college</itunes:subtitle>
@@ -266,7 +266,7 @@ Follow/Subscribe
 </ul></li>
 </ul>]]></description>
             <pubDate>Wed, 29 Apr 2015 17:30:02 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-2.13.m4a" length="13640679" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-2.13.m4a" length="13640679" type="audio/x-m4a"/>
             <guid isPermaLink="false">67E51417-FF17-4B78-8037-07F14B70EE2E</guid>
             <itunes:author>Stephen Carradini and Chris Krycho</itunes:author>
             <itunes:subtitle>Thinking deeply about technology and culture with Alan Jacobs</itunes:subtitle>
@@ -362,7 +362,7 @@ Follow/Subscribe
 </ul></li>
 </ul>]]></description>
             <pubDate>Tue, 21 Apr 2015 20:30:51 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-2.12.m4a" length="14224532" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-2.12.m4a" length="14224532" type="audio/x-m4a"/>
             <guid isPermaLink="false">E59ADA18-446D-4A62-BC50-8F6E4C42F60E</guid>
             <itunes:author>Stephen Carradini and Chris Krycho</itunes:author>
             <itunes:subtitle>Dan Price, $70K a year, Human Flourishing, and the Winning Slowly Hall of Fame</itunes:subtitle>
@@ -489,7 +489,7 @@ Follow/Subscribe
 </ul></li>
 </ul>]]></description>
             <pubDate>Tue, 14 Apr 2015 14:00:59 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-2.11.m4a" length="14825599" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-2.11.m4a" length="14825599" type="audio/x-m4a"/>
             <guid isPermaLink="false">73B2BE2F-C9C2-43F9-A62E-BC6C6B97B377</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Tidal, Youtube, Bandcamp, and the Future of Music Distribution</itunes:subtitle>
@@ -575,7 +575,7 @@ Chris and Stephen use the news of communications tool Slack’s recent hacking i
 </ul></li>
 </ul>]]></description>
             <pubDate>Tue, 07 Apr 2015 08:00:40 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-2.10.m4a" length="15401705" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-2.10.m4a" length="15401705" type="audio/x-m4a"/>
             <guid isPermaLink="false">BA68EE9F-786C-46B6-A3DA-7197714E62FA</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>The Professional and Personal Burdens of Near-Ubiquitous Bad Acting</itunes:subtitle>
@@ -700,7 +700,7 @@ Previously on the show
 </ul></li>
 </ul>]]></description>
             <pubDate>Thu, 02 Apr 2015 20:01:17 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-2.09.m4a" length="15629215" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-2.09.m4a" length="15629215" type="audio/x-m4a"/>
             <guid isPermaLink="false">B7FC218F-8E51-4D42-95CE-6707D0753AB8</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Ridesharing, Disruption, Regulation, and Zero-Sum Games</itunes:subtitle>
@@ -817,7 +817,7 @@ Chris and Stephen discuss the ethics of individual health, a complex and idiosyn
 </ul></li>
 </ul>]]></description>
             <pubDate>Tue, 17 Mar 2015 07:00:42 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-2.08.m4a" length="14018598" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-2.08.m4a" length="14018598" type="audio/x-m4a"/>
             <guid isPermaLink="false">855A69E7-0E04-4423-98FD-6A7552DB663F</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:summary><![CDATA[Chris and Stephen discuss the ethics of individual health, a complex and idiosyncratic problem if there ever was one. How do we be responsible stewards of our bodies? How do we think about activities and intakes in moral, ethical, deeply personal ways? We suggest thinking about personal health in community, as well as from a spiritual perspective. 
@@ -916,7 +916,7 @@ Links
 </ul></li>
 </ul>]]></description>
             <pubDate>Tue, 10 Mar 2015 07:00:51 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-2.07.m4a" length="14565348" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-2.07.m4a" length="14565348" type="audio/x-m4a"/>
             <guid isPermaLink="false">296988C7-DC8A-4E3F-9B64-16F97E36AAE8</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Rich Mullins’ lyrics, music, and way of life</itunes:subtitle>
@@ -1026,7 +1026,7 @@ Marvel is seeking out the person responsible for a leak not of a script or of a 
 </ul></li>
 </ul>]]></description>
             <pubDate>Tue, 03 Mar 2015 22:38:23 -0500</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-2.06.m4a" length="15173539" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-2.06.m4a" length="15173539" type="audio/x-m4a"/>
             <guid isPermaLink="false">B393CBE0-31C4-4B80-BF72-5420BB992A5A</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Pragmatism, Cynicism, and Realism in the Digital Age</itunes:subtitle>
@@ -1147,7 +1147,7 @@ Links
 </ul></li>
 </ul>]]></description>
             <pubDate>Tue, 24 Feb 2015 07:00:49 -0500</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-2.05.m4a" length="15182923" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-2.05.m4a" length="15182923" type="audio/x-m4a"/>
             <guid isPermaLink="false">DDA1012B-430C-4EE8-9DDE-4191C8D064B5</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Haters Gonna Hate (Because How *Do* You Define Art?)</itunes:subtitle>
@@ -1266,7 +1266,7 @@ Doctor Who
 </ul></li>
 </ul>]]></description>
             <pubDate>Tue, 17 Feb 2015 20:00:36 -0500</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-2.04.m4a" length="14057354" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-2.04.m4a" length="14057354" type="audio/x-m4a"/>
             <guid isPermaLink="false">A934AE79-6AE8-4C7C-84A4-A3BC3381F55F</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Elon Musk, Tesla, Space X, and Capital-ism</itunes:subtitle>
@@ -1377,7 +1377,7 @@ Links
 </ul></li>
 </ul>]]></description>
             <pubDate>Tue, 10 Feb 2015 07:00:05 -0500</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-2.03.m4a" length="14823818" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-2.03.m4a" length="14823818" type="audio/x-m4a"/>
             <guid isPermaLink="false">0CC743DF-C1CB-46D1-958A-BA8685796FEA</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>The Roman Empire and Friendster Have Things to Say to You</itunes:subtitle>
@@ -1486,7 +1486,7 @@ Links
 </ul></li>
 </ul>]]></description>
             <pubDate>Tue, 03 Feb 2015 07:00:44 -0500</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-2.02.m4a" length="16727507" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-2.02.m4a" length="16727507" type="audio/x-m4a"/>
             <guid isPermaLink="false">E5005A59-6031-4313-9DA6-CE79C7A64347</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Because Sometimes Things on the Internet Explode</itunes:subtitle>
@@ -1581,7 +1581,7 @@ Links
 </ul></li>
 </ul>]]></description>
             <pubDate>Tue, 27 Jan 2015 07:00:47 -0500</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-2.01.m4a" length="14060102" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-2.01.m4a" length="14060102" type="audio/x-m4a"/>
             <guid isPermaLink="false">760E85CB-0215-4FE4-A4D6-9DAAAB594690</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>A News App Without a Business Model</itunes:subtitle>
@@ -1695,7 +1695,7 @@ In which we talk about iPhone cameras, long-term thinking in general—including
 </li>
 </ul>]]></description>
             <pubDate>Tue, 18 Nov 2014 08:45:10 -0500</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-1.18.m4a" length="13059023" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-1.18.m4a" length="13059023" type="audio/x-m4a"/>
             <guid isPermaLink="false">32D20C84-D87C-4D2F-9BA9-228FB6E8E46C</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>People Taking Pictures With iPhones, Whether or Not It Pays Off, What Do You Think?</itunes:subtitle>
@@ -1799,7 +1799,7 @@ Contact
 <li><a href="https://www.facebook.com/winningslowlypodcast">Facebook</a></li>
 </ul>]]></description>
             <pubDate>Tue, 11 Nov 2014 07:00:57 -0500</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-1.17.m4a" length="12424566" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-1.17.m4a" length="12424566" type="audio/x-m4a"/>
             <guid isPermaLink="false">088A2EDD-0150-41DB-9BF4-F51BDEE0F4F9</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>SCIENCE Drives Policy!, Elitist, Protectionist, Obstructionist, Obscurantist?, Pressures and Responsibilities All Around</itunes:subtitle>
@@ -1889,7 +1889,7 @@ Follow/Subscribe
 <li><a href="https://www.facebook.com/winningslowlypodcast">Facebook</a></li>
 </ul>]]></description>
             <pubDate>Tue, 04 Nov 2014 07:00:17 -0500</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-1.16.m4a" length="16194296" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-1.16.m4a" length="16194296" type="audio/x-m4a"/>
             <guid isPermaLink="false">081D8C58-6B4E-47A7-A514-7EDEDCA323BC</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Ups and Downs and Foibles, Individualism and Community, Self-Aggrandizement in the Name of Other Good Things, Cults of Personality</itunes:subtitle>
@@ -1999,7 +1999,7 @@ Follow/Subscribe
 <li><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging">&#8220;Lampshade Hanging&#8221;</a> (warning: if you click that link, it will take you to TVTropes.com&#8230; and you will waste all your time forever.</li>
 </ul>]]></description>
             <pubDate>Fri, 31 Oct 2014 07:00:30 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-1.15.m4a" length="14321723" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-1.15.m4a" length="14321723" type="audio/x-m4a"/>
             <guid isPermaLink="false">5D799EF6-9CA7-4CDB-A68F-EAD3C9B37503</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>White People Making Rap Videos, An Episode of Ishes, Put Things in Slow Motion to Make Them Awesome</itunes:subtitle>
@@ -2132,7 +2132,7 @@ In which we ask: “Who funds the arts? And how does that impact the artist ethi
 <li><a href="https://www.facebook.com/winningslowlypodcast">Facebook</a></li>
 </ul>]]></description>
             <pubDate>Tue, 21 Oct 2014 20:45:05 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-1.14.m4a" length="14992278" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-1.14.m4a" length="14992278" type="audio/x-m4a"/>
             <guid isPermaLink="false">8120ACF6-42F7-4DD6-8DA6-4DC1BB6BB8D0</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>No One Would Be Left, Drop the Big Bombs, To Power Their Evil Machines of Death</itunes:subtitle>
@@ -2293,7 +2293,7 @@ Follow/Subscribe
 <li><a href="https://www.facebook.com/winningslowlypodcast">Facebook</a></li>
 </ul>]]></description>
             <pubDate>Tue, 14 Oct 2014 09:00:54 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-1.13.m4a" length="15031340" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-1.13.m4a" length="15031340" type="audio/x-m4a"/>
             <guid isPermaLink="false">950A2E90-AF72-4368-8F67-508E039F7404</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Definitely Still a Beta, That's Not a Gift, How People React to News, A Working Business Model</itunes:subtitle>
@@ -2414,7 +2414,7 @@ Follow/Subscribe
 <li><a href="http://www.reformed.org/documents/WSC.html">The Westminster Shorter Catechism</a></li>
 </ul>]]></description>
             <pubDate>Tue, 07 Oct 2014 07:00:02 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-1.12.m4a" length="13008895" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-1.12.m4a" length="13008895" type="audio/x-m4a"/>
             <guid isPermaLink="false">C7088310-950B-4DF7-BA0A-0918467AB764</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Techo-Utopianism, 8,000 Years of Human History, Do You Know Your Neighbors?</itunes:subtitle>
@@ -2525,7 +2525,7 @@ The things we talk about in the show that might interest you. Click them! Click 
 <li><a href="https://alpha.app.net/winningslowly">App.net</a></li>
 </ul>]]></description>
             <pubDate>Tue, 23 Sep 2014 07:10:09 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-1.11.m4a" length="13517638" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-1.11.m4a" length="13517638" type="audio/x-m4a"/>
             <guid isPermaLink="false">A4922B54-7399-4922-BD0F-137304AD625A</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>I Am Awesome At This, Actually It Was a Robot in a Dream, Lone Rebel Genius, Hip Motion is for Losers</itunes:subtitle>
@@ -2636,7 +2636,7 @@ In which we talk about something Apple did this week… but not the thing they a
 <li><a href="https://alpha.app.net/winningslowly">App.net</a></li>
 </ul>]]></description>
             <pubDate>Tue, 16 Sep 2014 07:00:44 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-1.10.m4a" length="13913323" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-1.10.m4a" length="13913323" type="audio/x-m4a"/>
             <guid isPermaLink="false">B65786C7-26D2-484E-95AE-E394BABC70BA</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>It’s Probably Pastel White, You’re Probably in My Hundred Friends, What the Corporate Overlord Giveth, How You Relate to an Object</itunes:subtitle>
@@ -2732,7 +2732,7 @@ In which we talk about the recent celebrity nude selfies leak from just about ev
 <li><a href="https://alpha.app.net/winningslowly">App.net</a></li>
 </ul>]]></description>
             <pubDate>Tue, 09 Sep 2014 07:00:39 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-1.09.m4a" length="14346324" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-1.09.m4a" length="14346324" type="audio/x-m4a"/>
             <guid isPermaLink="false">97A73184-8DF2-419D-94DC-4821738DAAC4</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>The Internet is Not “Safe”, Degrading Women, People Do Wicked Things, No Better Answers</itunes:subtitle>
@@ -2905,7 +2905,7 @@ In which we talk about the drive to publish all the time and the value of publis
 <li><a href="https://alpha.app.net/winningslowly">App.net</a></li>
 </ul>]]></description>
             <pubDate>Tue, 02 Sep 2014 07:00:53 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-1.08.m4a" length="12200360" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-1.08.m4a" length="12200360" type="audio/x-m4a"/>
             <guid isPermaLink="false">FF96E408-8C40-421D-A5B1-47D75E85D3CB</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Peak Stream, Winning Slowly Quickly, Winning Slowly Slowly</itunes:subtitle>
@@ -3012,7 +3012,7 @@ Follow/Subscribe
 </ul></li>
 </ul>]]></description>
             <pubDate>Tue, 26 Aug 2014 07:00:39 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-1.07.m4a" length="14840843" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-1.07.m4a" length="14840843" type="audio/x-m4a"/>
             <guid isPermaLink="false">240A08B9-239D-4714-BC0C-7EE1970A62A3</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Haters Gonna Hate, Turning Itself Into Facebook, Artists and Corporations Are Not the Same, Social Media of Record</itunes:subtitle>
@@ -3113,7 +3113,7 @@ In which we discuss the necessity of extending charity to each other in our conv
 <li><a href="https://alpha.app.net/winningslowly">App.net</a></li>
 </ul>]]></description>
             <pubDate>Tue, 19 Aug 2014 07:00:49 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-1.06.m4a" length="15715166" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-1.06.m4a" length="15715166" type="audio/x-m4a"/>
             <guid isPermaLink="false">FF5554A8-F513-48FF-8492-C1EDD2BD4BFF</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Act Like Grownups, Rules 0 and 1, But We Still Disagree, Calling People on the Carpet</itunes:subtitle>
@@ -3200,7 +3200,7 @@ Follow/Subscribe
 <li><a href="https://alpha.app.net/winningslowly">App.net</a></li>
 </ul>]]></description>
             <pubDate>Tue, 12 Aug 2014 11:15:08 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-1.05.m4a" length="15313105" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-1.05.m4a" length="15313105" type="audio/x-m4a"/>
             <guid isPermaLink="false">FABFDBDF-BEF7-46D6-B064-AAA3BF0D366E</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>This Is An Orchestra, Those Lyrics, You Have to Go Through Death</itunes:subtitle>
@@ -3277,7 +3277,7 @@ Follow/Subscribe
 <li><a href="http://www.winningslowly.org/feed.xml">RSS Feed</a></li>
 </ul>]]></description>
             <pubDate>Tue, 05 Aug 2014 07:00:34 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-1.04.m4a" length="15252906" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-1.04.m4a" length="15252906" type="audio/x-m4a"/>
             <guid isPermaLink="false">5767C9D7-FE6A-417D-8E77-F3B1EC8712E5</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Reboots, Copying the Other Guy, Not Learning From Failure, The Gold Standard</itunes:subtitle>
@@ -3373,7 +3373,7 @@ Also, we unabashedly make mistakes ourselves, own them, and laugh at them. One o
 <li><a href="http://www.winningslowly.org/feed.xml">RSS Feed</a></li>
 </ul>]]></description>
             <pubDate>Mon, 28 Jul 2014 20:20:57 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-1.03.m4a" length="14263989" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-1.03.m4a" length="14263989" type="audio/x-m4a"/>
             <guid isPermaLink="false">EF9347DD-1B18-47C6-9E09-62CE9A78F31B</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>MOOCs! Watches! Shoes!, The Cult of Disruption, Technological Imperialism, Recognizing Tech’s Limitations</itunes:subtitle>
@@ -3445,7 +3445,7 @@ In which we talk about one of the <em>longest</em> views: family. In particular,
 <li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a>, by Chris Krycho. Used by dint of being written the show. Not too bad for a digitally voiced piano.</li>
 </ul>]]></description>
             <pubDate>Tue, 22 Jul 2014 08:00:45 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-1.02.m4a" length="16617732" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-1.02.m4a" length="16617732" type="audio/x-m4a"/>
             <guid isPermaLink="false">D5224072-0DA5-4072-B080-2B83B3B8190C</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>You Can't Have It All; Singleness Not a Disaster; and Family, Work, Innovation, and the Long View</itunes:subtitle>
@@ -3501,7 +3501,7 @@ In which we talk about one of the *longest* views: family. In particular, we loo
 <li><a href="http://www.talyarkoni.org/blog/2014/06/28/in-defense-of-facebook/">In Defense of Facebook</a>, by Tal Yarkoni (and see the comments for a helpful back-and-forth)</li>
 </ul>]]></description>
             <pubDate>Tue, 15 Jul 2014 07:00:51 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-1.01.m4a" length="14903455" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-1.01.m4a" length="14903455" type="audio/x-m4a"/>
             <guid isPermaLink="false">B6059083-A381-4633-93E3-29F8B9DD3CE9</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Facebook’s Social (Network) Science, User Responsibility, and Corporate Ethics</itunes:subtitle>
@@ -3573,7 +3573,7 @@ We talk about Facebook’s much-discussed study of user responses to variations 
 <li><a href="http://www.amazon.com/Change-World-Tragedy-Possibility-Christianity-ebook/dp/B003TWNDVY/"><em>To Change the World</em></a>, James Davison Hunter</li>
 </ul>]]></description>
             <pubDate>Tue, 20 May 2014 07:00:55 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-0.14.m4a" length="12124845" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-0.14.m4a" length="12124845" type="audio/x-m4a"/>
             <guid isPermaLink="false">C867135B-5C67-449B-B2D5-B6DF41AC52B4</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Tech Companies Which Just Can't Pivot, Denominations Don't Change Fast Either, Dealing in Institutional Realities</itunes:subtitle>
@@ -3643,7 +3643,7 @@ Things we mentioned in the show—news, books, articles, etc.
 <li><a href="http://blog.app.net/2014/05/06/app-net-state-of-the-union/">App.Net State of the Union</a> &#8211; in which Dalton Caldwell (founder of App.net) announced publicly the layoffs and future of the service.</li>
 </ul>]]></description>
             <pubDate>Tue, 13 May 2014 07:00:43 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-0.13.m4a" length="12341825" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-0.13.m4a" length="12341825" type="audio/x-m4a"/>
             <guid isPermaLink="false">11144328-39FD-4664-8353-D244EA65C874</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>What Happened to App.net, Paying to Socialize, Free or Not Free</itunes:subtitle>
@@ -3705,7 +3705,7 @@ In which we talk about App.net closing down, how even good business models do no
 <li><a href="http://www.pajiba.com/think_pieces/how-saloncom-rewrote-my-headline-and-turned-me-into-an-internet-troll.php">&#8220;How Salon.com Rewrote My Headline and Turned Me Into an Internet Troll&#8221;</a></li>
 </ul>]]></description>
             <pubDate>Tue, 06 May 2014 07:00:48 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-0.12.m4a" length="11065304" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-0.12.m4a" length="11065304" type="audio/x-m4a"/>
             <guid isPermaLink="false">042D323E-F9B7-4C25-92A3-BF674808D2AC</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Headline-Writing, Whether Ends Justify Means, Means Shape Ends, Truthy, or Truly?</itunes:subtitle>
@@ -3772,7 +3772,7 @@ Note: Chris kept talking about Slate when he meant *not* Slate (and specifically
 <li><a href="http://us.ccli.com/licenses-and-services/church-copyright-license/">CCLI</a> &#8211; church copyright licenses, designed to allow churches to use music in their services without paying exorbitant fees</li>
 </ul>]]></description>
             <pubDate>Tue, 29 Apr 2014 07:00:17 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-0.11.m4a" length="14012608" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-0.11.m4a" length="14012608" type="audio/x-m4a"/>
             <guid isPermaLink="false">3E58C11B-1010-4E13-B3D1-C6285C9BDC44</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>The Reason for Copyright, Valuing Products in Different Ways, “Pay Me For This Thing”</itunes:subtitle>
@@ -3839,7 +3839,7 @@ Things we talked about in the show you might want to read some more about. We gi
 <li><a href="http://stratechery.com">Ben Thompson/Stratechery</a></li>
 </ul>]]></description>
             <pubDate>Tue, 22 Apr 2014 07:00:45 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-0.10.m4a" length="14505353" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-0.10.m4a" length="14505353" type="audio/x-m4a"/>
             <guid isPermaLink="false">050A39DF-DA0C-4552-A28C-DEEE35F42709</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Prosumerization, I'm-Trying-To-Be-A-Professional Buttons, and the Digital Economy</itunes:subtitle>
@@ -3894,7 +3894,7 @@ Things we mentioned in the show you might care about:
 <li><a href="https://soundcloud.com/chriskrycho/winning-slowly">&#8220;Winning Slowly Theme&#8221;</a>, by Chris Krycho. Used by dint of being written for the show.</li>
 </ul>]]></description>
             <pubDate>Tue, 15 Apr 2014 07:00:41 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-0.09.m4a" length="8586118" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-0.09.m4a" length="8586118" type="audio/x-m4a"/>
             <guid isPermaLink="false">140333D0-11A2-41FF-AD2A-52835C785B50</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Not Publishing 0.08, Learning Humility, and Differences in Media</itunes:subtitle>
@@ -3948,7 +3948,7 @@ In which we take seventeen minutes (on the dot!) to have a really great time exp
 <li>One of many articles talking about the dysfunction that led to the technological failure: <a href="http://www.theatlantic.com/politics/archive/2013/12/healthcaregov-and-obamas-micromanagement-problem/281943/">Healthcare.gov and Obama&#8217;s Micromanagement Problem</a></li>
 </ul>]]></description>
             <pubDate>Tue, 01 Apr 2014 07:00:29 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-0.07.m4a" length="8792290" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-0.07.m4a" length="8792290" type="audio/x-m4a"/>
             <guid isPermaLink="false">80B433E5-25B2-4076-89E2-1806C303BF14</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>The Affordable Care Act (“Obamacare”) and Implementation Driving Policy</itunes:subtitle>
@@ -4022,7 +4022,7 @@ In which we talk about the Affordable Care Act and how implementation—both at 
 <li><a href="http://www.christianbook.com/Christian/Books/product?event=AFF&amp;amp;p=1179430&amp;amp;item_no=345066"><em>The Tolkien Reader</em></a>, J.R.R. Tolkien (including “On Fairy-Stories”)</li>
 </ul>]]></description>
             <pubDate>Tue, 25 Mar 2014 08:00:04 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-0.06.m4a" length="16098867" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-0.06.m4a" length="16098867" type="audio/x-m4a"/>
             <guid isPermaLink="false">495DD174-5163-4E0F-AC6F-4CE7F3F85CCF</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>God’s Not Dead, Son of God, Noah, and Getting Heaven Thrown In</itunes:subtitle>
@@ -4086,7 +4086,7 @@ Aside: Stephen made a tent to record in his hotel room in Indianapolis. Some scr
 <li>Freakonomics: <a href="http://freakonomics.com/2013/12/19/pontiff-icating-on-the-free-market-system-a-new-freakonomics-radio-podcast/">Pontiff-icating on the Free-Market System</a></li>
 </ul>]]></description>
             <pubDate>Tue, 18 Mar 2014 21:08:20 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-0.05.m4a" length="11494399" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-0.05.m4a" length="11494399" type="audio/x-m4a"/>
             <guid isPermaLink="false">05EFC06A-86D5-4C84-A63D-12F8AD9273E4</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Kickstarting All The Things and Ungreedy Capitalism</itunes:subtitle>
@@ -4143,7 +4143,7 @@ In which we try out a 15-minute show format (and manage to run to 22 minutes, of
 <li><a href="http://stet.editorially.com/articles/goodbye/">Goodbye to Editorially</a></li>
 </ul>]]></description>
             <pubDate>Tue, 11 Mar 2014 08:00:49 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-0.04.m4a" length="21211200" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-0.04.m4a" length="21211200" type="audio/x-m4a"/>
             <guid isPermaLink="false">5B4D63A6-AD71-455C-A5FF-942D92FA8ABD</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Beating Up Writers, Musical Careering, and Losing Editorially</itunes:subtitle>
@@ -4197,7 +4197,7 @@ In which we talk about what happens when people yell at each other about what th
 <li><a href="http://inessential.com/2014/01/21/network_solutions_auto-enroll_1_850">Brent Simmons on Network Solutions</a></li>
 </ul>]]></description>
             <pubDate>Tue, 25 Feb 2014 08:00:29 -0500</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-0.03.m4a" length="21240688" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-0.03.m4a" length="21240688" type="audio/x-m4a"/>
             <guid isPermaLink="false">410FEDCE-6431-4669-976E-5191D398AA84</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>How greedy pricing schemes an and will run you right out of business, how the Ken Ham-Bill Nye debate raises questions about Christians in the public square, and how incredibly weird it is that we can (and do) lose parts of the internet.</itunes:subtitle>
@@ -4426,7 +4426,7 @@ Music
 </li>
 </ul>]]></description>
             <pubDate>Tue, 11 Feb 2014 08:00:43 -0500</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-0.02.m4a" length="22585308" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-0.02.m4a" length="22585308" type="audio/x-m4a"/>
             <guid isPermaLink="false">FA4FB1B9-9398-40BD-A0D3-B8F6425BA24F</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Internet Radio, Pastor-Authors, and Trade Agreements</itunes:subtitle>
@@ -4480,7 +4480,7 @@ radio, books published by Christian pastors, or massive trade laws.
 <li><a href="http://nonagon.us">Nonagon</a></li>
 </ul>]]></description>
             <pubDate>Tue, 28 Jan 2014 08:00:29 -0500</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/winningslowly.s3.amazonaws.com/episode-0.01.m4a" length="20945316" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/episode-0.01.m4a" length="20945316" type="audio/x-m4a"/>
             <guid isPermaLink="false">AAB2B627-D3F1-4E9F-94A3-06165E126E3E</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Religious twittering, Google nesting, and hobbyists careering.</itunes:subtitle>

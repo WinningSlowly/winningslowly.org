@@ -39,9 +39,12 @@ IDENTITY = {'Site': {'RSS': FEED_DOMAIN + '/' + CUSTOM_FEED_URL,
             'Stephen': {'Twitter': 'https://twitter.com/scarradini',
                         'Homepage': 'http://stephencarradini.com',},}
 
+CDN = 'cdn.winningslowly.org'
+M4A = '.m4a'
+MP3 = '.mp3'
 PODTRAC_REDIRECT = 'http://www.podtrac.com/pts/redirect'
-PODTRAC_M4A = PODTRAC_REDIRECT + '.m4a'
-PODTRAC_MP3 = PODTRAC_REDIRECT + '.mp3'
+PODTRAC_M4A = PODTRAC_REDIRECT + M4A
+PODTRAC_MP3 = PODTRAC_REDIRECT + MP3
 
 DEFAULT_PAGINATION = 10
 
