@@ -19,7 +19,7 @@ might just set the snarling hordes of the internet on you.
 
 The legalese below just outlines this policy in lawyer-friendly terms.
 
-[cam]: http://www.krop.com/spidercam/
+[cam]: //www.krop.com/spidercam/
 
 ### Legalese
 

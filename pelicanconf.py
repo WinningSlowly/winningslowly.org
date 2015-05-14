@@ -70,9 +70,6 @@ TAGS_SAVE_AS = False
 OUTPUT_SOURCES = True
 OUTPUT_SOURCES_EXTENSION = ".txt"
 
-# Markdown settings
-MD_EXTENSIONS = ['extra', 'markdown.extensions.smarty']
-
 DEFAULT_DATE_FORMAT = "%B %d, %Y"
 
 # Uncomment following line if you want document-relative URLs when developing
@@ -93,6 +90,8 @@ EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
                        'extra/test_feed.xml': {'path': 'test_feed.xml'},
                        'extra/Winning-Slowly_podcast.png': {'path':
                                                             'podcast.png'}}
+ARTICLE_EXLUDES = ['2014', '2015']
+PAGE_EXCLUDES = ['2014', '2015']
 
 # Custom 404 page
 # TEMPLATE_PAGES = {'extra/404.html': '404.html'}
@@ -100,3 +99,9 @@ EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
 # Static configuration
 THEME_STATIC_DIR = 'assets'
 CSS_FILE = 'min.css'
+
+READERS = {'html': None}
+
+PLUGIN_PATHS = ['../pelican-plugins']
+PLUGINS = ['pandoc_reader']
+PANDOC_ARGS = ['--smart']
