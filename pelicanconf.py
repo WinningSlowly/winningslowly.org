@@ -31,13 +31,13 @@ IDENTITY = {'Site': {'RSS': FEED_DOMAIN + '/' + CUSTOM_FEED_URL,
                      'Facebook': 'https://www.facebook.com/winningslowlypodcast',
                      'App.net': 'https://app.net/winningslowly',
                      'App.net Broadcast': 'https://broadcast.app.net/40022/winning-slowly-episodes/',
-                     'Twitter': 'https://twitter.com/winningslowly',},
+                     'Twitter': 'https://twitter.com/winningslowly'},
             'Chris': {'App.net': 'https://app.net/chriskrycho',
                       'GitHub': 'https://github.com/chriskrycho',
                       'Twitter': 'https://twitter.com/chriskrycho',
-                      'Homepage': 'http://chriskrycho.com',},
+                      'Homepage': 'http://chriskrycho.com'},
             'Stephen': {'Twitter': 'https://twitter.com/scarradini',
-                        'Homepage': 'http://stephencarradini.com',},}
+                        'Homepage': 'http://stephencarradini.com'}}
 
 CDN = 'cdn.winningslowly.org'
 M4A = '.m4a'
@@ -49,7 +49,7 @@ PODTRAC_MP3 = PODTRAC_REDIRECT + MP3
 DEFAULT_PAGINATION = 10
 
 # URLs
-SLUGIFY_SOURCE='basename'
+SLUGIFY_SOURCE = 'basename'
 ARTICLE_URL = '{number}/'
 ARTICLE_SAVE_AS = '{number}/index.html'
 PAGE_URL = '{slug}.html'
@@ -91,7 +91,8 @@ EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
                        'extra/favicon.png': {'path': 'favicon.png'},
                        'extra/feed.xml': {'path': CUSTOM_FEED_URL},
                        'extra/test_feed.xml': {'path': 'test_feed.xml'},
-                       'extra/Winning-Slowly_podcast.png': {'path': 'podcast.png'}}
+                       'extra/Winning-Slowly_podcast.png': {'path':
+                                                            'podcast.png'}}
 
 # Custom 404 page
 # TEMPLATE_PAGES = {'extra/404.html': '404.html'}
