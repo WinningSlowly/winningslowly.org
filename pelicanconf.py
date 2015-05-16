@@ -31,23 +31,27 @@ IDENTITY = {'Site': {'RSS': FEED_DOMAIN + '/' + CUSTOM_FEED_URL,
                      'Facebook': 'https://www.facebook.com/winningslowlypodcast',
                      'App.net': 'https://app.net/winningslowly',
                      'App.net Broadcast': 'https://broadcast.app.net/40022/winning-slowly-episodes/',
-                     'Twitter': 'https://twitter.com/winningslowly',},
+                     'Twitter': 'https://twitter.com/winningslowly'},
             'Chris': {'App.net': 'https://app.net/chriskrycho',
                       'GitHub': 'https://github.com/chriskrycho',
                       'Twitter': 'https://twitter.com/chriskrycho',
-                      'Homepage': 'http://chriskrycho.com',},
+                      'Homepage': 'http://chriskrycho.com'},
             'Stephen': {'Twitter': 'https://twitter.com/scarradini',
-                        'Homepage': 'http://stephencarradini.com',},}
+                        'Homepage': 'http://stephencarradini.com'}}
 
+CDN = 'cdn.winningslowly.org'
+M4A = '.m4a'
+MP3 = '.mp3'
 PODTRAC_REDIRECT = 'http://www.podtrac.com/pts/redirect'
-PODTRAC_M4A = PODTRAC_REDIRECT + '.m4a'
-PODTRAC_MP3 = PODTRAC_REDIRECT + '.mp3'
+PODTRAC_M4A = PODTRAC_REDIRECT + M4A
+PODTRAC_MP3 = PODTRAC_REDIRECT + MP3
 
 DEFAULT_PAGINATION = 10
 
 # URLs
-ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}/'
-ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}/index.html'
+SLUGIFY_SOURCE = 'basename'
+ARTICLE_URL = '{number}/'
+ARTICLE_SAVE_AS = '{number}/index.html'
 PAGE_URL = '{slug}.html'
 PAGE_SAVE_AS = '{slug}.html'
 
@@ -66,28 +70,23 @@ TAGS_SAVE_AS = False
 OUTPUT_SOURCES = True
 OUTPUT_SOURCES_EXTENSION = ".txt"
 
-# Markdown settings
-MD_EXTENSIONS = ['extra', 'markdown.extensions.smarty']
-
 DEFAULT_DATE_FORMAT = "%B %d, %Y"
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
 # Path configuration
-STATIC_PATHS = ['images',
-                'extra/CNAME',
-                'extra/favicon.ico',
-                'extra/favicon.png',
-                'extra/feed.xml',
-                'extra/test_feed.xml',
-                'extra/Winning-Slowly_podcast.png',]
+STATIC_PATHS = ['images', '2014', '2015', 'extra']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
                        'extra/favicon.ico': {'path': 'favicon.ico'},
                        'extra/favicon.png': {'path': 'favicon.png'},
                        'extra/feed.xml': {'path': CUSTOM_FEED_URL},
                        'extra/test_feed.xml': {'path': 'test_feed.xml'},
-                       'extra/Winning-Slowly_podcast.png': {'path': 'podcast.png'},}
+                       'extra/Winning-Slowly_podcast.png': {'path':
+                                                            'podcast.png'},
+                       'extra/humans.txt': {'path': 'humans.txt'}}
+ARTICLE_EXLUDES = ['2014', '2015']
+PAGE_EXCLUDES = ['2014', '2015']
 
 # Custom 404 page
 # TEMPLATE_PAGES = {'extra/404.html': '404.html'}
@@ -95,3 +94,9 @@ EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
 # Static configuration
 THEME_STATIC_DIR = 'assets'
 CSS_FILE = 'min.css'
+
+READERS = {'html': None}
+
+PLUGIN_PATHS = ['../pelican-plugins']
+PLUGINS = ['pandoc_reader']
+PANDOC_ARGS = ['--smart']

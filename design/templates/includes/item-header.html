@@ -4,10 +4,12 @@
 
 {% if article is defined %}
    {% set item = article %}
+   {% set m4a = PODTRAC_M4A + "/" + CDN + "/" + item.number + MP3 %}
+   {% set mp3 = PODTRAC_MP3 + "/" + CDN + "/" + item.number + MP3 %}
+
 {% elif page is defined %}
    {% set item = page %}
 {% endif %}
-
 
 {% if item is defined %}
 <header>
@@ -33,12 +35,11 @@
       </li>
       {% endif %}
 
-      {% if item.m4a is defined or item.mp3 is defined %}
+      {% if article is defined %}
       <li id="download">
          Download:
-            {% if item.m4a %}<a href="{{ PODTRAC_M4A }}/{{ item.m4a }}" download="{{ item.m4a }}">M4A</a> (for iTunes){% endif %}
-            {% if item.m4a and item.mp3 %} or {% endif %}
-            {% if item.mp3 %}<a href="{{ PODTRAC_MP3 }}/{{ item.mp3 }}" download="{{ item.mp3 }}">MP3</a>{% endif %}
+            <a href="{{ m4a }}" download="{{ m4a }}">M4A</a> (for iTunes)
+            <a href="{{ mp3 }}" download="{{ mp3 }}">MP3</a>
       </li>
       {% endif %}
    </ul>
