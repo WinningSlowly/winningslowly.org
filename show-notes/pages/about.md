@@ -2,7 +2,7 @@
 title: About
 slug: about
 description: >
-    Winning Slowly: Taking the long view of tech, religion, art, ethics, 
+    Winning Slowly: Taking the long view of tech, religion, art, ethics,
     and culture.
 ...
 
@@ -25,7 +25,7 @@ Winning Slowly episodes (usually) come out every Tuesday at 7 am Eastern time.
 If unforeseen scheduling issues arise, we will add a note below accordingly.
 Episodes are normally 25--30 minutes long.
 
-We are currently on a hiatus between Seasons 2 and 3. We expect to start up 
+We are currently on a hiatus between Seasons 2 and 3. We expect to start up
 again in early July, 2015. In the meantime, please enjoy the archives!
 
 ### Season 2
@@ -79,7 +79,7 @@ and [classical composer].
 **Stephen Carradini** is a [digital media scholar], [writer][ic], [editor],
 and [songwriter].
 
-[digital media scholar]: //crdm.chass.ncsu.edu/students 
+[digital media scholar]: //crdm.chass.ncsu.edu/students
     "Communication, Rhetoric, and Digital Media program, North Carolina State University"
 [ic]: //independentclauses.com "Independent Clauses music blog"
 [editor]: //stephencarradini.com "StephenCarradini.com"
@@ -89,8 +89,8 @@ They both reside in North Carolina.
 
 ## Where
 
-You can follow Winning Slowly in all sorts of places around the web. To start 
-with, you can subscribe to our [<i class="fa fa-fw fa-rss"></i>feed][feed] 
+You can follow Winning Slowly in all sorts of places around the web. To start
+with, you can subscribe to our [<i class="fa fa-fw fa-rss"></i>feed][feed]
 directly or via [<i class="fa fa-fw fa-play-circle"></i>iTunes][iTunes]. You can
 also find us on [<i class="fa fa-fw fa-adn"></i>App.net][adn] or
 [<i class="fa fa-twitter"></i>Twitter][twitter].
