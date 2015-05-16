@@ -77,6 +77,7 @@ RELATIVE_URLS = True
 
 # Path configuration
 STATIC_PATHS = ['images',
+                '2014', '2015',
                 'extra/CNAME',
                 'extra/favicon.ico',
                 'extra/favicon.png',
