@@ -100,3 +100,4 @@ READERS = {'html': None}
 PLUGIN_PATHS = ['../pelican-plugins']
 PLUGINS = ['pandoc_reader']
 PANDOC_ARGS = ['--smart']
+PANDOC_EXTENSIONS = ['-citations']
