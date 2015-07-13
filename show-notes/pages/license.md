@@ -1,7 +1,10 @@
+---
 Title: Licenses
+Summary: >
+    Content under a Creative Commons Attribution 4.0 International. Software
+    under the MIT license. Remix away.
 Slug: licenses
-Summary: Content under a Creative Commons Attribution 4.0 International. Software under the MIT license. Remix away.
-
+---
 
 ## Our Content
 

@@ -1,10 +1,10 @@
 ---
 title: About
 slug: about
-description: >
+summary: >
     Winning Slowly: Taking the long view of tech, religion, art, ethics,
     and culture.
-...
+---
 
 ## What
 
