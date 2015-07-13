@@ -16,7 +16,7 @@
    <div class="title">
       <h1>
       {% if item.number is defined %}
-         <span id="episode-num">Episode {{ item.number }}</span><span id="episode-title">{{ item.title }}</span>
+         <span id="episode-num">Episode {{ item.category }}.{{ item.number }}</span><span id="episode-title">{{ item.title }}</span>
       {% else %}
          {{ item.title }}
       {% endif %}

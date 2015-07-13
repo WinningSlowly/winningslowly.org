@@ -46,30 +46,29 @@ PODTRAC_REDIRECT = 'http://www.podtrac.com/pts/redirect'
 PODTRAC_M4A = PODTRAC_REDIRECT + M4A
 PODTRAC_MP3 = PODTRAC_REDIRECT + MP3
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = False
 
 # URLs
 SLUGIFY_SOURCE = 'basename'
-ARTICLE_URL = '{number}/'
-ARTICLE_SAVE_AS = '{number}/index.html'
+ARTICLE_URL = '{category}/{number}.html'
+ARTICLE_SAVE_AS = '{category}/{number}.html'
 PAGE_URL = '{slug}.html'
 PAGE_SAVE_AS = '{slug}.html'
+CATEGORY_URL = '{slug}/'
+CATEGORY_SAVE_AS = '{slug}/index.html'
 
 # Category settings
 USE_FOLDER_AS_CATEGORY = True  # note: this is the default
-DEFAULT_CATEGORY = 'episodes'
-DIRECT_TEMPLATES = ('index', 'tags', 'archives')
+DEFAULT_CATEGORY = 'bonus'
+DIRECT_TEMPLATES = ['index']
 
 # Disable unused elements
-AUTHOR_SAVE_AS = False
-AUTHORS_SAVE_AS = False
-CATEGORY_SAVE_AS = False
-TAGS_SAVE_AS = False
+AUTHOR_SAVE_AS = ''
+AUTHORS_SAVE_AS = ''
+TAGS_SAVE_AS = ''
 
 # Output
-OUTPUT_SOURCES = True
-OUTPUT_SOURCES_EXTENSION = ".txt"
-
+OUTPUT_SOURCES = False
 DEFAULT_DATE_FORMAT = "%B %d, %Y"
 
 # Uncomment following line if you want document-relative URLs when developing
@@ -85,7 +84,7 @@ EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
                        'extra/Winning-Slowly_podcast.png': {'path':
                                                             'podcast.png'},
                        'extra/humans.txt': {'path': 'humans.txt'}}
-ARTICLE_EXLUDES = ['2014', '2015']
+ARTICLE_EXCLUDES = ['2014', '2015']
 PAGE_EXCLUDES = ['2014', '2015']
 
 # Custom 404 page

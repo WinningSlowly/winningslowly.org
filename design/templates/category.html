@@ -1,1 +1,18 @@
-{# currently unused #}
+{% extends "archives.html" %}
+{% block heading %}
+<h2 class="season">Season {{ category }}</h2>
+{% endblock %}
+
+{% block section_nav %}
+<nav class='category nav'>
+    {% set curr = category.name|int %}
+    {% for cat, things in categories %}
+        {% set int_cat = cat.name|int %}
+        {% if int_cat == (curr + 1) %}
+        <a href="/{{ cat.url }}" class="next">Season {{ cat }}</a>
+        {% elif int_cat == (curr - 1) %}
+        <a href="/{{ cat.url }}" class="prev">Season {{ cat }}</a>
+        {% endif %}
+    {% endfor %}
+</nav>
+{% endblock %}

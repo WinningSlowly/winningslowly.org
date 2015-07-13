@@ -210,6 +210,16 @@ header#banner {
             margin-top: -10px;
         }
     }
+
+    h2 {
+        text-align: center;
+        color: $light_purple;
+        padding-left: 84px;
+        margin-top: -1rem;
+        font-weight: 400;
+        font-size: 1.2rem;
+        padding-bottom: 2rem;
+    }
 }
 
 /* Podcast items */
@@ -381,11 +391,20 @@ article {
             width: 100%;
             color: #444;
 
+            // Border and padding operate together with the animation so that
+            // the size of the contained element remains constant: as the border
+            // grows on hover, the padding shrinks. This prevents reflow of the
+            // contents of the link.
             border: {
                 top: none;
                 left: 1px solid transparent;
                 bottom: none;
                 right: 1px solid transparent;
+            }
+
+            padding: {
+                left: 8px;
+                right: 8px;
             }
 
             &:hover, &:active {
@@ -396,6 +415,11 @@ article {
                     bottom: none;
                     right: 8px solid $light_purple;
                 }
+
+                padding: {
+                    left: 1px;
+                    right: 1px;
+                }
             }
         }
 
@@ -405,7 +429,6 @@ article {
             color: $text;
             line-height: $lh_small;
 
-            @include flex-item();
             font: {
                 size: $fsp;
                 weight: 300;
@@ -425,6 +448,7 @@ article {
         }
 
         .meta {
+            @include flex(1 55%);
             font-family: $sans;
             padding: {
                 top: 1px;
@@ -437,6 +461,7 @@ article {
         }
 
         .title {
+            @include flex(1 40%;)
             font: {
                 family: $slab;
                 weight: 500;
