@@ -4,28 +4,37 @@
     <article>
         <p>There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape <em>tomorrow</em>, but there aren’t that many concerned with the potential impact of that tech a decade from now. In a culture obsessed with <em>now</em>, how can we make choices with a view for tomorrow, next year, and beyond?</p>
         <p>Episodes (usually) come out every Tuesday at 7 am Eastern time. If unforeseen scheduling issues arise, we will add a note below accordingly. Episodes are normally 25–30 minutes long.</p>
-        <p>You can subscribe to our <a class="social-inline-link" href="/feed.xml"><i class="fa fa-fw fa-rss"></i>feed</a> directly or via <a class="social-inline-link" href="{{ IDENTITY['Site']['iTunes'] }}"><i class="fa fa-fw fa-play-circle"></i>iTunes</a>. You can also find us on <a class="social-inline-link" href="{{ IDENTITY['Site']['Twitter'] }}"><i class="fa fa-twitter"></i>Twitter</a>, <a class="social-inline-link" href="{{ IDENTITY['Site']['Facebook'] }}"><i class="fa fa-facebook"></i>Facebook</a>, or <a class="social-inline-link" href="{{ IDENTITY['Site']['App.net'] }}"><i class="fa fa-fw fa-adn"></i>App.net</a>.</p>
-        <p>You can support the show via a monthly pledge at <a href="{{ IDENTITY['Site']['Patreon'] }}">Patreon</a> or by giving directly with <a href="{{ IDENTITY['Site']['Square'] }}">Square Cash</a>. 10% of all support for the show goes to the Internet Archive.</p>
-        <h3>Current (<a href="/season-3.html">Season 3</a>)</h3>
+        <h3>Current (<a href="/season-{{ CURRENT_SEASON }}.html">Season {{ CURRENT_SEASON }}</a>)</h3>
     </article>
-{% for article in articles %}
-{% if article.category == CURRENT_SEASON %}
-<article>
-   <header>
-      <a href="{{ SITEURL}}/{{ article.url }}">
-         <div class="title">
-            <span id="episode-num">Episode {{article.category}}.{{ article.number }}</span>
-            <span id="episode-title">{{ article.title }}</span>
-         </div>
-         <div class="meta">
-            <span id="episode-date">{{ article.locale_date }}</span>
-            <span id="episode-subtitle">{{ article.subtitle }}</span>
-         </div>
-      </a>
-   </header>
-</article>
-{% endif %}
-{% endfor %}
+
+    {% for category, category_articles in categories %}
+        {% if category == CURRENT_SEASON %}
+            {% for article in category_articles %}
+                {% if article.category == CURRENT_SEASON and loop.index <= 5 %}
+                <article>
+                   <header>
+                      <a href="{{ SITEURL}}/{{ article.url }}">
+                         <div class="title">
+                            <span id="episode-num">Episode {{article.category}}.{{ article.number }}</span>
+                            <span id="episode-title">{{ article.title }}</span>
+                         </div>
+                         <div class="meta">
+                            <span id="episode-date">{{ article.locale_date }}</span>
+                            <span id="episode-subtitle">{{ article.subtitle }}</span>
+                         </div>
+                      </a>
+                   </header>
+                </article>
+                {% endif %}
+            {% endfor %}
+
+            {% if category_articles|length > 5 %}
+            <article>
+                <h4 id="season-{{ CURRENT_SEASON }}"><a href="/season-{{ CURRENT_SEASON }}.html">(see all)</a></h4>
+            </article>
+            {% endif %}
+        {% endif %}
+    {% endfor %}
 
     <article>
         <h3>Previous</h3>
@@ -52,5 +61,13 @@
             <p><strong>Stephen Carradini</strong> is a <a href="//crdm.chass.ncsu.edu/students" title="Communication, Rhetoric, and Digital Media program, North Carolina State University">digital media scholar</a>, <a href="//independentclauses.com" title="Independent Clauses music blog">writer</a>, <a href="//stephencarradini.com" title="StephenCarradini.com">editor</a>, and <a href="//themidnightsons.bandcamp.com" title="The Midnight Sons">songwriter</a>.</p>
             <p>They both reside in North Carolina.</p>
         </section>
+    </article>
+
+    <article>
+        <h3>Support Us!</h3>
+        <section>
+            <p>You can subscribe to our <a class="social-inline-link" href="/feed.xml"><i class="fa fa-fw fa-rss"></i>feed</a> directly or via <a class="social-inline-link" href="{{ IDENTITY['Site']['iTunes'] }}"><i class="fa fa-fw fa-play-circle"></i>iTunes</a>. You can also find us on <a class="social-inline-link" href="{{ IDENTITY['Site']['Twitter'] }}"><i class="fa fa-twitter"></i>Twitter</a>, <a class="social-inline-link" href="{{ IDENTITY['Site']['Facebook'] }}"><i class="fa fa-facebook"></i>Facebook</a>, or <a class="social-inline-link" href="{{ IDENTITY['Site']['App.net'] }}"><i class="fa fa-fw fa-adn"></i>App.net</a>.</p>
+            <p>You can support the show via a monthly pledge at <a href="{{ IDENTITY['Site']['Patreon'] }}">Patreon</a> or by giving directly with <a href="{{ IDENTITY['Site']['Square'] }}">Square Cash</a>. 10% of all support for the show goes to the Internet Archive.</p>
+        <section>
     </article>
 {% endblock %}

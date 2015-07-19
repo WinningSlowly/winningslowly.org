@@ -2,6 +2,15 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+from copy import copy
+
+# Setup path to enable local helpers.
+import sys
+from pathlib import Path
+sys.path.append(str(Path(__file__).parent))
+
+
+# Site configuration
 AUTHOR = 'Chris Krycho and Stephen Carradini'
 SITENAME = 'Winning Slowly'
 SITE_DESCRIPTION = 'Culture, technology, religion, ethics, and art—from the long view.'
@@ -16,7 +25,7 @@ DEFAULT_LANG = 'en'
 THEME = "design"
 
 # Show configuration
-CURRENT_SEASON = '3'
+CURRENT_SEASON = '2'
 
 # Feed generation is usually not desired when developing
 FEED_DOMAIN = SITEURL
@@ -62,7 +71,7 @@ CATEGORY_URL = 'season-{slug}.html'
 CATEGORY_SAVE_AS = 'season-{slug}.html'
 
 # Category settings
-USE_FOLDER_AS_CATEGORY = True  # note: this is the default
+USE_FOLDER_AS_CATEGORY = False  # note: this is the default
 DEFAULT_CATEGORY = 'bonus'
 DIRECT_TEMPLATES = ['index']
 
@@ -79,8 +88,11 @@ DEFAULT_DATE_FORMAT = "%B %d, %Y"
 RELATIVE_URLS = True
 
 # Path configuration
-STATIC_PATHS = ['images', '2014', '2015', 'extra']
-EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
+here = Path(__file__).parent
+root = 'root'
+root_path = here / 'show-notes' / 'root'
+STATIC_PATHS = ['images', '2014', '2015', 'extra', root]
+basic_path_metadata = {'extra/CNAME': {'path': 'CNAME'},
                        'extra/favicon.ico': {'path': 'favicon.ico'},
                        'extra/favicon.png': {'path': 'favicon.png'},
                        'extra/feed.xml': {'path': CUSTOM_FEED_URL},
@@ -88,11 +100,17 @@ EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
                        'extra/Winning-Slowly_podcast.png': {'path':
                                                             'podcast.png'},
                        'extra/humans.txt': {'path': 'humans.txt'}}
-ARTICLE_EXCLUDES = ['2014', '2015']
-PAGE_EXCLUDES = ['2014', '2015']
 
-# Custom 404 page
-# TEMPLATE_PAGES = {'extra/404.html': '404.html'}
+import helpers
+show_notes = here / 'show-notes'
+items = show_notes.glob('season-*/*.md')
+root_metadata = helpers.root_redirects(items, root_path)
+
+EXTRA_PATH_METADATA = basic_path_metadata.copy()
+EXTRA_PATH_METADATA.update(root_metadata)
+
+ARTICLE_EXCLUDES = ['2014', '2015', 'root']
+PAGE_EXCLUDES = ['2014', '2015', 'root']
 
 # Static configuration
 THEME_STATIC_DIR = 'assets'
