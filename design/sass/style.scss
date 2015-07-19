@@ -159,6 +159,8 @@ figure {
     margin: auto;
 }
 
+br.optional { display: none; }
+
 /* Header */
 header#banner {
     padding-top: $fsh3;
@@ -214,7 +216,6 @@ header#banner {
     h2 {
         text-align: center;
         color: $light_purple;
-        padding-left: 84px;
         margin-top: -1rem;
         font-weight: 400;
         font-size: 1.2rem;
@@ -242,6 +243,7 @@ article {
     }
 
     h3 {
+        text-align: center;
         margin: {
             bottom: 1rem;
             left: auto;
@@ -331,10 +333,6 @@ article {
         }
     }
 
-    h3 {
-        text-align: center;
-    }
-
     #download {
         text-align: center;
     }
@@ -363,117 +361,173 @@ article {
             right: auto;
         }
     }
+
+    a.social-inline-link {
+        display: inline-block;
+
+        i {
+            display: inline-block;
+            padding-right: 2px;
+        }
+    }
 }
 
-.archive article {
-    min-height: 4em;
-    padding-bottom: 2em;
+.index article {
+    h4 {
+        text-align: center;
+    }
+}
 
-    @mixin flex-container() {
-        @include flexbox();
-        @include justify-content(space-between);
-        @include align-content(flex-start);
-        @include flex-flow(row wrap);
+.archive {
+    .season {
+        text-align: center;
+        padding-bottom: $fsp;
     }
 
-    @mixin flex-item() {
-        @include flex(1 18rem);
-    }
+    article {
+        min-height: 4em;
+        padding-bottom: 2em;
 
-    header {
-        @include flex-container();
+        @mixin flex-container() {
+            @include flexbox();
+            @include justify-content(space-between);
+            @include align-content(flex-start);
+            @include flex-flow(row wrap);
+        }
 
-        text-align: left;
+        @mixin flex-item() {
+            @include flex(1 18rem);
+        }
 
-        a, a:visited {
+        header {
             @include flex-container();
 
-            width: 100%;
-            color: #444;
+            text-align: left;
 
-            // Border and padding operate together with the animation so that
-            // the size of the contained element remains constant: as the border
-            // grows on hover, the padding shrinks. This prevents reflow of the
-            // contents of the link.
-            border: {
-                top: none;
-                left: 1px solid transparent;
-                bottom: none;
-                right: 1px solid transparent;
-            }
+            a, a:visited {
+                @include flex-container();
 
-            padding: {
-                left: 8px;
-                right: 8px;
-            }
+                width: 100%;
+                color: #444;
 
-            &:hover, &:active {
-                color: $light_purple;
+                // Border and padding operate together with the animation so that
+                // the size of the contained element remains constant: as the border
+                // grows on hover, the padding shrinks. This prevents reflow of the
+                // contents of the link.
                 border: {
                     top: none;
-                    left: 8px solid $light_purple;
+                    left: 1px solid transparent;
                     bottom: none;
-                    right: 8px solid $light_purple;
+                    right: 1px solid transparent;
                 }
 
                 padding: {
-                    left: 1px;
-                    right: 1px;
+                    left: 8px;
+                    right: 8px;
+                }
+
+                &:hover, &:active {
+                    color: $light_purple;
+                    border: {
+                        top: none;
+                        left: 8px solid $light_purple;
+                        bottom: none;
+                        right: 8px solid $light_purple;
+                    }
+
+                    padding: {
+                        left: 1px;
+                        right: 1px;
+                    }
                 }
             }
-        }
 
-        .title, .meta {
-            margin: 0;
-            padding-top: 0;
-            color: $text;
-            line-height: $lh_small;
+            .title, .meta {
+                margin: 0;
+                padding-top: 0;
+                color: $text;
+                line-height: $lh_small;
 
-            font: {
-                size: $fsp;
-                weight: 300;
+                font: {
+                    size: $fsp;
+                    weight: 300;
+                }
+
+                span {
+                    display: block;
+                    margin: {
+                        top: 0;
+                        bottom: 0;
+                    }
+                    padding: {
+                        top: 0;
+                        bottom: 0;
+                    }
+                }
             }
 
-            span {
-                display: block;
-                margin: {
-                    top: 0;
-                    bottom: 0;
-                }
+            .meta {
+                @include flex(1 55%);
+                font-family: $sans;
                 padding: {
-                    top: 0;
-                    bottom: 0;
+                    top: 1px;
+                    left: 0.243rem;
+                }
+
+                #episode-date {
+                    font-style: italic;
                 }
             }
+
+            .title {
+                @include flex(1 40%);
+                font: {
+                    family: $slab;
+                    weight: 500;
+                }
+                text-align: right;
+                padding-right: 0.243rem;
+
+                #episode-title {
+                    text-transform: uppercase;
+                }
+            }
+
+        }
+    }
+}
+
+.category.nav {
+    font-size: $fsh5;
+    clear: both;
+    background: $light_purple;
+
+    @include flexbox();
+    @include justify-content(space-between);
+    @include align-content(flex-start);
+    @include flex-flow(row wrap);
+
+    .season-link {
+        @include flex(1);
+        border: none;
+        color: $background;
+        text-align: center;
+        padding: {
+            top: $fs_small / 2;
+            bottom: $fs_small / 2;
         }
 
-        .meta {
-            @include flex(1 55%);
-            font-family: $sans;
-            padding: {
-                top: 1px;
-                left: 0.243rem;
-            }
+        &:hover, &:active { background: $pale_purple; }
+    }
 
-            #episode-date {
-                font-style: italic;
-            }
-        }
+    .prev {
+        text-align: left;
+        padding-left: 12%;
+    }
 
-        .title {
-            @include flex(1 40%;)
-            font: {
-                family: $slab;
-                weight: 500;
-            }
-            text-align: right;
-            padding-right: 0.243rem;
-
-            #episode-title {
-                text-transform: uppercase;
-            }
-        }
-
+    .next {
+        text-align: right;
+        padding-right: 12%;
     }
 }
 
@@ -482,6 +536,8 @@ footer {
     @include justify-content(space-around);
     @include align-content(flex-start);
     @include flex-flow(row wrap);
+
+    clear: both;
 
     background: $text;
     color: $background;

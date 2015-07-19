@@ -15,6 +15,9 @@ DEFAULT_LANG = 'en'
 
 THEME = "design"
 
+# Show configuration
+CURRENT_SEASON = '3'
+
 # Feed generation is usually not desired when developing
 FEED_DOMAIN = SITEURL
 FEED_ALL_ATOM = None
@@ -29,8 +32,9 @@ CUSTOM_FEED_URL = 'feed.xml'
 IDENTITY = {'Site': {'RSS': FEED_DOMAIN + '/' + CUSTOM_FEED_URL,
                      'iTunes': 'https://itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2',
                      'Facebook': 'https://www.facebook.com/winningslowlypodcast',
+                     'Patreon': 'https://www.patreon.com/winningslowly',
+                     'Square': 'https://cash.me/$winningslowly',
                      'App.net': 'https://app.net/winningslowly',
-                     'App.net Broadcast': 'https://broadcast.app.net/40022/winning-slowly-episodes/',
                      'Twitter': 'https://twitter.com/winningslowly'},
             'Chris': {'App.net': 'https://app.net/chriskrycho',
                       'GitHub': 'https://github.com/chriskrycho',
@@ -50,12 +54,12 @@ DEFAULT_PAGINATION = False
 
 # URLs
 SLUGIFY_SOURCE = 'basename'
-ARTICLE_URL = '{category}/{number}.html'
-ARTICLE_SAVE_AS = '{category}/{number}.html'
+ARTICLE_URL = '{category}.{number}/'
+ARTICLE_SAVE_AS = '{category}.{number}/index.html'
 PAGE_URL = '{slug}.html'
 PAGE_SAVE_AS = '{slug}.html'
-CATEGORY_URL = '{slug}/'
-CATEGORY_SAVE_AS = '{slug}/index.html'
+CATEGORY_URL = 'season-{slug}.html'
+CATEGORY_SAVE_AS = 'season-{slug}.html'
 
 # Category settings
 USE_FOLDER_AS_CATEGORY = True  # note: this is the default

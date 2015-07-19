@@ -6,12 +6,12 @@
 {% block section_nav %}
 <nav class='category nav'>
     {% set curr = category.name|int %}
-    {% for cat, things in categories %}
+    {% for cat, _ in categories %}
         {% set int_cat = cat.name|int %}
         {% if int_cat == (curr + 1) %}
-        <a href="/{{ cat.url }}" class="next">Season {{ cat }}</a>
+        <a class="season-link next" href="/{{ cat.url }}">Season {{ cat }}<i class="fa fa-fw fa-long-arrow-right"></i></a>
         {% elif int_cat == (curr - 1) %}
-        <a href="/{{ cat.url }}" class="prev">Season {{ cat }}</a>
+        <a class="season-link prev" href="/{{ cat.url }}"><i class="fa fa-fw fa-long-arrow-left"></i>Season {{ cat }}</a>
         {% endif %}
     {% endfor %}
 </nav>

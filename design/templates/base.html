@@ -51,12 +51,19 @@
                <span id="slowly">Slowly</span>
             </a>
          </h1>
+         <h2>Taking the long view on <br class="optional"/>technology, religion, ethics, and art.</h2>
       </header>
 
       {% block content %}{% endblock %}
    </div>
 
-   {% block section_nav %}{% endblock section_nav %}
+   {% block section_nav %}
+   <nav class='category nav'>
+       {% for cat, _ in categories %}
+           <a class="season-link" href="/{{ cat.url }}">Season {{ cat }}</a>
+       {% endfor %}
+   </nav>
+   {% endblock %}
 
    <footer>
       {% include "includes/footer.html" %}

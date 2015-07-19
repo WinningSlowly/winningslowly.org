@@ -2,6 +2,9 @@
 @import 'variables';
 
 @media only screen and (max-width: 800px) {
+   br.optional { display: inherit; }
+
+   .category.nav { font-size: $fsh6; }
 
    header#banner {
       padding-bottom: 0;
@@ -106,6 +109,8 @@
    .flex-item {
       @include flex(1 100%);
    }
+
+   .category.nav { font-size: $fsp; }
 
    header#banner {
       font-size: $fsh1;
