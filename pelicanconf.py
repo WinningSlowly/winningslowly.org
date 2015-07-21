@@ -25,7 +25,7 @@ DEFAULT_LANG = 'en'
 THEME = "design"
 
 # Show configuration
-CURRENT_SEASON = '2'
+CURRENT_SEASON = '3'
 
 # Feed generation is usually not desired when developing
 FEED_DOMAIN = SITEURL

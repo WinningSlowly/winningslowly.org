@@ -4,14 +4,14 @@
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>A forum for two interdisciplinary thinkers to discuss the long view of current trends in technology, religion, art, ethics, and culture. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 2.5.10(2061); Mac OS X Version 10.10.4 (Build 14E17e) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.0(2442); Mac OS X Version 10.11 (Build 15A215h) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2014–2015 Winning Slowly</copyright>
         <managingEditor>stephen@winningslowly.org (Stephen Carradini)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
         <pubDate>Sat, 23 May 2015 17:21:00 -0400</pubDate>
-        <lastBuildDate>Sat, 23 May 2015 17:21:00 -0400</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2015 21:06:47 -0400</lastBuildDate>
         <ttl>30</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -32,11 +32,61 @@
             <itunes:email>chris@winningslowly.org</itunes:email>
         </itunes:owner>
         <itunes:block>no</itunes:block>
-        <itunes:category text="Technology"/>
-        <itunes:category text="Arts"/>
+        <itunes:category text="Technology">
+            <itunes:category text="Tech News"/>
+        </itunes:category>
+        <itunes:category text="Arts">
+            <itunes:category text="Performing Arts"/>
+        </itunes:category>
         <itunes:category text="Religion &amp; Spirituality">
             <itunes:category text="Christianity"/>
         </itunes:category>
+        <item>
+            <title>3.01: The Ad-Driven Web, Part I</title>
+            <link>http://www.winningslowly.org/3.01/</link>
+            <description><![CDATA[<p>In which Stephen and Chris are back at it, with a discussion of the role advertising plays in the modern web—the good, the bad, the ugly, and the wonderfully hilarious. What makes advertising good or bad? How do companies get “native ads” right—and wrong?</p>
+<h4 id="links">Links</h4>
+<ul>
+<li><a href="http://blog.dennys.com">Denny’s Tumblr</a>
+<ul>
+<li><a href="http://blog.dennys.com/post/122474107213/when-youre-about-to-pull-off-that-huge-pork-heist">That Huge Pork Heist</a></li>
+</ul></li>
+<li><a href="http://daringfireball.net">John Gruber/Daring Fireball</a></li>
+<li><a href="https://stratechery.com">Ben Thompson/Stratechery</a>
+<ul>
+<li><a href="https://stratechery.com/2015/why-web-pages-suck/">Why Web Pages Suck</a>, on the same topic as today’s show… but posted two days after we recorded it.</li>
+</ul></li>
+<li><a href="http://dish.andrewsullivan.com">Andrew Sullivan/The Dish</a></li>
+</ul>
+<h4 id="before-you-go">Before You Go</h4>
+<ul>
+<li><a href="http://www.ft.com/cms/s/0/2a6a3ea4-2e41-11e5-8873-775ba7c2ea3d.html">Europe’s demands on Greece</a></li>
+<li><a href="http://bib.ly/mt18.21-35">The Parable of the Unforgiving Servant</a></li>
+</ul>
+<h3 id="music">Music</h3>
+<ul>
+<li><a href="https://soundcloud.com/thegorgeouschans/marina-and-i">“Marina and I”</a>, by The Gorgeous Chans. Used by permission.</li>
+<li><a href="//soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho. Used by… uh… yeah, we kind of have permission to do whatever we want. Of course, it’s Creative Commons Attribution licensed, meaning <em>so do you</em>. How neat is that?</li>
+</ul>
+<h3 id="sponsors">Sponsors</h3>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Jeremy W. Sherman</li>
+<li>Jeremy Cherfas</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href="https://www.patreon.com/winningslowly">Patreon</a> or give directly via <a href="https://cash.me/$winningslowly">Square Cash</a>.</p>
+]]></description>
+            <pubDate>Tue, 21 Jul 2015 07:00:54 -0400</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/3.01.m4a" length="15651946" type="audio/x-m4a"/>
+            <guid isPermaLink="false">3AD4D920-0B59-484B-AF0D-02356B6DFD80</guid>
+            <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
+            <itunes:summary><![CDATA[Denny’s, Newspapers, Native Advertising, and Vicious Cycles]]></itunes:summary>
+            <itunes:keywords>technology,economics</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>31:57</itunes:duration>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="http://www.winningslowly.org/podcast.png"/>
+        </item>
         <item>
             <title>2.15: Metapodcasting</title>
             <link>http://www.winningslowly.org/2015/05/metapodcasting/</link>
