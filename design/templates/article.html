@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% block title %}{{ article.title}} &#9702; {{ SITENAME }} {% endblock %}
+{% block title %}{{ article.category}}.{{article.number}}: {{ article.title}} &#9702; {{ SITENAME }} {% endblock %}
 {% block description %}{{ article.description|striptags }}{% endblock %}
 {% block content %}
    <article>
@@ -7,7 +7,7 @@
 
       <audio title="{{ article.title }}" controls="controls" preload="metadata">
          <source src="{{ PODTRAC_M4A }}/{{ CDN }}/{{ article.category }}.{{ article.number }}{{ M4A }}" />
-         <source src="{{ PODTRAC_MP3 }}/{{ CDN }}/{{ article.category }}.{{ article.number }}{{ M4A }}" />
+         <source src="{{ PODTRAC_MP3 }}/{{ CDN }}/{{ article.category }}.{{ article.number }}{{ MP3 }}" />
       </audio>
 
       <section id="notes">

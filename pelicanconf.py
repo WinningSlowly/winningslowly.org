@@ -114,11 +114,17 @@ PAGE_EXCLUDES = ['2014', '2015', 'root']
 
 # Static configuration
 THEME_STATIC_DIR = 'assets'
-CSS_FILE = 'min.css'
+CSS_FILE = 'style.min.css'
 
 READERS = {'html': None}
 
-PLUGIN_PATHS = ['../pelican-plugins']
+PLUGIN_PATHS = ['../../pelican-plugins']
 PLUGINS = ['pandoc_reader']
 PANDOC_ARGS = ['--smart']
 PANDOC_EXTENSIONS = ['-citations']
+
+# Caching
+CACHE_CONTENT = True
+LOAD_CONTENT_CACHE = True
+CHECK_MODIFIED_METHOD = 'md5'
+CONTENT_CACHING_LAYER = 'reader'
