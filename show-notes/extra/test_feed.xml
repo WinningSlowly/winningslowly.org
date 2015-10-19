@@ -10,8 +10,8 @@
         <copyright>2014–2015 Winning Slowly</copyright>
         <managingEditor>contact@winningslowly.org (Chris Krycho and Stephen Carradini)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Sun, 16 Aug 2015 17:19:45 -0400</pubDate>
-        <lastBuildDate>Mon, 14 Sep 2015 21:06:03 -0400</lastBuildDate>
+        <pubDate>Mon, 19 Oct 2015 18:54:40 -0400</pubDate>
+        <lastBuildDate>Mon, 19 Oct 2015 18:54:40 -0400</lastBuildDate>
         <ttl>50</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -41,6 +41,361 @@
         <itunes:category text="Religion &amp; Spirituality">
             <itunes:category text="Christianity"/>
         </itunes:category>
+        <item>
+            <title>3.13: Inevitable? (Live at NC State)</title>
+            <link>http://www.winningslowly.org/3.13/</link>
+            <description><![CDATA[<p>Talking about self-driving cars and the tensions between public safety and personal responsibility, and between technological possibility and cultural norms.</p>
+<h4 id="corrigenda">Corrigenda</h4>
+<ul>
+<li>Stephen meant “Black Beauty” rather than “Black Betsy”.</li>
+<li>Mat Honan’s piece we referred to was on BuzzFeed, not Wired.</li>
+</ul>
+<h3 id="links">Links</h3>
+<ul>
+<li><a href="http://www.buzzfeed.com/mathonan/googles-cute-cars-and-the-ugly-end-of-driving#.wtWx2wG2a">Google’s Cute Cars And The Ugly End Of Driving: The main thing you should know about autonomous vehicles is that they are utterly inevitable.</a></li>
+<li><a href="http://arstechnica.com/security/2015/07/fiat-chrysler-recalls-1-4-million-cars-over-remote-hack-vulnerability/">Chrysler hack</a></li>
+</ul>
+<h4 id="before-you-go">Before You Go</h4>
+<p>JetBrains gets subscription pricing right!</p>
+<ol type="1">
+<li>Original post: <a href="http://blog.jetbrains.com/blog/2015/09/03/introducing-jetbrains-toolbox/">“Introducing JetBrains Toolbox, easier access to your coding tools, more control and flexibility, and a lower entry price”</a></li>
+<li>Follow-up: <a href="http://blog.jetbrains.com/blog/2015/09/04/we-are-listening/">“We are listening”</a></li>
+<li>Announcement of updated model: <a href="http://blog.jetbrains.com/blog/2015/09/18/final-update-on-the-jetbrains-toolbox-announcement/">“Final update on the JetBrains Toolbox announcement”</a></li>
+</ol>
+<h3 id="music">Music</h3>
+<ul>
+<li><a href="https://soundcloud.com/samburchfieldmusic/spring">“Spring”</a> by <a href="http://www.samburchfield.com">Sam Birchfield</a>. Used by permission.</li>
+<li><a href="//soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho, who still wants to find a Steinway and a good piano microphone to get a non-synthesized version of the theme.</li>
+</ul>
+<h3 id="sponsors">Sponsors</h3>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Jeremy W. Sherman</li>
+<li>Jeremy Cherfas</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href="//www.patreon.com/winningslowly">Patreon</a> or give directly via <a href="//cash.me/$winningslowly">Square Cash</a>.</p>
+<h3 id="respond">Respond</h3>
+<p>We love to hear your thoughts. Hit us up on <a href="//www.twitter.com/winningslowly">Twitter</a>, <a href="//www.twitter.com/winningslowly">App.net</a>, <a href="//www.facebook.com/winningslowlypodcast">Facebook</a>, or via <a href="mailto:hello@winningslowly.org?subject=3.13:%20Inevitable">email</a>!</p>]]></description>
+            <pubDate>Mon, 19 Oct 2015 07:26:36 -0400</pubDate>
+            <enclosure url="http://cdn.winningslowly.org/3.13.mp3" length="13241191" type="audio/mpeg"/>
+            <guid isPermaLink="false">8366A0C4-EBC5-4874-A4CD-AD868232C6E4</guid>
+            <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
+            <itunes:subtitle>Self-driving cars, the limits of technology, and the tension between the personal and the communal.</itunes:subtitle>
+            <itunes:summary><![CDATA[Self-driving cars, the limits of technology, and the tension between the personal and the communal.
+
+Talking about self-driving cars and the tensions between public safety
+and personal responsibility, and between technological possibility and
+cultural norms.
+
+Corrigenda
+
+-   Stephen meant “Black Beauty” rather than “Black Betsy”.
+-   Mat Honan’s piece we referred to was on BuzzFeed, not Wired.
+
+Links
+
+-   Google’s Cute Cars And The Ugly End Of Driving: The main thing you
+    should know about autonomous vehicles is that they are
+    utterly inevitable.
+-   Chrysler hack
+
+Before You Go
+
+JetBrains gets subscription pricing right!
+
+1.  Original post: “Introducing JetBrains Toolbox, easier access to your
+    coding tools, more control and flexibility, and a lower entry price”
+2.  Follow-up: “We are listening”
+3.  Announcement of updated model: “Final update on the JetBrains
+    Toolbox announcement”
+
+Music
+
+-   “Spring” by Sam Birchfield. Used by permission.
+-   “Winning Slowly Theme” by Chris Krycho, who still wants to find a
+    Steinway and a good piano microphone to get a non-synthesized
+    version of the theme.
+
+Sponsors
+
+Many thanks to the people who help us make this show possible by their
+financial support! This month’s sponsors:
+
+-   Jeremy W. Sherman
+-   Jeremy Cherfas
+
+If you’d like to support the show, you can make a pledge at Patreon or
+give directly via Square Cash.
+
+Respond
+
+We love to hear your thoughts. Hit us up on Twitter, App.net, Facebook,
+or via email!]]></itunes:summary>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>26:27</itunes:duration>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="http://www.winningslowly.org/podcast.png"/>
+        </item>
+        <item>
+            <title>3.12: Hungarian Folk Music</title>
+            <link>http://www.winningslowly.org/3.12/</link>
+            <description><![CDATA[<p>If you listen to Hungarian folk music, or classical music, or recordings of live shows, or obscure bands, then the (otherwise pretty decent) GraceNotes CD database and the many apps that rely on it might not really work for you. We talk about why that might be and how we might think about fixing it.</p>
+<h3 id="links">Links</h3>
+<ul>
+<li><a href="https://books.google.com/books?id=wQcEAAAAMBAJ&amp;pg=PA86&amp;lpg=PA86&amp;dq=major+labels+in+the+development+of+cds&amp;source=bl&amp;ots=easBin7_x4&amp;sig=GSMUjXsAyCi7uvuUbltcRz9lQ28&amp;hl=en&amp;sa=X&amp;ved=0CDIQ6AEwA2oVChMIh8yh6JO2yAIVA6yACh0W8w7f#v=onepage&amp;q=major%20labels%20in%20the%20development%20of%20cds&amp;f=false">“The Enhanced Experience So Far: It’s the Indies Who Support the Fledgling [Enhanced CD] Format”</a></li>
+<li><a href="http://faculty.tuck.dartmouth.edu/images/uploads/faculty/ron-adner/1EIS_Main_Project_Compact_Disc_Paper.pdf">“The Invention of Compact Discs”</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Hungarian_folk_music">Hungarian Folk Music</a></li>
+<li><a href="https://itunes.apple.com/us/album/1989/id1040714386">Ryan Adams, <em>1989</em></a></li>
+<li><a href="https://dartmusic.com">Dart Music</a></li>
+<li><a href="http://creativecommons.org">Creative Commons</a></li>
+<li><a href="http://www.lessig.org">Lawrence Lessig</a>
+<ul>
+<li><a href="http://remix.lessig.org"><em>Remix</em></a></li>
+<li><a href="https://lessig2016.us">campaign</a></li>
+</ul></li>
+<li><a href="http://www.maxrichtermusic.com/en/index.php">Max Richter</a></li>
+<li><a href="http://www.ingridmichaelson.com">Ingrid Michaelson</a></li>
+<li>Murray Gold
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Murray_Gold">Wikipedia</a></li>
+<li><a href="http://www.imdb.com/name/nm0325050/">IMDB</a></li>
+<li><a href="https://itunes.apple.com/us/artist/murray-gold/id205582333">iTunes Catalog</a></li>
+</ul></li>
+<li><a href="https://www.amandapetrusich.com">Amanda Petrusich</a>’s <a href="http://books.simonandschuster.com/Do-Not-Sell-At-Any-Price/Amanda-Petrusich/9781451667066"><em>Do Not Sell At Any Price</em></a></li>
+</ul>
+<h4 id="before-you-go">Before You Go</h4>
+<p><a href="http://www.theatlantic.com/notes/">The Atlantic Notes</a>—still absolutely killing it. Good work, guys.</p>
+<ul>
+<li><a href="http://www.theatlantic.com/notes/all/2015/10/growing-up-adopted/410116/">Adoption stories series</a></li>
+<li><a href="http://www.theatlantic.com/notes/all/2015/10/on-rape-and-empowerment/410101/">Incredibly thoughtful discussion on rape and empowering women</a></li>
+</ul>
+<h3 id="music">Music</h3>
+<ul>
+<li>“Psychrocker” by <a href="https://www.facebook.com/honeymilkband">Honeymilk</a> featuring <a href="https://soundcloud.com/de-montevert">De Montevert</a>. Used by permission.</li>
+<li><a href="//soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho, who is getting that composing itch again…</li>
+</ul>
+<h3 id="sponsors">Sponsors</h3>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Jeremy W. Sherman</li>
+<li>Jeremy Cherfas</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href="//www.patreon.com/winningslowly">Patreon</a> or give directly via <a href="//cash.me/$winningslowly">Square Cash</a>.</p>
+<h3 id="respond">Respond</h3>
+<p>We love to hear your thoughts. Hit us up on <a href="//www.twitter.com/winningslowly">Twitter</a>, <a href="//www.twitter.com/winningslowly">App.net</a>, <a href="//www.facebook.com/winningslowlypodcast">Facebook</a>, or via <a href="mailto:hello@winningslowly.org?subject=3.12:%20Hungarian%20Folk%20Music">email</a>!</p>]]></description>
+            <pubDate>Wed, 14 Oct 2015 19:48:06 -0400</pubDate>
+            <enclosure url="http://cdn.winningslowly.org/3.12.m4a" length="13897459" type="audio/x-m4a"/>
+            <guid isPermaLink="false">19CFFEB7-9481-4D99-B7AE-D42F77D3FAAB</guid>
+            <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
+            <itunes:subtitle>Musical subcultures and listeners and artists not well-served by the iTunes, Spotify, GraceNotes world we live in.</itunes:subtitle>
+            <itunes:summary><![CDATA[Musical subcultures and listeners and artists not well-served by the iTunes, Spotify, GraceNotes world we live in.
+
+If you listen to Hungarian folk music, or classical music, or recordings of live shows, or obscure bands, then the (otherwise pretty decent) GraceNotes CD database and the many apps that rely on it might not really work for you. We talk about why that might be and how we might think about fixing it.
+
+Before You Go
+
+The Atlantic Notes—still absolutely killing it. Good work, guys.
+
+Music
+
+* “Psychrocker” by Honeymilk featuring De Montevert. Used by permission.
+
+* “Winning Slowly Theme” by Chris Krycho, who is getting that composing itch again…
+Sponsors
+Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:
+
+* Jeremy W. Sherman
+
+* Jeremy Cherfas
+
+If you’d like to support the show, you can make a pledge at Patreon or give directly via Square Cash.
+
+Respond
+We love to hear your thoughts. Hit us up on Twitter, App.net, Facebook, or via email!]]></itunes:summary>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>30:01</itunes:duration>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="http://www.winningslowly.org/podcast.png"/>
+        </item>
+        <item>
+            <title>3.11: Augustine's Podcast</title>
+            <link>http://www.winningslowly.org/3.11/</link>
+            <description><![CDATA[<p>We talk about how we present ourselves on social media: what happens as we present different aspects of ourselves over time? How do we manage those changes? How does the flattening out effect of social media and searchability intersect (or conflict) with the way we think about our social circles in “real” (that is, embodied, non-virtual) life?</p>
+<h3 id="links">Links</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Yahoo!_GeoCities">Geocities</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Tripod.com">Tripod</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Friendster">Friendster</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Xanga">Xanga</a></li>
+<li><a href="https://muse.jhu.edu/books/9780813211602">Augustine’s <em>Retractions</em></a></li>
+<li><a href="http://www.godowntownraleigh.com/first-friday-raleigh">First Friday in Raleigh</a></li>
+<li><a href="http://www.theguardian.com/technology/2015/jul/01/facebook-mark-zuckerberg-telepathy-tech">“Facebook boss Mark Zuckerberg thinks telepathy tech is on its way”</a> – The Guardian</li>
+<li><a href="https://en.wikipedia.org/wiki/Google_Buzz">Google Buzz</a></li>
+<li><a href="https://www.google.com/+/learnmore/circles/">Google Plus Circles</a></li>
+<li><a href="http://www.juliecohen.com/page5.php"><em>Configuring the Networked Self</em>, Julie Coen</a></li>
+</ul>
+<h4 id="before-you-go">Before You Go</h4>
+<ul>
+<li><a href="http://www.dallasnews.com/news/community-news/northwest-dallas-county/headlines/20150915-irving-ninth-grader-arrested-after-taking-homemade-clock-to-school.ece">“Ahmed Mohamed swept up, ‘hoax bomb’ charges swept away as Irving teen’s story floods social media”</a> – The Dallas Morning News</li>
+<li><a href="https://www.whitehouse.gov/blog/2015/09/16/we-stand-ahmed-and-we-hope-hell-join-us-astronomy-night">“We Stand with Ahmed (and We Hope He’ll Join Us for Astronomy Night)”</a> – WhiteHouse.gov</li>
+<li><a href="https://twitter.com/hashtag/standwithahmed">#standwithahmed</a></li>
+</ul>
+<h3 id="music">Music</h3>
+<ul>
+<li><a href="https://itunes.apple.com/us/album/modern-language/id1008360171">“Modern Language”</a> by <a href="http://www.postcardsfromjeff.com">Postcards from Jeff</a>. Used by permission.</li>
+<li><a href="//soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho.</li>
+</ul>
+<h3 id="sponsors">Sponsors</h3>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Jeremy W. Sherman</li>
+<li>Jeremy Cherfas</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href="//www.patreon.com/winningslowly">Patreon</a> or give directly via <a href="//cash.me/$winningslowly">Square Cash</a>.</p>
+<h3 id="respond">Respond</h3>
+<p>We love to hear your thoughts. Hit us up on <a href="//www.twitter.com/winningslowly">Twitter</a>, <a href="//www.twitter.com/winningslowly">App.net</a>, <a href="//www.facebook.com/winningslowlypodcast">Facebook</a>, or via <a href="mailto:hello@winningslowly.org?subject=3.08:%20Juice%20up%20the%20Weird%20Edges%20of%20the%20Ecosystem">email</a>!</p>]]></description>
+            <pubDate>Tue, 06 Oct 2015 20:45:50 -0400</pubDate>
+            <enclosure url="http://cdn.winningslowly.org/3.11.m4a" length="15848784" type="audio/x-m4a"/>
+            <guid isPermaLink="false">6E2119FE-92DB-4546-B23E-86D079AC489E</guid>
+            <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
+            <itunes:subtitle>Social circles on- and offline and differences between our embodied and virtual selves.</itunes:subtitle>
+            <itunes:summary><![CDATA[Social circles on- and offline and differences between our embodied and virtual selves.
+
+We talk about how we present ourselves on social media: what happens as we present different aspects of ourselves over time? How do we manage those changes? How does the flattening out effect of social media and search ability intersect (or conflict) with the way we think about our social circles in “real” (that is, embodied, non-virtual) life?
+Links
+
+* Geocities
+
+* Tripod
+
+* Friendster
+
+* Xanga
+
+* Augustine’s Retractions
+
+* First Friday in Raleigh
+
+* “Facebook boss Mark Zuckerberg thinks telepathy tech is on its way” – The Guardian
+
+* Google Buzz
+
+* Google Plus Circles
+
+* Configuring the Networked Self, Julie Coen
+Before You Go
+
+* “Ahmed Mohamed swept up, ‘hoax bomb’ charges swept away as Irving teen’s story floods social media” – The Dallas Morning News
+
+* “We Stand with Ahmed (and We Hope He’ll Join Us for Astronomy Night)” – WhiteHouse.gov
+
+* #standwithahmed
+Music
+
+* “Modern Language” by Postcards from Jeff. Used by permission.
+
+* “Winning Slowly Theme” by Chris Krycho.
+Sponsors
+Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:
+
+* Jeremy W. Sherman
+
+* Jeremy Cherfas
+
+If you’d like to support the show, you can make a pledge at Patreon or give directly via Square Cash.
+Respond
+We love to hear your thoughts. Hit us up on Twitter, App.net, Facebook, or via email!]]></itunes:summary>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>31:58</itunes:duration>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="http://www.winningslowly.org/podcast.png"/>
+        </item>
+        <item>
+            <title>3.10: Saying “Enough”</title>
+            <link>http://www.winningslowly.org/3.10/</link>
+            <description><![CDATA[<p>We start talking about phones again, and this time manage not to veer off into talking about robots. On the other hand, we <em>do</em> end up talking about a broad Christian ethic of technology, life in communities, and the pull toward social constructivism or technological substantivism.</p>
+<h3 id="links">Links</h3>
+<ul>
+<li><a href="//www.sap-py.com">Sap.py</a> – Chris’ podcast with his wife about her experience learning Python</li>
+<li><a href="https://en.wikipedia.org/wiki/The_Experience_Economy">Experience economy</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Post-scarcity_economy">Post-scarcity economy</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Social_constructivism">Social constructivism</a></li>
+<li><a href="https://en.wikipedia.org/wiki/The_formalist_vs_substantivist_debate">Substantivism</a></li>
+<li>Previously on the show:
+<ul>
+<li><a href="//www.winningslowly.org/3.08/">3.08: Juice Up the Weird Edges of the Ecosystem</a></li>
+</ul></li>
+</ul>
+<h4 id="before-you-go">Before You Go</h4>
+<p>Two good bits from The Atlantic:</p>
+<ul>
+<li><a href="http://www.theatlantic.com/international/archive/2014/08/half-of-syrias-population-is-displaced/379407/">“Almost Half of Syria’s Population Has Been Uprooted”</a></li>
+<li><a href="http://www.theatlantic.com/notes/all/2015/08/the-global-refugee-crisis/402718/#note-406321-syria-refugee-map">“A Map That Dramatizes (and Helps Explain) the Refugee Crisis”</a></li>
+</ul>
+<h3 id="music">Music</h3>
+<ul>
+<li><a href="https://soundcloud.com/fell-runner/song-of-the-sun">“Song of the Sun”</a> by <a href="https://fellrunner.bandcamp.com">Fell Runner</a>. Used by permission.</li>
+<li><a href="//soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho, who thinks you should check out the <a href="//soundcloud.com/chriskrycho/theme-for-sappy-no-vocals">theme for Sap.py</a>, too. Bells are fun!</li>
+</ul>
+<h3 id="sponsors">Sponsors</h3>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Jeremy W. Sherman</li>
+<li>Jeremy Cherfas</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href="//www.patreon.com/winningslowly">Patreon</a> or give directly via <a href="//cash.me/$winningslowly">Square Cash</a>.</p>
+<h3 id="respond">Respond</h3>
+<p>We love to hear your thoughts. Hit us up on <a href="//www.twitter.com/winningslowly">Twitter</a>, <a href="//www.twitter.com/winningslowly">App.net</a>, <a href="//www.facebook.com/winningslowlypodcast">Facebook</a>, or via <a href="mailto:hello@winningslowly.org?subject=3.08:%20Juice%20up%20the%20Weird%20Edges%20of%20the%20Ecosystem">email</a>!</p>]]></description>
+            <pubDate>Mon, 21 Sep 2015 21:18:47 -0400</pubDate>
+            <enclosure url="http://cdn.winningslowly.org/3.10.m4a" length="15038983" type="audio/x-m4a"/>
+            <guid isPermaLink="false">0A638A50-A514-45B5-9874-0868FE10B415</guid>
+            <itunes:author>Chris Krycho, Stephen Carradini</itunes:author>
+            <itunes:subtitle>Phones, technological determinism, Christian ethics, and life in community.</itunes:subtitle>
+            <itunes:summary><![CDATA[Phones, technological determinism, Christian ethics, and life in community.
+
+We start talking about phones again, and this time manage not to veer off into talking about robots. On the other hand, we do end up talking about a broad Christian ethic of technology, life in communities, and the pull toward social constructivism or technological substantives.
+Links
+
+* Sap.py – Chris’ podcast with his wife about her experience learning Python
+
+* Experience economy
+
+* Post-scarcity economy
+
+* Social constructivism
+
+* Substantivism
+
+* Previously on the show:
+
+* 3.08: Juice Up the Weird Edges of the Ecosystem
+
+Before You Go
+Two good bits from The Atlantic:
+
+* “Almost Half of Syria’s Population Has Been Uprooted”
+
+* “A Map That Dramatizes (and Helps Explain) the Refugee Crisis”
+Music
+
+* “Song of the Sun” by Fell Runner. Used by permission.
+
+* “Winning Slowly Theme” by Chris Krycho, who thinks you should check out the theme for Sap.py, too. Bells are fun!
+Sponsors
+Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:
+
+* Jeremy W. Sherman
+
+* Jeremy Cherfas
+
+If you’d like to support the show, you can make a pledge at Patreon or give directly via Square Cash.
+Respond
+We love to hear your thoughts. Hit us up on Twitter, App.net, Facebook, or via email!]]></itunes:summary>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>30:47</itunes:duration>
+            <dc:creator>Chris Krycho, Stephen Carradini</dc:creator>
+            <media:thumbnail url="http://www.winningslowly.org/podcast.png"/>
+        </item>
         <item>
             <title>3.09: Many Beautiful Things</title>
             <link>http://www.winningslowly.org/3.09/</link>
