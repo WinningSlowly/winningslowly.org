@@ -4,14 +4,14 @@
         <title>(TEST) Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>A forum for two interdisciplinary thinkers to discuss the long view of current trends in technology, religion, art, ethics, and culture. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 2.5.12(2294); Mac OS X Version 10.11 (Build 15A282b) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 2.5.12(2294); Mac OS X Version 10.11.1 (Build 15B42) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2014–2015 Winning Slowly</copyright>
         <managingEditor>contact@winningslowly.org (Chris Krycho and Stephen Carradini)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Mon, 19 Oct 2015 18:54:40 -0400</pubDate>
-        <lastBuildDate>Mon, 19 Oct 2015 18:54:40 -0400</lastBuildDate>
+        <pubDate>Mon, 26 Oct 2015 20:21:42 -0400</pubDate>
+        <lastBuildDate>Mon, 26 Oct 2015 20:21:42 -0400</lastBuildDate>
         <ttl>50</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -41,6 +41,89 @@
         <itunes:category text="Religion &amp; Spirituality">
             <itunes:category text="Christianity"/>
         </itunes:category>
+        <item>
+            <title>3.14: Smorgasbord, Part I</title>
+            <link>http://www.winningslowly.org/3.14/</link>
+            <description><![CDATA[<p>We start wrapping up Season 3, tackling five topics that one or the other of us wanted to talk about but couldn’t get the other one all that excited about, or which we didn’t feel like we had enough to say yet:</p>
+<ul>
+<li>venture capitalism (both of us)</li>
+<li>online classes (Stephen)</li>
+<li>the ethics of algorithms (Chris)</li>
+<li>tracking people at work (Stephen)</li>
+<li>transparency in business (Chris)</li>
+</ul>
+<h3 id="links">Links</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Venture_capital">Venture capitalism article on Wikipedia</a>
+<ul>
+<li>Insightful piece by Ben Thompson at Stratechery: <a href="https://stratechery.com/2015/venture-capital-and-the-internets-impact/">“Venture Capital and the Internet’s Impact”</a></li>
+<li><a href="https://pando.com/2014/01/27/democratizing-celebrity-styling-uber-for-your-hair-has-arrived/">“Democratizing celebrity styling: Uber for your hair has arrived”</a></li>
+</ul></li>
+<li>Algorithms failing: <a href="http://money.cnn.com/2013/03/05/smallbusiness/keep-calm-and-carry-on/">“Keep Calm and Rape a Lot”</a></li>
+<li>Amazon worker treatment:
+<ul>
+<li><a href="http://www.salon.com/2014/02/23/worse_than_wal_mart_amazons_sick_brutality_and_secret_history_of_ruthlessly_intimidating_workers/">“Worse than Wal-Mart: Amazon’s sick brutality and secret history of ruthlessly intimidating workers”</a> (from Salon, with a bit more acerbic a take than we might offer)</li>
+<li><a href="http://www.theatlantic.com/magazine/archive/2013/12/theyre-watching-you-at-work/354681/">“They’re Watching You at Work”</a> (The Atlantic)</li>
+<li><a href="http://www.winningslowly.org/3.07/">3.07: One Size Does Not Fit All</a></li>
+</ul></li>
+</ul>
+<h3 id="music">Music</h3>
+<ul>
+<li><a href="https://soundcloud.com/heatherlarose/run-with-me">“Run With Me”</a> by <a href="http://www.heatherlarose.com">Heather LaRose</a>. Used by permission.</li>
+<li><a href="//soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho, who is plotting ways to make this theme more robust for the upcoming seasons.</li>
+</ul>
+<h3 id="sponsors">Sponsors</h3>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Jeremy W. Sherman</li>
+<li>Jeremy Cherfas</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href="//www.patreon.com/winningslowly">Patreon</a> or give directly via <a href="//cash.me/$winningslowly">Square Cash</a>.</p>
+<h3 id="respond">Respond</h3>
+<p>We love to hear your thoughts. Hit us up on <a href="//www.twitter.com/winningslowly">Twitter</a>, <a href="//www.twitter.com/winningslowly">App.net</a>, <a href="//www.facebook.com/winningslowlypodcast">Facebook</a>, or via <a href="mailto:hello@winningslowly.org?subject=3.13:%20Inevitable">email</a>!</p>]]></description>
+            <pubDate>Mon, 26 Oct 2015 20:17:20 -0400</pubDate>
+            <enclosure url="http://cdn.winningslowly.org/3.14.m4a" length="7523284" type="audio/x-m4a"/>
+            <guid isPermaLink="false">3D34F201-6405-4F03-ABAC-D071F613565E</guid>
+            <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
+            <itunes:subtitle>Venture capitalism, online classes, the ethics of algorithms, tracking people at work, and transparency in business.</itunes:subtitle>
+            <itunes:summary><![CDATA[Venture capitalism, online classes, the ethics of algorithms, tracking people at work, and transparency in business.
+
+We start wrapping up Season 3, tackling five topics that one or the
+other of us wanted to talk about but couldn't get the other one all that
+excited about, or which we didn't feel like we had enough to say yet:
+
+-   venture capitalism (both of us)
+-   online classes (Stephen)
+-   the ethics of algorithms (Chris)
+-   tracking people at work (Stephen)
+-   transparency in business (Chris)
+
+Music
+
+-   "Run With Me" by Heather LaRose. Used by permission.
+-   "Winning Slowly Theme" by Chris Krycho, who is plotting ways to make
+    this theme more robust for the upcoming seasons.
+
+Sponsors
+
+Many thanks to the people who help us make this show possible by their
+financial support! This month's sponsors:
+
+-   Jeremy W. Sherman
+-   Jeremy Cherfas
+
+If you'd like to support the show, you can make a pledge at Patreon or
+give directly via Square Cash.
+
+Respond
+
+We love to hear your thoughts. Hit us up on Twitter, App.net, Facebook,
+or via email!]]></itunes:summary>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>30:32</itunes:duration>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="http://www.winningslowly.org/podcast.png"/>
+        </item>
         <item>
             <title>3.13: Inevitable? (Live at NC State)</title>
             <link>http://www.winningslowly.org/3.13/</link>
