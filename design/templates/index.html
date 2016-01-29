@@ -10,7 +10,7 @@
     {% for category, category_articles in categories %}
         {% if category == CURRENT_SEASON %}
             {% for article in category_articles %}
-                {% if article.category == CURRENT_SEASON and loop.index <= 5 %}
+                {% if article.category == CURRENT_SEASON %}
                 <article>
                    <header>
                       <a href="{{ SITEURL}}/{{ article.url }}">
@@ -27,17 +27,16 @@
                 </article>
                 {% endif %}
             {% endfor %}
-
-            {% if category_articles|length > 5 %}
-            <article>
-                <h4 id="season-{{ CURRENT_SEASON }}"><a href="/season-{{ CURRENT_SEASON }}.html">(see all)</a></h4>
-            </article>
-            {% endif %}
         {% endif %}
     {% endfor %}
 
     <article>
         <h3>Previous</h3>
+        <section>
+            <h4 id="season-3"><a href="/season-3.html">Season 3</a></h4>
+            <p>Season 3 was our first attempt at doing a more topical season,
+                with an emphasis on the relationship between advertising, busines interests, and capitalism and human flourishing. We kicked off the season with <a href="//www.winningslowly.org/3.01/">3.01: The Ad-Driven Web, Part I</a> and <a href="//www.winningslowly.org/3.02/">3.02: The Ad-Driven Web, Part II</a> on July 21 and 28, 2015, respectively, and concluded with some lightning round-style episodes in <a href="//www.winningslowly.org/3.14/">3.14: Smorgasbord, Part I</a> and <a href="//www.winningslowly.org/3.15/">3.15: Smorgasbord, Part II</a> on October 27 and November 3, 2015, respectively.</p>
+        </section>
         <section>
             <h4 id="season-2"><a href="/season-2.html">Season 2</a></h4>
             <p>Season 2 began with <a href="//www.winningslowly.org/2.01/">2.01: Take My Money Please!</a> on January 27, 2015 and concluded with <a href="//www.winningslowly.org/2.15/">2.15: Metapodcasting</a> on May 12, 2015.</p>

@@ -25,7 +25,7 @@ DEFAULT_LANG = 'en'
 THEME = "design"
 
 # Show configuration
-CURRENT_SEASON = '3'
+CURRENT_SEASON = '4'
 
 # Feed generation is usually not desired when developing
 FEED_DOMAIN = SITEURL
@@ -40,10 +40,11 @@ CUSTOM_FEED_URL = 'feed.xml'
 # Social widget
 IDENTITY = {'Site': {'RSS': FEED_DOMAIN + '/' + CUSTOM_FEED_URL,
                      'iTunes': 'https://itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2',
+                     'Overcast': 'https://overcast.fm/itunes807603957/winning-slowly',
+                     'Pocket Casts': 'http://pca.st/Pl01',
                      'Facebook': 'https://www.facebook.com/winningslowlypodcast',
                      'Patreon': 'https://www.patreon.com/winningslowly',
                      'Square': 'https://cash.me/$winningslowly',
-                     'App.net': 'https://app.net/winningslowly',
                      'Twitter': 'https://twitter.com/winningslowly'},
             'Chris': {'App.net': 'https://app.net/chriskrycho',
                       'GitHub': 'https://github.com/chriskrycho',

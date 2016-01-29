@@ -4,14 +4,14 @@
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>Taking the long view on technology, religion, ethics, and art. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 2.5.12(2294); Mac OS X Version 10.11.1 (Build 15B42) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.1.4(2615); Mac OS X Version 10.11.2 (Build 15C50) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <copyright>2014–2015 Winning Slowly</copyright>
-        <managingEditor>stephen@winningslowly.org (Stephen Carradini)</managingEditor>
+        <copyright>2014–2016 Winning Slowly</copyright>
+        <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Mon, 26 Oct 2015 21:09:55 -0400</pubDate>
-        <lastBuildDate>Mon, 26 Oct 2015 21:09:55 -0400</lastBuildDate>
+        <pubDate>Thu, 28 Jan 2016 20:30:06 -0500</pubDate>
+        <lastBuildDate>Thu, 28 Jan 2016 20:30:06 -0500</lastBuildDate>
         <ttl>30</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -23,7 +23,7 @@
         <atom:link href="http://www.winningslowly.org/feed.xml" rel="self" type="application/rss+xml"/>
         <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
         <itunes:subtitle>A weekly podcast by Chris Krycho and Stephen Carradini, offering thoughtful commentary on trends in culture, technology, religion, ethics, and art. Releases Tuesdays at 7am Eastern time.</itunes:subtitle>
-        <itunes:summary><![CDATA[Taking the long view on technology, religion, ethics, and art. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?]]></itunes:summary>
+        <itunes:summary><![CDATA[Taking the long view on technology, religion, ethics, and art. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2026. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?]]></itunes:summary>
         <itunes:keywords>technology,religion,ethics,art,music,journalism,Christianity,new media,patience,winning,slowly,social justice,movies</itunes:keywords>
         <itunes:image href="http://www.winningslowly.org/podcast.png"/>
         <itunes:explicit>no</itunes:explicit>
@@ -41,6 +41,270 @@
         <itunes:category text="Religion &amp; Spirituality">
             <itunes:category text="Christianity"/>
         </itunes:category>
+        <item>
+            <title>4.03: The Podcast Awakens</title>
+            <link>http://www.winningslowly.org/4.03/</link>
+            <description><![CDATA[<p>We say a few serious things about the nature of global fandom, the relationship between art and brand awareness in large media properties, and the future of as large a property as <em>Star Wars</em>.</p>
+<p>But let’s be honest: mostly, we geek out.</p>
+<h3 id="links">Links</h3>
+<ul>
+<li><a href="http://boards.theforce.net/forums/literature.10003/">TheForce.net Literature Forum</a>, where <a href="http://boards.theforce.net/members/master_keralys.979708/">Chris was Master_Keralys</a></li>
+<li><a href="http://www.ibtimes.com/how-disney-plans-sell-star-wars-china-box-office-far-far-away-2226638">“How Disney Plans To Sell ‘Star Wars’ In China, A Box Office Far, Far Away”</a></li>
+<li><a href="http://www.ibtimes.com/star-wars-china-box-office-lukewarm-presales-could-signal-trouble-disney-juggernaut-2248706">“‘Star Wars’ China Box Office: Lukewarm Presales Could Signal Trouble For Disney Juggernaut”</a></li>
+<li><a href="https://itunes.apple.com/us/album/star-wars-force-awakens-original/id1063517675"><em>The Force Awakens</em></a> soundtrack on iTunes</li>
+</ul>
+<h3 id="music">Music</h3>
+<ul>
+<li>“Main Title” from <em>Star Wars</em>, by John Williams. Fair use. And <em>amazing</em>.</li>
+<li><a href="//soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho, who started composing in no small part because of the “Twin Suns” cue from <em>A New Hope</em>, which rocked his world when he was just a little kid, and nothing was ever the same.</li>
+</ul>
+<h3 id="sponsors">Sponsors</h3>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Andrew Fallows</li>
+<li>Jeremy W. Sherman</li>
+<li>Jeremy Cherfas</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href="//www.patreon.com/winningslowly">Patreon</a> or give directly via <a href="//cash.me/$winningslowly">Square Cash</a>.</p>
+<h3 id="respond">Respond</h3>
+<p>We love to hear your thoughts. Hit us up via <a href="//www.twitter.com/winningslowly">Twitter</a>, <a href="//www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=4.03:%20The%20Podcast%20Awakens">email</a>!</p>]]></description>
+            <pubDate>Thu, 28 Jan 2016 20:29:50 -0500</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/4.03.m4a" length="8352113" type="audio/x-m4a"/>
+            <guid isPermaLink="false">D1A7E5A8-F386-42B9-BBFC-E49DAF23CBE1</guid>
+            <itunes:author>Stephen Carradini and Chris Krycho</itunes:author>
+            <itunes:summary><![CDATA[Star Wars, global fandom, and, well... geeking out about Star Wars.
+
+We say a few serious things about the nature of global fandom, the relationship between art and brand awareness in large media properties, and the future of as large a property as _Star Wars_.
+
+But let’s be honest: mostly, we geek out.
+
+Links
+
+-   TheForce.net Literature Forum, where Chris was Master_Keralys
+-   “How Disney Plans To Sell ‘Star Wars’ In China, A Box Office Far, Far Away”
+-   “‘Star Wars’ China Box Office: Lukewarm Presales Could Signal Trouble For Disney Juggernaut”
+-   _The Force Awakens_ soundtrack on iTunes
+
+Music
+
+-   “Main Title” from _Star Wars_, by John Williams. Fair use. And _amazing_.
+-   “Winning Slowly Theme” by Chris Krycho, who started composing in no small part because of the “Twin Suns” cue from _A New Hope_, which rocked his world when he was just a little kid, and nothing was ever the same.
+
+Sponsors
+
+Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:
+
+-   Andrew Fallows
+-   Jeremy W. Sherman
+-   Jeremy Cherfas
+
+If you’d like to support the show, you can make a pledge at Patreon or give directly via Square Cash.
+
+Respond
+
+We love to hear your thoughts. Hit us up via Twitter, Facebook, or email!
+]]></itunes:summary>
+            <itunes:keywords>ethics,technology,religion,art,culture</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>29:06</itunes:duration>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="http://www.winningslowly.org/podcast.png"/>
+        </item>
+        <item>
+            <title>4.02: Helpiness</title>
+            <link>http://www.winningslowly.org/4.02/</link>
+            <description><![CDATA[We pick up from our discussion of Facebook and Internet.org last week to look at the broader questions we raised then: how do you help people <em>well</em>? It’s not enough to have good intentions—so how do you pick good charities to give to? How do you choose where to dedicate your own time and money? How should we think about foreign aid, and foreign intervention, and foreign policy in general?
+<br />
+<h3 id="links">Links</h3>
+<ul>
+<li><a href="http://www.alibris.com/When-Helping-Hurts-How-to-Alleviate-Poverty-Without-Hurting-the-Poor-and-Yourself-Steve-Corbett/book/29565129"><em>When Helping Hurts</em></a></li>
+<li><a href="https://en.wikipedia.org/wiki/Microcredit">Microcredit</a></li>
+<li>Toms
+<ul>
+<li><a href="http://www.toms.com/corporate-responsibility">Corporate Responsibility</a></li>
+<li><a href="http://www.whydev.org/some-bad-news-about-toms-shoes/">“Some Bad News about TOMS Shoes”</a></li>
+</ul>
+</li>
+</ul>
+<h3 id="music">Music</h3>
+<ul>
+<li><a href="https://soundcloud.com/starlightgirls/hero">“Hero”</a>, by <a href="https://soundcloud.com/starlightgirls">Starlight Girls</a>. Used by permission.</li>
+<li><a href="//soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho, who still dreams of doing a dance kit version of this, and a rock version of it, and a massive orchestra version of it. Someday, maybe.</li>
+</ul>
+<h3 id="sponsors">Sponsors</h3>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+
+<ul>
+<li>Andrew Fallows</li>
+<li>Jeremy W. Sherman</li>
+<li>Jeremy Cherfas</li>
+</ul>
+If you’d like to support the show, you can make a pledge at <a href="//www.patreon.com/winningslowly">Patreon</a> or give directly via <a href="//cash.me/$winningslowly">Square Cash</a>.
+<br />
+<h3 id="respond">Respond</h3>
+<p>We love to hear your thoughts. Hit us up on <a href="//www.twitter.com/winningslowly">Twitter</a>, <a href="//www.twitter.com/winningslowly">App.net</a>, <a href="//www.facebook.com/winningslowlypodcast">Facebook</a>, or via <a href="mailto:hello@winningslowly.org?subject=4.02:%20Helpiness">email</a>!</p>]]></description>
+            <pubDate>Mon, 18 Jan 2016 07:00:00 -0500</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/4.02.m4a" length="10174388" type="audio/x-m4a"/>
+            <guid isPermaLink="false">D82ED79C-633C-4859-8A03-B4E1A814145E</guid>
+            <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
+            <itunes:summary><![CDATA[Helping is hard: global poverty, personal giving and service, and foreign policy.
+
+We pick up from our discussion of Facebook and Internet.org last week to look at the broader questions we raised then: how do you help people well? It’s not enough to have good intentions—so how do you pick good charities to give to? How do you choose where to dedicate your own time and money? How should we think about foreign aid, and foreign intervention, and foreign policy in general?
+
+
+Music
+
+* “Hero”, by Starlight Girls. Used by permission.
+
+* “Winning Slowly Theme” by Chris Krycho, who still dreams of doing a dance kit version of this, and a rock version of it, and a massive orchestra version of it. Someday, maybe.
+
+Sponsors
+
+Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:
+
+* Andrew Fallows
+
+* Jeremy W. Sherman
+
+* Jeremy Cherfas
+
+If you’d like to support the show, you can make a pledge at Patreon or give directly via Square Cash.
+
+Respond
+
+We love to hear your thoughts. Hit us up on Twitter @winningslowly, Facebook, or via email at hello@winningslowly.org!]]></itunes:summary>
+            <itunes:keywords>ethics,technology,religion,art,culture</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>25:48</itunes:duration>
+            <dc:creator>Stephen Carradini and Chris Krycho</dc:creator>
+            <media:thumbnail url="http://www.winningslowly.org/podcast.png"/>
+        </item>
+        <item>
+            <title>4.01: Unambiguously Meh</title>
+            <link>http://www.winningslowly.org/4.01/</link>
+            <description><![CDATA[We open our fourth season with a discussion of Facebook’s <a href="https://info.internet.org/en/">Internet.org</a> platform, open access vs. power plays by large companies, and the ethical questions at the intersection of business and philanthropy. Chris and Stephen disagree about how to read Facebook’s move, and set the stage for a season-long discussion of globalization and its ramifications for technology, religion, ethics, and art.
+<br />Just some light discussion to start things off, in other words.
+<br />
+<h3 id="links">Links</h3>
+<ul>
+<li>Quartz:
+<ul>
+<li><a href="http://qz.com/582587/mark-zuckerberg-cant-believe-india-isnt-grateful-for-facebooks-free-internet/">“Mark Zuckerberg can’t believe India isn’t grateful for Facebook’s free internet”</a></li>
+<li><a href="http://qz.com/541595/zuckerberg-says-the-internet-lifts-people-out-of-poverty-but-is-giving-them-subpar-access/">“Zuckerberg says the internet lifts people out of poverty, but is giving them subpar access”</a></li>
+</ul>
+</li>
+<li>Alternatives to Internet.org:
+<ul>
+<li>Medianama: <a href="http://www.medianama.com/2015/05/223-mozillas-mitchell-baker-offers-alternatives-to-zero-rating-for-internet-services/">“Mozilla’s Mitchell Baker offers alternatives to zero-rating for Internet services”</a></li>
+<li><a href="https://jana.com">Jana</a></li>
+<li><a href="http://www.gigato.co">Gigato</a></li>
+</ul>
+</li>
+<li>Huffington Post: <a href="http://www.huffingtonpost.in/sean-blagsvedt/net-neutrality-vs-internet-access_b_7030332.html?utm_hp_ref=india">“Is Net Neutrality More Important Than Internet Access? Why Babajob’s On Internet.org”</a></li>
+<li><a href="http://scroll.in/article/778881/internet-org-vp-we-used-the-facebook-platform-to-lobby-trai-just-like-the-people-on-the-other-side">“Internet.org VP: We used the Facebook platform to lobby TRAI just like the people on the other side”</a></li>
+</ul>
+<h3 id="music">Music</h3>
+<ul>
+<li><a href="https://hazelwood.bandcamp.com/track/oh-boy">“Oh Boy”</a>, by <a href="https://hazelwood.bandcamp.com">Hazelwood</a>. Used by permission. (Fun fact: Hazelwood’s lead singer is Stephen’s wife!)</li>
+<li><a href="//soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho, who still dreams of doing a dance kit version of this, and a rock version of it, and a massive orchestra version of it. Someday, maybe.</li>
+</ul>
+<h3 id="sponsors">Sponsors</h3>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+
+<ul>
+<li>Andrew Fallows</li>
+<li>Jeremy W. Sherman</li>
+<li>Jeremy Cherfas</li>
+</ul>
+If you’d like to support the show, you can make a pledge at <a href="//www.patreon.com/winningslowly">Patreon</a> or give directly via <a href="//cash.me/$winningslowly">Square Cash</a>.
+<br />
+<h3 id="respond">Respond</h3>
+<p>We love to hear your thoughts. Hit us up on <a href="//www.twitter.com/winningslowly">Twitter</a>, <a href="//www.twitter.com/winningslowly">App.net</a>, <a href="//www.facebook.com/winningslowlypodcast">Facebook</a>, or via <a href="mailto:hello@winningslowly.org?subject=4.01:%20Unambiguously%20Meh">email</a>!</p>]]></description>
+            <pubDate>Tue, 12 Jan 2016 12:25:00 -0500</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/4.01.m4a" length="11308094" type="audio/x-m4a"/>
+            <guid isPermaLink="false">F506C6B8-90C3-4580-B334-F82C26ECD440</guid>
+            <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
+            <itunes:summary><![CDATA[Facebook, Internet.org, and the intersection of business and benevolence.]]></itunes:summary>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>29:11</itunes:duration>
+            <dc:creator>Stephen Carradini and Chris Krycho</dc:creator>
+            <media:thumbnail url="http://www.winningslowly.org/podcast.png"/>
+        </item>
+        <item>
+            <title>3.15: Smorgasbord, Part II</title>
+            <link>http://www.winningslowly.org/3.15/</link>
+            <description><![CDATA[<p>We wrap up our third full season with another “lightning round”, talking about the structure/agency and tech accessibility, globalization, and owning your own content online.</p>
+<h3 id="links">Links</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Structure_and_agency">Structure/agency problem</a> (Wikipedia)
+<ul>
+<li><a href="http://www.dol.gov/dol/topic/disability/ada.htm">Americans with Disabilities Act (ADA)</a></li>
+<li><a href="http://www.w3.org/standards/webdesign/accessibility">Web accessibility</a></li>
+</ul></li>
+<li>Globalization
+<ul>
+<li><a href="http://www.codeforthekingdom.org/index.html">Code for the Kingdom</a></li>
+<li><a href="http://www.thomaslfriedman.com/bookshelf/the-world-is-flat"><em>The World is Flat</em></a></li>
+<li><a href="https://www.youtube.com/watch?v=1765UzjAQxI">“Albuquerque”</a></li>
+</ul></li>
+<li>Owning your own content:
+<ul>
+<li><a href="http://indiewebcamp.com">Indie web</a></li>
+<li><a href="https://codex.wordpress.org/WordPress_Backups">WordPress backups</a></li>
+<li><a href="https://medium.com/winning-slowly">Medium</a></li>
+<li><a href="http://craigmod.com/sputnik/">Craig Mod essays</a></li>
+</ul></li>
+<li>Previously on the show:
+<ul>
+<li><a href="http://www.winningslowly.org/3.12/">3.12: Hungarian Folk Music</a></li>
+</ul></li>
+</ul>
+<h3 id="music">Music</h3>
+<ul>
+<li><a href="https://soundcloud.com/featurettemusic/broken">“Broken”</a> by <a href="http://featurettemusic.com">Featurette</a>. Used by permission.</li>
+<li><a href="//soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho. Still. Always. Forever.</li>
+</ul>
+<h3 id="sponsors">Sponsors</h3>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Andrew Fallows</li>
+<li>Jeremy W. Sherman</li>
+<li>Jeremy Cherfas</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href="//www.patreon.com/winningslowly">Patreon</a> or give directly via <a href="//cash.me/$winningslowly">Square Cash</a>.</p>
+<h3 id="respond">Respond</h3>
+<p>We love to hear your thoughts. Hit us up on <a href="//www.twitter.com/winningslowly">Twitter</a>, <a href="//www.twitter.com/winningslowly">App.net</a>, <a href="//www.facebook.com/winningslowlypodcast">Facebook</a>, or via <a href="mailto:hello@winningslowly.org?subject=3.13:%20Inevitable">email</a>!</p>
+]]></description>
+            <pubDate>Tue, 03 Nov 2015 07:00:45 -0500</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/3.15.m4a" length="8225622" type="audio/x-m4a"/>
+            <guid isPermaLink="false">59998B62-B806-40AF-88F4-DB24A38004BB</guid>
+            <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
+            <itunes:subtitle>A preview of things to come: the structure/agency problem, globalization, and owning your own content.</itunes:subtitle>
+            <itunes:summary><![CDATA[A preview of things to come: the structure/agency problem, globalization, and owning your own content.
+
+We wrap up our third full season with another “lightning round”, talking about the structure/agency and tech accessibility, globalization, and owning your own content online.
+
+Music
+
+* “Broken” by Featurette. Used by permission.
+* “Winning Slowly Theme” by Chris Krycho. Still. Always. Forever.
+
+Sponsors
+Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:
+
+* Andrew Fallows
+* Jeremy W. Sherman
+* Jeremy Cherfas
+
+If you’d like to support the show, you can make a pledge at Patreon or give directly via Square Cash.
+
+Respond
+We love to hear your thoughts. Hit us up on Twitter, App.net, Facebook, or via email!]]></itunes:summary>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>30:09</itunes:duration>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="http://www.winningslowly.org/podcast.png"/>
+        </item>
         <item>
             <title>3.14: Smorgasbord, Part I</title>
             <link>http://www.winningslowly.org/3.14/</link>
@@ -82,7 +346,7 @@
 <h3 id="respond">Respond</h3>
 <p>We love to hear your thoughts. Hit us up on <a href="//www.twitter.com/winningslowly">Twitter</a>, <a href="//www.twitter.com/winningslowly">App.net</a>, <a href="//www.facebook.com/winningslowlypodcast">Facebook</a>, or via <a href="mailto:hello@winningslowly.org?subject=3.13:%20Inevitable">email</a>!</p>]]></description>
             <pubDate>Tue, 27 Oct 2015 07:00:20 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/3.14.m4a" length="7523284" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/3.14.m4a" length="7523284" type="audio/x-m4a"/>
             <guid isPermaLink="false">3D34F201-6405-4F03-ABAC-D071F613565E</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:subtitle>Venture capitalism, online classes, the ethics of algorithms, tracking people at work, and transparency in business.</itunes:subtitle>
@@ -4459,9 +4723,9 @@ Note: by “disruption” we are focused not on the particular concept developed
 # Links
 
 • Chris’ friend Kyle West, now self-publishing successfully:
-	◦ website (http://kylewestwriter.wordpress.com/)
-	◦ Twitter (https://twitter.com/kylewestwriter)
-	◦ Facebook (https://www.facebook.com/kyledangerwest/about)
+        ◦ website (http://kylewestwriter.wordpress.com/)
+        ◦ Twitter (https://twitter.com/kylewestwriter)
+        ◦ Facebook (https://www.facebook.com/kyledangerwest/about)
 
 ## Follow/Subscribe
 
