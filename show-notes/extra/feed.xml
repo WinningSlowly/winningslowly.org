@@ -4,14 +4,14 @@
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>Taking the long view on technology, religion, ethics, and art. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 3 3.1.4(2615); Mac OS X Version 10.11.2 (Build 15C50) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.1.5(2620); Mac OS X Version 10.11.3 (Build 15D21) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2014–2016 Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Thu, 28 Jan 2016 20:30:06 -0500</pubDate>
-        <lastBuildDate>Thu, 28 Jan 2016 20:30:06 -0500</lastBuildDate>
+        <pubDate>Mon, 01 Feb 2016 19:40:12 -0500</pubDate>
+        <lastBuildDate>Mon, 01 Feb 2016 19:40:12 -0500</lastBuildDate>
         <ttl>30</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -41,6 +41,61 @@
         <itunes:category text="Religion &amp; Spirituality">
             <itunes:category text="Christianity"/>
         </itunes:category>
+        <item>
+            <title>4.04: But Was It a Good Movie?</title>
+            <link>http://www.winningslowly.org/4.04/</link>
+            <description><![CDATA[<p>Following up on our <a href="http://www.winningslowly.org/4.03/">previous conversation</a> about <em>The Force Awakens</em>, this week we look at what makes art <em>good</em>, especially in the context of film. Was the latest <em>Star Wars</em> actually a good movie?</p>
+<h3 id="links">Links</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Theodor_W._Adorno">Theodore Adorno</a></li>
+<li><a href="https://xkcd.com/915/">XKCD 915: Connoiseur</a></li>
+<li><a href="http://genius.com/Sufjan-stevens-i-want-to-be-well-lyrics">“I Want to be Well”</a> from <em>The Age of Adz</em> by Sufjan Stevens, on Genius</li>
+<li><a href="https://itunes.apple.com/us/album/star-wars-force-awakens-original/id1063517675"><em>The Force Awakens</em></a> soundtrack on iTunes</li>
+</ul>
+<h3 id="music">Music</h3>
+<ul>
+<li>“Rey’s Theme” from <em>Star Wars: The Force Awakens</em>, by John Williams. Fair use. Utterly lovely.</li>
+<li><a href="//soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho, who still thinks that when he grows up he’d like to be a composer like John Williams.</li>
+</ul>
+<h3 id="sponsors">Sponsors</h3>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Andrew Fallows</li>
+<li>Jeremy W. Sherman</li>
+<li>Jeremy Cherfas</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href="//www.patreon.com/winningslowly">Patreon</a> or give directly via <a href="//cash.me/$winningslowly">Square Cash</a>.</p>
+<h3 id="respond">Respond</h3>
+<p>We love to hear your thoughts. Hit us up via <a href="//www.twitter.com/winningslowly">Twitter</a>, <a href="//www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=4.04:%20But%20Was%20It%20a%20Good%20Movie?">email</a>!</p>]]></description>
+            <pubDate>Tue, 02 Feb 2016 07:00:00 -0500</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/4.04.m4a" length="11676977" type="audio/x-m4a"/>
+            <guid isPermaLink="false">172C705E-83D8-4CE1-809C-21C81104DDA6</guid>
+            <itunes:author>Stephen Carradini and Chris Krycho</itunes:author>
+            <itunes:summary><![CDATA[The Force Awakens, defining artistic goodness, and expressing worldview in cinema, literature, and music.
+
+Following up on our previous conversation about _The Force Awakens_, this week we look at what makes art _good_, especially in the context of film. Was the latest _Star Wars_ actually a good movie?
+
+Music
+
+-   “Rey’s Theme” from _Star Wars: The Force Awakens_, by John Williams. Fair use. Utterly lovely.
+-   “Winning Slowly Theme” by Chris Krycho, who still thinks that when he grows up he’d like to be a composer like John Williams.
+
+Sponsors
+
+Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:
+
+-   Andrew Fallows
+-   Jeremy W. Sherman
+-   Jeremy Cherfas
+
+If you’d like to support the show, you can make a pledge at Patreon.com/winningslowly or give directly at cash.me/$winningslowly
+]]></itunes:summary>
+            <itunes:keywords>ethics,technology,religion,art,culture</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>29:52</itunes:duration>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="http://www.winningslowly.org/podcast.png"/>
+        </item>
         <item>
             <title>4.03: The Podcast Awakens</title>
             <link>http://www.winningslowly.org/4.03/</link>
