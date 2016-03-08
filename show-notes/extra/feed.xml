@@ -10,8 +10,8 @@
         <copyright>2014–2016 Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Mon, 07 Mar 2016 22:09:23 -0500</pubDate>
-        <lastBuildDate>Mon, 07 Mar 2016 22:09:23 -0500</lastBuildDate>
+        <pubDate>Tue, 08 Mar 2016 07:06:00 -0500</pubDate>
+        <lastBuildDate>Tue, 08 Mar 2016 07:06:01 -0500</lastBuildDate>
         <ttl>30</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -43,11 +43,22 @@
         <item>
             <title>4.08: A Ghost in Singapore</title>
             <link>http://www.winningslowly.org/4.08/</link>
-            <description><![CDATA[<h3 id="show-notes">Show Notes</h3>
+            <description><![CDATA[<p>John O'Nolan on Ghost, Singapore, international commerce, and giving the benefit of the doubt</p>
+<h3 id="show-notes">Show Notes</h3>
 <p>We invite <a href="https://ghost.org">Ghost</a> cofounder John O’Nolan on the show to talk about Ghost’s reincorporation in Singapore, what that means for them as a non-profit, and how we should think about these kinds of moves. We talk about everything from the specific details of Ghost’s move to the ethics of business tourism, and John basically hammers on themes we’ve been talking about all season. It’s <em>fantastic</em>.</p>
 <h3 id="links">Links</h3>
 <ul>
 <li><a href="https://blog.ghost.org/moving-to-singapore/">“Ghost is moving to Singapore—and saying goodbye to the UK”</a> (John O’Nolan at the Ghost blog)</li>
+<li><a href="https://stripe.com">Stripe</a>
+<ul>
+<li><a href="https://stripe.com/atlas">Stripe Atlas</a></li>
+</ul></li>
+<li><a href="https://en.wikipedia.org/wiki/European_Union_value_added_tax">VAT</a>
+<ul>
+<li><a href="https://www.gov.uk/guidance/register-and-use-the-vat-mini-one-stop-shop">VAT-MOSS</a></li>
+</ul></li>
+<li><a href="https://en.wikipedia.org/wiki/Net_neutrality_in_the_United_States">Net neutrality in the US</a></li>
+<li><a href="http://www.theverge.com/2016/2/17/11036306/apple-fbi-iphone-encryption-backdoor-tim-cook">FBI demanding iPhone unlocking under a law from the 1700s</a></li>
 <li><a href="https://freedomhouse.org/report/freedom-world/2015/singapore">“Singapore”</a> – Freedom House Report</li>
 <li><a href="https://en.wikipedia.org/wiki/Censorship_in_Singapore">“Censorship in Singapore”</a> (Wikipedia)
 <ul>
@@ -71,10 +82,9 @@
 </ul>
 <p>If you’d like to support the show, you can make a pledge at <a href="//www.patreon.com/winningslowly">Patreon</a> or give directly via <a href="//cash.me/$winningslowly">Square Cash</a>.</p>
 <h3 id="respond">Respond</h3>
-<p>We love to hear your thoughts. Hit us up via <a href="//www.twitter.com/winningslowly">Twitter</a>, <a href="//www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=4.08:%20A%20Ghost%20in%20Singapore">email</a>!</p>
-]]></description>
-            <pubDate>Mon, 07 Mar 2016 22:00:00 -0500</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/4.08.m4a" length="13148011" type="audio/x-m4a"/>
+<p>We love to hear your thoughts. Hit us up via <a href="//www.twitter.com/winningslowly">Twitter</a>, <a href="//www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=4.08:%20A%20Ghost%20in%20Singapore">email</a>!</p>]]></description>
+            <pubDate>Tue, 08 Mar 2016 07:00:00 -0500</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/4.08.m4a" length="13139127" type="audio/x-m4a"/>
             <guid isPermaLink="false">507211F5-C81F-411B-92CF-135C971C1029</guid>
             <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
             <itunes:summary><![CDATA[John O'Nolan on Ghost, Singapore, international commerce, and giving the benefit of the doubt
@@ -106,7 +116,7 @@ Respond
 We love to hear your thoughts. Hit us up via Twitter (@winningslowly), Facebook (winningslowlypodcast), or email (hello@winningslowly.org)!
 ]]></itunes:summary>
             <itunes:keywords>ethics,technology,religion,art,culture</itunes:keywords>
-            <itunes:duration>36:48</itunes:duration>
+            <itunes:duration>36:15</itunes:duration>
             <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
             <media:thumbnail url="http://www.winningslowly.org/podcast.png"/>
         </item>
