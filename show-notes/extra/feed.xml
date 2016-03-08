@@ -10,8 +10,8 @@
         <copyright>2014–2016 Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Tue, 01 Mar 2016 09:19:58 -0500</pubDate>
-        <lastBuildDate>Tue, 01 Mar 2016 09:19:59 -0500</lastBuildDate>
+        <pubDate>Mon, 07 Mar 2016 22:09:23 -0500</pubDate>
+        <lastBuildDate>Mon, 07 Mar 2016 22:09:23 -0500</lastBuildDate>
         <ttl>30</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -40,6 +40,76 @@
         <itunes:category text="Religion &amp; Spirituality">
             <itunes:category text="Christianity"/>
         </itunes:category>
+        <item>
+            <title>4.08: A Ghost in Singapore</title>
+            <link>http://www.winningslowly.org/4.08/</link>
+            <description><![CDATA[<h3 id="show-notes">Show Notes</h3>
+<p>We invite <a href="https://ghost.org">Ghost</a> cofounder John O’Nolan on the show to talk about Ghost’s reincorporation in Singapore, what that means for them as a non-profit, and how we should think about these kinds of moves. We talk about everything from the specific details of Ghost’s move to the ethics of business tourism, and John basically hammers on themes we’ve been talking about all season. It’s <em>fantastic</em>.</p>
+<h3 id="links">Links</h3>
+<ul>
+<li><a href="https://blog.ghost.org/moving-to-singapore/">“Ghost is moving to Singapore—and saying goodbye to the UK”</a> (John O’Nolan at the Ghost blog)</li>
+<li><a href="https://freedomhouse.org/report/freedom-world/2015/singapore">“Singapore”</a> – Freedom House Report</li>
+<li><a href="https://en.wikipedia.org/wiki/Censorship_in_Singapore">“Censorship in Singapore”</a> (Wikipedia)
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Internet_censorship_in_Singapore">“Internet Censorship in Singapore”</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Media_censorship_in_Singapore">“Media Censorship in Singapore”</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Human_rights_in_Singapore">“Human Rights in Singapore”</a></li>
+</ul></li>
+<li><a href="http://blogs.wsj.com/indonesiarealtime/2013/03/01/singapore-professor-denied-tenure-sparks-academic-freedom-debate/">“Singapore Professor Denied Tenure, Sparks Academic Freedom Debate”</a> (Wall Street Journal)</li>
+</ul>
+<h3 id="music">Music</h3>
+<ul>
+<li><a href="https://supersmall.bandcamp.com/track/a-better-life">“A Better Life”</a> from <a href="https://supersmall.bandcamp.com/album/silent-moon"><em>Silent Moon</em></a> by <a href="http://supersmallmusic.com">Supersmall</a>. Used by permission.</li>
+<li><a href="//soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho. If you ever do a remix of this track, we’ll probably feature it on the show. (Seriously.)</li>
+</ul>
+<h3 id="sponsors">Sponsors</h3>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Andrew Fallows</li>
+<li>Jeremy W. Sherman</li>
+<li>Jeremy Cherfas</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href="//www.patreon.com/winningslowly">Patreon</a> or give directly via <a href="//cash.me/$winningslowly">Square Cash</a>.</p>
+<h3 id="respond">Respond</h3>
+<p>We love to hear your thoughts. Hit us up via <a href="//www.twitter.com/winningslowly">Twitter</a>, <a href="//www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=4.08:%20A%20Ghost%20in%20Singapore">email</a>!</p>
+]]></description>
+            <pubDate>Mon, 07 Mar 2016 22:00:00 -0500</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.winningslowly.org/4.08.m4a" length="13148011" type="audio/x-m4a"/>
+            <guid isPermaLink="false">507211F5-C81F-411B-92CF-135C971C1029</guid>
+            <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
+            <itunes:summary><![CDATA[John O'Nolan on Ghost, Singapore, international commerce, and giving the benefit of the doubt
+
+Show Notes
+
+We invite Ghost cofounder John O’Nolan on the show to talk about Ghost’s reincorporation in Singapore, what that means for them as a non-profit, and how we should think about these kinds of moves. We talk about everything from the specific details of Ghost’s move to the ethics of business tourism, and John basically hammers on themes we’ve been talking about all season. It’s _fantastic_.
+
+
+Music
+
+-   “A Better Life” from _Silent Moon_ by Supersmall. Used by permission.
+-   “Winning Slowly Theme” by Chris Krycho. If you ever do a remix of this track, we’ll probably feature it on the show. (Seriously.)
+
+
+Sponsors
+
+Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:
+
+-   Andrew Fallows
+-   Jeremy W. Sherman
+-   Jeremy Cherfas
+
+If you’d like to support the show, you can make a pledge at Patreon.com/winningslowly or give directly via Square Cash (cash.me/$winningslowly).
+
+
+Respond
+
+We love to hear your thoughts. Hit us up via Twitter (@winningslowly), Facebook (winningslowlypodcast), or email (hello@winningslowly.org)!
+]]></itunes:summary>
+            <itunes:keywords>ethics,technology,religion,art,culture</itunes:keywords>
+            <itunes:duration>36:48</itunes:duration>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="http://www.winningslowly.org/podcast.png"/>
+        </item>
         <item>
             <title>4.07: A Muscle-Flexing Flyby</title>
             <link>http://www.winningslowly.org/4.07/</link>
