@@ -354,7 +354,6 @@ article {
     }
 
     section {
-        width: 30em;
         margin: {
             left: auto;
             right: auto;
@@ -371,9 +370,19 @@ article {
     }
 }
 
-.index article {
+.index {
     h4 {
-        text-align: center;
+        margin-top: 1em;
+    }
+
+    article {
+        h4 {
+            text-align: center;
+        }
+
+        p, ul, ol {
+            line-height: 1.75;
+        }
     }
 }
 
@@ -500,6 +509,7 @@ article {
     font-size: $fsh5;
     clear: both;
     background: $light_purple;
+    margin-top: 1em;
 
     @include flexbox();
     @include justify-content(space-between);

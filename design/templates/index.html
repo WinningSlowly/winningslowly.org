@@ -3,9 +3,11 @@
 {% block content %}
     <article>
         <p>There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape <em>tomorrow</em>, but there aren’t that many concerned with the potential impact of that tech a decade from now. In a culture obsessed with <em>now</em>, how can we make choices with a view for tomorrow, next year, and beyond?</p>
-        <p>Episodes (usually) come out every Tuesday at 7 am Eastern time. If unforeseen scheduling issues arise, we will add a note below accordingly. Episodes are normally 25–30 minutes long.</p>
-        <h3>Current (<a href="/season-{{ CURRENT_SEASON }}.html">Season {{ CURRENT_SEASON }}</a>)</h3>
+        <p>Episodes (usually) come out every other Tuesday at 7 am Eastern time. If unforeseen scheduling issues arise, we will add a note below accordingly. Episodes are normally 25–30 minutes long.</p>
+        <h3>Current ({#<a href="/season-{{ CURRENT_SEASON }}.html">#}Season {{ CURRENT_SEASON }}{#</a>#})</h3>
     </article>
+
+    <article><h4>Arriving on August 9, 2016.</h4></article>
 
     {% for category, category_articles in categories %}
         {% if category == CURRENT_SEASON %}
@@ -33,13 +35,20 @@
     <article>
         <h3>Previous</h3>
         <section>
+            <h4 id="season-4"><a href="/season-4.html">Season 4</a></h4>
+            <p>In our spring 2016 season, we took a long look at globalization: the good, the bad, the ugly. (This was also the first time we planned a season start to finish before we kicked it off, and it shows.)</p>
+            <p>We talked about everything from international business (<a href='//www.winningslowly.org/4.08/'>4.08: A Ghost in Singapore</a>) to <cite>Star Wars</cite> (<a href='//www.winningslowly.org/4.03'>4.03: The Podcast Awakens</a> and <a href='//www.winningslowly.org/4.04'>4.04: But Was It a Good Movie?</a>) and from social media in a populist era (<a href='//www.winningslowly.org/4.10'>4.10: The Ancient Wisdom of Usenet</a>) to the challenges of global benevolence (<a href='//www.winningslowly.org/4.02/'>4.01: Unambiguously Meh</a>, <a href='//www.winningslowly.org/4.02/'>4.02: Helpiness</a>, and <a href='//www.winningslowly.org/4.02/'>4.09: We’re Idealist Realists</a>)</p>
+            <p>Along the way, we developed an important distinction between the <em>reasonable</em> and the <em>justifiable</em>: a way to help us bridge the gap with people we disagree with, while still disagreeing with them—sometimes fervently.</p>
+        </section>
+        <section>
             <h4 id="season-3"><a href="/season-3.html">Season 3</a></h4>
-            <p>Season 3 was our first attempt at doing a more topical season,
-                with an emphasis on the relationship between advertising, busines interests, and capitalism and human flourishing. We kicked off the season with <a href="//www.winningslowly.org/3.01/">3.01: The Ad-Driven Web, Part I</a> and <a href="//www.winningslowly.org/3.02/">3.02: The Ad-Driven Web, Part II</a> on July 21 and 28, 2015, respectively, and concluded with some lightning round-style episodes in <a href="//www.winningslowly.org/3.14/">3.14: Smorgasbord, Part I</a> and <a href="//www.winningslowly.org/3.15/">3.15: Smorgasbord, Part II</a> on October 27 and November 3, 2015, respectively.</p>
+            <p>Season 3 was our first attempt at doing a more topical season, with an emphasis on the relationship between advertising, busines interests, and capitalism and human flourishing.</p>
+            <p>We kicked off the season with <a href="//www.winningslowly.org/3.01/">3.01: The Ad-Driven Web, Part I</a> and <a href="//www.winningslowly.org/3.02/">3.02: The Ad-Driven Web, Part II</a> on July 21 and 28, 2015, respectively, and concluded with some lightning round-style episodes in <a href="//www.winningslowly.org/3.14/">3.14: Smorgasbord, Part I</a> and <a href="//www.winningslowly.org/3.15/">3.15: Smorgasbord, Part II</a> on October 27 and November 3, 2015, respectively. The season also included our first interview: <a href='//www.winningslowly.org/3.09/'>3.09: Many Beautiful Things</a>, with Ryan O’Neal of Sleeping at Last.</p>
         </section>
         <section>
             <h4 id="season-2"><a href="/season-2.html">Season 2</a></h4>
             <p>Season 2 began with <a href="//www.winningslowly.org/2.01/">2.01: Take My Money Please!</a> on January 27, 2015 and concluded with <a href="//www.winningslowly.org/2.15/">2.15: Metapodcasting</a> on May 12, 2015.</p>
+            <p>Think of this as our “tightening things up now that we know what we’re doing” season and you won’t be far wrong.
         </section>
         <section>
             <h4 id="season-1"><a href="/season-1.html">Season 1</a></h4>
@@ -65,7 +74,7 @@
     <article>
         <h3>Support Us!</h3>
         <section>
-            <p>You can subscribe to our <a class="social-inline-link" href="/feed.xml"><i class="fa fa-fw fa-rss"></i>feed</a> directly or via <a class="social-inline-link" href="{{ IDENTITY['Site']['iTunes'] }}"><i class="fa fa-fw fa-play-circle"></i>iTunes</a>. You can also find us on <a class="social-inline-link" href="{{ IDENTITY['Site']['Twitter'] }}"><i class="fa fa-twitter"></i>Twitter</a>, <a class="social-inline-link" href="{{ IDENTITY['Site']['Facebook'] }}"><i class="fa fa-facebook"></i>Facebook</a>, or <a class="social-inline-link" href="{{ IDENTITY['Site']['App.net'] }}"><i class="fa fa-fw fa-adn"></i>App.net</a>.</p>
+            <p>You can subscribe to our <a class="social-inline-link" href="/feed.xml"><i class="fa fa-fw fa-rss"></i>feed</a> directly or via <a class="social-inline-link" href="{{ IDENTITY['Site']['iTunes'] }}"><i class="fa fa-fw fa-play-circle"></i>iTunes</a>. You can also find us on <a class="social-inline-link" href="{{ IDENTITY['Site']['Twitter'] }}"><i class="fa fa-twitter"></i>Twitter</a> or <a class="social-inline-link" href="{{ IDENTITY['Site']['Facebook'] }}"><i class="fa fa-facebook"></i>Facebook</a>.</p>
             <p>You can support the show via a monthly pledge at <a href="{{ IDENTITY['Site']['Patreon'] }}">Patreon</a> or by giving directly with <a href="{{ IDENTITY['Site']['Square'] }}">Square Cash</a>. 10% of all support for the show goes to the Internet Archive.</p>
         <section>
     </article>

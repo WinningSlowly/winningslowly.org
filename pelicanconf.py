@@ -25,7 +25,7 @@ DEFAULT_LANG = 'en'
 THEME = "design"
 
 # Show configuration
-CURRENT_SEASON = '4'
+CURRENT_SEASON = '5'
 
 # Feed generation is usually not desired when developing
 FEED_DOMAIN = SITEURL
@@ -46,8 +46,7 @@ IDENTITY = {'Site': {'RSS': FEED_DOMAIN + '/' + CUSTOM_FEED_URL,
                      'Patreon': 'https://www.patreon.com/winningslowly',
                      'Square': 'https://cash.me/$winningslowly',
                      'Twitter': 'https://twitter.com/winningslowly'},
-            'Chris': {'App.net': 'https://app.net/chriskrycho',
-                      'GitHub': 'https://github.com/chriskrycho',
+            'Chris': {'GitHub': 'https://github.com/chriskrycho',
                       'Twitter': 'https://twitter.com/chriskrycho',
                       'Homepage': 'http://chriskrycho.com'},
             'Stephen': {'Twitter': 'https://twitter.com/scarradini',
