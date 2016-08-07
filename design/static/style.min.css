@@ -42,7 +42,7 @@ strong strong { text-decoration: underline; }
 /* Styles */
 html { font-size: 112.5%; color: #444; font-family: "Museo Sans", "Century Gothic", sans-serif; }
 
-body { background: #FFFFF6; line-height: 1.5; }
+body { background: #FFFFF6; border: 0.4rem solid #444; border-bottom: none; line-height: 1.5; }
 
 h1 { font-size: 3.375rem; font-family: "Museo Slab", Rockwell, Cambria, serif; }
 
@@ -88,7 +88,7 @@ img { max-width: 100%; max-height: 100%; }
 figure { margin-bottom: 1rem; text-align: center; padding: 0.52em; font-weight: 300; font-size: 0.78rem; line-height: 1.171; font-style: italic; }
 
 /* Layout */
-#wrapper { max-width: 44rem; padding: 0 1rem; margin: auto; }
+#wrapper { max-width: 44rem; padding: 0 1rem 3.375rem; margin: auto; }
 
 br.optional { display: none; }
 
@@ -105,7 +105,7 @@ header#banner h1 #slowly { color: #ED9747; font-size: 1.92em; font-family: "Felt
 header#banner h2 { text-align: center; color: #6063C9; margin-top: -1rem; font-weight: 400; font-size: 1.2rem; padding-bottom: 2rem; }
 
 /* Podcast items */
-article { padding-bottom: 6.75rem; }
+article { padding-bottom: 3.375rem; line-height: 1.7; }
 article h1 { margin-bottom: 1rem; font-weight: 300; }
 article h2 { margin-bottom: 1rem; font-weight: 700; text-align: center; }
 article h3 { text-align: center; margin-bottom: 1rem; margin-left: auto; margin-right: auto; border-bottom: 1px solid #8C8C83; }
@@ -131,7 +131,6 @@ article a.social-inline-link i { display: inline-block; padding-right: 2px; }
 
 .index h4 { margin-top: 1em; }
 .index article h4 { text-align: center; }
-.index article p, .index article ul, .index article ol { line-height: 1.75; }
 
 .archive .season { text-align: center; padding-bottom: 1rem; }
 .archive article { min-height: 4em; padding-bottom: 2em; }
@@ -145,13 +144,13 @@ article a.social-inline-link i { display: inline-block; padding-right: 2px; }
 .archive article header .title { -webkit-box-flex: 1 40%; -moz-box-flex: 1 40%; -webkit-flex: 1 40%; -ms-flex: 1 40%; flex: 1 40%; font-family: "Museo Slab", Rockwell, Cambria, serif; font-weight: 500; text-align: right; padding-right: 0.243rem; }
 .archive article header .title #episode-title { text-transform: uppercase; }
 
-.category.nav { font-size: 1.5rem; clear: both; background: #6063C9; margin-top: 1em; display: -webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex; -webkit-justify-content: space-between; -moz-justify-content: space-between; -ms-justify-content: space-between; justify-content: space-between; -webkit-align-content: flex-start; -moz-align-content: flex-start; -ms-align-content: flex-start; align-content: flex-start; -webkit-flex-flow: row wrap; -moz-flex-flow: row wrap; -ms-flex-flow: row wrap; flex-flow: row wrap; }
-.category.nav .season-link { -webkit-box-flex: 1; -moz-box-flex: 1; -webkit-flex: 1; -ms-flex: 1; flex: 1; border: none; color: #FFFFF6; text-align: center; padding-top: 0.39rem; padding-bottom: 0.39rem; }
+.category.nav { font-size: 1.5rem; clear: both; background: #6063C9; margin-left: -0.4rem; margin-right: -0.4rem; border-left: 0.4rem solid #FFFFF6; border-right: 0.4rem solid #FFFFF6; display: -webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex; -webkit-justify-content: space-between; -moz-justify-content: space-between; -ms-justify-content: space-between; justify-content: space-between; -webkit-align-content: flex-start; -moz-align-content: flex-start; -ms-align-content: flex-start; align-content: flex-start; -webkit-flex-flow: row wrap; -moz-flex-flow: row wrap; -ms-flex-flow: row wrap; flex-flow: row wrap; }
+.category.nav .season-link { -webkit-box-flex: 1 0 12rem; -moz-box-flex: 1 0 12rem; -webkit-flex: 1 0 12rem; -ms-flex: 1 0 12rem; flex: 1 0 12rem; border: none; color: #FFFFF6; text-align: center; padding-top: 0.39rem; padding-bottom: 0.39rem; }
 .category.nav .season-link:hover, .category.nav .season-link:active { background: #7C7EC9; }
 .category.nav .prev { text-align: left; padding-left: 12%; }
 .category.nav .next { text-align: right; padding-right: 12%; }
 
-footer { display: -webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex; -webkit-justify-content: space-around; -moz-justify-content: space-around; -ms-justify-content: space-around; justify-content: space-around; -webkit-align-content: flex-start; -moz-align-content: flex-start; -ms-align-content: flex-start; align-content: flex-start; -webkit-flex-flow: row wrap; -moz-flex-flow: row wrap; -ms-flex-flow: row wrap; flex-flow: row wrap; clear: both; background: #444; color: #FFFFF6; text-align: center; padding-top: 2.25rem; }
+footer { display: -webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex; -webkit-justify-content: space-around; -moz-justify-content: space-around; -ms-justify-content: space-around; justify-content: space-around; -webkit-align-content: flex-start; -moz-align-content: flex-start; -ms-align-content: flex-start; align-content: flex-start; -webkit-flex-flow: row wrap; -moz-flex-flow: row wrap; -ms-flex-flow: row wrap; flex-flow: row wrap; clear: both; margin-left: -0.4rem; margin-right: -0.4rem; border: 0.4rem solid #6063C9; border-top: none; background: #444; color: #FFFFF6; text-align: center; padding-top: 2.25rem; }
 footer p, footer ul, footer ol, footer h1, footer h2, footer h3, footer h4, footer h5, footer h6 { font-size: 90%; }
 footer p { text-align: left; font-weight: 300; }
 footer a, footer a:visited { color: #7C7EC9; }

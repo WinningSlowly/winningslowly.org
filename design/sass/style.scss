@@ -12,6 +12,8 @@ html {
 
 body {
     background: $background;
+    border: 0.4rem solid $text;
+    border-bottom: none;
     line-height: $lh;
 }
 
@@ -154,7 +156,7 @@ figure {
 /* Layout */
 #wrapper {
     max-width: 44rem;
-    padding: 0 1rem;
+    padding: 0 1rem $fsh1;
     margin: auto;
 }
 
@@ -224,7 +226,8 @@ header#banner {
 
 /* Podcast items */
 article {
-    padding-bottom: $fsh1*2;
+    padding-bottom: $fsh1;
+    line-height: 1.7;
 
     @mixin header-item() {
         margin-bottom: 1rem;
@@ -379,10 +382,6 @@ article {
         h4 {
             text-align: center;
         }
-
-        p, ul, ol {
-            line-height: 1.75;
-        }
     }
 }
 
@@ -509,7 +508,11 @@ article {
     font-size: $fsh5;
     clear: both;
     background: $light_purple;
-    margin-top: 1em;
+
+    margin-left: -0.4rem;
+    margin-right: -0.4rem;
+    border-left: 0.4rem solid $background;
+    border-right: 0.4rem solid $background;
 
     @include flexbox();
     @include justify-content(space-between);
@@ -517,7 +520,7 @@ article {
     @include flex-flow(row wrap);
 
     .season-link {
-        @include flex(1);
+        @include flex(1 0 12rem);
         border: none;
         color: $background;
         text-align: center;
@@ -547,6 +550,11 @@ footer {
     @include flex-flow(row wrap);
 
     clear: both;
+
+    margin-left: -0.4rem;
+    margin-right: -0.4rem;
+    border: 0.4rem solid $light_purple;
+    border-top: none;
 
     background: $text;
     color: $background;
