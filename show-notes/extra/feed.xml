@@ -4,14 +4,14 @@
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>Taking the long view on technology, religion, ethics, and art. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 3 3.1.8(2650); Mac OS X Version 10.11.4 (Build 15E65) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.2.6(2774); Mac OS X Version 10.11.6 (Build 15G31) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2014–2016 Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Wed, 20 Apr 2016 06:50:21 -0400</pubDate>
-        <lastBuildDate>Wed, 20 Apr 2016 06:50:21 -0400</lastBuildDate>
+        <pubDate>Mon, 08 Aug 2016 08:43:21 -0400</pubDate>
+        <lastBuildDate>Mon, 08 Aug 2016 08:43:21 -0400</lastBuildDate>
         <ttl>30</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -40,6 +40,139 @@
         <itunes:category text="Religion &amp; Spirituality">
             <itunes:category text="Christianity"/>
         </itunes:category>
+        <item>
+            <title>5.01: A Ph.D.-Level Math Problem</title>
+            <link>http://www.winningslowly.org/5.01/</link>
+            <description><![CDATA[<p>Structures and systems, agency and individuals: three axes (and a sub-axis) for thinking about the world we live in.</p>
+<h3>Show Notes</h3>
+<p>We introduce our system for thinking about the "structure/agency" or "systems and individuals" problem: how do the systems and structures of our lives shape us? How do we shape <em>them</em>? How free are we, and where are the places where more freedom is good, and the places where it might actually be bad? How do we confront the structural issues we face, or strengthen and preserve the good systems we do have in place?</p>
+<h4>Questions we'll be asking</h4>
+<ul>
+<li>How much can a system penalize an individual for not being part of it?</li>
+<li>How much can a system hurt an individual who is part of it?</li>
+<li>How much can a system benefit an individual that is part of it?</li>
+<li>How much can a system benefit an individual who is not part of it?</li>
+</ul>
+<h4>Our analytical axes</h4>
+<ul>
+<li><strong>Positive</strong> <em>vs.</em> <strong>Negative</strong>: is the relationship between systems and individuals good or bad---and if so, for society as a whole, for individuals, or both?</li>
+<li><strong>Visible</strong> <em>vs.</em> <strong>Invisible</strong>: is the structural pressure visible or invisible---i.e., living in a capitalist society is <em>invisible</em> but deeply impacts us.</li>
+<li><strong>Legal</strong> <em>vs.</em> <strong>Social</strong>: does the structure get its force through law and the power of the government, or through cultural and societal pressure?
+<ul>
+<li><strong>Organized</strong> <em>vs.</em> <strong>Unorganized</strong>: both social movements and legal structures may be more or less coherent and organized.</li>
+</ul>
+</li>
+</ul>
+<h4>Applying the axes</h4>
+<p>Two big questions we'll ask about the particulars for each issue we look at:</p>
+<ul>
+<li>How constrained are you by these structural pressures?</li>
+<li>To what extent is that constraint or freedom good or problematic?</li>
+</ul>
+<p>We think that in almost no cases is a radical end of individual freedom <em>or</em> structural control right. Nor does any system have merely positive or negative outcomes; we live in a broken world where even the best systems working in the most productive cycles with the most virtuous individuals still cannot solve everything perfectly. (And, since people's own situations and religious and ethical beliefs differe, there will be people who dispute our positive/negative valence. We make no apologies for ours, but we welcome disagreement!)</p>
+<h3>Links</h3>
+<ul>
+<li><a href="https://mereorthodoxy.com/theses-on-podcasting/">32 Theses (and several more words) on Podcasting</a></li>
+<li><a href="https://www.archive.org/">The Internet Archive</a></li>
+</ul>
+<h3>Music</h3>
+<ul>
+<li><a href="https://themidnightsons.bandcamp.com/track/equations">"Equations"</a>, by <a href="https://themidnightsons.bandcamp.com">The Midnight Sons</a>, which is Stephen. Used by Stephen's permission. Or insistence, even.</li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">"Winning Slowly Theme"</a> by Chris Krycho. Kind of strange to think it's been two and a half years since he wrote this.</li>
+</ul>
+<h3>Sponsors</h3>
+<p>Many thanks to the people who help us make this show possible by their financial<br />
+support! This month's sponsors:</p>
+<ul>
+<li>Andrew Fallows</li>
+<li>Jeremy W. Sherman</li>
+<li>Jeremy Cherfas</li>
+</ul>
+<p>If you'd like to support the show, you can make a pledge at <a href="https://www.patreon.com/winningslowly">Patreon</a> or give<br />
+directly via <a href="https://cash.me/$winningslowly">Square Cash</a>.</p>
+<h3>Respond</h3>
+<p>We love to hear your thoughts. Hit us up via <a href="https://www.twitter.com/winningslowly">Twitter</a>, <a href="https://www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=5.01: A Ph.D.-Level Math Problem">email</a>!</p>
+]]></description>
+            <pubDate>Tue, 09 Aug 2016 07:00:00 -0400</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/5.01.mp3" length="10477753" type="audio/mpeg"/>
+            <guid isPermaLink="false">8459CBF9-91BE-4C8B-A044-256CC87D8259</guid>
+            <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
+            <itunes:summary><![CDATA[Structures and systems, agency and individuals: three axes (and a sub-axis) for thinking about the world we live in.
+
+
+Show Notes
+
+We introduce our system for thinking about the "structure/agency" or "systems and individuals" problem: how do the systems and structures of our lives shape us? How do we shape them? How free are we, and where are the places where more freedom is good, and the places where it might actually be bad? How do we confront the structural issues we face, or strengthen and preserve the good systems we do have in place?
+
+
+Questions we'll be asking
+
+• How much can a system penalize an individual for not being part of it?
+
+• How much can a system hurt an individual who is part of it?
+
+• How much can a system benefit an individual that is part of it?
+
+• How much can a system benefit an individual who is not part of it?
+
+
+Our analytical axes
+
+• Positive vs. Negative: is the relationship between systems and individuals good or bad—and if so, for society as a whole, for individuals, or both?
+
+• Visible vs. Invisible: is the structural pressure visible or invisible—i.e., living in a capitalist society is invisible but deeply impacts us.
+
+• Legal vs. Social: does the structure get its force through law and the power of the government, or through cultural and societal pressure?
+
+    ◦ Organized vs. Unorganized: both social movements and legal structures may be more or less coherent and organized.
+
+
+
+Applying the axes
+
+Two big questions we'll ask about the particulars for each issue we look at:
+
+• How constrained are you by these structural pressures?
+• To what extent is that constraint or freedom good or problematic?
+
+We think that in almost no cases is a radical end of individual freedom or structural control right. Nor does any system have merely positive or negative outcomes; we live in a broken world where even the best systems working in the most productive cycles with the most virtuous individuals still cannot solve everything perfectly. (And, since people's own situations and religious and ethical beliefs differ, there will be people who dispute our positive/negative valence. We make no apologies for ours, but we welcome disagreement!)
+
+Links
+
+• 32 Theses (and several more words) on Podcasting
+
+• The Internet Archive
+
+Music
+
+• "Equations", by The Midnight Sons, which is Stephen. Used by Stephen's permission. Or insistence, even.
+
+• "Winning Slowly Theme" by Chris Krycho. Kind of strange to think it's been two and a half years since he wrote this.
+
+
+Sponsors
+
+Many thanks to the people who help us make this show possible by their financial
+support! This month's sponsors:
+
+• Andrew Fallows
+
+• Jeremy W. Sherman
+
+• Jeremy Cherfas
+
+If you'd like to support the show, you can make a pledge at Patreon or give
+directly via Square Cash.
+
+
+Respond
+
+We love to hear your thoughts. Hit us up at twitter.com/winningslowly, facebook.com/winningslowlypodcast, or email us at hello@winningslowly.org!]]></itunes:summary>
+            <itunes:keywords>ethics,technology,religion,art,culture</itunes:keywords>
+            <itunes:duration>25:29</itunes:duration>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="http://www.winningslowly.org/podcast.png"/>
+        </item>
         <item>
             <title>4.14: This Money Might Be Illegal</title>
             <link>http://www.winningslowly.org/4.14/</link>
