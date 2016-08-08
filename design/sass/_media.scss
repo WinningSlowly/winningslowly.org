@@ -6,6 +6,8 @@
 
    .category.nav { font-size: $fsh6; }
 
+   article { line-height: $lh; }
+
    header#banner {
       padding-bottom: 0;
       h1 {
@@ -105,12 +107,15 @@
    }
 }
 
-@media only screen and (max-width: 580px) {
-   .flex-item {
-      @include flex(1 100%);
-   }
+@media only screen and (max-width: 580px), only screen and (max-height: 580px) {
+   .flex-item { @include flex(1 100%); }
 
-   .category.nav { font-size: $fsp; }
+   .category.nav {
+      font-size: $fsp;
+
+      .prev { padding-left: 6%; }
+      .next { padding-right: 6%; }
+   }
 
    header#banner {
       font-size: $fsh1;
@@ -119,10 +124,18 @@
          bottom: 0;
       }
 
-      h1 #logo img {
-         height: $fsh1;
-         width: $fsh1;
-         margin-top: $fsp;
+      h1 {
+        #logo img {
+           height: $fsh1;
+           width: $fsh1;
+           margin-top: $fsp;
+        }
+
+        font-size: $fsh3;
+      }
+
+      h2 {
+        font-size: $fsp;
       }
    }
 
@@ -130,10 +143,13 @@
       text-align: center;
    }
 
+   #slowly { font-size: $fsh4; }
+
    article {
       width: 95%;
       margin: auto;
       padding-bottom: $fsp;
+      line-height: $lh_medium;
 
       section, audio {
          width: 100%;
@@ -146,11 +162,21 @@
             padding-right: 1em;
             @include order(2);
 
-            h1 #episode-title {
-               font-size: $fsh3;
+            h1 {
+               font-size: $fsh5;
+
+               #episode-title {
+                  font-size: $fsh6;
+               }
+            }
+
+            #episode-subtitle {
+               font-size: $fsp;
+               line-height: $lh_small;
             }
          }
       }
+
       .meta {
          text-align: center;
          padding-right: 1em;
@@ -160,6 +186,8 @@
          padding-bottom: 0;
          @include order(1);
       }
+
+      h3 { font-size: $fsh5; }
    }
 
    footer {
