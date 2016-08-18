@@ -4,8 +4,8 @@
 
 {% if article is defined %}
    {% set item = article %}
-   {% set m4a = PODTRAC_M4A + "/" + CDN + "/" + item.category.slug + "." + item.number + M4A %}
-   {% set mp3 = PODTRAC_MP3 + "/" + CDN + "/" + item.category.slug + "." + item.number + MP3 %}
+   {% set m4a = PODTRAC_M4A + "/" + CDN + "/" + audio_slug + M4A %}
+   {% set mp3 = PODTRAC_MP3 + "/" + CDN + "/" + audio_slug + MP3 %}
 
 {% elif page is defined %}
    {% set item = page %}
@@ -16,7 +16,12 @@
    <div class="title">
       <h1>
       {% if item.number is defined %}
-         <span id="episode-num">Episode {{ item.category.slug }}.{{ item.number }}</span><span id="episode-title">{{ item.title }}</span>
+         {% set epPrefix = 'Episode' if item.category != 'Bonus' else '' %}
+         {% set episodeSep = '.' if item.category != 'Bonus' else ' ' %}
+         <span id="episode-num">
+            {{ epPrefix }} {{ item.category.name }}{{ episodeSep }}{{ item.number }}
+         </span>
+         <span id="episode-title">{{ item.title }}</span>
       {% else %}
          {{ item.title }}
       {% endif %}

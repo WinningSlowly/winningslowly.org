@@ -1,13 +1,19 @@
 {% extends "base.html" %}
-{% block title %}{{ article.category}}.{{article.number}}: {{ article.title}} &#9702; {{ SITENAME }} {% endblock %}
+
+{% set audio_slug = article.audio_slug if article.audio_slug else article.category ~ '.' ~ article.number %}
+
+{% block title %}
+   {% if article.category != 'Bonus' %}{{ article.category }}.{% endif %}{{ article.number }}:
+   {{ article.title}} &#9702; {{ SITENAME }}
+{% endblock %}
 {% block description %}{{ article.description|striptags }}{% endblock %}
 {% block content %}
    <article>
       {% include "includes/item-header.html" %}
 
       <audio title="{{ article.title }}" controls="controls" preload="metadata">
-         <source src="{{ PODTRAC_M4A }}/{{ CDN }}/{{ article.category }}.{{ article.number }}{{ M4A }}" />
-         <source src="{{ PODTRAC_MP3 }}/{{ CDN }}/{{ article.category }}.{{ article.number }}{{ MP3 }}" />
+         <source src="{{ PODTRAC_M4A }}/{{ CDN }}/{{ audio_slug }}{{ M4A }}" />
+         <source src="{{ PODTRAC_MP3 }}/{{ CDN }}/{{ audio_slug }}{{ MP3 }}" />
       </audio>
 
       <section id="notes">

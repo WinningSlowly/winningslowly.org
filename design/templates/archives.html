@@ -10,7 +10,13 @@
          <header>
             <a href="{{ SITEURL}}/{{ article.url }}">
                <div class="title">
-                  <span id="episode-num">Episode {{article.category}}.{{ article.number }}</span>
+                  <span id="episode-num">
+                     {% if article.category == 'Bonus' %}
+                        Bonus {{ article.number }}
+                     {% else %}
+                        Episode {{article.category}}.{{ article.number }}
+                     {% endif %}
+                  </span>
                   <span id="episode-title">{{ article.title }}</span>
                </div>
                <div class="meta">

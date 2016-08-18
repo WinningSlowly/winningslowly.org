@@ -59,9 +59,12 @@
 
    {% block section_nav %}
    <nav class='category nav'>
-       {% for cat, _ in categories %}
-           <a class="season-link" href="/{{ cat.url }}">Season {{ cat }}</a>
-       {% endfor %}
+      {% for cat, _ in categories %}
+         <a class="season-link" href="/{{ cat.url }}">
+            {% if cat != 'Bonus' %}Season{% endif %}
+            {{ cat }}
+         </a>
+      {% endfor %}
    </nav>
    {% endblock %}
 

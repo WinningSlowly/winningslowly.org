@@ -1,19 +1,28 @@
 {% extends "archives.html" %}
-{% block title %} Season {{ category }} &#9702; {{ SITENAME }}{% endblock %}
+{% set seasonPrefix = 'Season' if category != 'Bonus' else '' %}
+{% block title %} {{ seasonPrefix }} {{ category }} &#9702; {{ SITENAME }}{% endblock %}
 {% block heading %}
-<h2 class="season">Season {{ category }}</h2>
+<h2 class="season">
+   {{ seasonPrefix }} {{ category }}
+</h2>
 {% endblock %}
 
 {% block section_nav %}
 <nav class='category nav'>
-    {% set curr = category.name|int %}
-    {% for cat, _ in categories %}
-        {% set int_cat = cat.name|int %}
-        {% if int_cat == (curr + 1) %}
-        <a class="season-link next" href="/{{ cat.url }}">Season {{ cat }}<i class="fa fa-fw fa-long-arrow-right"></i></a>
-        {% elif int_cat == (curr - 1) %}
-        <a class="season-link prev" href="/{{ cat.url }}"><i class="fa fa-fw fa-long-arrow-left"></i>Season {{ cat }}</a>
-        {% endif %}
-    {% endfor %}
+   {% set curr = category.name|int %}
+   {% if category != 'Bonus' %}
+      {% for cat, _ in categories %}
+         {% if cat != 'Bonus' %}
+            {% set int_cat = cat.name|int %}
+            {% if int_cat == (curr + 1) %}
+               <a class="season-link next" href="/{{ cat.url }}">Season {{ cat }}<i class="fa fa-fw fa-long-arrow-right"></i></a>
+            {% elif int_cat == (curr - 1) %}
+               <a class="season-link prev" href="/{{ cat.url }}"><i class="fa fa-fw fa-long-arrow-left"></i>Season {{ cat }}</a>
+            {% endif %}
+         {% endif %}
+      {% endfor %}
+   {% else %}
+      <a class='season-link' href='/'>Home</a>
+   {% endif %}
 </nav>
 {% endblock %}
