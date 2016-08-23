@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 
-{% set audio_slug = article.audio_slug if article.audio_slug else article.category ~ '.' ~ article.number %}
+{% set audio_slug = article.audio_slug if article.audio_slug else article.category|lower ~ '.' ~ article.number %}
 
 {% block title %}
    {% if article.category != 'Bonus' %}{{ article.category }}.{% endif %}{{ article.number }}:
