@@ -52,7 +52,6 @@ design/static/style.min.css*
 
 # Don't push recordings and ignore output
 recordings
-output
 cache
 
 # Ulysses bits

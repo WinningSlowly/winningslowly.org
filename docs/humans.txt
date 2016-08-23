@@ -1,0 +1,38 @@
+humans.txt
+==========
+
+Who made this site?
+
+
+Team
+----
+
+**Stephen Carradini** is one of the hosts of the show. He writes the show notes
+for most episodes as of midway through Season 2. You can get in touch with him:
+
+  - at his indie music blog (http://stephencarradini.com)
+  - at his professional website (http://independentclauses.com)
+  - @scarradini on Twitter (https://www.twitter.com/scarradini)
+
+
+**Chris Krycho** is the other host of the show. He edits the episodes, and
+developed the site design and did all the software development. You can get in
+touch with him a *lot* of places:
+
+  - his website (http://www.chriskrycho.com)
+  - email: chris (at) krycho [dot] com
+  - @chriskrycho on App.net (https://alpha.app.net/chriskrycho)
+  - @chriskrycho on Twitter (https://www.twitter.com/chriskrycho)
+  - LinkedIn (https://linkedin.com/in/chriskrycho)
+
+
+**Cameron Morgan** was responsible for the logo design. You can contact
+him on Twitter: [@spidercam](https://www.twitter.com/spidercam).
+
+
+Site
+----
+
+  - Language: English
+  - Doctype: HTML5
+  - Generator: [Pelican](http://docs.getpelican.com)
