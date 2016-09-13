@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
     <channel>
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>Taking the long view on technology, religion, ethics, and art. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 3 3.2.7(2785); Mac OS X Version 10.11.6 (Build 15G31) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.2.7(2785); Mac OS X Version 10.12 (Build 16A320) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2014–2016 Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Mon, 29 Aug 2016 14:14:48 -0400</pubDate>
-        <lastBuildDate>Mon, 29 Aug 2016 14:14:48 -0400</lastBuildDate>
+        <pubDate>Mon, 12 Sep 2016 21:40:26 -0400</pubDate>
+        <lastBuildDate>Mon, 12 Sep 2016 21:40:26 -0400</lastBuildDate>
         <ttl>30</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -40,6 +40,111 @@
         <itunes:category text="Religion &amp; Spirituality">
             <itunes:category text="Christianity"/>
         </itunes:category>
+        <item>
+            <title>5.03: It's Not Like Uber</title>
+            <link>http://www.winningslowly.org/5.03/</link>
+            <description><![CDATA[<h3 id="show-notes">Show Notes</h3>
+<p>In which we look at Facebook... but not like we ever have before. Why are people starting to turn <em>off</em> Facebook, and what social pressures are arising from that? How do social pressures of this sort work, and what kinds of changes do they affect?</p>
+<h3 id="links">Links</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Virtue_signalling">Virtue signaling</a></li>
+<li><a href="http://www.theatlantic.com/magazine/archive/2008/07/is-google-making-us-stupid/306868/">“Is Google Making Us Stupid? What the Internet is doing to our brains”</a>, Nicolas Carr, <em>The Atlantic</em>, July/August 2008</li>
+<li><a href="https://www.tribtalk.org/2015/07/08/the-road-out-of-denton/">“The road out of Denton”</a> – Jim Bradbury for <em>TribTalk</em>/<em>The Texas Tribune</em>, July 8, 2015, on Texas and municipal attempts to block oil drilling.</li>
+<li>Chris’ conversation with his friend about social media:
+<ul>
+<li>spawned from <a href="https://twitter.com/chriskrycho/status/769669306049236992">this tweetstorm</a></li>
+<li>the conversation started with <a href="https://twitter.com/jamonholmgren/status/769982277082308608">this response</a></li>
+</ul></li>
+<li><strong>Before you go: <a href="https://www.washingtonpost.com/news/monkey-cage/wp/2016/08/29/the-cease-fire-in-colombias-long-civil-war-starts-today-heres-what-will-make-or-break-the-peace-process/">“The cease-fire in Colombia’s long civil war starts today. Here’s what you need to know.”</a>, <em>The Washington Post</em></strong></li>
+<li>Previous discussions of social media or episodes referenced directly on the show:
+<ul>
+<li><a href="http://www.winningslowly.org/0.13/">0.13: Ten Thousandth Lightbulb</a> – What Happened to ADN, Paying to Socialize, Free or Not Free</li>
+<li><a href="http://www.winningslowly.org/1.01/">1.01: Massive Emotional Contagion</a> – Facebook’s Social (Network) Science, User Responsibility, and Corporate Ethics</li>
+<li><a href="http://www.winningslowly.org/1.13/">1.13: Hello Ello?</a> – Definitely Still a Beta, That’s Not a Gift, How People React to News, A Working Business Model</li>
+<li><a href="http://www.winningslowly.org/3.01/">3.01: The Ad-Driven Web, Part I</a> – Denny’s, Newspapers, Native Advertising, and Vicious Cycles</li>
+<li><a href="http://www.winningslowly.org/3.02/">3.02: The Ad-Driven Web, Part II</a> – The responsibilities of producers, consumers, and advertisers on the modern web</li>
+<li><a href="http://www.winningslowly.org/3.04/">3.04: Mom Memes</a> – Generational shifts in social media and the diversifying web</li>
+<li><a href="http://www.winningslowly.org/3.05/">3.05: You Have Agency. Use It.</a> – ‘The Web We Have to Save’—hyperlinks, the stream, algorithms, and human responsibility.</li>
+<li><a href="http://www.winningslowly.org/3.11/">3.11: Augustine’s Podcast</a> – Social circles on- and offline and differences between our embodied and virtual selves.</li>
+<li><a href="http://www.winningslowly.org/3.13/">3.13: Inevitable? (Live at NC State)</a> – Self-driving cars, the limits of technology, and the tension between the personal and the communal.</li>
+<li><a href="http://www.winningslowly.org/4.10/">4.10: The Ancient Wisdom of Usenet</a> – Populism, social media, and wisdom in when, how, and where to (dis)engage with people you disagree with.</li>
+</ul></li>
+</ul>
+<h3 id="music">Music</h3>
+<ul>
+<li><a href="https://youngmister.bandcamp.com/track/the-best-part">“The Best Part”</a> by <a href="http://youngmister.com">Young Mister</a>. Used by permission.</li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho. He’s composing other music right now, and this inspired him a bit along the way. Get inspired yourself and remix it! We’ll feature it if you do.</li>
+</ul>
+<h3 id="sponsors">Sponsors</h3>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Andrew Fallows</li>
+<li>Kurt Klassen</li>
+<li>Jeremy Cherfas</li>
+<li>Jeremy W. Sherman</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href="https://www.patreon.com/winningslowly">Patreon</a> or give directly via <a href="https://cash.me/$winningslowly">Square Cash</a>.</p>
+<h3 id="respond">Respond</h3>
+<p>We love to hear your thoughts. Hit us up via <a href="//www.twitter.com/winningslowly">Twitter</a>, <a href="//www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=5.03:%20It&#39;s%20Not%20Like%20Uber">email</a>!</p>]]></description>
+            <pubDate>Tue, 13 Sep 2016 07:00:00 -0400</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/5.03.mp3" length="21232792" type="audio/mpeg"/>
+            <guid isPermaLink="false">DC7E0B74-EAA8-40F3-B935-118BECDD1A80</guid>
+            <itunes:author>Stephen Carradini and Chris krycho</itunes:author>
+            <itunes:summary><![CDATA[In which we look at Facebook... but not like we ever have before. Why are people starting to turn *off* Facebook, and what social pressures are arising from that? How do social pressures of this sort work, and what kinds of changes do they affect?
+
+
+* Previous discussions of social media or episodes referenced directly on the show:
+
+* 0.13: Ten Thousandth Lightbulb – What Happened to ADN, Paying to Socialize, Free or Not Free
+
+* 1.01: Massive Emotional Contagion – Facebook’s Social (Network) Science, User Responsibility, and Corporate Ethics
+
+* 1.13: Hello Ello? – Definitely Still a Beta, That’s Not a Gift, How People React to News, A Working Business Model
+
+* 3.01: The Ad-Driven Web, Part I – Denny’s, Newspapers, Native Advertising, and Vicious Cycles
+
+* 3.02: The Ad-Driven Web, Part II – The responsibilities of producers, consumers, and advertisers on the modern web
+
+* 3.04: Mom Memes – Generational shifts in social media and the diversifying web
+
+* 3.05: You Have Agency. Use It. – ‘The Web We Have to Save’—hyperlinks, the stream, algorithms, and human responsibility.
+
+* 3.11: Augustine’s Podcast – Social circles on- and offline and differences between our embodied and virtual selves.
+
+* 3.13: Inevitable? (Live at NC State) – Self-driving cars, the limits of technology, and the tension between the personal and the communal.
+
+* 4.10: The Ancient Wisdom of Usenet – Populism, social media, and wisdom in when, how, and where to (dis)engage with people you disagree with.
+
+
+Music
+
+* “The Best Part” by Young Mister. Used by permission.
+
+* “Winning Slowly Theme” by Chris Krycho. He’s composing other music right now, and this inspired him a bit along the way. Get inspired yourself and remix it! We’ll feature it if you do.
+
+
+Sponsors
+
+Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:
+
+* Andrew Fallows
+
+* Kurt Klassen
+
+* Jeremy Cherfas
+
+* Jeremy W. Sherman
+
+If you’d like to support the show, you can make a pledge at Patreon or give directly via Square Cash.
+
+Respond
+
+We love to hear your thoughts. Hit us up at Twitter.com/winningslowly, Facebook.com/winningslowlypodcast, or email us at hello@winningslowly.org!]]></itunes:summary>
+            <itunes:keywords>ethics,technology,religion,art,culture</itunes:keywords>
+            <itunes:duration>28:26</itunes:duration>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="http://www.winningslowly.org/podcast.png"/>
+        </item>
         <item>
             <title>5.02: Playing Monopoly: Never Okay</title>
             <link>http://www.winningslowly.org/5.02/</link>
