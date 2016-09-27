@@ -153,6 +153,26 @@ figure {
     font-style: italic;
 }
 
+.sponsors-list {
+   text-align: center;
+   font-size: $fsh6;
+   margin: 0;
+   padding: 0;
+   list-style: none;
+
+   &__sponsor {
+      margin: 0;
+      padding: 0 0 1em;
+
+      &::after,
+      &::before {
+         content: '✨';
+         display: inline-block;
+         width: 2em;
+      }
+   }
+}
+
 /* Layout */
 #wrapper {
     max-width: 44rem;

@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /* _reset.scss */
 /* http://meyerweb.com/eric/tools/css/reset/ v2.0 | 20110126 License: none (public domain)
 */
@@ -86,6 +87,10 @@ cite { font-style: italic; }
 img { max-width: 100%; max-height: 100%; }
 
 figure { margin-bottom: 1rem; text-align: center; padding: 0.52em; font-weight: 300; font-size: 0.78rem; line-height: 1.171; font-style: italic; }
+
+.sponsors-list { text-align: center; font-size: 1.171rem; margin: 0; padding: 0; list-style: none; }
+.sponsors-list__sponsor { margin: 0; padding: 0 0 1em; }
+.sponsors-list__sponsor::after, .sponsors-list__sponsor::before { content: '✨'; display: inline-block; width: 1em; }
 
 /* Layout */
 #wrapper { max-width: 44rem; padding: 0 1rem 3.375rem; margin: auto; }
