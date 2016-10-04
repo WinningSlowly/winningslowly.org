@@ -90,7 +90,7 @@ figure { margin-bottom: 1rem; text-align: center; padding: 0.52em; font-weight: 
 
 .sponsors-list { text-align: center; font-size: 1.171rem; margin: 0; padding: 0; list-style: none; }
 .sponsors-list__sponsor { margin: 0; padding: 0 0 1em; }
-.sponsors-list__sponsor::after, .sponsors-list__sponsor::before { content: '✨'; display: inline-block; width: 1em; }
+.sponsors-list__sponsor::after, .sponsors-list__sponsor::before { content: '✨'; display: inline-block; width: 2em; }
 
 /* Layout */
 #wrapper { max-width: 44rem; padding: 0 1rem 3.375rem; margin: auto; }
