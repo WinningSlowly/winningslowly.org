@@ -10,8 +10,8 @@
         <copyright>2014–2016 Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Tue, 15 Nov 2016 20:57:28 -0500</pubDate>
-        <lastBuildDate>Tue, 15 Nov 2016 20:57:28 -0500</lastBuildDate>
+        <pubDate>Mon, 28 Nov 2016 18:59:33 -0500</pubDate>
+        <lastBuildDate>Mon, 28 Nov 2016 18:59:33 -0500</lastBuildDate>
         <ttl>30</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -40,6 +40,20 @@
         <itunes:category text="Religion &amp; Spirituality">
             <itunes:category text="Christianity"/>
         </itunes:category>
+        <item>
+            <title>[Follow-up] 5.08b: On Andrew Jackson</title>
+            <link>http://www.winningslowly.org/5.08b/</link>
+            <description><![CDATA[<p>At the end of 5.08 we made an offhand joke about Andrew Jackson. On further consideration, that joke wasn't funny: it missed some <em>incredibly</em> important realities. We got this wrong.</p>
+]]></description>
+            <pubDate>Mon, 28 Nov 2016 17:00:00 -0500</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/5.08b.mp3" length="2892099" type="audio/mpeg"/>
+            <guid isPermaLink="false">D983214A-D6A1-45BA-9082-E0E6F72C0281</guid>
+            <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
+            <itunes:summary><![CDATA[At the end of 5.08 we made an offhand joke about Andrew Jackson. On further consideration, that joke wasn't funny: it missed some *incredibly* important realities. We got this wrong.]]></itunes:summary>
+            <itunes:keywords>ethics,technology,religion,art,culture</itunes:keywords>
+            <itunes:duration>3:25</itunes:duration>
+            <media:thumbnail url="http://www.winningslowly.org/podcast.png"/>
+        </item>
         <item>
             <title>5.08: Empathy is Hard Work</title>
             <link>http://www.winningslowly.org/5.08/</link>
