@@ -10,8 +10,8 @@
         <copyright>2014–2016 Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Mon, 28 Nov 2016 18:59:33 -0500</pubDate>
-        <lastBuildDate>Mon, 28 Nov 2016 18:59:33 -0500</lastBuildDate>
+        <pubDate>Tue, 29 Nov 2016 16:26:52 -0500</pubDate>
+        <lastBuildDate>Tue, 29 Nov 2016 16:26:52 -0500</lastBuildDate>
         <ttl>30</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -40,6 +40,134 @@
         <itunes:category text="Religion &amp; Spirituality">
             <itunes:category text="Christianity"/>
         </itunes:category>
+        <item>
+            <title>5.09: Regulate All The Things!</title>
+            <link>http://www.winningslowly.org/5.09/</link>
+            <description><![CDATA[<p>Negative / Visible / Legal: regulations and the open internet</p>
+<h3 id="show-notes">Show Notes</h3>
+<p>We look at internet policy and regulations as a view into the broader question of the relationship between government regulations and markets. Are all regulations harmful to the free market? Is a free market always the best? How do ideas like net neutrality and local loop unbundling play into it?</p>
+<h4 id="correction">Correction</h4>
+<p>Chris said, wrongly, that the North Carolina state government prevented Charlotte from building its own municipal fiber. What actually happened was the state passed a law preventing cities (like Wilson, North Carolina, which with the FCC sued the state but ultimately lost in a federal appeals court) from building out infrastructure to <em>other</em> communities (including rural areas outside the incorporated area of the city). The laws claimed to be in defense of competition; but there is notably no rush to build higher-speed internet to those rural areas.</p>
+<h4 id="the-winning-slowly-internet-platform">The Winning Slowly Internet Platform</h4>
+<p>What do <em>we</em> think is necessary for a well-functioning internet?</p>
+<ol type="1">
+<li><strong>Consistency and Reliability</strong>: or, you should be able to get sufficient speeds to learn or do your job on a normal basis.</li>
+<li><strong>A Free/Functioning Market for Content</strong>: or, a level playing field for all the bits.</li>
+<li><strong>A Competitive Market for Internet Service</strong>: or, enabling (1) and (2) by making internet service providers earn customers.</li>
+</ol>
+<h4 id="links">Links</h4>
+<ul>
+<li><p>Net neutrality</p>
+<ul>
+<li><p><a href="https://en.wikipedia.org/wiki/Net_neutrality">Wikipedia</a></p></li>
+<li><p><a href="http://vihart.com/net-neutrality-in-the-us-now-what/">“Net Neutrality in the US: Now What? (Vi Hart)”</a></p></li>
+<li><p><a href="http://www.theopeninter.net">The Open Internet</a> (net neutrality advocate)</p></li>
+<li><p><a href="https://en.wikipedia.org/wiki/Zero-rating">Zero-rating (Wikipedia)</a></p></li>
+</ul></li>
+<li><p>Local loop unbundling</p>
+<ul>
+<li><p><a href="https://en.wikipedia.org/wiki/Local-loop_unbundling">Wikipedia</a></p></li>
+<li><p><a href="http://www.npr.org/sections/money/2016/03/23/471633490/episode-691-the-great-unbundling">“Planey Money 691: The Great Unbundling”</a></p></li>
+<li><p>As an alternative to net neutrality: <a href="http://arstechnica.com/tech-policy/2014/06/we-dont-need-net-neutrality-we-need-competition/">“We don’t need net neutrality; we need competition—Op-ed:”Unbundled access&quot; actually works.“</a></p></li>
+</ul></li>
+<li><p><a href="http://arstechnica.com/information-technology/2016/09/muni-isp-forced-to-shut-off-fiber-to-the-home-internet-after-court-ruling/">The FCC vs. North Carolina and Tennessee on municipal ISPs offering service to neighboring communities</a></p></li>
+<li><p>Cell phone competition:</p>
+<ul>
+<li><p>The big four in the United States: AT&amp;T, Verizon, Sprint, and T-Mobile</p></li>
+<li>MVNOs: <a href="https://en.wikipedia.org/wiki/Mobile_virtual_network_operator">Wikipedia</a>
+<ul>
+<li>Cricket</li>
+<li>Ting</li>
+<li>Republic Wireless</li>
+</ul></li>
+</ul></li>
+<li><p>Previously on the show:</p>
+<ul>
+<li><p><a href="http://www.winningslowly.org/4.12/">4.12: Five Years of Facepalming</a> – The EU and internet law—monopolies, copyright, taxing, freedom of speech, and learning from each other.</p></li>
+<li><p><a href="http://www.winningslowly.org/5.07/">5.07: Books, The Internet, and Homeless People</a> – Positive / Invisible / Legal (Organized): public libraries and the common good</p></li>
+</ul></li>
+</ul>
+<h3 id="music">Music</h3>
+<ul>
+<li><a href="https://holy57.bandcamp.com/track/jep-shuffle">“Jep Shuffle”</a> by <a href="https://holy57.bandcamp.com/">Holy ’57</a>. Used by permission.</li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho.</li>
+</ul>
+<h3 id="sponsors">Sponsors</h3>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Andrew Fallows</li>
+<li>Kurt Klassen</li>
+<li>Jeremy Cherfas</li>
+<li>Jeremy W. Sherman</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href="https://www.patreon.com/winningslowly">Patreon</a> or give directly via <a href="https://cash.me/$winningslowly">Square Cash</a>.</p>
+<h3 id="respond">Respond</h3>
+<p>We love to hear your thoughts. Hit us up via <a href="//www.twitter.com/winningslowly">Twitter</a>, <a href="//www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=5.08:%20Empathy%20is%20Hard%20Work">email</a>!</p>]]></description>
+            <pubDate>Tue, 29 Nov 2016 16:25:00 -0500</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/5.09.mp3" length="25221078" type="audio/mpeg"/>
+            <guid isPermaLink="false">6666A238-4149-4B1D-949A-52D405BD5550</guid>
+            <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
+            <itunes:summary><![CDATA[Negative / Visible / Legal: regulations and the open internet
+
+
+Show Notes
+
+We look at internet policy and regulations as a view into the broader question of the relationship between government regulations and markets. Are all regulations harmful to the free market? Is a free market always the best? How do ideas like net neutrality and local loop unbundling play into it?
+
+
+Correction
+
+Chris said, wrongly, that the North Carolina state government prevented Charlotte from building its own municipal fiber. What actually happened was the state passed a law preventing cities (like Wilson, North Carolina, which with the FCC sued the state but ultimately lost in a federal appeals court) from building out infrastructure to other communities (including rural areas outside the incorporated area of the city). The laws claimed to be in defense of competition; but there is notably no rush to build higher-speed internet to those rural areas.
+
+
+The Winning Slowly Internet Platform
+
+What do we think is necessary for a well-functioning internet?
+
+* Consistency and Reliability: or, you should be able to get sufficient speeds to learn or do your job on a normal basis.
+
+* A Free/Functioning Market for Content: or, a level playing field for all the bits.
+
+* A Competitive Market for Internet Service: or, enabling (1) and (2) by making internet service providers earn customers.
+
+
+Previously on the show:
+
+* 4.12: Five Years of Facepalming – The EU and internet law—monopolies, copyright, taxing, freedom of speech, and learning from each other.
+* 5.07: Books, The Internet, and Homeless People – Positive / Invisible / Legal (Organized): public libraries and the common good
+
+
+
+Music
+
+* “Jep Shuffle” by Holy ’57. Used by permission.
+
+* “Winning Slowly Theme” by Chris Krycho.
+
+
+Sponsors
+
+Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:
+
+* Andrew Fallows
+
+* Kurt Klassen
+
+* Jeremy Cherfas
+
+* Jeremy W. Sherman
+
+If you’d like to support the show, you can make a pledge at Patreon or give directly via Square Cash.
+
+
+Respond
+
+We love to hear your thoughts. Hit us up via Twitter @winningslowly, on Facebook, or email us at hello@winningslowly.org!]]></itunes:summary>
+            <itunes:keywords>ethics,technology,religion,art,culture</itunes:keywords>
+            <itunes:duration>30:00</itunes:duration>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="http://www.winningslowly.org/podcast.png"/>
+        </item>
         <item>
             <title>[Follow-up] 5.08b: On Andrew Jackson</title>
             <link>http://www.winningslowly.org/5.08b/</link>
