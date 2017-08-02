@@ -4,14 +4,14 @@
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>Taking the long view on technology, religion, ethics, and art. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 3 3.3.4(2854); Mac OS X Version 10.12.2 (Build 16C67) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.4.5(2950); Mac OS X Version 10.12.6 (Build 16G29) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2014–2016 Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Wed, 28 Dec 2016 10:29:31 -0500</pubDate>
-        <lastBuildDate>Wed, 28 Dec 2016 10:29:32 -0500</lastBuildDate>
+        <pubDate>Wed, 02 Aug 2017 08:05:56 -0400</pubDate>
+        <lastBuildDate>Wed, 02 Aug 2017 08:05:57 -0400</lastBuildDate>
         <ttl>30</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -40,6 +40,62 @@
         <itunes:category text="Religion &amp; Spirituality">
             <itunes:category text="Christianity"/>
         </itunes:category>
+        <item>
+            <title>5.10: Super Duper, Even Uber Bad</title>
+            <link>http://www.winningslowly.org/5.10/</link>
+            <description><![CDATA[<p>Negative / Visible / Social: Sexism in the tech industry</p>
+<h3 id="show-notes">Show Notes</h3>
+<p>We look at the tech industry’s persistent habit of treating women badly – both overtly, in terms of sexual harassment, and less overtly, in terms of simply hiring and mentoring fewer women. What can we do to improve matters? What is the responsibility of individuals? Of companies? Of culture at large? Of the government?</p>
+<h4 id="links">Links</h4>
+<ul>
+<li><p>Recent examples of sexism in the tech industry:</p>
+<ul>
+<li><p><a href="https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber">“Reflecting On One Very, Very Strange Year At Uber”</a> – Susan J. Fowler, with the piece that plunged Uber into its current, very much deserved, hot mess by explaining just how sexist its internal practices were.</p></li>
+<li><p><a href="http://www.mercurynews.com/2017/07/09/fall-500-startups-ceo-dave-mcclure/">“The fall of 500 Startups CEO Dave McClure”</a> – Marisa Kendall, writing for the Mercury News, on Dave McClure of 500 Startups, who was forced to resign after (apparently well-founded) allegations of sexual harassment.</p></li>
+<li><p>Binary Capital</p>
+<ul>
+<li><p><a href="https://www.nytimes.com/2017/06/30/technology/women-entrepreneurs-speak-out-sexual-harassment.html">“Women in Tech Speak Frankly on Culture of Harassment”</a> – Katie Benner, writing for the New York Times, on women harassed by Justin Caldbeck of Binary Capital.</p></li>
+<li><p><a href="https://www.bloomberg.com/news/articles/2017-06-29/former-employee-sues-binary-for-post-resignation-harassment">“Binary Accused of Post-Resignation Harassment by Ex-Employee”</a> – Emily Chang and Sarah McBride, writing for Bloomberg, on Justin Caldbeck’s threats to a woman who had stopped working with Binary Capital on account of pervasive sexism.</p></li>
+</ul></li>
+<li><p><a href="https://techcrunch.com/2017/07/20/the-long-term-cost-of-sexual-harassment/">“The long-term cost of sexual harassment”</a> – Catherine Shu, writing for TechCrunch, with a description of her own experience of being harassed and the way it affected her long term.</p></li>
+</ul></li>
+<li><p><a href="https://medium.com/@mitch_freada/can-venture-capital-be-saved-68d522050572">“Can Venture Capital Be Saved?”</a> – Mitch and Freada Kapor, making a case for their own VC fund’s approach, with a clear recognition that (awful as it is) sexual harassment is a symptom of yet deeper problems with VC culture:</p>
+<blockquote>
+<p>How can the industry celebrate people who glory in breaking all the rules, ask forgiveness not permission, and then be surprised when people are predatory, abusive and pursue their own desires at the expense and over the objection of others?</p>
+</blockquote></li>
+<li><p><a href="http://www.businessinsider.com/sexism-women-silicon-valley-tech-why-startup-founder-sex-investor-2017-7">“I’m a startup founder and I had sex with an investor — and I am sorry”</a> – Perri Chase, writing for Business Insider, with a really thoughtful reflection on the current state of affairs, including a frank admission of her own choices and how they have played into things, but <em>without</em> blaming victims (a hard line to walk).</p></li>
+<li><p>Previously on the show:</p>
+<ul>
+<li><p><a href="http://www.winningslowly.org/season-3.html">Season 3</a> – many reflections on business success by way of taking the slow road.</p></li>
+<li><p><a href="http://www.winningslowly.org/3.07/">3.07: One Size Does Not Fit All</a> – Amazon’s workplace culture as a view into corporate ethics and responsibility.</p></li>
+</ul></li>
+</ul>
+<h3 id="music">Music</h3>
+<ul>
+<li><a href="https://thejonahproject.bandcamp.com/track/jonah-2">“Jonah 2”</a> by <a href="https://thejonahproject.bandcamp.com/releases">The Jonah Project</a>. Used by permission.</li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho.</li>
+</ul>
+<h3 id="sponsors">Sponsors</h3>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Andrew Fallows</li>
+<li>Kurt Klassen</li>
+<li>Jeremy W. Sherman</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href="https://www.patreon.com/winningslowly">Patreon</a> or give directly via <a href="https://cash.me/$winningslowly">Square Cash</a>.</p>
+<h3 id="respond">Respond</h3>
+<p>We love to hear your thoughts. Hit us up via <a href="//www.twitter.com/winningslowly">Twitter</a>, <a href="//www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=5.10:%20Super%20Duper,%20Even%20Uber%20Bad">email</a>!</p>
+]]></description>
+            <pubDate>Wed, 02 Aug 2017 08:00:00 -0400</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/5.10.mp3" length="30106167" type="audio/mpeg"/>
+            <guid isPermaLink="false">87811107-3909-4218-9B17-56104D7FB7E0</guid>
+            <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
+            <itunes:summary><![CDATA[Negative / Visible / Social: Sexism in the tech industry]]></itunes:summary>
+            <itunes:keywords>ethics,technology,religion,art,culture</itunes:keywords>
+            <itunes:duration>31:20</itunes:duration>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="http://www.winningslowly.org/podcast.png"/>
+        </item>
         <item>
             <title>[Bonus] Fall 2016 Lecture (B)</title>
             <link>http://www.winningslowly.org/bonus.04/</link>
