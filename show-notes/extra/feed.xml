@@ -4,14 +4,14 @@
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>Taking the long view on technology, religion, ethics, and art. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 3 3.4.5(2950); Mac OS X Version 10.12.6 (Build 16G29) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.4.6(2954); Mac OS X Version 10.12.6 (Build 16G29) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2014–2016 Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Wed, 02 Aug 2017 08:05:56 -0400</pubDate>
-        <lastBuildDate>Wed, 02 Aug 2017 08:05:57 -0400</lastBuildDate>
+        <pubDate>Tue, 12 Sep 2017 20:03:33 -0400</pubDate>
+        <lastBuildDate>Tue, 12 Sep 2017 20:03:33 -0400</lastBuildDate>
         <ttl>30</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -40,6 +40,20 @@
         <itunes:category text="Religion &amp; Spirituality">
             <itunes:category text="Christianity"/>
         </itunes:category>
+        <item>
+            <title>5.11: Fences, Neighbors, Etc.</title>
+            <link>http://www.winningslowly.org/5.11/</link>
+            <description><![CDATA[<p>Positive / Visible / Legal: Vaccinations and the application of force</p><h3 id="show-notes">Show Notes</h3><p>It's one thing to be pro-vaccination. It's another to mandate vaccinations for everyone on the same schedule without any exceptions.</p><p>It's one thing to be an anti-vaxxer. It's something else entirely to have reservations about the particular schedule a government mandates.</p><p>How do we defend great common goods when they pose small, but real, individual risks?</p><p><em>Carefully.</em></p><h4 id="links">Links</h4><ul><li><a href="http://www.latimes.com/local/california/la-me-ln-measles-20170120-story.html">&quot;Measles outbreak grows in L.A.'s Orthodox Jewish community despite California's strict new vaccination law&quot; (LA Times)</a></li><li><a href="https://www.thelocal.se/20151111/volvo-dragged-into-vw-emissions-scandal">&quot;Volvo dragged into VW emissions scandal&quot;</a></li></ul><h3 id="music">Music</h3><ul><li><a href="https://makesure.bandcamp.com/track/basement-halloween">&quot;Basement Halloween&quot;</a> by <a href="https://makesure.bandcamp.com/releases">Make Sure</a>. Used by permission.</li><li><a href="https://soundcloud.com/chriskrycho/winning-slowly">&quot;Winning Slowly Theme&quot;</a> by Chris Krycho.</li></ul><h3 id="sponsors">Sponsors</h3><p>Many thanks to the people who help us make this show possible by their financial support! This month's sponsors:</p><ul><li>Andrew Fallows</li><li>Kurt Klassen</li><li>Jeremy W. Sherman</li></ul><p>If you'd like to support the show, you can make a pledge at <a href="https://www.patreon.com/winningslowly">Patreon</a> or give directly via <a href="https://cash.me/$winningslowly">Square Cash</a>.</p><h3 id="respond">Respond</h3><p>We love to hear your thoughts. Hit us up via <a href="//www.twitter.com/winningslowly">Twitter</a>, <a href="//www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=5.11:%20Fences,%20Neighbors,%20Etc.">email</a>!</p>
+]]></description>
+            <pubDate>Tue, 12 Sep 2017 20:00:00 -0400</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/5.11.mp3" length="34716707" type="audio/mpeg"/>
+            <guid isPermaLink="false">57AAF32A-BB8B-48E1-9B58-CE6E67235722</guid>
+            <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
+            <itunes:summary><![CDATA[Positive / Visible / Legal: Vaccinations and the application of force]]></itunes:summary>
+            <itunes:keywords>ethics,technology,religion,art,culture</itunes:keywords>
+            <itunes:duration>36:08</itunes:duration>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+        </item>
         <item>
             <title>5.10: Super Duper, Even Uber Bad</title>
             <link>http://www.winningslowly.org/5.10/</link>
