@@ -1,12 +1,16 @@
 #!/usr/bin/env python
+
+"""Generate the site!"""
+
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-from copy import copy
-
-# Setup path to enable local helpers.
 import sys
 from pathlib import Path
+
+import helpers
+
+# Setup path to enable local helpers.
 sys.path.append(str(Path(__file__).parent))
 
 
@@ -39,7 +43,8 @@ CUSTOM_FEED_URL = 'feed.xml'
 
 # Social widget
 IDENTITY = {'Site': {'RSS': FEED_DOMAIN + '/' + CUSTOM_FEED_URL,
-                     'iTunes': 'https://itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2',
+                     'iTunes':
+                     'https://itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2',
                      'Overcast': 'https://overcast.fm/itunes807603957/winning-slowly',
                      'Pocket Casts': 'http://pca.st/Pl01',
                      'Facebook': 'https://www.facebook.com/winningslowlypodcast',
@@ -88,11 +93,11 @@ DEFAULT_DATE_FORMAT = "%B %d, %Y"
 RELATIVE_URLS = True
 
 # Path configuration
-here = Path(__file__).parent
-root = 'root'
-root_path = here / 'show-notes' / 'root'
-STATIC_PATHS = ['images', '2014', '2015', 'extra', root]
-basic_path_metadata = {'extra/CNAME': {'path': 'CNAME'},
+HERE = Path(__file__).parent
+ROOT = 'root'
+ROOT_PATH = HERE / 'show-notes' / 'root'
+STATIC_PATHS = ['images', '2014', '2015', 'extra', ROOT]
+BASIC_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
                        'extra/favicon.ico': {'path': 'favicon.ico'},
                        'extra/favicon.png': {'path': 'favicon.png'},
                        'extra/feed.xml': {'path': CUSTOM_FEED_URL},
@@ -101,13 +106,12 @@ basic_path_metadata = {'extra/CNAME': {'path': 'CNAME'},
                                                             'podcast.png'},
                        'extra/humans.txt': {'path': 'humans.txt'}}
 
-import helpers
-show_notes = here / 'show-notes'
-items = show_notes.glob('season-*/*.md')
-root_metadata = helpers.root_redirects(items, root_path)
+SHOW_NOTES = HERE / 'show-notes'
+ITEMS = SHOW_NOTES.glob('season-*/*.md')
+ROOT_METADATA = helpers.root_redirects(ITEMS, ROOT_PATH)
 
-EXTRA_PATH_METADATA = basic_path_metadata.copy()
-EXTRA_PATH_METADATA.update(root_metadata)
+EXTRA_PATH_METADATA = BASIC_PATH_METADATA.copy()
+EXTRA_PATH_METADATA.update(ROOT_METADATA)
 
 ARTICLE_EXCLUDES = ['2014', '2015', 'root']
 PAGE_EXCLUDES = ['2014', '2015', 'root']
