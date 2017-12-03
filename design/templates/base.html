@@ -23,8 +23,6 @@
    <link href="{{ SITEURL }}/favicon.ico" type="image/ico" rel="icon" />
 
    {# Scripts #}
-   {# <script src="//cdnjs.cloudflare.com/ajax/libs/zepto/1.1.2/zepto.min.js"></script>
-   <script src=""></script> #}
 
    <!--[if lt IE 9]>
    <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/html5shiv.min.js"></script>
@@ -61,7 +59,7 @@
    <nav class='category nav'>
       {% for cat, _ in categories %}
          <a class="season-link" href="/{{ cat.url }}">
-            {% if cat != 'Bonus' %}Season{% endif %}
+            {% if cat not in SPECIAL_CATEGORIES %}Season{% endif %}
             {{ cat }}
          </a>
       {% endfor %}

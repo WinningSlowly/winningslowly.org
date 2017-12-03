@@ -98,7 +98,7 @@ figure { margin-bottom: 1rem; text-align: center; padding: 0.52em; font-weight: 
 br.optional { display: none; }
 
 /* Header */
-header#banner { padding-top: 2.25rem; padding-bottom: 1.5rem; text-shadow: 1px 1px 1px #DDD; }
+header#banner { padding-top: 2.25rem; padding-bottom: 1.5rem; text-shadow: 1px 1px 1px #ddd; }
 header#banner a { color: transparent; }
 header#banner a:link, header#banner a:visited, header#banner a:hover, header#banner a:active { border-bottom: none; }
 header#banner h1 { text-align: center; }
@@ -123,13 +123,15 @@ article header .title #episode-subtitle { font-size: 1.5rem; padding-bottom: 0; 
 article header .meta { font-family: "Museo Sans", "Century Gothic", sans-serif; font-weight: 700; color: #8C8C83; }
 article header ul.meta { line-height: 1.171; display: inline-block; padding-top: 1em; padding-bottom: 0; padding-left: 0; padding-right: 0; margin-bottom: 0; }
 article header ul.meta li { display: inline-block; }
-article header ul.meta > li:after { content: "\25E6"; font-size: 0.78rem; padding-left: 1px; padding-right: 1px; }
+article header ul.meta > li:after { content: '\25E6'; font-size: 0.78rem; padding-left: 1px; padding-right: 1px; }
 article header ul.meta > li:last-child:after { content: none; }
 article header li:last-child:after { content: none; }
 article audio { display: block; text-align: center; width: 66.7%; margin-top: 2.634rem; margin-bottom: 2.25rem; margin-left: auto; margin-right: auto; }
 article #download { text-align: center; }
-article #notes ul { margin-left: 0.5rem; padding-left: 1rem; list-style: circle; }
-article #notes ol { margin-left: 0.5rem; padding-left: 1rem; list-style: decimal-leading-zero; }
+article #notes p { max-width: 36rem; margin-left: auto; margin-right: auto; }
+article #notes ul { max-width: 36rem; margin-left: auto; margin-right: auto; padding-left: 1rem; list-style: circle; }
+article #notes ol { max-width: 36rem; margin-left: auto; margin-right: auto; padding-left: 1rem; list-style: decimal-leading-zero; }
+article #notes h4 { text-align: center; }
 article section { margin-left: auto; margin-right: auto; }
 article a.social-inline-link { display: inline-block; }
 article a.social-inline-link i { display: inline-block; padding-right: 2px; }
@@ -150,7 +152,7 @@ article a.social-inline-link i { display: inline-block; padding-right: 2px; }
 .archive article header .title #episode-title { text-transform: uppercase; }
 
 .category.nav { font-size: 1.5rem; clear: both; background: #6063C9; margin-left: -0.4rem; margin-right: -0.4rem; border-left: 0.4rem solid #FFFFF6; border-right: 0.4rem solid #FFFFF6; display: -webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex; -webkit-justify-content: space-between; -moz-justify-content: space-between; -ms-justify-content: space-between; justify-content: space-between; -webkit-align-content: flex-start; -moz-align-content: flex-start; -ms-align-content: flex-start; align-content: flex-start; -webkit-flex-flow: row wrap; -moz-flex-flow: row wrap; -ms-flex-flow: row wrap; flex-flow: row wrap; }
-.category.nav .season-link { -webkit-box-flex: 1 0 8rem; -moz-box-flex: 1 0 8rem; -webkit-flex: 1 0 8rem; -ms-flex: 1 0 8rem; flex: 1 0 8rem; border: none; color: #FFFFF6; text-align: center; padding-top: 0.39rem; padding-bottom: 0.39rem; }
+.category.nav .season-link { -webkit-box-flex: 1 0 auto; -moz-box-flex: 1 0 auto; -webkit-flex: 1 0 auto; -ms-flex: 1 0 auto; flex: 1 0 auto; border: none; color: #FFFFF6; text-align: center; padding: 0.39rem 0.78rem; }
 .category.nav .season-link:hover, .category.nav .season-link:active { background: #7C7EC9; }
 .category.nav .prev { text-align: left; padding-left: 12%; }
 .category.nav .next { text-align: right; padding-right: 12%; }

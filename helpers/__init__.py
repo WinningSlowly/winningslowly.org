@@ -3,7 +3,7 @@ from pathlib import Path
 from argparse import ArgumentParser
 
 
-REDIR_TEMPLATE = """
+REDIRECT_TEMPLATE = """
 <!doctype html>
 <html>
 <head>
@@ -44,7 +44,7 @@ def root_redirects(items, root):
         root_i = root / i.with_suffix('.html').name
         if not root_i.exists():
             with root_i.open('w') as root_i_fd:
-                root_i_fd.write(REDIR_TEMPLATE.format(number=i.stem))
+                root_i_fd.write(REDIRECT_TEMPLATE.format(number=i.stem))
 
     # Add all the root files to the metadata copy.
     root_metadata = {}

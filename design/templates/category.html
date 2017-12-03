@@ -1,5 +1,5 @@
 {% extends "archives.html" %}
-{% set seasonPrefix = 'Season' if category != 'Bonus' else '' %}
+{% set seasonPrefix = 'Season' if category not in SPECIAL_CATEGORIES else '' %}
 {% block title %} {{ seasonPrefix }} {{ category }} &#9702; {{ SITENAME }}{% endblock %}
 {% block heading %}
 <h2 class="season">
@@ -10,9 +10,9 @@
 {% block section_nav %}
 <nav class='category nav'>
    {% set curr = category.name|int %}
-   {% if category != 'Bonus' %}
+   {% if category not in SPECIAL_CATEGORIES %}
       {% for cat, _ in categories %}
-         {% if cat != 'Bonus' %}
+         {% if cat not in SPECIAL_CATEGORIES %}
             {% set int_cat = cat.name|int %}
             {% if int_cat == (curr + 1) %}
                <a class="season-link next" href="/{{ cat.url }}">Season {{ cat }}<i class="fa fa-fw fa-long-arrow-right"></i></a>

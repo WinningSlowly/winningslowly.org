@@ -1,17 +1,16 @@
 #!/usr/bin/env python
-
-"""Generate the site!"""
+"""Build this thing!"""
 
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-import sys
-from pathlib import Path
-
-import helpers
+from copy import copy
 
 # Setup path to enable local helpers.
+import sys
+from pathlib import Path
 sys.path.append(str(Path(__file__).parent))
+import helpers
 
 
 # Site configuration
@@ -29,7 +28,8 @@ DEFAULT_LANG = 'en'
 THEME = "design"
 
 # Show configuration
-CURRENT_SEASON = '5'
+CURRENT_SEASON = 'Standalone Episodes'
+CURRENT_SEASON_SLUG = 'standalone-episodes'
 
 # Feed generation is usually not desired when developing
 FEED_DOMAIN = SITEURL
@@ -43,8 +43,7 @@ CUSTOM_FEED_URL = 'feed.xml'
 
 # Social widget
 IDENTITY = {'Site': {'RSS': FEED_DOMAIN + '/' + CUSTOM_FEED_URL,
-                     'iTunes':
-                     'https://itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2',
+                     'iTunes': 'https://itunes.apple.com/us/podcast/winning-slowly/id807603957?mt=2',
                      'Overcast': 'https://overcast.fm/itunes807603957/winning-slowly',
                      'Pocket Casts': 'http://pca.st/Pl01',
                      'Facebook': 'https://www.facebook.com/winningslowlypodcast',
@@ -58,10 +57,8 @@ IDENTITY = {'Site': {'RSS': FEED_DOMAIN + '/' + CUSTOM_FEED_URL,
                         'Homepage': 'http://stephencarradini.com'}}
 
 CDN = 'cdn.winningslowly.org'
-M4A = '.m4a'
 MP3 = '.mp3'
 PODTRAC_REDIRECT = 'http://www.podtrac.com/pts/redirect'
-PODTRAC_M4A = PODTRAC_REDIRECT + M4A
 PODTRAC_MP3 = PODTRAC_REDIRECT + MP3
 
 DEFAULT_PAGINATION = False
@@ -77,8 +74,9 @@ CATEGORY_SAVE_AS = 'season-{slug}.html'
 
 # Category settings
 USE_FOLDER_AS_CATEGORY = False  # note: this is the default
-DEFAULT_CATEGORY = 'bonus'
+DEFAULT_CATEGORY = 'standalone-episodes'
 DIRECT_TEMPLATES = ['index']
+SPECIAL_CATEGORIES = 'Bonus', 'Standalone Episodes'
 
 # Disable unused elements
 AUTHOR_SAVE_AS = ''
@@ -95,7 +93,7 @@ RELATIVE_URLS = True
 # Path configuration
 HERE = Path(__file__).parent
 ROOT = 'root'
-ROOT_PATH = HERE / 'show-notes' / 'root'
+ROOT_PATH = HERE / 'show-notes' / ROOT
 STATIC_PATHS = ['images', '2014', '2015', 'extra', ROOT]
 BASIC_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
                        'extra/favicon.ico': {'path': 'favicon.ico'},
@@ -113,8 +111,8 @@ ROOT_METADATA = helpers.root_redirects(ITEMS, ROOT_PATH)
 EXTRA_PATH_METADATA = BASIC_PATH_METADATA.copy()
 EXTRA_PATH_METADATA.update(ROOT_METADATA)
 
-ARTICLE_EXCLUDES = ['2014', '2015', 'root']
-PAGE_EXCLUDES = ['2014', '2015', 'root']
+ARTICLE_EXCLUDES = ['2014', '2015', ROOT]
+PAGE_EXCLUDES = ['2014', '2015', ROOT]
 
 # Static configuration
 THEME_STATIC_DIR = 'assets'
@@ -124,7 +122,6 @@ READERS = {'html': None}
 
 PLUGIN_PATHS = ['../../pelican-plugins']
 PLUGINS = ['pandoc_reader']
-PANDOC_ARGS = ['--smart']
 PANDOC_EXTENSIONS = ['-citations']
 
 # Caching

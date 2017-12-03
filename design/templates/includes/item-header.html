@@ -4,7 +4,6 @@
 
 {% if article is defined %}
    {% set item = article %}
-   {% set m4a = PODTRAC_M4A + "/" + CDN + "/" + audio_slug + M4A %}
    {% set mp3 = PODTRAC_MP3 + "/" + CDN + "/" + audio_slug + MP3 %}
 
 {% elif page is defined %}
@@ -16,11 +15,13 @@
    <div class="title">
       <h1>
       {% if item.number is defined %}
-         {% set epPrefix = 'Episode' if item.category != 'Bonus' else '' %}
-         {% set episodeSep = '.' if item.category != 'Bonus' else ' ' %}
-         <span id="episode-num">
-            {{ epPrefix }} {{ item.category.name }}{{ episodeSep }}{{ item.number }}
-         </span>
+         {% set epPrefix = 'Episode' if item.category not in SPECIAL_CATEGORIES else '' %}
+         {% set episodeSep = '.' if item.category not in SPECIAL_CATEGORIES else ' ' %}
+         {% if item.number %}
+            <span id="episode-num">
+               {{ epPrefix }} {{ item.category.name }}{{ episodeSep }}{{ item.number }}
+            </span>
+         {% endif %}
          <span id="episode-title">{{ item.title }}</span>
       {% else %}
          {{ item.title }}
@@ -28,7 +29,7 @@
       </h1>
       {% if item.subtitle %}<p id="episode-subtitle">{{ item.subtitle }}</p>{% endif %}
    </div>
-   {% if item.date is defined or item.tags is defined or item.m4a is defined or item.mp3 is defined %}
+   {% if item.date is defined or item.tags is defined or item.mp3 is defined %}
    <ul class="meta">
       {% if item.date is defined %}<li id="episode-date">
          {{ item.locale_date }}
@@ -42,9 +43,7 @@
 
       {% if article is defined %}
       <li id="download">
-         Download:
-            <a href="{{ m4a }}" download="{{ m4a }}">M4A</a> (for iTunes)
-            <a href="{{ mp3 }}" download="{{ mp3 }}">MP3</a>
+         <a href="{{ mp3 }}" download="{{ mp3 }}">Download!</a>
       </li>
       {% endif %}
    </ul>
