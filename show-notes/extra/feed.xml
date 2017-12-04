@@ -4,14 +4,14 @@
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>Taking the long view on technology, religion, ethics, and art. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 3 3.5.4(3032); Mac OS X Version 10.13.1 (Build 17B1003) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.5.5(3036); Mac OS X Version 10.13.1 (Build 17B1003) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2014–2016 Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Sun, 03 Dec 2017 15:38:42 -0700</pubDate>
-        <lastBuildDate>Sun, 03 Dec 2017 15:38:42 -0700</lastBuildDate>
+        <pubDate>Mon, 04 Dec 2017 06:53:55 -0700</pubDate>
+        <lastBuildDate>Mon, 04 Dec 2017 06:53:56 -0700</lastBuildDate>
         <ttl>30</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -43,7 +43,7 @@
         <itunes:type>episodic</itunes:type>
         <item>
             <title>Some Sciency Stuff!</title>
-            <link>http://www.winningslowly.org/standalone-episodes.12/</link>
+            <link>http://www.winningslowly.org/standalone-episodes.01/</link>
             <description><![CDATA[<h3 id="show-notes">Show Notes</h3>
 <p>We chat about a Chinese novel with an American translation, our love of sci-fi and fantasy, and the ways different cultures tackle the same kinds of underlying problems through fiction. We also talk about the beauty, and the limitations, of thinking about different cultures through their art. (Including what might happen if you tried to understand American culture through its popular art!)</p>
 <h4 id="links">Links</h4>
