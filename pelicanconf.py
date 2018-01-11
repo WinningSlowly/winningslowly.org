@@ -83,7 +83,7 @@ RELATIVE_URLS = True
 
 # Path configuration
 STATIC_PATHS = ['images', '2014', '2015', 'extra']
-BASIC_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
                        'extra/favicon.ico': {'path': 'favicon.ico'},
                        'extra/favicon.png': {'path': 'favicon.png'},
                        'extra/feed.xml': {'path': CUSTOM_FEED_URL},
