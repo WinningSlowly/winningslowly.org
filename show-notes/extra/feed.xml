@@ -4,14 +4,14 @@
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>Taking the long view on technology, religion, ethics, and art. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 3 3.5.5(3036); Mac OS X Version 10.13.1 (Build 17B1003) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.5.6(3045); Mac OS X Version 10.13.2 (Build 17C205) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2014–2016 Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Mon, 04 Dec 2017 06:53:55 -0700</pubDate>
-        <lastBuildDate>Mon, 04 Dec 2017 06:53:56 -0700</lastBuildDate>
+        <pubDate>Wed, 10 Jan 2018 19:05:35 -0700</pubDate>
+        <lastBuildDate>Wed, 10 Jan 2018 19:05:35 -0700</lastBuildDate>
         <ttl>30</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -42,9 +42,45 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>The Last Jedi</title>
+            <link>http://www.winningslowly.org/standalone-episodes.02/</link>
+            <description><![CDATA[<p>The latest Star Wars movie: the good, the bad, and the astounding.</p>
+<h3 id="show-notes">Show Notes</h3>
+<p>You knew this was coming! We talk our likes, dislikes, deep loves, and both hopes and concerns for the future of <em>Star Wars</em>.</p>
+<h4 id="links">Links</h4>
+<ul>
+<li><a href="https://www.theincomparable.com/theincomparable/67/">The Incomparable on <em>The Empire Strikes Back</em></a></li>
+</ul>
+<h3 id="music">Music</h3>
+<ul>
+<li><a href="https://itunes.apple.com/us/album/star-wars-the-last-jedi-original-motion-picture-soundtrack/1311072698">“Main Title and Escape,” from <em>The Last Jedi</em> by John Williams</a>. Fair use.</li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho.</li>
+</ul>
+<h3 id="sponsors">Sponsors</h3>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Andrew Fallows</li>
+<li>Kurt Klassen</li>
+<li>Jeremy W. Sherman</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href="https://www.patreon.com/winningslowly">Patreon</a> or give directly via <a href="https://cash.me/$winningslowly">Square Cash</a>.</p>
+<h3 id="respond">Respond</h3>
+<p>We love to hear your thoughts. Hit us up via <a href="//www.twitter.com/winningslowly">Twitter</a>, <a href="//www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=Some%20Sciency%20Stuff">email</a>!</p>
+]]></description>
+            <pubDate>Wed, 10 Jan 2018 19:30:00 -0700</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/the-last-jedi.mp3" length="34713276" type="audio/mpeg"/>
+            <guid isPermaLink="false">E8D786AF-CB44-4E9B-95B5-81D2DE4B3FCB</guid>
+            <itunes:subtitle>The latest Star Wars movie: the good, the bad, and the astounding.</itunes:subtitle>
+            <itunes:summary>The latest Star Wars movie: the good, the bad, and the astounding.</itunes:summary>
+            <itunes:duration>36:08</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <media:thumbnail url="http://www.winningslowly.org/podcast.png"/>
+        </item>
+        <item>
             <title>Some Sciency Stuff!</title>
             <link>http://www.winningslowly.org/standalone-episodes.01/</link>
-            <description><![CDATA[<h3 id="show-notes">Show Notes</h3>
+            <description><![CDATA[<p>Cixin Liu's <cite>The Three Body Problem</cite> and the strengths and weaknesses of literature as a window into other cultures.</p>
+<h3 id="show-notes">Show Notes</h3>
 <p>We chat about a Chinese novel with an American translation, our love of sci-fi and fantasy, and the ways different cultures tackle the same kinds of underlying problems through fiction. We also talk about the beauty, and the limitations, of thinking about different cultures through their art. (Including what might happen if you tried to understand American culture through its popular art!)</p>
 <h4 id="links">Links</h4>
 <ul>
@@ -81,6 +117,7 @@
             <enclosure url="http://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/three-body-problem.mp3" length="30358882" type="audio/mpeg"/>
             <guid isPermaLink="false">1FEE4CCB-0E06-47A8-B3F0-E6F6F74FCACB</guid>
             <itunes:subtitle>Cixin Liu's The Three Body Problem and the strengths and weaknesses of literature as a window into other cultures.</itunes:subtitle>
+            <itunes:summary>Cixin Liu's &lt;cite&gt;The Three Body Problem&lt;/cite&gt; and the strengths and weaknesses of literature as a window into other cultures.</itunes:summary>
             <itunes:duration>31:37</itunes:duration>
             <itunes:episodeType>full</itunes:episodeType>
             <media:thumbnail url="http://www.winningslowly.org/podcast.png"/>

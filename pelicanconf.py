@@ -4,15 +4,6 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-from copy import copy
-
-# Setup path to enable local helpers.
-import sys
-from pathlib import Path
-sys.path.append(str(Path(__file__).parent))
-import helpers
-
-
 # Site configuration
 AUTHOR = 'Chris Krycho and Stephen Carradini'
 SITENAME = 'Winning Slowly'
@@ -91,10 +82,7 @@ DEFAULT_DATE_FORMAT = "%B %d, %Y"
 RELATIVE_URLS = True
 
 # Path configuration
-HERE = Path(__file__).parent
-ROOT = 'root'
-ROOT_PATH = HERE / 'show-notes' / ROOT
-STATIC_PATHS = ['images', '2014', '2015', 'extra', ROOT]
+STATIC_PATHS = ['images', '2014', '2015', 'extra']
 BASIC_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
                        'extra/favicon.ico': {'path': 'favicon.ico'},
                        'extra/favicon.png': {'path': 'favicon.png'},
@@ -104,15 +92,8 @@ BASIC_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
                                                             'podcast.png'},
                        'extra/humans.txt': {'path': 'humans.txt'}}
 
-SHOW_NOTES = HERE / 'show-notes'
-ITEMS = SHOW_NOTES.glob('season-*/*.md')
-ROOT_METADATA = helpers.root_redirects(ITEMS, ROOT_PATH)
-
-EXTRA_PATH_METADATA = BASIC_PATH_METADATA.copy()
-EXTRA_PATH_METADATA.update(ROOT_METADATA)
-
-ARTICLE_EXCLUDES = ['2014', '2015', ROOT]
-PAGE_EXCLUDES = ['2014', '2015', ROOT]
+ARTICLE_EXCLUDES = ['2014', '2015']
+PAGE_EXCLUDES = ['2014', '2015']
 
 # Static configuration
 THEME_STATIC_DIR = 'assets'
