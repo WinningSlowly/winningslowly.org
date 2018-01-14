@@ -4,14 +4,14 @@
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>Taking the long view on technology, religion, ethics, and art. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 3 3.5.6(3045); Mac OS X Version 10.13.2 (Build 17C205) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.5.7(3052); Mac OS X Version 10.13.2 (Build 17C205) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2014–2016 Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Wed, 10 Jan 2018 19:05:35 -0700</pubDate>
-        <lastBuildDate>Wed, 10 Jan 2018 19:05:35 -0700</lastBuildDate>
+        <pubDate>Sun, 14 Jan 2018 13:50:55 -0700</pubDate>
+        <lastBuildDate>Sun, 14 Jan 2018 13:50:56 -0700</lastBuildDate>
         <ttl>30</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -40,7 +40,7 @@
         <itunes:category text="Religion &amp; Spirituality">
             <itunes:category text="Christianity"/>
         </itunes:category>
-        <itunes:type>episodic</itunes:type>
+        <itunes:type>serial</itunes:type>
         <item>
             <title>The Last Jedi</title>
             <link>http://www.winningslowly.org/standalone-episodes.02/</link>
