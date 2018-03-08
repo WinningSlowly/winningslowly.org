@@ -25,6 +25,12 @@ CURRENT_SEASON = {
     'slug': 'season-6'
 }
 
+SEASON_TITLES = {
+    '6': 'Rejecting the Inevitable Future',
+    '5': 'Structure and Agency',
+    '4': 'Globalization'
+}
+
 # Feed generation is usually not desired when developing
 FEED_DOMAIN = SITEURL
 FEED_ALL_ATOM = None
