@@ -1,28 +1,20 @@
 <!DOCTYPE html>
 <html lang="{{ DEFAULT_LANG }}" prefix="og: http://ogp.me/ns#">
+
 <head>
    <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
    <meta name="description" content="{% block description %}{{ SITE_DESCRIPTION }}{% endblock %}" />
 
-   <meta charset="UTF-8"/>
-   <meta name="viewport" content="width=device-width,initial-scale=1" />
+   <meta charset="UTF-8" />
+   <meta name="viewport" content="width=device-width,initial-scale=1" /> {# Authorship #}
+   <link rel="author" href="humans.txt" /> {% include "includes/id-common.html" %} {% include "includes/id-twitter.html" %}
 
-   {# Authorship #}
-   <link rel="author" href="humans.txt" />
-   {% include "includes/id-common.html" %}
-   {% include "includes/id-twitter.html" %}
-
-   <link href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/{{ CSS_FILE }}" type="text/css" rel="stylesheet" />
-   <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet" />
-
-   {% if CUSTOM_FEED_URL %}
-      <link href="{{ FEED_DOMAIN }}/{{ CUSTOM_FEED_URL }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
-   {% endif %}
+   <link href="/{{ THEME_STATIC_DIR }}/{{ CSS_FILE }}" type="text/css" rel="stylesheet" />
+   <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet" /> {% if CUSTOM_FEED_URL %}
+   <link href="/{{ CUSTOM_FEED_URL }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" /> {% endif %}
 
    <link href="{{ SITEURL }}/favicon.png" type="image/png" rel="icon" />
-   <link href="{{ SITEURL }}/favicon.ico" type="image/ico" rel="icon" />
-
-   {# Scripts #}
+   <link href="{{ SITEURL }}/favicon.ico" type="image/ico" rel="icon" /> {# Scripts #}
 
    <!--[if lt IE 9]>
    <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/html5shiv.min.js"></script>
@@ -30,26 +22,36 @@
 
    {# GoSquared #}
    <script>
-      !function(g,s,q,r,d){r=g[r]=g[r]||function(){(r.q=r.q||[]).push(
-            arguments)};d=s.createElement(q);q=s.getElementsByTagName(q)[0];
-         d.src='//d1l6p2sc9645hc.cloudfront.net/tracker.js';q.parentNode.
-               insertBefore(d,q)}(window,document,'script','_gs');
+      !function (g, s, q, r, d) {
+         r = g[r] = g[r] || function () {
+            (r.q = r.q || []).push(
+               arguments)
+         }; d = s.createElement(q); q = s.getElementsByTagName(q)[0];
+         d.src = '//d1l6p2sc9645hc.cloudfront.net/tracker.js'; q.parentNode.
+            insertBefore(d, q)
+      }(window, document, 'script', '_gs');
 
       _gs('GSN-352172-K');
    </script>
 
 </head>
-{% block body_el %}<body>{% endblock %}
+{% block body_el %}
+
+<body>{% endblock %}
    <div id="wrapper">
       <header id="banner">
          <h1>
             <a href="{{ SITEURL }}">
-               <span id="logo"><img src="/{{ THEME_STATIC_DIR }}/images/winning-slowly_circle.png" /></span>
+               <span id="logo">
+                  <img src="/{{ THEME_STATIC_DIR }}/images/winning-slowly_circle.png" />
+               </span>
                <span id="winning">Winning</span>
                <span id="slowly">Slowly</span>
             </a>
          </h1>
-         <h2>Taking the long view on <br class="optional"/>technology, religion, <br class="optional"/>ethics, and art.</h2>
+         <h2>Taking the long view on
+            <br class="optional" />technology, religion,
+            <br class="optional" />ethics, and art.</h2>
       </header>
 
       {% block content %}{% endblock %}
@@ -58,10 +60,9 @@
    {% block section_nav %}
    <nav class='category nav'>
       {% for cat, _ in categories %}
-         <a class="season-link" href="/{{ cat.url }}">
-            {% if cat not in SPECIAL_CATEGORIES %}Season{% endif %}
-            {{ cat }}
-         </a>
+      <a class="season-link" href="/{{ cat.url }}">
+         {% if cat not in SPECIAL_CATEGORIES %}Season{% endif %} {{ cat }}
+      </a>
       {% endfor %}
    </nav>
    {% endblock %}
@@ -70,4 +71,5 @@
       {% include "includes/footer.html" %}
    </footer>
 </body>
+
 </html>
