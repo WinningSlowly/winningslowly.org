@@ -4,14 +4,14 @@
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>Taking the long view on technology, religion, ethics, and art. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 3 3.5.7(3052); Mac OS X Version 10.13.2 (Build 17C205) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.5.8(3057); Mac OS X Version 10.13.3 (Build 17D102) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2014–2016 Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Sun, 14 Jan 2018 13:50:55 -0700</pubDate>
-        <lastBuildDate>Sun, 14 Jan 2018 13:50:56 -0700</lastBuildDate>
+        <pubDate>Wed, 07 Mar 2018 20:00:12 -0700</pubDate>
+        <lastBuildDate>Wed, 07 Mar 2018 20:00:12 -0700</lastBuildDate>
         <ttl>30</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -41,6 +41,46 @@
             <itunes:category text="Christianity"/>
         </itunes:category>
         <itunes:type>serial</itunes:type>
+        <item>
+            <title>6.01: Actual Luddites</title>
+            <link>http://www.winningslowly.org/6.01/</link>
+            <description><![CDATA[<p>Introducing a season focused on one theme: rejecting technology.</p>
+<h3 id="show-notes">Show Notes</h3>
+<p>Introducing a season focused on one theme: <em>rejecting technology</em>. Or rather, as you’ll hear us trace out in more detail in the episode: rejecting <em>some</em> technologies at <em>some</em> times, and thinking harder about them in general.</p>
+<h4 id="links">Links</h4>
+<ul>
+<li><a href="https://thefrailestthing.com">L. M. Sacasas</a></li>
+<li><a href="https://librarianshipwreck.wordpress.com/2018/01/18/why-the-luddites-matter/">“Why the Luddites Matter”</a></li>
+<li><a href="https://librarianshipwreck.wordpress.com/2016/06/16/what-technology-do-we-really-need-a-critique-of-the-2016-personal-democracy-forum/">“What Technology Do We Really Need? A Critique of the 2016 Personal Democracy Forum</a></li>
+</ul>
+<h3 id="music">Music</h3>
+<ul>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho.</li>
+</ul>
+<h3 id="sponsors">Sponsors</h3>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Andrew Fallows</li>
+<li>Kurt Klassen</li>
+<li>Jake Grant</li>
+<li>Jeremy W. Sherman</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href="https://www.patreon.com/winningslowly">Patreon</a> or give directly via <a href="https://cash.me/$winningslowly">Square Cash</a>.</p>
+<h3 id="respond">Respond</h3>
+<p>We love to hear your thoughts. Hit us up via <a href="//www.twitter.com/winningslowly">Twitter</a>, <a href="//www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=6.01:%20Actual%20Luddites">email</a>!</p>
+]]></description>
+            <pubDate>Wed, 07 Mar 2018 20:00:00 -0700</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/6.01.mp3" length="29590061" type="audio/mpeg"/>
+            <guid isPermaLink="false">4DC6FA2F-B734-4E31-8941-58EA7229E6B8</guid>
+            <itunes:subtitle>Introducing a season focused on one theme: rejecting technology.</itunes:subtitle>
+            <itunes:summary>Introducing a season focused on one theme: rejecting technology.</itunes:summary>
+            <itunes:duration>30:48</itunes:duration>
+            <itunes:season>6</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="http://www.winningslowly.org/podcast.png"/>
+        </item>
         <item>
             <title>The Last Jedi</title>
             <link>http://www.winningslowly.org/standalone-episodes.02/</link>

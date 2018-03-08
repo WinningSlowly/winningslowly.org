@@ -19,8 +19,11 @@ DEFAULT_LANG = 'en'
 THEME = "design"
 
 # Show configuration
-CURRENT_SEASON = 'Standalone Episodes'
-CURRENT_SEASON_SLUG = 'standalone-episodes'
+CURRENT_SEASON = {
+    'title': 'Season 6: Rejecting the Inevitable Future',
+    'number': '6',
+    'slug': 'season-6'
+}
 
 # Feed generation is usually not desired when developing
 FEED_DOMAIN = SITEURL

@@ -8,19 +8,15 @@
          <em>now</em>, how can we make choices with a view for tomorrow, next year, and beyond?</p>
       <p>Episodes (usually) come out every other Tuesday at 7 am Eastern time. If unforeseen scheduling issues arise, we will
          add a note below accordingly. Episodes are normally 25–30 minutes long.</p>
-      <h3>Current (
-         <a href="/season-{{ CURRENT_SEASON_SLUG }}.html">
-            {% if CURRENT_SEASON != 'Standalone Episodes' %}
-               Season {{ CURRENT_SEASON }}
-            {% else %}
-               {{ CURRENT_SEASON }}
-            {% endif %}
+      <h3>
+         <a href="/{{ CURRENT_SEASON.slug }}.html">
+            {{ CURRENT_SEASON.title }}
          </a>
-      )</h3>
+      </h3>
    </article>
 
-   {% for category, category_articles in categories %} {% if category == CURRENT_SEASON %} {% for article in category_articles
-   %} {% if article.category == CURRENT_SEASON %}
+   {% for category, category_articles in categories %} {% if category == CURRENT_SEASON.number %} {% for article in category_articles
+   %} {% if article.category == CURRENT_SEASON.number %}
    <article>
       <header>
          <a href="{{ SITEURL}}/{{ article.url }}">
@@ -43,24 +39,25 @@
          <h4 id="season-5">
             <a href="/season-5.html">Season 5: Structure and Agency</a>
          </h4>
-            <p>
-               A deep dive on the "structure/agency" problem, or: how individuals and systems relate. This one had a quirk to it, though:
-               we recorded the first nine episodes in the fall of 2016, then the last three in the fall of 2017. (Stephen
-               finishing his Ph.D. and moving across the country, and Chris finishing his M. Div. and moving across the country...
-               had consequences.)
-            </p>
-            <p>Episodes of particular interest include:</p>
-            <ul>
-               <li>
-                  <a href='http://www.winningslowly.org/5.01/'>5.01: A Ph.D.-Level Math Problem</a> – in which we introduced a set of axes on which to fit the structure and agency question.
-               </li>
-               <li>
-                  <a href='http://www.winningslowly.org/5.05/'>5.05: "Faint Not"</a> – on civil forfeiture and entrenched legal evil.
-               </li>
-               <li>
-                  <a href='http://www.winningslowly.org/5.11/'>5.11: Fences, Neighbors, Etc.</a> – on vaccinations and the application of force for the common good.
-               </li>
-            </ul>
+         <p>
+            A deep dive on the "structure/agency" problem, or: how individuals and systems relate. This one had a quirk to it, though:
+            we recorded the first nine episodes in the fall of 2016, then the last three in the fall of 2017. (Stephen finishing
+            his Ph.D. and moving across the country, and Chris finishing his M. Div. and moving across the country... had
+            consequences.)
+         </p>
+         <p>Episodes of particular interest include:</p>
+         <ul>
+            <li>
+               <a href='http://www.winningslowly.org/5.01/'>5.01: A Ph.D.-Level Math Problem</a> – in which we introduced a set of axes on which to fit the structure
+               and agency question.
+            </li>
+            <li>
+               <a href='http://www.winningslowly.org/5.05/'>5.05: "Faint Not"</a> – on civil forfeiture and entrenched legal evil.
+            </li>
+            <li>
+               <a href='http://www.winningslowly.org/5.11/'>5.11: Fences, Neighbors, Etc.</a> – on vaccinations and the application of force for the common good.
+            </li>
+         </ul>
          </h4>
       </section>
       <section>
@@ -142,16 +139,14 @@
             <a href="//www.olo.com" title="Online ordering by OLO">software engineer</a>,
             <a href='//chriskrycho.com/podcasts' title='podcasts'>podcaster</a>,
             <a href="//chriskrycho.com" title="chriskrycho.com">writer</a>, and
-            <a href="//soundcloud.com/chriskrycho">occasional composer</a>.
-            He lives with his family in Colorado.
+            <a href="//soundcloud.com/chriskrycho">occasional composer</a>. He lives with his family in Colorado.
          </p>
          <p>
             <strong>Stephen Carradini</strong> is a
             <a href="https://cisa.asu.edu/tech-comm/faculty" title="Assistant Professor of Technical Communication in Arizona State University’s Technical Communication">digital media scholar and professor</a>,
             <a href="//independentclauses.com" title="Independent Clauses music blog">writer</a>,
             <a href="//stephencarradini.com" title="StephenCarradini.com">editor</a>, and
-            <a href="//themidnightsons.bandcamp.com" title="The Midnight Sons">songwriter</a>.
-            He lives with his family in Arizona.
+            <a href="//themidnightsons.bandcamp.com" title="The Midnight Sons">songwriter</a>. He lives with his family in Arizona.
          </p>
       </section>
    </article>
