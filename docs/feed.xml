@@ -4,14 +4,14 @@
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>Taking the long view on technology, religion, ethics, and art. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 3 3.5.8(3057); Mac OS X Version 10.13.3 (Build 17D102) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.5.9(3061); Mac OS X Version 10.13.3 (Build 17D102) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2014–2016 Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Wed, 07 Mar 2018 20:00:12 -0700</pubDate>
-        <lastBuildDate>Wed, 07 Mar 2018 20:00:12 -0700</lastBuildDate>
+        <pubDate>Wed, 21 Mar 2018 21:11:06 -0600</pubDate>
+        <lastBuildDate>Wed, 21 Mar 2018 21:11:06 -0600</lastBuildDate>
         <ttl>30</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -41,6 +41,62 @@
             <itunes:category text="Christianity"/>
         </itunes:category>
         <itunes:type>serial</itunes:type>
+        <item>
+            <title>6.02: The Ethics of Technology</title>
+            <link>https://www.winningslowly.org/6.02/</link>
+            <description><![CDATA[<p>A Christian view of ethics and technology - or, how we think about everything from Uber and Facebook to dealing with poverty.</p>
+<h3 id="show-notes">Show Notes</h3>
+<p>We talk about out explicitly Christian ethics - including our ethics of technology. How do we reason about technologies as individuals and communities? What <em>is</em> human flourishing?</p>
+<h4 id="links">Links</h4>
+<p>Our previous discussion of self-driving cars (and note the title we picked two and a half years ago): <a href="https://winningslowly.org/3.13/">3.13: Inevitable</a></p>
+<p>Articles on the self-driving car crash:</p>
+<ul>
+<li><a href="https://www.recode.net/2018/3/19/17139604/uber-self-driving-autonomous-accident-pedestrian-arizona">“A self-driving Uber car has killed a pedestrian in Arizona”</a></li>
+<li><a href="https://www.theverge.com/2018/3/20/17142672/uber-deadly-self-driving-car-crash-fault-police">“Uber ‘likely’ not at fault in deadly self-driving car crash, police chief says” (The Verge)</a></li>
+<li><a href="https://www.theatlantic.com/technology/archive/2018/03/can-you-sue-a-robocar/556007/">“Can You Sue a Robot?”, Ian Bogost/<em>The Atlantic</em></a> - a fairly thoughtful argument… which nonetheless ends up with some sweeping judgments of just the sort that we’re not sure are warranted in <em>this</em> specific case.</li>
+<li><a href="https://daringfireball.net/linked/2018/03/19/uber-arizona">John Gruber representing the “just get us to the future; it’s worth the cost” side of things</a> -</li>
+</ul>
+<p>Mentioned on the show:</p>
+<ul>
+<li><a href="https://www.merriam-webster.com/dictionary/prolegomenon">Prolegomena</a>
+<ul>
+<li>Specifically referenced: Kant’s <em>Prolegomena to Any Future Metaphysics</em> (<a href="https://en.wikipedia.org/wiki/Prolegomena_to_Any_Future_Metaphysics">wikipedia article</a>)</li>
+</ul></li>
+<li><p><a href="https://www.youtube.com/watch?v=ieOL4X3nk2c">“All the Poor and Powerless”, by Shane and Shane</a></p></li>
+<li><p>L. M. Sacasas with some important <a href="https://thefrailestthing.com/2018/03/17/dna-kits-alchemy-and-the-essence-of-technology/">reservations about Heidegger</a> - reservations we share about a man who, whatever his influence, seems to have been a Nazi sympathizer.</p></li>
+<li><p><a href="https://www.youtube.com/watch?v=1VR3Av9qfZc">Mal’s speech in <em>Serenity</em></a>:</p>
+<blockquote>
+<p>A year from now, ten, they’ll swing back to the belief that they can make people… better. And I do not hold to that.</p>
+</blockquote></li>
+</ul>
+<h3 id="music">Music</h3>
+<ul>
+<li><a href="https://ezrafeinberg.bandcamp.com/track/true-refuge">“True Refuge”</a>, by Ezra Feinberg. Used by permission.</li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho.</li>
+</ul>
+<h3 id="sponsors">Sponsors</h3>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Andrew Fallows</li>
+<li>Kurt Klassen</li>
+<li>Jake Grant</li>
+<li>Jeremy W. Sherman</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href="https://www.patreon.com/winningslowly">Patreon</a> or give directly via <a href="https://cash.me/$winningslowly">Square Cash</a>.</p>
+<h3 id="respond">Respond</h3>
+<p>We love to hear your thoughts. Hit us up via <a href="//www.twitter.com/winningslowly">Twitter</a>, <a href="//www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=6.02:%20The%20Ethics%20of%20Technology">email</a>!</p>]]></description>
+            <pubDate>Wed, 21 Mar 2018 21:00:00 -0600</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/6.02.mp3" length="31800551" type="audio/mpeg"/>
+            <guid isPermaLink="false">DA320F27-6B5C-49AF-92B8-FF01707B2D85</guid>
+            <itunes:subtitle>A Christian view of ethics and technology - or, how we think about everything from Uber and Facebook to dealing with poverty.</itunes:subtitle>
+            <itunes:summary>A Christian view of ethics and technology - or, how we think about everything from Uber and Facebook to dealing with poverty.</itunes:summary>
+            <itunes:duration>33:06</itunes:duration>
+            <itunes:season>6</itunes:season>
+            <itunes:episode>2</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="http://www.winningslowly.org/podcast.png"/>
+        </item>
         <item>
             <title>6.01: Actual Luddites</title>
             <link>http://www.winningslowly.org/6.01/</link>
