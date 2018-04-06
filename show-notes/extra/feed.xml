@@ -10,8 +10,8 @@
         <copyright>2014–2016 Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Wed, 21 Mar 2018 21:11:06 -0600</pubDate>
-        <lastBuildDate>Wed, 21 Mar 2018 21:11:06 -0600</lastBuildDate>
+        <pubDate>Thu, 05 Apr 2018 19:52:13 -0600</pubDate>
+        <lastBuildDate>Thu, 05 Apr 2018 19:52:14 -0600</lastBuildDate>
         <ttl>30</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -41,6 +41,59 @@
             <itunes:category text="Christianity"/>
         </itunes:category>
         <itunes:type>serial</itunes:type>
+        <item>
+            <title>6.03:  I’m Not Puttin’ That Chip in My Cheek</title>
+            <link>https://www.winningslowly.org/6.03/</link>
+            <description><![CDATA[<p>Bodily modification, from hip replacement to magnets in your fingers.</p>
+<h3 id="show-notes">Show Notes</h3>
+<p>How should we think about bodily modification, on the range from replacing a hip joint or a heart valve to enhancing people well beyond normal human capabilities, to adding entirely new capabilities to the human body?</p>
+<h4 id="links">Links</h4>
+<ul>
+<li>The Olympics and body modification: <a href="https://en.wikipedia.org/wiki/Oscar_Pistorius">Oscar Pistorius is an amputee with artificial legs</a></li>
+<li><a href="http://www.dailymail.co.uk/femail/article-3524063/Transgender-woman-Eva-Tiamat-Medusa-ears-nose-removed-dragon-lady.html">Tiamat Dragon Lady</a></li>
+<li><a href="https://www.wired.com/story/facebook-exposed-87-million-users-to-cambridge-analytica/amp">Cambridge Analytica</a> and <a href="https://www.nytimes.com/2018/03/21/technology/personaltech/delete-facebook.html">#DeleteFacebook</a></li>
+<li>On the question of whether we’re already past “peak body hacking”
+<ul>
+<li>An early prognostication: <a href="https://www.huffingtonpost.com/anthony-youn-md-facs/6-extreme-body-enhancements_b_1956280.html">“6 Extreme Body Enhancements to Expect in the Next 10 Years</a></li>
+<li><a href="https://www.theverge.com/2017/7/21/15999544/biohacking-finger-magnet-human-augmentation-loss">“I Hacked My Body For a Future That Never Came</a></li>
+<li>The <a href="https://en.wikipedia.org/wiki/Hype_cycle">Hype Cycle</a> (and its “Trough of Disillusionment)</li>
+<li><a href="https://hackaday.com/2015/10/12/cyberpunk-yourself-body-modification-augmentation-and-grinders/">“Cyberpunk Yourself: Body Modification, Augmentation, and Grinders</a></li>
+</ul></li>
+<li><a href="https://en.wikipedia.org/wiki/Stretching_(body_piercing)">Ear gauges</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Near-field_communication">NFC</a></li>
+<li>The poll we referenced: <a href="https://blogs.scientificamerican.com/observations/what-americans-think-of-human-enhancement-technologies/">“What Americans Think of Human Enhancement Technologies” (Scientific American)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Transhumanism">Transhumanism</a> – and see also <a href="http://futurisms.thenewatlantis.com">Futurisms, at <em>The New Atlantis</em></a>, an incisive blog criticizing transhumanism. (<a href="http://futurisms.thenewatlantis.com/2015/09/whats-difference.html">This post</a> highlights some of the very same questions we get at in this episode.)</li>
+</ul>
+<p>Matthew Lee Anderson’s <em>Earthen Vessels</em> is, sadly, out of print – but we know Matt, and he has some extra copies, so if you want one, <a href="mailto:hello@winningslowly.org?subject=6.03:%20I’m%20Not%20Puttin’%20That%20Chip%20in%20My%20Cheek">email</a> us!</p>
+<h3 id="music">Music</h3>
+<ul>
+<li><a href="https://kerimkoenig.bandcamp.com/track/quartessence">“Quartessence”</a>, by <a href="https://kerimkoenig.bandcamp.com">Kerim König</a> used by permission.</li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho.</li>
+</ul>
+<h3 id="sponsors">Sponsors</h3>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Andrew Fallows</li>
+<li>Kurt Klassen</li>
+<li>Jake Grant</li>
+<li>Jeremy W. Sherman</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href="https://www.patreon.com/winningslowly">Patreon</a> or give directly via <a href="https://cash.me/$winningslowly">Square Cash</a>.</p>
+<h3 id="respond">Respond</h3>
+<p>We love to hear your thoughts. Hit us up via <a href="//www.twitter.com/winningslowly">Twitter</a>, <a href="//www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=6.03:%20I’m%20Not%20Puttin’%20That%20Chip%20in%20My%20Cheek">email</a>!</p>
+]]></description>
+            <pubDate>Thu, 05 Apr 2018 20:00:00 -0600</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/6.03.mp3" length="33739031" type="audio/mpeg"/>
+            <guid isPermaLink="false">64969E9B-EF59-48B4-9D04-70A91AD8E05A</guid>
+            <itunes:subtitle>Bodily modification, from hip replacement to magnets in your fingers.</itunes:subtitle>
+            <itunes:summary>Bodily modification, from hip replacement to magnets in your fingers.</itunes:summary>
+            <itunes:duration>35:07</itunes:duration>
+            <itunes:season>6</itunes:season>
+            <itunes:episode>3</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="http://www.winningslowly.org/assets/images/winning-slowly_podcast.png"/>
+        </item>
         <item>
             <title>6.02: The Ethics of Technology</title>
             <link>https://www.winningslowly.org/6.02/</link>
