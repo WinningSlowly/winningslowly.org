@@ -4,14 +4,14 @@
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>Taking the long view on technology, religion, ethics, and art. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 3 3.5.9(3061); Mac OS X Version 10.13.3 (Build 17D102) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.5.9(3061); Mac OS X Version 10.13.4 (Build 17E199) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2014–2016 Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Thu, 05 Apr 2018 19:52:13 -0600</pubDate>
-        <lastBuildDate>Thu, 05 Apr 2018 19:52:14 -0600</lastBuildDate>
+        <pubDate>Sun, 22 Apr 2018 18:15:46 -0600</pubDate>
+        <lastBuildDate>Sun, 22 Apr 2018 18:15:47 -0600</lastBuildDate>
         <ttl>30</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -41,6 +41,52 @@
             <itunes:category text="Christianity"/>
         </itunes:category>
         <itunes:type>serial</itunes:type>
+        <item>
+            <title>6.04: Move Slowly and Fix Things</title>
+            <link>https://www.winningslowly.org/6.04/</link>
+            <description><![CDATA[<p>Why is Silicon Valley so broken?</p>
+<h3 id="show-notes">Show Notes</h3>
+<p>We dig into the reasons why so many Silicon Valley companies go so wrong. We talk about Chesterton's fence. We manage to agree with each other by arguing about Apple. We talk about everything from community practices to antitrust.</p>
+<h4 id="links">Links</h4>
+<ul>
+<li><a href="https://twitter.com/chriskrycho/status/987514343808843776">Chris’ earlier podcast failure</a></li>
+<li><a href="https://en.wikipedia.org/wiki/G._K._Chesterton#Chesterton&#39;s_fence">Chesterton’s Fence</a></li>
+<li>Biblical notes on greed
+<ul>
+<li><a href="http://bib.ly/Prov23.4">on the desire to become rich</a></li>
+<li><a href="http://bib.ly/1Tim6.9-10">on the love of money</a></li>
+</ul></li>
+<li><a href="https://deletefacebook.com">#DeleteFacebook</a></li>
+</ul>
+<h3 id="music">Music</h3>
+<ul>
+<li><a href="http://deepelmdigital.com/track/tamu">“Tamu”</a>, by <a href="http://www.deepelm.com/iamsonicrain/">I Am Sonic Rain</a> – used by permission.</li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho.</li>
+</ul>
+<h3 id="sponsors">Sponsors</h3>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Andrew Fallows</li>
+<li>Kurt Klassen</li>
+<li>Jake Grant</li>
+<li>Jeremy W. Sherman</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href="https://www.patreon.com/winningslowly">Patreon</a> or give directly via <a href="https://cash.me/$winningslowly">Square Cash</a>.</p>
+<h3 id="respond">Respond</h3>
+<p>We love to hear your thoughts. Hit us up via <a href="//www.twitter.com/winningslowly">Twitter</a>, <a href="//www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=6.03:%20I’m%20Not%20Puttin’%20That%20Chip%20in%20My%20Cheek">email</a>!</p>
+]]></description>
+            <pubDate>Sun, 22 Apr 2018 18:15:41 -0600</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/6.04.mp3" length="37755483" type="audio/mpeg"/>
+            <guid isPermaLink="false">B6304D13-B402-4564-81FE-63EA14636B55</guid>
+            <itunes:subtitle>Why is Silicon Valley so broken?</itunes:subtitle>
+            <itunes:summary>Why is Silicon Valley so broken?</itunes:summary>
+            <itunes:duration>39:18</itunes:duration>
+            <itunes:season>6</itunes:season>
+            <itunes:episode>4</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="http://www.winningslowly.org/assets/images/winning-slowly_podcast.png"/>
+        </item>
         <item>
             <title>6.03:  I’m Not Puttin’ That Chip in My Cheek</title>
             <link>https://www.winningslowly.org/6.03/</link>
