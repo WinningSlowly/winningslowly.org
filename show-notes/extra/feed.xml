@@ -4,14 +4,14 @@
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>Taking the long view on technology, religion, ethics, and art. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 3 3.5.9(3061); Mac OS X Version 10.13.4 (Build 17E202) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.5.10(3072); Mac OS X Version 10.13.4 (Build 17E202) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2014–2016 Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Mon, 14 May 2018 20:02:26 -0600</pubDate>
-        <lastBuildDate>Mon, 14 May 2018 20:02:27 -0600</lastBuildDate>
+        <pubDate>Tue, 15 May 2018 21:25:48 -0600</pubDate>
+        <lastBuildDate>Tue, 15 May 2018 21:25:49 -0600</lastBuildDate>
         <ttl>30</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -41,6 +41,56 @@
             <itunes:category text="Christianity"/>
         </itunes:category>
         <itunes:type>serial</itunes:type>
+        <item>
+            <title>6.06: A Kind of Blindness</title>
+            <link>https://www.winningslowly.org/6.06/</link>
+            <description><![CDATA[<p>Smart cities, “big data”, and the meaninglessness of mere information.</p>
+<h3 id="show-notes">Show Notes</h3>
+<p>We attempt to take down the idea that <em>more data</em> is the solution to our problems. Without wisdom, and without an ethical frame, numbers mean nothing.</p>
+<h4 id="links">Links</h4>
+<ul>
+<li><a href="http://www.roughtype.com/?p=8305">The metadata of experience, the experience of metadata</a> – Nick Carr</li>
+<li><a href="https://www.theatlantic.com/magazine/archive/2018/04/big-in-china-machines-that-scan-your-face/554075/">China’s New Frontiers in Dystopian Tech</a> – Rene Chun at <em>The Atlantic</em></li>
+<li>“Smart” refigerators DDOS-ing things
+<ul>
+<li><a href="http://www.techtimes.com/articles/183339/20161024/massive-dyn-ddos-attack-experts-blame-smart-fridges-dvrs-and-other-iot-devices-why-your-internet-went-down.htm">Massive Dyn DDOS Attack: Experts Blame Smart Fridges, DVRs And Other IoT Devices Why Your Internet Went Down</a></li>
+<li><a href="https://krebsonsecurity.com/2016/09/krebsonsecurity-hit-with-record-ddos/">KrebsOnSecurity Hit With Record DDoS</a></li>
+<li><a href="https://krebsonsecurity.com/2016/09/the-democratization-of-censorship/">The Democratization of Censorship</a></li>
+</ul></li>
+<li>Redlining:
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Redlining">Wikipedia</a></li>
+<li><a href="http://www.chicagotribune.com/business/ct-biz-modern-day-redlining-20180215-story.html">Modern-day redlining: How banks block people of color from homeownership</a></li>
+<li>See also: Ta-Nehisi Coates’ discussion of redlining in his much-discussed piece in <em>The Atlantic</em>, <a href="https://www.theatlantic.com/magazine/archive/2014/06/the-case-for-reparations/361631/">“The Case For Reparations”</a></li>
+</ul></li>
+</ul>
+<h3 id="music">Music</h3>
+<ul>
+<li><a href="https://helloflora.bandcamp.com/track/sharalee">“Sharalee”</a> by <a href="https://helloflora.bandcamp.com">Jamison Isaak, a.k.a. Teen Daze</a></li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho.</li>
+</ul>
+<h3 id="sponsors">Sponsors</h3>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Andrew Fallows</li>
+<li>Kurt Klassen</li>
+<li>Jake Grant</li>
+<li>Jeremy W. Sherman</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href="https://www.patreon.com/winningslowly">Patreon</a> or give directly via <a href="https://cash.me/$winningslowly">Square Cash</a>.</p>
+<h3 id="respond">Respond</h3>
+<p>We love to hear your thoughts. Hit us up via <a href="//www.twitter.com/winningslowly">Twitter</a>, <a href="//www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=6.05:%20Crispr">email</a>!</p>]]></description>
+            <pubDate>Wed, 16 May 2018 08:00:00 -0600</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/6.06.mp3" length="30131438" type="audio/mpeg"/>
+            <guid isPermaLink="false">AADFB8D9-47F6-400A-A773-CFB51D6F9BDD</guid>
+            <itunes:subtitle>Smart cities, “big data”, and the meaninglessness of mere information.</itunes:subtitle>
+            <itunes:duration>31:22</itunes:duration>
+            <itunes:season>6</itunes:season>
+            <itunes:episode>6</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="http://www.winningslowly.org/podcast.png"/>
+        </item>
         <item>
             <title>6.05: Crispr</title>
             <link>https://www.winningslowly.org/6.05/</link>
