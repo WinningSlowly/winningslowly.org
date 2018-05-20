@@ -1,0 +1,52 @@
+{# Requires that there be an `item` of either `post` or `article` type
+   available---whether as an item in a loop, or as the only element available
+   doesn't matter. #}
+
+{% if article is defined %}
+   {% set item = article %}
+   {% set mp3 = PODTRAC_MP3 + "/" + CDN + "/" + audio_slug + MP3 %}
+
+{% elif page is defined %}
+   {% set item = page %}
+{% endif %}
+
+{% if item is defined %}
+<header>
+   <div class="title">
+      <h1>
+      {% if item.number is defined %}
+         {% set epPrefix = 'Episode' if item.category not in SPECIAL_CATEGORIES else '' %}
+         {% set episodeSep = '.' if item.category not in SPECIAL_CATEGORIES else ' ' %}
+         {% if item.number %}
+            <span id="episode-num">
+               {{ epPrefix }} {{ item.category.name }}{{ episodeSep }}{{ item.number }}
+            </span>
+         {% endif %}
+         <span id="episode-title">{{ item.title }}</span>
+      {% else %}
+         {{ item.title }}
+      {% endif %}
+      </h1>
+      {% if item.subtitle %}<p id="episode-subtitle">{{ item.subtitle }}</p>{% endif %}
+   </div>
+   {% if item.date is defined or item.tags is defined or item.mp3 is defined %}
+   <ul class="meta">
+      {% if item.date is defined %}<li id="episode-date">
+         {{ item.locale_date }}
+      </li>{% endif %}
+
+      {% if item.tags is defined %}
+      <li id="topics">
+         Topics: {% for tag in item.tags|sort %}<a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>{% if not loop.last %}, {% endif %}{% endfor %}
+      </li>
+      {% endif %}
+
+      {% if article is defined %}
+      <li id="download">
+         <a href="{{ mp3 }}" download="{{ mp3 }}">Download!</a>
+      </li>
+      {% endif %}
+   </ul>
+   {% endif %}
+</header>
+{% endif %}

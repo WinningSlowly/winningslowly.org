@@ -1,0 +1,21 @@
+{% if article is defined %}
+   <meta property="og:url" content="{{ SITEURL }}/{{ article.url }}" />
+   <meta property="og:title" content="{{ article.title|striptags }}" />
+   <meta property="og:description" content="{{ article.subtitle|striptags }}" />
+   <meta property="og:type" content="article" />
+   {% if article.image is defined %}
+      <meta property="og:image" content="{{ article.image }}" />
+   {% else %}
+      <meta property="og:image" content="{{ SITEURL }}/{{ PODCAST_LOGO }}" />
+   {% endif %}
+   {% if article.mp3 is defined %}
+      <meta property="og:audio" content="{{ SITEURL }}/{{ article.mp3 }}"/>
+      <meta property="og:audio:type" content="audio/mp3" />
+   {% endif %}
+{% else %}
+   <meta property="og:url" content="{{ SITEURL }}" />
+   <meta property="og:title" content="{{ SITENAME }}" />
+   <meta property="og:description" content="{{ SITE_DESCRIPTION }}" />
+   <meta property="og:image" content="{{ SITEURL }}/{{ LOGO }}" />
+   <meta property="og:type" content="website" />
+{% endif %}
