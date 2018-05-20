@@ -16,7 +16,7 @@ TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = 'en'
 
-THEME = "design"
+THEME = "2014_theme"
 
 # Show configuration
 CURRENT_SEASON = {
