@@ -1,0 +1,19 @@
+{
+  "files.associations": {
+    "*.html": "jinja-html"
+  },
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "docs": true
+  },
+  "editor.rulers": [
+    90
+  ],
+  "[scss]": {
+    "editor.formatOnSave": true
+  }
+}
