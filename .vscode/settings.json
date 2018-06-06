@@ -8,7 +8,15 @@
     "**/.hg": true,
     "**/CVS": true,
     "**/.DS_Store": true,
-    "docs": true
+    "docs": true,
+    "__pycache__": true,
+    ".idea": true,
+    ".sass-cache": true,
+    "cache": true,
+    "design": true,
+    "recordings": true,
+    "resources": true,
+    "research": true
   },
   "editor.rulers": [
     90

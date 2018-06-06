@@ -1,31 +1,26 @@
 {% extends "base.html" %}
 
-{% block content %}<div class='Archive'>
+{%block content%}
+
    {% block heading %}{% endblock %}
-   {% if articles %}
-      {% for article in articles %}
-         <article>
-            <header>
-               <a href="{{SITEURL}}/{{article.url}}">
-                  <div class="title">
-                     <span id="episode-num">
-                        {% if article.category == 'Bonus' %}
-                           Bonus {{article.number}}
-                        {% else %}
-                           Episode {{article.category}}.{{article.number}}
-                        {% endif %}
-                     </span>
-                     <span id="episode-title">{{article.title}}</span>
-                  </div>
-                  <div class="meta">
-                     <span id="episode-date">{{article.locale_date}}</span>
-                     <span id="episode-subtitle">{{article.subtitle}}</span>
-                  </div>
-               </a>
-            </header>
-         </article>
-      {% endfor %}
+   {%if articles%}
+      <ul class='EpisodeList'>
+         {% for article in articles %}
+            <li class="EpisodeList-episode">
+                  <a class="EpisodeList-link EpisodeSummary" href="{{SITEURL}}/{{article.url}}">
+                     <div class="EpisodeSummary-meta EpisodeSummary-meta--primary EpisodeMeta">
+                        <span class="EpisodeMeta-field EpisodeMeta-field--num">Episode {{article.category}}.{{article.number}}</span>
+                        <span class="EpisodeMeta-field EpisodeMeta-field--title">{{article.title}}</span>
+                     </div>
+                     <div class="EpisodeSummary-meta EpisodeSummary-meta--secondary EpisodeMeta">
+                        <span class="EpisodeMeta-field EpisodeMeta-field--date">{{article.locale_date}}</span>
+                        <span class="EpisodeMeta-field EpisodeMeta-field--subtitle">{{article.subtitle}}</span>
+                     </div>
+                  </a>
+               </li>
+         {% endfor %}
+      </ul>
    {% else %}
       {% include "includes/404-content.html" %}
-   {% endif %}
-</div>{% endblock content %}
+   {%endif%}
+{%endblock %}

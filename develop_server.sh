@@ -8,7 +8,7 @@ PELICANOPTS=
 
 BASEDIR=$(pwd)
 INPUTDIR=$BASEDIR/show-notes
-OUTPUTDIR=$BASEDIR/output
+OUTPUTDIR=$BASEDIR/docs
 CONFFILE=$BASEDIR/pelicanconf.py
 
 ###
@@ -96,7 +96,7 @@ elif [[ $1 == "restart" ]]; then
   start_up $port
 elif [[ $1 == "start" ]]; then
   if ! start_up $port; then
-    shut_down 
+    shut_down
   fi
 else
   usage

@@ -21,38 +21,38 @@ THEME = "2018_theme"
 # Show configuration
 SEASONS = {
     '6': {
-        'prefix': 'Season 6'
+        'prefix': 'Season 6',
         'title': 'Rejecting the Inevitable Future',
-        'slug': 'season-6',,
+        'slug': 'season-6',
         'number': '6',
     },
     '5': {
-        'prefix': 'Season 5'
+        'prefix': 'Season 5',
         'title': 'Structure and Agency',
-        'slug': 'season-5',,
+        'slug': 'season-5',
         'number': '5',
     },
     '4': {
-        'prefix': 'Season 4'
+        'prefix': 'Season 4',
         'title': 'Globalization',
         'slug': 'season-4',
         'number': '4',
     },
     '3': {
-        'prefix': 'Season 3',
-        'title': None,
+        'prefix': None,
+        'title': 'Season 3',
         'slug': 'season-3',
         'number': '3',
     },
     '2': {
-        'prefix': 'Season 2',
-        'title': None,
+        'prefix': None,
+        'title': 'Season 2',
         'slug': 'season-2',
         'number': '2',
     },
     '1': {
-        'prefix': 'Season 1',
-        'title': None,
+        'prefix': None,
+        'title': 'Season 1',
         'slug': 'season-1',
         'number': '1',
     },
@@ -62,18 +62,18 @@ SEASONS = {
         'slug': 'season-0',
         'number': '0',
     },
-    'standalone-episodes': {
+    'Standalone Episodes': {
         'prefix': None,
         'title': 'Standalone Episodes',
         'slug': 'standalone-episodes',
         'number': None,
     },
-    'bonus-episodes': {
+    'Bonus': {
         'prefix': None,
         'title': 'Bonus',
         'slug': 'bonus-episodes',
         'number': None,
-    },
+    }
 }
 
 CURRENT_SEASON = SEASONS['6']

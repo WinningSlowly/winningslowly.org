@@ -4,11 +4,11 @@
   }
 
   .CategoryNav {
-    font-size: $fsh6;
+    font-size: var(--fs-1);
   }
 
   article {
-    line-height: $lh;
+    line-height: var(--lh);
   }
 
   .Banner {
@@ -75,27 +75,27 @@
   }
 
   h1 {
-    font-size: $fsh2;
+    font-size: var(--fs-xxl);
   }
 
   h2 {
-    font-size: $fsh3;
+    font-size: var(--fs-xl);
   }
 
   h3 {
-    font-size: $fsh4;
+    font-size: var(--fs-l);
   }
 
   h4 {
-    font-size: $fsh5;
+    font-size: var(--fs-ml);
   }
 
   h5 {
-    font-size: $fsh6;
+    font-size: var(--fs-m);
   }
 
   h6 {
-    font-size: $fsp;
+    font-size: var(--fs-r);
   }
 }
 
@@ -105,7 +105,7 @@
   }
 
   .SeasonNav {
-    font-size: $fsp;
+    font-size: var(--fs-r);
 
     .prev {
       padding-left: 6%;
@@ -116,24 +116,24 @@
   }
 
   .Banner {
-    font-size: $fsh1;
+    font-size: var(--fs-xxl);
     padding: {
-      top: $fsh5;
+      top: var(--fs-m);
       bottom: 0;
     }
 
     h1 {
       #logo img {
-        height: $fsh1;
-        width: $fsh1;
-        margin-top: $fsp;
+        height: var(--fs-xxl);
+        width: var(--fs-xxl);
+        margin-top: var(--fs-r);
       }
 
-      font-size: $fsh3;
+      font-size: var(--fs-l);
     }
 
     h2 {
-      font-size: $fsp;
+      font-size: var(--fs-r);
     }
   }
 
@@ -143,14 +143,14 @@
   }
 
   #slowly {
-    font-size: $fsh4;
+    font-size: var(--fs-ml);
   }
 
   article {
     width: 95%;
     margin: auto;
-    padding-bottom: $fsp;
-    line-height: $lh_medium;
+    padding-bottom: var(--fs-r);
+    line-height: var(--lh-m);
 
     section,
     audio {
@@ -165,16 +165,16 @@
         order: 2;
 
         h1 {
-          font-size: $fsh5;
+          font-size: var(--fs-m);
 
           #episode-title {
-            font-size: $fsh6;
+            font-size: var(--fs-ms);
           }
         }
 
         #episode-subtitle {
-          font-size: $fsp;
-          line-height: $lh_small;
+          font-size: var(--fs-r);
+          line-height: var(--lh-s);
         }
       }
     }
@@ -190,7 +190,7 @@
     }
 
     h3 {
-      font-size: $fsh5;
+      font-size: var(--fs-m);
     }
   }
 

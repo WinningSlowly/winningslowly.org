@@ -8,7 +8,7 @@
 {% endblock %}
 {% block description %}{{ article.description|striptags }}{% endblock %}
 {% block content %}
-   <article>
+   <article class="Content">
       {% include "includes/item-header.html" %}
 
       <audio title="{{ article.title }}" controls="controls" preload="metadata">

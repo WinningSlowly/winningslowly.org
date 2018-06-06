@@ -1,28 +1,33 @@
 {% extends "archives.html" %}
-{% set prefix = SEASONS[category].prefix if SEASONS[category].prefix + ': ' else '' %}
-{% set title = SEASONS[category].title if SEASONS[category].title else '' %}
-{% set metatitle = prefix + title %}
+{% set prefix = SEASONS[category.name].prefix ~ ': ' if SEASONS[category.name].prefix else '' %}
+{% set title = SEASONS[category.name].title if SEASONS[category.name].title else '' %}
+{% set metatitle = prefix ~ title %}
 
 {% block title %}{{metatitle}} &#9702; {{ SITENAME }}{% endblock %}
 
 {% block heading %}
-   <h2 class="SeasonHeading">{{prefix}}{{title}}</h2>
+   <h2 class="SeasonHeading">
+      {%if SEASONS[category.name].prefix%}
+         <span class='SeasonHeading-prefix'>{{SEASONS[category.name].prefix}}</span>
+      {%endif%}
+      <span class='SeasonHeading-title'>{{title}}</span>
+   </h2>
 {% endblock %}
 
 {% block section_nav %}
    <nav class='SeasonNav'>
       {% set curr = category.name|int %}
-      {% if SEASONS[category].number %}
+      {% if SEASONS[category.name].number %}
          {% for cat, _articles in categories %}
-            {% if SEASONS[cat].number %}
+            {% if SEASONS[cat.name].number %}
                {% set int_cat = cat.name|int %}
                {% if int_cat == (curr + 1) %}
                   <a class="SeasonNav-season SeasonNav-season--next" href="/{{ cat.url }}">
-                     {{SEASONS[cat].prefix}} <i class="fa fa-fw fa-long-arrow-right"></i>
+                     {{SEASONS[cat.name].prefix}} <i class="fa fa-fw fa-long-arrow-right"></i>
                   </a>
                {% elif int_cat == (curr - 1) %}
                   <a class="SeasonNav-season SeasonNav-season--prev" href="/{{ cat.url }}">
-                     <i class="fa fa-fw fa-long-arrow-left"></i> {{SEASONS[cat].prefix}}
+                     <i class="fa fa-fw fa-long-arrow-left"></i> {{SEASONS[cat.name].prefix}}
                   </a>
                {% endif %}
             {% endif %}

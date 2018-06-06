@@ -5,8 +5,9 @@
 {% if article is defined %}
    <meta property="og:url" content="{{ SITEURL }}/{{ article.url }}" />
 
-   {% set title_prefix = article.number + ': ' if article.number is defined else '' %}
-   {% set title = title_prefix + article.title|striptags %}
+   {% set category = article.category ~ '.' if SEASONS[article.category.name].number else article.category ~ ' ' %}
+   {% set title_prefix =  article.number ~ ': ' if article.number is defined else '' %}
+   {% set title = category ~ title_prefix ~ article.title|striptags %}
    <meta property="og:title" content="{{title}}" />
    <meta name="twitter:title" content="{{title}}" />
 

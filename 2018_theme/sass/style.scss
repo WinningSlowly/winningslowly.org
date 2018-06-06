@@ -1,13 +1,15 @@
 @import "reset";
+@import "fonts";
 
 :root {
   // Typefaces
-  --text: "Tiempos Text Test, Times, Times New Roman, serif";
-  --title: "Tiempos Headline Test, Georgia, serif";
+  --text: Tiempos Text, Times, Times New Roman, serif;
+  --title: Tiempos Headline, Georgia, serif;
 
   // weights
   --text-regular: 400;
   --text-bold: 600;
+
   --title-bold: 600;
   --title-light: 300;
 
@@ -40,79 +42,44 @@
 }
 
 /* Styles */
-html {
+body {
   font-size: 100%;
   color: var(--dark-gray);
   font-family: var(--text);
-}
-
-body {
+  line-height: var(--lh);
   background: var(--off-white);
   border: 0.4rem solid var(--dark-gray);
   border-bottom: none;
-  line-height: var(-lh);
 }
 
-h2 {
-  font-size: var(--fs-xl);
-  font-family: $slab;
+@mixin content-head {
+  display: block;
 
-  &.tag {
-    color: var(--light-purple);
-  }
-}
-
-.TagHeading {
   font: {
-    size: var(--fs-xl);
+    size: var(--fs-l);
     family: var(--title);
     weight: var(--title-light);
   }
 
-  padding-bottom: var(--fs-l);
+  padding: {
+    bottom: var(--fs-l);
+    left: var(--fs-r);
+    right: var(--fs-r);
+  }
   text-align: center;
   line-height: 1;
 
-  &-content {
-    font: {
-      weight: var(--title-bold);
-    }
+  &-title {
+    font-weight: var(--title-bold);
   }
 }
 
-h3 {
-  font-size: var(--fs-l);
-}
-
-h4 {
-  font-size: var(--fs-ml);
-}
-
-h5 {
-  font-size: var(--fs-m);
-}
-
-h6 {
-  font-size: var(--fs-rm);
-}
-
-p,
-ul,
-ol {
-  font-size: var(--fs-r);
-  padding: {
-    top: 0;
-    bottom: var(--fs-r);
-  }
-  margin: {
-    top: 0;
-    bottom: 0;
-  }
+.TagHeading {
+  @include content-head;
 }
 
 blockquote {
   font: {
-    family: $slab;
     size: var(--fs-r);
     style: italic;
   }
@@ -228,13 +195,23 @@ br.optional {
   display: none;
 }
 
+.Divider {
+  width: 90%;
+  max-width: 66rem;
+  border-top: 1px solid var(--light-gray);
+  margin: {
+    top: var(--fs-l);
+    bottom: var(--fs-l);
+  }
+}
+
 /* Header */
 .Banner {
   padding-top: var(--fs-l);
   padding-bottom: var(--fs-m);
 
-  a#{&-link} {
-    color: transparent;
+  a {
+    color: var(--dark-gray);
 
     &:link,
     &:visited,
@@ -242,26 +219,30 @@ br.optional {
     &:active {
       border-bottom: none;
     }
+
+    &:hover {
+      color: var(--light-blue);
+    }
   }
 
   &-title {
     text-align: center;
+    font: {
+      family: var(--title);
+      weight: var(--title-bold);
+      size: var(--fs-xxxl);
+    }
 
-    text-transform: uppercase;
-    line-height: 1;
     margin: 0;
   }
 
   &-subtitle {
     text-align: center;
     color: var(--light-purple);
-    margin-top: -1rem;
-    font-weight: 400;
-    font-size: 1.2rem;
-    padding-bottom: 2rem;
     font: {
-      font-family: var(--fs-l);
-      size: var(--fs-xl);
+      family: var(--title);
+      size: var(--fs-ml);
+      weight: var(--title-light);
       style: italic;
     }
   }
@@ -271,23 +252,36 @@ br.optional {
   }
 }
 
-/* Podcast items */
-article {
-  padding-bottom: var(--fs-xxl);
-  line-height: 1.7;
+.Content {
+  max-width: 40em;
+  margin: {
+    left: auto;
+    right: auto;
+  }
 
-  @mixin header-item() {
-    margin-bottom: 1rem;
+  &--meta {
+    font-size: var(--fs-ms);
+    padding-top: 1em;
+  }
+
+  &--index {
+    padding-bottom: var(--fs-m);
   }
 
   h1 {
-    @include header-item();
-    font-weight: 300;
+    font: {
+      family: var(--title);
+      weight: var(--title-light);
+    }
+    margin-bottom: 1rem;
   }
 
   h2 {
-    @include header-item();
-    font-weight: 700;
+    font: {
+      family: var(--title);
+      weight: var(--title-bold);
+      size: var(--fs-xl);
+    }
     text-align: center;
   }
 
@@ -299,6 +293,32 @@ article {
       right: auto;
     }
     border-bottom: 1px solid var(--light-gray);
+    font-size: var(--fs-l);
+  }
+
+  h4 {
+    font-size: var(--fs-ml);
+  }
+
+  h5 {
+    font-size: var(--fs-m);
+  }
+
+  h6 {
+    font-size: var(--fs-rm);
+  }
+
+  p,
+  ul,
+  ol {
+    padding: {
+      top: 0;
+      bottom: var(--fs-r);
+    }
+    margin: {
+      top: 0;
+      bottom: 0;
+    }
   }
 
   header {
@@ -317,7 +337,6 @@ article {
 
         #episode-title {
           font: {
-            size: var(--fs-xl);
             weight: 700;
           }
           text-transform: uppercase;
@@ -436,6 +455,15 @@ article {
   }
 }
 
+.SeasonHeading {
+  @include content-head;
+
+  &-prefix,
+  &-title {
+    display: block;
+  }
+}
+
 .Archive {
   .season {
     text-align: center;
@@ -453,111 +481,110 @@ article {
       }
     }
   }
+}
 
-  article {
+.EpisodeList {
+  font-size: var(--fs-ms);
+  max-width: 66rem;
+  list-style: none;
+  margin: {
+    left: auto;
+    right: auto;
+  }
+
+  &-episode {
     min-height: 4em;
     padding-bottom: 2em;
 
-    header {
-      display: flex;
-      justify-content: space-between;
-      align-content: flex-start;
-      flex-flow: row wrap;
-      text-align: left;
+    &:last-of-type {
+      padding-bottom: 0;
+    }
+  }
 
-      a,
-      a:visited {
-        display: flex;
-        justify-content: space-between;
-        align-content: flex-start;
-        flex-flow: row wrap;
-        width: 100%;
-        color: var(--dark-gray);
+  a,
+  a:visited {
+    color: var(--dark-gray);
+  }
 
-        // Border and padding operate together with the animation so that
-        // the size of the contained element remains constant: as the border
-        // grows on hover, the padding shrinks. This prevents reflow of the
-        // contents of the link.
-        border: {
-          top: none;
-          left: 1px solid transparent;
-          bottom: none;
-          right: 1px solid transparent;
-        }
+  &-link {
+    // Border and padding operate together with the animation so that
+    // the size of the contained element remains constant: as the border
+    // grows on hover, the padding shrinks. This prevents reflow of the
+    // contents of the link.
+    border: {
+      top: none;
+      left: 1px solid transparent;
+      bottom: none;
+      right: 1px solid transparent;
+    }
 
-        padding: {
-          left: 8px;
-          right: 8px;
-        }
+    padding: {
+      left: 8px;
+      right: 8px;
+    }
 
-        &:hover,
-        &:active {
-          color: var(--light-purple);
-          border: {
-            top: none;
-            left: 8px solid var(--light-purple);
-            bottom: none;
-            right: 8px solid var(--light-purple);
-          }
-
-          padding: {
-            left: 1px;
-            right: 1px;
-          }
-        }
+    &:hover,
+    &:active {
+      color: var(--light-purple);
+      border: {
+        top: none;
+        left: 8px solid var(--light-purple);
+        bottom: none;
+        right: 8px solid var(--light-purple);
       }
 
-      .title,
-      .meta {
-        margin: 0;
-        padding-top: 0;
-        color: var(--dark-gray);
-        line-height: var(--lh-s);
-
-        font: {
-          size: var(--fs-r);
-          weight: 300;
-        }
-
-        span {
-          display: block;
-          margin: {
-            top: 0;
-            bottom: 0;
-          }
-          padding: {
-            top: 0;
-            bottom: 0;
-          }
-        }
+      padding: {
+        left: 1px;
+        right: 1px;
       }
+    }
+  }
+}
 
-      .meta {
-        @include flex(1 55%);
-        font-family: var(--text);
-        padding: {
-          top: 1px;
-          left: 0.243rem;
-        }
+.EpisodeSummary {
+  display: flex;
+  justify-content: space-between;
+  align-content: flex-start;
+  flex-flow: row wrap;
+  text-align: left;
+  font-family: var(--text);
+  line-height: var(--lh-s);
 
-        #episode-date {
-          font-style: italic;
-        }
-      }
+  &-meta {
+    margin: 0;
+    padding-top: 0;
+    color: var(--dark-gray);
 
-      .title {
-        @include flex(1 40%);
-        font: {
-          family: $slab;
-          weight: 500;
-        }
-        text-align: right;
-        padding-right: 0.243rem;
+    &--primary {
+      flex: 1 40%;
+      font-weight: var(--text-bold);
+      text-align: right;
+      padding-right: 0.243rem;
+    }
 
-        #episode-title {
-          text-transform: uppercase;
-        }
-      }
+    &--secondary {
+      flex: 1 55%;
+      padding-left: 0.243rem;
+    }
+  }
+}
+
+.EpisodeMeta {
+  &-field {
+    display: block;
+    margin: {
+      top: 0;
+      bottom: 0;
+    }
+    padding: {
+      top: 0;
+      bottom: 0;
+    }
+
+    &--date {
+      font-style: italic;
+      margin-top: -1px;
+      padding-bottom: 1px;
     }
   }
 }
@@ -572,13 +599,13 @@ article {
   border-left: 0.4rem solid var(--off-white);
   border-right: 0.4rem solid var(--off-white);
 
-  @include flexbox();
-  @include justify-content(space-between);
-  @include align-content(flex-start);
-  @include flex-flow(row wrap);
+  display: flex;
+  justify-content: space-between;
+  align-content: flex-start;
+  flex-flow: row wrap;
 
   &-season {
-    @include flex(1 0 auto);
+    flex: 1 0 auto;
     border: none;
     color: var(--off-white);
     text-align: center;
@@ -587,6 +614,10 @@ article {
     &:hover,
     &:active {
       background: var(--pale-purple);
+    }
+
+    &:visited {
+      color: var(--off-white);
     }
 
     &--prev {
@@ -602,10 +633,10 @@ article {
 }
 
 footer {
-  @include flexbox();
-  @include justify-content(space-around);
-  @include align-content(flex-start);
-  @include flex-flow(row wrap);
+  display: flex;
+  justify-content: space-around;
+  align-content: flex-start;
+  flex-flow: row wrap;
 
   clear: both;
 
@@ -650,7 +681,7 @@ footer {
       font-size: var(--fs-ml);
       font-weight: 300;
       letter-spacing: 1px;
-      color: $light_orange;
+      color: orange;
       text-shadow: 1px 1px 1px var(--light-gray);
       border-bottom: 1px solid var(--light-gray);
       margin-bottom: 1rem;

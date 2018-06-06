@@ -32,30 +32,36 @@
 
 </head>
 <body>
-   <div id="wrapper">
-      <header class="Banner">
-         <h1 class='Banner-title'>
-            <a class='Banner-link' href="{{SITEURL}}">Winning Slowly</a>
-         </h1>
-         <h2 class='Banner-subtitle'>
-            Taking the long view on
-            <br class="optional" />
-            <span class='Banner-subject'>technology</span>,
-            <span class='Banner-subject'>religion</span>,
-            <br class="optional" />
-            <span class='Banner-subject'>ethics</span>, and
-            <span class='Banner-subject'>art</span>.
-         </h2>
-      </header>
+   <header class="Banner">
+      <h1 class='Banner-title'>
+         <a class='Banner-link' href="{{SITEURL}}">Winning Slowly</a>
+      </h1>
+      <h2 class='Banner-subtitle'>
+         Taking the long view on
+         <br class="optional" />
+         <span class='Banner-subject'>technology</span>,
+         <span class='Banner-subject'>religion</span>,
+         <br class="optional" />
+         <span class='Banner-subject'>ethics</span>, and
+         <span class='Banner-subject'>art</span>.
+      </h2>
+   </header>
 
-      {% block content %}{% endblock %}
-   </div>
+   {%block index_content %}{% endblock %}
+
+   <hr class="Divider">
+
+   {% block content %}{% endblock %}
 
    {% block section_nav %}
    <nav class='SeasonNav'>
       {% for cat, _ in categories %}
       <a class="SeasonNav-season" href="/{{cat.url}}">
-         {% if SEASONS[cat].number %}{{SEASONS[cat].prefix}}{% endif %}
+         {% if SEASONS[cat.name].prefix %}
+            {{SEASONS[cat.name].prefix}}
+         {% elif SEASONS[cat.name].title %}
+            {{SEASONS[cat.name].title}}
+         {% endif %}
       </a>
       {% endfor %}
    </nav>
