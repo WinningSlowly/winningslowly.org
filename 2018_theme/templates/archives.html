@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block body_el %}<body class="archive">{% endblock %}
+
+{% block content %}
+{% block heading %}{% endblock %}
+{% if articles %}
+   {% for article in articles %}
+      <article>
+         <header>
+            <a href="{{ SITEURL}}/{{ article.url }}">
+               <div class="title">
+                  <span id="episode-num">
+                     {% if article.category == 'Bonus' %}
+                        Bonus {{ article.number }}
+                     {% else %}
+                        Episode {{article.category}}.{{ article.number }}
+                     {% endif %}
+                  </span>
+                  <span id="episode-title">{{ article.title }}</span>
+               </div>
+               <div class="meta">
+                  <span id="episode-date">{{ article.locale_date }}</span>
+                  <span id="episode-subtitle">{{ article.subtitle }}</span>
+               </div>
+            </a>
+         </header>
+      </article>
+   {% endfor %}
+{% else %}
+   {% include "includes/404-content.html" %}
+{% endif %}
+{% endblock content %}

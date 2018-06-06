@@ -1,0 +1,180 @@
+{% extends "base.html" %} {% block body_el %}
+
+<body class="archive index">{% endblock %} {% block content %}
+   <article>
+      <p>There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape
+         <em>tomorrow</em>, but there aren’t that many concerned with the potential impact of that tech a decade from now. In
+         a culture obsessed with
+         <em>now</em>, how can we make choices with a view for tomorrow, next year, and beyond?</p>
+      <p>Episodes (usually) come out every other Wednesday. If unforeseen scheduling issues arise, we will add a note below accordingly. Episodes are normally 25–30 minutes long.</p>
+      <h3>
+         <a href="/{{ CURRENT_SEASON.slug }}.html">
+            {{ CURRENT_SEASON.title }}
+         </a>
+      </h3>
+   </article>
+
+   {% for category, category_articles in categories %}
+      {% if category == CURRENT_SEASON.number %}
+         {% for article in category_articles %}
+            {% if article.category == CURRENT_SEASON.number %}
+               <article>
+                  <header>
+                     <a href="{{ SITEURL}}/{{ article.url }}">
+                        <div class="title">
+                           <span id="episode-num">Episode {{article.category}}.{{ article.number }}</span>
+                           <span id="episode-title">{{ article.title }}</span>
+                        </div>
+                        <div class="meta">
+                           <span id="episode-date">{{ article.locale_date }}</span>
+                           <span id="episode-subtitle">{{ article.subtitle }}</span>
+                        </div>
+                     </a>
+                  </header>
+               </article>
+            {% endif %}
+         {% endfor %}
+      {% endif %}
+   {% endfor %}
+
+   <article>
+      <h3>Previous</h3>
+      <section>
+         <h4 id="season-5">
+            <a href="/season-5.html">Season 5: Structure and Agency</a>
+         </h4>
+         <p>
+            A deep dive on the "structure/agency" problem, or: how individuals and systems relate. This one had a quirk to it, though:
+            we recorded the first nine episodes in the fall of 2016, then the last three in the fall of 2017. (Stephen finishing
+            his Ph.D. and moving across the country, and Chris finishing his M. Div. and moving across the country... had
+            consequences.)
+         </p>
+         <p>Episodes of particular interest include:</p>
+         <ul>
+            <li>
+               <a href='https://winningslowly.org/5.01/'>5.01: A Ph.D.-Level Math Problem</a> – in which we introduced a set of axes on which to fit the structure
+               and agency question.
+            </li>
+            <li>
+               <a href='https://winningslowly.org/5.05/'>5.05: "Faint Not"</a> – on civil forfeiture and entrenched legal evil.
+            </li>
+            <li>
+               <a href='https://winningslowly.org/5.11/'>5.11: Fences, Neighbors, Etc.</a> – on vaccinations and the application of force for the common good.
+            </li>
+         </ul>
+         </h4>
+      </section>
+      <section>
+         <h4 id="season-4">
+            <a href="/season-4.html">Season 4: Globalization</a>
+         </h4>
+         <p>In our spring 2016 season, we took a long look at globalization: the good, the bad, the ugly. (This was also the
+            first time we planned a season start to finish before we kicked it off, and it shows.)</p>
+         <p>We talked about everything from international business (
+            <a href='https://winningslowly.org/4.08/'>4.08: A Ghost in Singapore</a>) to
+            <cite>Star Wars</cite> (
+            <a href='https://winningslowly.org/4.03'>4.03: The Podcast Awakens</a> and
+            <a href='https://winningslowly.org/4.04'>4.04: But Was It a Good Movie?</a>) and from social media in a populist era (
+            <a href='https://winningslowly.org/4.10'>4.10: The Ancient Wisdom of Usenet</a>) to the challenges of global benevolence (
+            <a href='https://winningslowly.org/4.02/'>4.01: Unambiguously Meh</a>,
+            <a href='https://winningslowly.org/4.02/'>4.02: Helpiness</a>, and
+            <a href='https://winningslowly.org/4.02/'>4.09: We’re Idealist Realists</a>)</p>
+         <p>Along the way, we developed an important distinction between the
+            <em>reasonable</em> and the
+            <em>justifiable</em>: a way to help us bridge the gap with people we disagree with, while still disagreeing with
+            them—sometimes fervently.</p>
+      </section>
+      <section>
+         <h4 id="season-3">
+            <a href="/season-3.html">Season 3</a>
+         </h4>
+         <p>Season 3 was our first attempt at doing a more topical season, with an emphasis on the relationship between advertising,
+            busines interests, and capitalism and human flourishing.</p>
+         <p>We kicked off the season with
+            <a href="https://winningslowly.org/3.01/">3.01: The Ad-Driven Web, Part I</a> and
+            <a href="https://winningslowly.org/3.02/">3.02: The Ad-Driven Web, Part II</a> on July 21 and 28, 2015, respectively, and concluded with some lightning
+            round-style episodes in
+            <a href="https://winningslowly.org/3.14/">3.14: Smorgasbord, Part I</a> and
+            <a href="https://winningslowly.org/3.15/">3.15: Smorgasbord, Part II</a> on October 27 and November 3, 2015, respectively. The season also included our
+            first interview:
+            <a href='https://winningslowly.org/3.09/'>3.09: Many Beautiful Things</a>, with Ryan O’Neal of Sleeping at Last.</p>
+      </section>
+      <section>
+         <h4 id="season-2">
+            <a href="/season-2.html">Season 2</a>
+         </h4>
+         <p>Season 2 began with
+            <a href="https://winningslowly.org/2.01/">2.01: Take My Money Please!</a> on January 27, 2015 and concluded with
+            <a href="https://winningslowly.org/2.15/">2.15: Metapodcasting</a> on May 12, 2015.</p>
+         <p>Think of this as our “tightening things up now that we know what we’re doing” season and you won’t be far wrong.
+      </section>
+      <section>
+         <h4 id="season-1">
+            <a href="/season-1.html">Season 1</a>
+         </h4>
+         <p>Our first “official” season—the one that was
+            <em>not</em> a “beta”—started on July 15, 2014, with
+            <a href="https://winningslowly.org/1.01/">1.01: Massive Emotional Contagion</a>, and wrapped up with the release of
+            <a href="https://winningslowly.org/1.18/">1.18: Keep On Keepin’ On</a> on November 18, 2014.</p>
+         <p>The main hiccup in Season 1? Stephen’s audio. It varies like crazy week to week, for reasons that eluded us. We
+            blame grumpy, grumpy monkeys.</p>
+      </section>
+      <section>
+         <h4 id="season-0">
+            <a href="/season-0.html">Season 0</a>
+         </h4>
+         <p>Our first season: “This is a beta; bear with us!”—in which we spent a few months just figuring out what we were
+            doing, ran from January 28, 2014 until May 20, 2014. Seriously: we had
+            <em>no idea</em> what we were doing; we just knew we had a good idea for a show and wanted to figure out how to make
+            it work. There is good content here, but we have kept this around mostly for historical interest—it’s
+            <em>rough</em>.</p>
+         <p>Episodes ranged in length from over 45 minutes to under 20 minutes as we figured out our approach to the show, solicited
+            regular feedback, and general got a handle on the whole thing. By the final episode,
+            <a href="https://winningslowly.org/0.14/">0.14: Deep In Their Bones</a>, we had found our basic formula and settled into a nice rhythm, which we were then
+            able to carry into Season 1.</p>
+      </section>
+   </article>
+
+   <article>
+      <h3 id="who">Who</h3>
+      <section>
+         <p>
+            <strong>Chris Krycho</strong> is a
+            <a href="https://www.olo.com" title="Online ordering by OLO">software engineer</a>,
+            <a href='https://chriskrycho.com/podcasts' title='podcasts'>podcaster</a>,
+            <a href="https://chriskrycho.com" title="chriskrycho.com">writer</a>, and
+            <a href="https://soundcloud.com/chriskrycho">occasional composer</a>. He lives with his family in Colorado.
+         </p>
+         <p>
+            <strong>Stephen Carradini</strong> is a
+            <a href="https://cisa.asu.edu/tech-comm/faculty" title="Assistant Professor of Technical Communication in Arizona State University’s Technical Communication">digital media scholar and professor</a>,
+            <a href="//independentclauses.com" title="Independent Clauses music blog">writer</a>,
+            <a href="//stephencarradini.com" title="StephenCarradini.com">editor</a>, and
+            <a href="//themidnightsons.bandcamp.com" title="The Midnight Sons">songwriter</a>. He lives with his family in Arizona.
+         </p>
+      </section>
+   </article>
+
+   <article>
+      <h3>Support Us!</h3>
+      <section>
+         <p>You can subscribe to our
+            <a class="social-inline-link" href="/feed.xml">
+               <i class="fa fa-fw fa-rss"></i>feed</a> directly or via
+            <a class="social-inline-link" href="{{ IDENTITY['Site']['iTunes'] }}">
+               <i class="fa fa-fw fa-play-circle"></i>iTunes</a>. You can also find us on
+            <a class="social-inline-link" href="{{ IDENTITY['Site']['Twitter'] }}">
+               <i class="fa fa-twitter"></i>Twitter</a> or
+            <a class="social-inline-link" href="{{ IDENTITY['Site']['Facebook'] }}">
+               <i class="fa fa-facebook"></i>Facebook</a>.</p>
+         <p>You can support the show via a monthly pledge at
+            <a href="{{ IDENTITY['Site']['Patreon'] }}">Patreon</a> or by giving directly with
+            <a href="{{ IDENTITY['Site']['Square'] }}">Square Cash</a>. 10% of all support for the show goes to the Internet Archive.</p>
+
+         <h4>Sponsors</h4>
+         <ul class='sponsors-list'>
+            <li class='sponsors-list__sponsor'>Kurt Klassen (September–October 2016)</li>
+         </ul>
+         <section>
+   </article>
+   {% endblock %}

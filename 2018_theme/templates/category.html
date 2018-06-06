@@ -1,0 +1,21 @@
+{% extends "archives.html" %} {% set seasonPrefix = 'Season' if category not in SPECIAL_CATEGORIES else '' %} {% block title
+%} {{ seasonPrefix }} {{ category }} &#9702; {{ SITENAME }}{% endblock %} {% block heading %}
+<h2 class="season">
+   {{ seasonPrefix }} {{ category }}{% if SEASON_TITLES[category] %}:
+   <br/>{{ SEASON_TITLES[category] }}{% endif %}
+</h2>
+{% endblock %} {% block section_nav %}
+<nav class='SeasonNav'>
+   {% set curr = category.name|int %} {% if category not in SPECIAL_CATEGORIES %} {% for cat, _ in categories %} {% if cat not
+   in SPECIAL_CATEGORIES %} {% set int_cat = cat.name|int %} {% if int_cat == (curr + 1) %}
+   <a class="SeasonNav-season SeasonNav-season--next" href="/{{ cat.url }}">Season {{ cat }}
+      <i class="fa fa-fw fa-long-arrow-right"></i>
+   </a>
+   {% elif int_cat == (curr - 1) %}
+   <a class="SeasonNav-season SeasonNav-season--prev" href="/{{ cat.url }}">
+      <i class="fa fa-fw fa-long-arrow-left"></i>Season {{ cat }}</a>
+   {% endif %} {% endif %} {% endfor %} {% else %}
+   <a class='SeasonNav-season' href='/'>Home</a>
+   {% endif %}
+</nav>
+{% endblock %}

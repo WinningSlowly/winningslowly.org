@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block title %}{{ page.title }} < {{ SITENAME }}{% endblock title %}
+{% block content %}
+   <article>
+      {% include "includes/item-header.html" %}
+
+      <section id="content">
+         {{ page.content }}
+      </section>
+   </article>
+{% endblock content %}

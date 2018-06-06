@@ -1,62 +1,108 @@
-@import 'reset';
-@import 'typography';
-@import 'mixins';
-@import 'variables';
+@import "reset";
+
+:root {
+  // Typefaces
+  --text: "Tiempos Text Test, Times, Times New Roman, serif";
+  --title: "Tiempos Headline Test, Georgia, serif";
+
+  // weights
+  --text-regular: 400;
+  --text-bold: 600;
+  --title-bold: 600;
+  --title-light: 300;
+
+  // Sizes
+  /* Modular scale: http://modularscale.com/scale/?px1=18&px2=540&ra1=1.5&ra2=0 */
+  --fs-xxxl: 3.951rem;
+  --fs-xxl: 3.375rem;
+  --fs-xl: 2.634rem;
+  --fs-l: 2.25rem;
+  --fs-ml: 1.756rem;
+  --fs-m: 1.5rem;
+  --fs-ms: 1.171rem;
+  --fs-r: 1rem;
+  --fs-s: 0.78rem;
+
+  // Line heights
+  --lh: 1.5;
+  --lh-m: 1.35;
+  --lh-s: 1.171;
+
+  // Colors
+  --off-white: hsl(0, 0%, 99.6%);
+  --dark-gray: hsl(0, 0%, 26.7%);
+  --light-gray: hsl(60, 3.8%, 53.1%);
+  --dark-purple: hsl(238.3, 53.4%, 37.8%);
+  --light-purple: hsl(238.3, 49.3%, 58.2%);
+  --pale-purple: hsl(238.4, 41.6%, 63.7%);
+  --light-blue: hsl(204.6, 48.3%, 54.5%);
+  --dark-blue: hsl(204.8, 61.9%, 32.9%);
+}
 
 /* Styles */
 html {
-  font-size: 112.5%;
-  color: $text;
-  font-family: $sans;
+  font-size: 100%;
+  color: var(--dark-gray);
+  font-family: var(--text);
 }
 
 body {
-  background: $background;
-  border: 0.4rem solid $text;
+  background: var(--off-white);
+  border: 0.4rem solid var(--dark-gray);
   border-bottom: none;
-  line-height: $lh;
-}
-
-h1 {
-  font-size: $fsh1;
-  font-family: $slab;
+  line-height: var(-lh);
 }
 
 h2 {
-  font-size: $fsh2;
+  font-size: var(--fs-xl);
   font-family: $slab;
 
   &.tag {
-    color: $light_purple;
-    padding-bottom: $fsh3;
-    text-align: center;
-    line-height: 1;
+    color: var(--light-purple);
+  }
+}
+
+.TagHeading {
+  font: {
+    size: var(--fs-xl);
+    family: var(--title);
+    weight: var(--title-light);
+  }
+
+  padding-bottom: var(--fs-l);
+  text-align: center;
+  line-height: 1;
+
+  &-content {
+    font: {
+      weight: var(--title-bold);
+    }
   }
 }
 
 h3 {
-  font-size: $fsh3;
+  font-size: var(--fs-l);
 }
 
 h4 {
-  font-size: $fsh4;
+  font-size: var(--fs-ml);
 }
 
 h5 {
-  font-size: $fsh5;
+  font-size: var(--fs-m);
 }
 
 h6 {
-  font-size: $fsh6;
+  font-size: var(--fs-rm);
 }
 
 p,
 ul,
 ol {
-  font-size: $fsp;
+  font-size: var(--fs-r);
   padding: {
     top: 0;
-    bottom: $fsp;
+    bottom: var(--fs-r);
   }
   margin: {
     top: 0;
@@ -67,13 +113,13 @@ ol {
 blockquote {
   font: {
     family: $slab;
-    size: $fsp;
+    size: var(--fs-r);
     style: italic;
   }
   margin: 0.5em 0;
   padding: 0 1em;
-  border-left: 2px solid $pale_purple;
-  color: $background_darkened;
+  border-left: 2px solid var(--pale-purple);
+  color: var(--light-gray);
 
   em {
     font-style: normal;
@@ -120,20 +166,15 @@ ol {
   }
 }
 
-ol ol {
-}
-
 a,
 a:visited {
-  color: $light_purple;
+  color: var(--light-purple);
   transition: all 0.347s;
   text-decoration: none;
-  border-bottom: 1px solid transparent;
 
   &:hover,
   &:active {
-    color: $light_blue;
-    border-bottom: 1px solid $background_darkened;
+    color: var(--light-blue);
   }
 }
 
@@ -147,18 +188,18 @@ img {
 }
 
 figure {
-  margin-bottom: $fsp;
+  margin-bottom: var(--fs-r);
   text-align: center;
   padding: 0.52em;
   font-weight: 300;
-  font-size: $fs_small;
-  line-height: $lh_small;
+  font-size: var(--fs-s);
+  line-height: var(--lh-s);
   font-style: italic;
 }
 
 .sponsors-list {
   text-align: center;
-  font-size: $fsh6;
+  font-size: var(--fs-rm);
   margin: 0;
   padding: 0;
   list-style: none;
@@ -169,7 +210,7 @@ figure {
 
     &::after,
     &::before {
-      content: '✨';
+      content: "✨";
       display: inline-block;
       width: 2em;
     }
@@ -179,7 +220,7 @@ figure {
 /* Layout */
 #wrapper {
   max-width: 44rem;
-  padding: 0 1rem $fsh1;
+  padding: 0 1rem var(--fs-xxl);
   margin: auto;
 }
 
@@ -188,12 +229,11 @@ br.optional {
 }
 
 /* Header */
-header#banner {
-  padding-top: $fsh3;
-  padding-bottom: $fsh5;
-  text-shadow: 1px 1px 1px #ddd;
+.Banner {
+  padding-top: var(--fs-l);
+  padding-bottom: var(--fs-m);
 
-  a {
+  a#{&-link} {
     color: transparent;
 
     &:link,
@@ -204,60 +244,36 @@ header#banner {
     }
   }
 
-  h1 {
+  &-title {
     text-align: center;
 
-    #logo,
-    #winning,
-    #slowly {
-      display: inline-block;
-    }
-
-    #logo {
-      img {
-        height: $fs_large;
-        width: $fs_large;
-        vertical-align: middle;
-        margin-top: -10px;
-      }
-    }
-
-    #winning,
-    #slowly {
-      text-transform: uppercase;
-      line-height: 1;
-      margin: 0;
-    }
-
-    #winning {
-      color: $dark_orange;
-      font-weight: 300;
-      font-family: $slab;
-      letter-spacing: 3px;
-      margin-right: -0.78rem;
-    }
-
-    #slowly {
-      color: $light_orange;
-      font-size: $felt_multiplier_em;
-      font-family: $felt;
-      margin-top: -10px;
-    }
+    text-transform: uppercase;
+    line-height: 1;
+    margin: 0;
   }
 
-  h2 {
+  &-subtitle {
     text-align: center;
-    color: $light_purple;
+    color: var(--light-purple);
     margin-top: -1rem;
     font-weight: 400;
     font-size: 1.2rem;
     padding-bottom: 2rem;
+    font: {
+      font-family: var(--fs-l);
+      size: var(--fs-xl);
+      style: italic;
+    }
+  }
+
+  &-subject {
+    font-style: normal;
   }
 }
 
 /* Podcast items */
 article {
-  padding-bottom: $fsh1;
+  padding-bottom: var(--fs-xxl);
   line-height: 1.7;
 
   @mixin header-item() {
@@ -282,7 +298,7 @@ article {
       left: auto;
       right: auto;
     }
-    border-bottom: 1px solid $background_darkened;
+    border-bottom: 1px solid var(--light-gray);
   }
 
   header {
@@ -301,7 +317,7 @@ article {
 
         #episode-title {
           font: {
-            size: $fsh2;
+            size: var(--fs-xl);
             weight: 700;
           }
           text-transform: uppercase;
@@ -310,19 +326,19 @@ article {
       }
 
       #episode-subtitle {
-        font-size: $fsh5;
+        font-size: var(--fs-m);
         padding-bottom: 0;
       }
     }
 
     .meta {
-      font-family: $sans;
+      font-family: var(--text);
       font-weight: 700;
-      color: $background_darkened;
+      color: var(--light-gray);
     }
 
     ul.meta {
-      line-height: $lh_small;
+      line-height: var(--lh-s);
       display: inline-block;
       padding: {
         top: 1em;
@@ -336,8 +352,8 @@ article {
       }
 
       > li:after {
-        content: '\25E6';
-        font-size: $fs_small;
+        content: "\25E6";
+        font-size: var(--fs-s);
         padding: {
           left: 1px;
           right: 1px;
@@ -359,8 +375,8 @@ article {
     text-align: center;
     width: 66.7%;
     margin: {
-      top: $fsh2;
-      bottom: $fsh3;
+      top: var(--fs-xl);
+      bottom: var(--fs-l);
       left: auto;
       right: auto;
     }
@@ -435,35 +451,28 @@ article {
 .archive {
   .season {
     text-align: center;
-    padding-bottom: $fsp;
+    padding-bottom: var(--fs-r);
   }
 
   article {
     min-height: 4em;
     padding-bottom: 2em;
 
-    @mixin flex-container() {
-      @include flexbox();
-      @include justify-content(space-between);
-      @include align-content(flex-start);
-      @include flex-flow(row wrap);
-    }
-
-    @mixin flex-item() {
-      @include flex(1 18rem);
-    }
-
     header {
-      @include flex-container();
-
+      display: flex;
+      justify-content: space-between;
+      align-content: flex-start;
+      flex-flow: row wrap;
       text-align: left;
 
       a,
       a:visited {
-        @include flex-container();
-
+        display: flex;
+        justify-content: space-between;
+        align-content: flex-start;
+        flex-flow: row wrap;
         width: 100%;
-        color: #444;
+        color: var(--dark-gray);
 
         // Border and padding operate together with the animation so that
         // the size of the contained element remains constant: as the border
@@ -483,12 +492,12 @@ article {
 
         &:hover,
         &:active {
-          color: $light_purple;
+          color: var(--light-purple);
           border: {
             top: none;
-            left: 8px solid $light_purple;
+            left: 8px solid var(--light-purple);
             bottom: none;
-            right: 8px solid $light_purple;
+            right: 8px solid var(--light-purple);
           }
 
           padding: {
@@ -502,11 +511,11 @@ article {
       .meta {
         margin: 0;
         padding-top: 0;
-        color: $text;
-        line-height: $lh_small;
+        color: var(--dark-gray);
+        line-height: var(--lh-s);
 
         font: {
-          size: $fsp;
+          size: var(--fs-r);
           weight: 300;
         }
 
@@ -525,7 +534,7 @@ article {
 
       .meta {
         @include flex(1 55%);
-        font-family: $sans;
+        font-family: var(--text);
         padding: {
           top: 1px;
           left: 0.243rem;
@@ -553,42 +562,42 @@ article {
   }
 }
 
-.category.nav {
-  font-size: $fsh5;
+.SeasonNav {
+  font-size: var(--fs-m);
   clear: both;
-  background: $light_purple;
+  background: var(--light-purple);
 
   margin-left: -0.4rem;
   margin-right: -0.4rem;
-  border-left: 0.4rem solid $background;
-  border-right: 0.4rem solid $background;
+  border-left: 0.4rem solid var(--off-white);
+  border-right: 0.4rem solid var(--off-white);
 
   @include flexbox();
   @include justify-content(space-between);
   @include align-content(flex-start);
   @include flex-flow(row wrap);
 
-  .season-link {
+  &-season {
     @include flex(1 0 auto);
     border: none;
-    color: $background;
+    color: var(--off-white);
     text-align: center;
-    padding: $fs_small / 2 $fs_small;
+    padding: --var(fs-s) / 2 var(--fs-s);
 
     &:hover,
     &:active {
-      background: $pale_purple;
+      background: var(--pale-purple);
     }
-  }
 
-  .prev {
-    text-align: left;
-    padding-left: 12%;
-  }
+    &--prev {
+      text-align: left;
+      padding-left: 12%;
+    }
 
-  .next {
-    text-align: right;
-    padding-right: 12%;
+    &--next {
+      text-align: right;
+      padding-right: 12%;
+    }
   }
 }
 
@@ -602,13 +611,13 @@ footer {
 
   margin-left: -0.4rem;
   margin-right: -0.4rem;
-  border: 0.4rem solid $light_purple;
+  border: 0.4rem solid var(--light-purple);
   border-top: none;
 
-  background: $text;
-  color: $background;
+  background: var(--dark-gray);
+  color: var(--off-white);
   text-align: center;
-  padding-top: $fsh3;
+  padding-top: var(--fs-l);
 
   p,
   ul,
@@ -629,26 +638,26 @@ footer {
 
   a,
   a:visited {
-    color: $pale_purple;
+    color: var(--pale-purple);
   }
 
   .footer_item {
     width: 40%;
     max-width: 461px;
-    padding-bottom: $fsh1;
+    padding-bottom: var(--fs-xxl);
 
     h1 {
-      font-size: $fsh4;
+      font-size: var(--fs-ml);
       font-weight: 300;
       letter-spacing: 1px;
       color: $light_orange;
-      text-shadow: 1px 1px 1px $background_darkened;
-      border-bottom: 1px solid $background_darkened;
+      text-shadow: 1px 1px 1px var(--light-gray);
+      border-bottom: 1px solid var(--light-gray);
       margin-bottom: 1rem;
     }
 
     h2 {
-      font-size: $fsh6;
+      font-size: var(--fs-rm);
       font-style: italic;
       font-weight: 400;
       padding-bottom: 0.444rem;
@@ -656,7 +665,7 @@ footer {
 
     ul,
     ol {
-      padding-bottom: $lh_em;
+      padding-bottom: var(--fs-m);
     }
 
     ul {
@@ -681,4 +690,4 @@ footer {
 }
 
 /* Import media queries at the end to override the base */
-@import 'media';
+@import "media";

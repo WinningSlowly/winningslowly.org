@@ -1,0 +1,38 @@
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@winningslowly" />
+<meta name="twitter:creator" content="@winningslowly" />
+
+{% if article is defined %}
+   <meta property="og:url" content="{{ SITEURL }}/{{ article.url }}" />
+
+   {% set title_prefix = article.number + ': ' if article.number is defined else '' %}
+   {% set title = title_prefix + article.title|striptags %}
+   <meta property="og:title" content="{{title}}" />
+   <meta name="twitter:title" content="{{title}}" />
+
+   {% set description = article.subtitle|striptags %}
+   <meta property="og:description" content="{{description}}" />
+   <meta name="twitter:description" content="{{description}}" />
+
+   <meta property="og:type" content="article" />
+   {% if article.image is defined %}
+      <meta property="og:image" content="{{ article.image }}" />
+      <meta name="twitter:image" content="{{ article.image }}" />
+   {% else %}
+      <meta property="og:image" content="{{ SITEURL }}/{{ PODCAST_LOGO }}" />
+      <meta name="twitter:image" content="{{ SITEURL }}/{{ PODCAST_LOGO }}" />
+   {% endif %}
+   {% if article.mp3 is defined %}
+      <meta property="og:audio" content="{{ SITEURL }}/{{ article.mp3 }}"/>
+      <meta property="og:audio:type" content="audio/mp3" />
+   {% endif %}
+{% else %}
+   <meta property="og:url" content="{{ SITEURL }}" />
+   <meta property="og:title" content="{{ SITENAME }}" />
+   <meta property="og:description" content="{{ SITE_DESCRIPTION }}" />
+   <meta property="og:image" content="{{ SITEURL }}/{{ LOGO }}" />
+   <meta property="og:type" content="website" />
+   <meta name="twitter:title" content="{{ SITENAME }}" />
+   <meta name="twitter:description" content="{{ SITE_DESCRIPTION }}" />
+   <meta name="twitter:image" content="{{ SITEURL }}/{{ LOGO }}" />
+{% endif %}
