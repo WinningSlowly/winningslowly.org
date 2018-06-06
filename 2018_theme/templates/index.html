@@ -1,6 +1,6 @@
 {% extends "base.html" %} {% block body_el %}
 
-<body class="archive index">{% endblock %} {% block content %}
+{% block content %}<div class="Archive Archive--index">
    <article>
       <p>There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape
          <em>tomorrow</em>, but there aren’t that many concerned with the potential impact of that tech a decade from now. In
@@ -8,8 +8,9 @@
          <em>now</em>, how can we make choices with a view for tomorrow, next year, and beyond?</p>
       <p>Episodes (usually) come out every other Wednesday. If unforeseen scheduling issues arise, we will add a note below accordingly. Episodes are normally 25–30 minutes long.</p>
       <h3>
-         <a href="/{{ CURRENT_SEASON.slug }}.html">
-            {{ CURRENT_SEASON.title }}
+         <a href="/{{CURRENT_SEASON.slug}}.html">
+            {% set prefix = CURRENT_SEASON.prefix + ':' if CURRENT_SEASON.prefix else '' %}
+            {{CURRENT_SEASON.prefix}} {{CURRENT_SEASON.title}}
          </a>
       </h3>
    </article>
@@ -17,22 +18,20 @@
    {% for category, category_articles in categories %}
       {% if category == CURRENT_SEASON.number %}
          {% for article in category_articles %}
-            {% if article.category == CURRENT_SEASON.number %}
-               <article>
-                  <header>
-                     <a href="{{ SITEURL}}/{{ article.url }}">
-                        <div class="title">
-                           <span id="episode-num">Episode {{article.category}}.{{ article.number }}</span>
-                           <span id="episode-title">{{ article.title }}</span>
-                        </div>
-                        <div class="meta">
-                           <span id="episode-date">{{ article.locale_date }}</span>
-                           <span id="episode-subtitle">{{ article.subtitle }}</span>
-                        </div>
-                     </a>
-                  </header>
-               </article>
-            {% endif %}
+            <article>
+               <header>
+                  <a href="{{SITEURL}}/{{article.url}}">
+                     <div class="title">
+                        <span id="episode-num">Episode {{article.category}}.{{article.number}}</span>
+                        <span id="episode-title">{{article.title}}</span>
+                     </div>
+                     <div class="meta">
+                        <span id="episode-date">{{article.locale_date}}</span>
+                        <span id="episode-subtitle">{{article.subtitle}}</span>
+                     </div>
+                  </a>
+               </header>
+            </article>
          {% endfor %}
       {% endif %}
    {% endfor %}
@@ -161,15 +160,15 @@
          <p>You can subscribe to our
             <a class="social-inline-link" href="/feed.xml">
                <i class="fa fa-fw fa-rss"></i>feed</a> directly or via
-            <a class="social-inline-link" href="{{ IDENTITY['Site']['iTunes'] }}">
+            <a class="social-inline-link" href="{{IDENTITY['Site']['iTunes']}}">
                <i class="fa fa-fw fa-play-circle"></i>iTunes</a>. You can also find us on
-            <a class="social-inline-link" href="{{ IDENTITY['Site']['Twitter'] }}">
+            <a class="social-inline-link" href="{{IDENTITY['Site']['Twitter']}}">
                <i class="fa fa-twitter"></i>Twitter</a> or
-            <a class="social-inline-link" href="{{ IDENTITY['Site']['Facebook'] }}">
+            <a class="social-inline-link" href="{{IDENTITY['Site']['Facebook']}}">
                <i class="fa fa-facebook"></i>Facebook</a>.</p>
          <p>You can support the show via a monthly pledge at
-            <a href="{{ IDENTITY['Site']['Patreon'] }}">Patreon</a> or by giving directly with
-            <a href="{{ IDENTITY['Site']['Square'] }}">Square Cash</a>. 10% of all support for the show goes to the Internet Archive.</p>
+            <a href="{{IDENTITY['Site']['Patreon']}}">Patreon</a> or by giving directly with
+            <a href="{{IDENTITY['Site']['Square']}}">Square Cash</a>. 10% of all support for the show goes to the Internet Archive.</p>
 
          <h4>Sponsors</h4>
          <ul class='sponsors-list'>
@@ -177,4 +176,4 @@
          </ul>
          <section>
    </article>
-   {% endblock %}
+</div>{% endblock %}

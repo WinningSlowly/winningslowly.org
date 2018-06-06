@@ -1,34 +1,51 @@
 <!DOCTYPE html>
-<html lang="{{ DEFAULT_LANG }}" prefix="og: http://ogp.me/ns#">
+<html lang="{{DEFAULT_LANG}}" prefix="og: http://ogp.me/ns#">
 
 <head>
-   <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
-   <meta name="description" content="{% block description %}{{ SITE_DESCRIPTION }}{% endblock %}" />
+   <title>{% block title %}{{SITENAME}}{% endblock %}</title>
+   <meta
+      name="description"
+      content="{% block description %}{{SITE_DESCRIPTION}}{% endblock %}"
+   />
 
    <meta charset="UTF-8" />
    <meta name="viewport" content="width=device-width,initial-scale=1" />
    <link rel="author" href="humans.txt" />
    {% include "includes/social-graph.html" %}
 
-   <link href="/{{ THEME_STATIC_DIR }}/{{ CSS_FILE }}" type="text/css" rel="stylesheet" />
-   <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet" /> {% if CUSTOM_FEED_URL %}
-   <link href="/{{ CUSTOM_FEED_URL }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" /> {% endif %}
+   <link href="/{{THEME_STATIC_DIR}}/{{CSS_FILE}}" type="text/css" rel="stylesheet" />
+   <link
+      href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css"
+      rel="stylesheet"
+   />
+   {% if CUSTOM_FEED_URL %}
+   <link
+      href="/{{CUSTOM_FEED_URL}}"
+      type="application/rss+xml"
+      rel="alternate"
+      title="{{SITENAME}} RSS Feed"
+   />
+   {% endif %}
 
-   <link href="{{ SITEURL }}/favicon.png" type="image/png" rel="icon" />
-   <link href="{{ SITEURL }}/favicon.ico" type="image/ico" rel="icon" /> {# Scripts #}
+   <link href="{{SITEURL}}/favicon.png" type="image/png" rel="icon" />
+   <link href="{{SITEURL}}/favicon.ico" type="image/ico" rel="icon" />
 
 </head>
-{% block body_el %}
-
-<body>{% endblock %}
+<body>
    <div id="wrapper">
       <header class="Banner">
          <h1 class='Banner-title'>
-            <a class='Banner-link' href="{{ SITEURL }}">Winning Slowly</a>
+            <a class='Banner-link' href="{{SITEURL}}">Winning Slowly</a>
          </h1>
-         <h2 class='Banner-subtitle'>Taking the long view on
-            <br class="optional" /><span class='Banner-subject'>technology</span>, <span class='Banner-subject'>religion</span>,
-            <br class="optional" /><span class='Banner-subject'>ethics</span>, and <span class='Banner-subject'>art</span>.</h2>
+         <h2 class='Banner-subtitle'>
+            Taking the long view on
+            <br class="optional" />
+            <span class='Banner-subject'>technology</span>,
+            <span class='Banner-subject'>religion</span>,
+            <br class="optional" />
+            <span class='Banner-subject'>ethics</span>, and
+            <span class='Banner-subject'>art</span>.
+         </h2>
       </header>
 
       {% block content %}{% endblock %}
@@ -37,8 +54,8 @@
    {% block section_nav %}
    <nav class='SeasonNav'>
       {% for cat, _ in categories %}
-      <a class="SeasonNav-season" href="/{{ cat.url }}">
-         {% if cat not in SPECIAL_CATEGORIES %}Season{% endif %} {{ cat }}
+      <a class="SeasonNav-season" href="/{{cat.url}}">
+         {% if SEASONS[cat].number %}{{SEASONS[cat].prefix}}{% endif %}
       </a>
       {% endfor %}
    </nav>

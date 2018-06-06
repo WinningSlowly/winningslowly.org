@@ -21,47 +21,59 @@ THEME = "2018_theme"
 # Show configuration
 SEASONS = {
     '6': {
-        'title': 'Season 6'
-        'subtitle': 'Rejecting the Inevitable Future',
+        'prefix': 'Season 6'
+        'title': 'Rejecting the Inevitable Future',
         'slug': 'season-6',,
-        'number': '6'
+        'number': '6',
     },
     '5': {
-        'title': 'Season 5'
-        'subtitle': 'Structure and Agency',
+        'prefix': 'Season 5'
+        'title': 'Structure and Agency',
         'slug': 'season-5',,
-        'number': '5'
+        'number': '5',
     },
     '4': {
-        'title': 'Season 4'
-        'subtitle': 'Globalization',
+        'prefix': 'Season 4'
+        'title': 'Globalization',
         'slug': 'season-4',
-        'number': '4'
+        'number': '4',
     },
     '3': {
-        'title': 'Season 3',
-        'subtitle': None,
+        'prefix': 'Season 3',
+        'title': None,
         'slug': 'season-3',
-        'number': '3'
+        'number': '3',
     },
     '2': {
-        'title': 'Season 2',
-        'subtitle': None,
+        'prefix': 'Season 2',
+        'title': None,
         'slug': 'season-2',
-        'number': '2'
+        'number': '2',
     },
     '1': {
-        'title': 'Season 1',
-        'subtitle': None,
+        'prefix': 'Season 1',
+        'title': None,
         'slug': 'season-1',
-        'number': '1'
+        'number': '1',
     },
     '0': {
-        'title': 'Season 0',
-        'subtitle': 'This Is In Beta!',
+        'prefix': 'Season 0',
+        'title': 'This Is In Beta!',
         'slug': 'season-0',
-        'number': '0'
-    }
+        'number': '0',
+    },
+    'standalone-episodes': {
+        'prefix': None,
+        'title': 'Standalone Episodes',
+        'slug': 'standalone-episodes',
+        'number': None,
+    },
+    'bonus-episodes': {
+        'prefix': None,
+        'title': 'Bonus',
+        'slug': 'bonus-episodes',
+        'number': None,
+    },
 }
 
 CURRENT_SEASON = SEASONS['6']
@@ -111,7 +123,6 @@ CATEGORY_SAVE_AS = 'season-{slug}.html'
 USE_FOLDER_AS_CATEGORY = False  # note: this is the default
 DEFAULT_CATEGORY = 'standalone-episodes'
 DIRECT_TEMPLATES = ['index']
-SPECIAL_CATEGORIES = 'Bonus', 'Standalone Episodes'
 
 # Disable unused elements
 AUTHOR_SAVE_AS = ''
