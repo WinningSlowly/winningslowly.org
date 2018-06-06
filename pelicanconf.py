@@ -12,24 +12,59 @@ SITEURL = ''
 LOGO = 'static/images/winning-slowly_circle.png'
 PODCAST_LOGO = 'static/images/winning-slowly_podcast_small.png'
 
-TIMEZONE = 'America/New_York'
+TIMEZONE = 'America/Denver'
 
 DEFAULT_LANG = 'en'
 
-THEME = "2014_theme"
+THEME = "2018_theme"
 
 # Show configuration
-CURRENT_SEASON = {
-    'title': 'Season 6: Rejecting the Inevitable Future',
-    'number': '6',
-    'slug': 'season-6'
+SEASONS = {
+    '6': {
+        'title': 'Season 6'
+        'subtitle': 'Rejecting the Inevitable Future',
+        'slug': 'season-6',,
+        'number': '6'
+    },
+    '5': {
+        'title': 'Season 5'
+        'subtitle': 'Structure and Agency',
+        'slug': 'season-5',,
+        'number': '5'
+    },
+    '4': {
+        'title': 'Season 4'
+        'subtitle': 'Globalization',
+        'slug': 'season-4',
+        'number': '4'
+    },
+    '3': {
+        'title': 'Season 3',
+        'subtitle': None,
+        'slug': 'season-3',
+        'number': '3'
+    },
+    '2': {
+        'title': 'Season 2',
+        'subtitle': None,
+        'slug': 'season-2',
+        'number': '2'
+    },
+    '1': {
+        'title': 'Season 1',
+        'subtitle': None,
+        'slug': 'season-1',
+        'number': '1'
+    },
+    '0': {
+        'title': 'Season 0',
+        'subtitle': 'This Is In Beta!',
+        'slug': 'season-0',
+        'number': '0'
+    }
 }
 
-SEASON_TITLES = {
-    '6': 'Rejecting the Inevitable Future',
-    '5': 'Structure and Agency',
-    '4': 'Globalization'
-}
+CURRENT_SEASON = SEASONS['6']
 
 # Feed generation is usually not desired when developing
 FEED_DOMAIN = SITEURL
