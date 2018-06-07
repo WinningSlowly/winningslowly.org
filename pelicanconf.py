@@ -139,8 +139,6 @@ RELATIVE_URLS = True
 # Path configuration
 STATIC_PATHS = ['images', '2014', '2015', 'extra']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
-                       'extra/favicon.ico': {'path': 'favicon.ico'},
-                       'extra/favicon.png': {'path': 'favicon.png'},
                        'extra/feed.xml': {'path': CUSTOM_FEED_URL},
                        'extra/test_feed.xml': {'path': 'test_feed.xml'},
                        'extra/Winning-Slowly_podcast.png': {'path':
