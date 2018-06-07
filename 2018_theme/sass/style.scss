@@ -296,7 +296,6 @@ br.optional {
       left: auto;
       right: auto;
     }
-    border-bottom: 1px solid var(--light-gray);
     font: {
       family: var(--title);
       weight: var(--title-bold);
@@ -305,7 +304,13 @@ br.optional {
   }
 
   h4 {
-    font-size: var(--fs-ml);
+    text-align: center;
+    font: {
+      family: var(--title);
+      weight: var(--title-light);
+      size: var(--fs-ml);
+    }
+    padding-bottom: var(--fs-s);
   }
 
   h5 {
@@ -581,6 +586,14 @@ br.optional {
       font-style: italic;
       margin-top: -1px;
       padding-bottom: 1px;
+    }
+  }
+}
+
+.SeasonDescription {
+  &-title {
+    a {
+      text-decoration: none;
     }
   }
 }
