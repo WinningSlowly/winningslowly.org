@@ -39,9 +39,13 @@
   --accent-light: hsl(209.7, 51.8%, 61%);
 }
 
+html {
+  font-size: 100%;
+}
+
 /* Styles */
 body {
-  font-size: 100%;
+  font-size: var(--lh-r);
   color: var(--dark-gray);
   font-family: var(--text);
   line-height: var(--lh);
@@ -232,7 +236,7 @@ br.optional {
     font: {
       family: var(--title);
       weight: var(--title-bold);
-      size: var(--fs-xxxl);
+      size: var(--fs-xxl);
     }
 
     margin: 0;
@@ -243,14 +247,14 @@ br.optional {
     color: var(--accent);
     font: {
       family: var(--text);
-      size: var(--fs-ml);
+      size: var(--fs-m);
       style: italic;
     }
   }
 }
 
 .Content {
-  max-width: 38em;
+  max-width: 34em;
   margin: {
     left: auto;
     right: auto;
@@ -263,12 +267,7 @@ br.optional {
   }
 
   &--meta {
-    font-size: var(--fs-ms);
     padding-top: 1em;
-  }
-
-  &--index {
-    font-size: var(--fs-ms);
   }
 
   h1 {
@@ -283,7 +282,7 @@ br.optional {
     font: {
       family: var(--title);
       weight: var(--title-bold);
-      size: var(--fs-xl);
+      size: var(--fs-l);
     }
     text-align: center;
   }
@@ -298,7 +297,7 @@ br.optional {
     font: {
       family: var(--title);
       weight: var(--title-bold);
-      size: var(--fs-l);
+      size: var(--fs-ml);
     }
   }
 
@@ -307,17 +306,18 @@ br.optional {
     font: {
       family: var(--title);
       weight: var(--title-light);
-      size: var(--fs-ml);
+      size: var(--fs-m);
     }
-    padding-bottom: var(--fs-s);
+    padding-bottom: var(--fs-r);
+    margin-top: var(--fs-r);
   }
 
   h5 {
-    font-size: var(--fs-m);
+    font-size: var(--fs-ms);
   }
 
   h6 {
-    font-size: var(--fs-rm);
+    font-size: var(--fs-r);
   }
 
   p,
@@ -596,9 +596,6 @@ br.optional {
 .SeasonDescription {
   h4,
   &-title {
-    font-size: var(--fs-l);
-    padding-bottom: var(--fs-r);
-    margin-top: var(--fs-r);
     a {
       text-decoration: none;
     }
