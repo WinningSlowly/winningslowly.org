@@ -11,9 +11,9 @@
 {% endblock %}
 
 {% block content %}
-   <section class='EpisodeArchive'>
-      <h3 class='EpisodeArchive-title'>
-         <a class='EpisodeArchive-link SeasonHeading' href="/{{CURRENT_SEASON.slug}}.html">
+   <section class='CurrentSeasonInfo'>
+      <h3 class='CurrentSeasonInfo-title'>
+         <a class='CurrentSeasonInfo-link SeasonHeading' href="/{{CURRENT_SEASON.slug}}.html">
             {%if CURRENT_SEASON.prefix%}
                <span class='SeasonHeading-prefix'>{{CURRENT_SEASON.prefix}}</span>
             {%endif%}
