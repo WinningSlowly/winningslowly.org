@@ -3,8 +3,8 @@
     display: inherit;
   }
 
-  .CategoryNav {
-    font-size: var(--fs-1);
+  .SeasonNav {
+    font-size: var(--fs-ms);
   }
 
   article {
@@ -23,28 +23,6 @@
         flex: 1 50%;
         height: 3em;
       }
-      #logo {
-        flex: 2 100%;
-
-        img {
-          margin-top: 28px;
-          margin-right: 12px;
-        }
-      }
-
-      #winning,
-      #slowly {
-        margin: {
-          left: 0;
-          right: 0;
-        }
-      }
-    }
-  }
-
-  footer {
-    .footer_item {
-      width: 90%;
     }
   }
 
@@ -191,17 +169,6 @@
 
     h3 {
       font-size: var(--fs-m);
-    }
-  }
-
-  footer {
-    .footer_item {
-      width: 95%;
-    }
-
-    #social-wrapper ul {
-      padding-left: 0;
-      text-align: center;
     }
   }
 }
