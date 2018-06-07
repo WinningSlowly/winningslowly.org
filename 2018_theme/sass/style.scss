@@ -221,7 +221,7 @@ br.optional {
     &:visited,
     &:hover,
     &:active {
-      border-bottom: none;
+      text-decoration: none;
     }
 
     &:hover {
@@ -472,22 +472,9 @@ br.optional {
   }
 }
 
-.Archive {
-  .season {
-    text-align: center;
-    padding-bottom: var(--fs-r);
-  }
-
-  &--index {
-    h4 {
-      margin-top: 1em;
-    }
-
-    article {
-      h4 {
-        text-align: center;
-      }
-    }
+.CurrentSeasonInfo {
+  &-link {
+    text-decoration: none;
   }
 }
 
