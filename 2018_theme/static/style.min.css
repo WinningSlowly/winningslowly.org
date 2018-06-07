@@ -435,20 +435,7 @@ br.optional {
       display: inline-block;
       padding-right: 2px; }
   .Content--subscribe {
-    text-align: center;
-    font-size: var(--fs-ms); }
-    .Content--subscribe ul {
-      list-style: none; }
-      .Content--subscribe ul li {
-        display: inline-block; }
-        .Content--subscribe ul li::after {
-          display: inline-block;
-          width: 1em;
-          margin-left: 0.1em;
-          text-align: center;
-          content: "◦"; }
-        .Content--subscribe ul li:last-child::after {
-          content: ""; }
+    text-align: center; }
 
 .SeasonHeading {
   display: block;

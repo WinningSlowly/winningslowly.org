@@ -467,27 +467,6 @@ br.optional {
 
   &--subscribe {
     text-align: center;
-    font-size: var(--fs-ms);
-
-    ul {
-      list-style: none;
-
-      li {
-        display: inline-block;
-
-        &::after {
-          display: inline-block;
-          width: 1em;
-          margin-left: 0.1em;
-          text-align: center;
-          content: "◦";
-        }
-
-        &:last-child::after {
-          content: "";
-        }
-      }
-    }
   }
 }
 
