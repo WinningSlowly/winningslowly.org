@@ -46,7 +46,8 @@ body {
   font-family: var(--text);
   line-height: var(--lh);
   background: var(--off-white);
-  border: 0.5rem solid var(--accent);
+  margin: 0.5rem;
+  box-shadow: 0 0 0.5rem -0.1rem var(--dark-gray), 0 0 0 0.5rem var(--accent);
 }
 
 b,
