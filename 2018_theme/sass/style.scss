@@ -46,7 +46,7 @@ body {
   font-family: var(--text);
   line-height: var(--lh);
   background: var(--off-white);
-  border: 0.5rem solid var(--dark-gray);
+  border: 0.5rem solid var(--accent);
 }
 
 b,
@@ -241,15 +241,10 @@ br.optional {
     text-align: center;
     color: var(--accent);
     font: {
-      family: var(--title);
+      family: var(--text);
       size: var(--fs-ml);
-      weight: var(--title-light);
       style: italic;
     }
-  }
-
-  &-subject {
-    font-style: normal;
   }
 }
 

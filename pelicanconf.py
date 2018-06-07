@@ -151,8 +151,9 @@ ARTICLE_EXCLUDES = ['2014', '2015']
 PAGE_EXCLUDES = ['2014', '2015']
 
 # Static configuration
-THEME_STATIC_DIR = 'assets'
+THEME_STATIC_DIR = ''
 CSS_FILE = 'style.min.css'
+THEME_STATIC_PATHS = ['static', 'static/images']
 
 READERS = {'html': None}
 

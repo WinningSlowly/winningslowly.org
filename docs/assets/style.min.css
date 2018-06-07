@@ -163,12 +163,12 @@ strong {
   --lh: 1.5;
   --lh-m: 1.35;
   --lh-s: 1.171;
-  --off-white: hsl(0, 0%, 99.6%);
-  --dark-gray: hsl(0, 0%, 26.7%);
-  --light-gray: hsl(60, 3.8%, 53.1%);
-  --dark-purple: hsl(238.3, 53.4%, 37.8%);
-  --light-purple: hsl(238.3, 49.3%, 58.2%);
-  --pale-purple: hsl(238.4, 41.6%, 63.7%); }
+  --off-white: #fcfcfc;
+  --dark-gray: hsl(210, 2%, 27%);
+  --light-gray: hsl(210, 10%, 50%);
+  --accent-dark: hsl(210, 87%, 32%);
+  --accent: hsl(210, 67%, 41%);
+  --accent-light: hsl(209.7, 51.8%, 61%); }
 
 /* Styles */
 body {
@@ -177,7 +177,7 @@ body {
   font-family: var(--text);
   line-height: var(--lh);
   background: var(--off-white);
-  border: 0.4rem solid var(--dark-gray); }
+  border: 0.5rem solid var(--accent); }
 
 b,
 strong {
@@ -201,7 +201,7 @@ blockquote {
   font-style: italic;
   margin: 0.5em 0;
   padding: 0 1em;
-  border-left: 2px solid var(--pale-purple);
+  border-left: 2px solid var(--accent-light);
   color: var(--light-gray); }
   blockquote em {
     font-style: normal; }
@@ -236,12 +236,12 @@ ol {
 
 a,
 a:visited {
-  color: var(--light-purple);
+  color: var(--accent);
   transition: all 0.2s; }
   a:hover, a:active,
   a:visited:hover,
   a:visited:active {
-    color: var(--dark-purple); }
+    color: var(--accent-light); }
 
 cite {
   font-style: italic; }
@@ -298,7 +298,7 @@ br.optional {
     .Banner a:link, .Banner a:visited, .Banner a:hover, .Banner a:active {
       text-decoration: none; }
     .Banner a:hover {
-      color: var(--dark-purple); }
+      color: var(--accent); }
   .Banner-title {
     text-align: center;
     font-family: var(--title);
@@ -307,19 +307,18 @@ br.optional {
     margin: 0; }
   .Banner-subtitle {
     text-align: center;
-    color: var(--light-purple);
-    font-family: var(--title);
+    color: var(--accent);
+    font-family: var(--text);
     font-size: var(--fs-ml);
-    font-weight: var(--title-light);
     font-style: italic; }
-  .Banner-subject {
-    font-style: normal; }
 
 .Content {
   max-width: 38em;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 2em; }
+  margin-bottom: 2em;
+  padding-left: 1em;
+  padding-right: 1em; }
   .Content--meta {
     font-size: var(--fs-ms);
     padding-top: 1em; }
@@ -478,11 +477,11 @@ br.optional {
     padding-left: 8px;
     padding-right: 8px; }
     .EpisodeList-link:hover, .EpisodeList-link:active {
-      color: var(--light-purple);
+      color: var(--accent);
       border-top: none;
-      border-left: 8px solid var(--light-purple);
+      border-left: 8px solid var(--accent);
       border-bottom: none;
-      border-right: 8px solid var(--light-purple);
+      border-right: 8px solid var(--accent);
       padding-left: 1px;
       padding-right: 1px; }
 
@@ -528,14 +527,13 @@ br.optional {
 .SeasonNav {
   font-size: var(--fs-m);
   clear: both;
-  background: var(--dark-purple);
+  background: var(--accent-dark);
   margin-top: var(--fs-xxxl);
   margin-left: -0.4rem;
   margin-right: -0.4rem;
   margin-bottom: -0.4rem;
-  border-left: 0.4rem solid var(--off-white);
-  border-right: 0.4rem solid var(--off-white);
-  border-bottom: 0.4rem solid var(--off-white);
+  border: 0.4rem solid var(--accent);
+  border-top: none;
   display: flex;
   justify-content: space-between;
   align-content: flex-start;
@@ -548,7 +546,7 @@ br.optional {
     text-align: center;
     padding: 0.4em; }
     .SeasonNav-season:hover, .SeasonNav-season:active {
-      background: var(--pale-purple);
+      background: var(--accent);
       color: var(--off-white); }
     .SeasonNav-season:visited, .SeasonNav-season:visited:hover {
       color: var(--off-white); }
@@ -564,8 +562,8 @@ br.optional {
   br.optional {
     display: inherit; }
 
-  .CategoryNav {
-    font-size: var(--fs-1); }
+  .SeasonNav {
+    font-size: var(--fs-ms); }
 
   article {
     line-height: var(--lh); }
@@ -580,18 +578,6 @@ br.optional {
       flex-flow: column wrap;
       flex: 1 50%;
       height: 3em; }
-    .Banner h1 #logo {
-      flex: 2 100%; }
-      .Banner h1 #logo img {
-        margin-top: 28px;
-        margin-right: 12px; }
-    .Banner h1 #winning,
-    .Banner h1 #slowly {
-      margin-left: 0;
-      margin-right: 0; }
-
-  footer .footer_item {
-    width: 90%; }
 
   .archive article header .title,
   .archive article header .meta {
@@ -684,12 +670,6 @@ br.optional {
       padding-bottom: 0;
       order: 1; }
     article h3 {
-      font-size: var(--fs-m); }
-
-  footer .footer_item {
-    width: 95%; }
-  footer #social-wrapper ul {
-    padding-left: 0;
-    text-align: center; } }
+      font-size: var(--fs-m); } }
 
 /*# sourceMappingURL=style.min.css.map */
