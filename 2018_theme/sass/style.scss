@@ -52,6 +52,11 @@ body {
   border-bottom: none;
 }
 
+b,
+strong {
+  font-weight: var(--text-bold);
+}
+
 @mixin content-head {
   display: block;
 
@@ -136,8 +141,7 @@ ol {
 a,
 a:visited {
   color: var(--light-purple);
-  transition: all 0.347s;
-  text-decoration: none;
+  transition: all 0.2s;
 
   &:hover,
   &:active {
@@ -293,7 +297,11 @@ br.optional {
       right: auto;
     }
     border-bottom: 1px solid var(--light-gray);
-    font-size: var(--fs-l);
+    font: {
+      family: var(--title);
+      weight: var(--title-bold);
+      size: var(--fs-l);
+    }
   }
 
   h4 {
@@ -504,6 +512,7 @@ br.optional {
   a,
   a:visited {
     color: var(--dark-gray);
+    text-decoration: none;
   }
 
   &-link {
@@ -598,6 +607,10 @@ br.optional {
   margin-right: -0.4rem;
   border-left: 0.4rem solid var(--off-white);
   border-right: 0.4rem solid var(--off-white);
+  padding: {
+    top: 0.4rem;
+    bottom: 0.4rem;
+  }
 
   display: flex;
   justify-content: space-between;
@@ -605,6 +618,7 @@ br.optional {
   flex-flow: row wrap;
 
   &-season {
+    text-decoration: none;
     flex: 1 0 auto;
     border: none;
     color: var(--off-white);
@@ -614,6 +628,7 @@ br.optional {
     &:hover,
     &:active {
       background: var(--pale-purple);
+      color: var(--off-white);
     }
 
     &:visited {
