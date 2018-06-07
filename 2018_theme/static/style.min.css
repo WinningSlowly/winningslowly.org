@@ -527,14 +527,8 @@ br.optional {
 
 .SeasonNav {
   font-size: var(--fs-m);
-  clear: both;
   background: var(--accent-dark);
   margin-top: var(--fs-xxxl);
-  margin-left: -0.4rem;
-  margin-right: -0.4rem;
-  margin-bottom: -0.4rem;
-  border: 0.4rem solid var(--accent);
-  border-top: none;
   display: flex;
   justify-content: space-between;
   align-content: flex-start;
