@@ -8,7 +8,7 @@ from __future__ import unicode_literals
 # Site configuration
 AUTHOR = 'Chris Krycho and Stephen Carradini'
 SITENAME = 'Winning Slowly'
-SITE_DESCRIPTION = 'Culture, technology, religion, ethics, and art—from the long view.'
+SITE_DESCRIPTION = 'Taking the long view on technology, religion, ethics, and art.'
 SITEURL = ''
 LOGO = 'images/logotype.png'
 
