@@ -3,7 +3,7 @@
 <meta name="twitter:creator" content="@winningslowly" />
 
 {% if article is defined %}
-   <meta property="og:url" content="{{ SITEURL }}/{{ article.url }}" />
+   <meta property="og:url" content="{{SITEURL}}/{{article.url}}" />
 
    {% set category = article.category ~ '.' if SEASONS[article.category.name].number else article.category ~ ' ' %}
    {% set title_prefix =  article.number ~ ': ' if article.number is defined else '' %}
@@ -17,23 +17,23 @@
 
    <meta property="og:type" content="article" />
    {% if article.image is defined %}
-      <meta property="og:image" content="{{ article.image }}" />
-      <meta name="twitter:image" content="{{ article.image }}" />
+      <meta property="og:image" content="{{article.image}}" />
+      <meta name="twitter:image" content="{{article.image}}" />
    {% else %}
-      <meta property="og:image" content="{{ SITEURL }}/{{ PODCAST_LOGO }}" />
-      <meta name="twitter:image" content="{{ SITEURL }}/{{ PODCAST_LOGO }}" />
+      <meta property="og:image" content="{{SITEURL}}/{{LOGO}}" />
+      <meta name="twitter:image" content="{{SITEURL}}/{{LOGO}}" />
    {% endif %}
    {% if article.mp3 is defined %}
-      <meta property="og:audio" content="{{ SITEURL }}/{{ article.mp3 }}"/>
+      <meta property="og:audio" content="{{SITEURL}}/{{article.mp3}}"/>
       <meta property="og:audio:type" content="audio/mp3" />
    {% endif %}
 {% else %}
-   <meta property="og:url" content="{{ SITEURL }}" />
-   <meta property="og:title" content="{{ SITENAME }}" />
-   <meta property="og:description" content="{{ SITE_DESCRIPTION }}" />
-   <meta property="og:image" content="{{ SITEURL }}/{{ LOGO }}" />
+   <meta property="og:url" content="{{SITEURL}}" />
+   <meta property="og:title" content="{{SITENAME}}" />
+   <meta property="og:description" content="{{SITE_DESCRIPTION}}" />
+   <meta property="og:image" content="{{SITEURL}}/{{LOGO}}" />
    <meta property="og:type" content="website" />
-   <meta name="twitter:title" content="{{ SITENAME }}" />
-   <meta name="twitter:description" content="{{ SITE_DESCRIPTION }}" />
-   <meta name="twitter:image" content="{{ SITEURL }}/{{ LOGO }}" />
+   <meta name="twitter:title" content="{{SITENAME}}" />
+   <meta name="twitter:description" content="{{SITE_DESCRIPTION}}" />
+   <meta name="twitter:image" content="{{SITEURL}}/{{LOGO}}" />
 {% endif %}

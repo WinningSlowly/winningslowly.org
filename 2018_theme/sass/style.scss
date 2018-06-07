@@ -31,12 +31,12 @@
   --lh-s: 1.171;
 
   // Colors
-  --off-white: hsl(0, 0%, 99.6%);
-  --dark-gray: hsl(0, 0%, 26.7%);
-  --light-gray: hsl(60, 3.8%, 53.1%);
-  --dark-purple: hsl(238.3, 53.4%, 37.8%);
-  --light-purple: hsl(238.3, 49.3%, 58.2%);
-  --pale-purple: hsl(238.4, 41.6%, 63.7%);
+  --off-white: #fcfcfc;
+  --dark-gray: hsl(210, 2%, 27%);
+  --light-gray: hsl(210, 10%, 50%);
+  --accent-dark: hsl(210, 87%, 32%);
+  --accent: hsl(210, 67%, 41%);
+  --accent-light: hsl(209.7, 51.8%, 61%);
 }
 
 /* Styles */
@@ -46,7 +46,7 @@ body {
   font-family: var(--text);
   line-height: var(--lh);
   background: var(--off-white);
-  border: 0.4rem solid var(--dark-gray);
+  border: 0.5rem solid var(--dark-gray);
 }
 
 b,
@@ -87,7 +87,7 @@ blockquote {
   }
   margin: 0.5em 0;
   padding: 0 1em;
-  border-left: 2px solid var(--pale-purple);
+  border-left: 2px solid var(--accent-light);
   color: var(--light-gray);
 
   em {
@@ -137,12 +137,12 @@ ol {
 
 a,
 a:visited {
-  color: var(--light-purple);
+  color: var(--accent);
   transition: all 0.2s;
 
   &:hover,
   &:active {
-    color: var(--dark-purple);
+    color: var(--accent-light);
   }
 }
 
@@ -222,7 +222,7 @@ br.optional {
     }
 
     &:hover {
-      color: var(--dark-purple);
+      color: var(--accent);
     }
   }
 
@@ -239,7 +239,7 @@ br.optional {
 
   &-subtitle {
     text-align: center;
-    color: var(--light-purple);
+    color: var(--accent);
     font: {
       family: var(--title);
       size: var(--fs-ml);
@@ -259,6 +259,11 @@ br.optional {
     left: auto;
     right: auto;
     bottom: 2em;
+  }
+
+  padding: {
+    left: 1em;
+    right: 1em;
   }
 
   &--meta {
@@ -528,12 +533,12 @@ br.optional {
 
     &:hover,
     &:active {
-      color: var(--light-purple);
+      color: var(--accent);
       border: {
         top: none;
-        left: 8px solid var(--light-purple);
+        left: 8px solid var(--accent);
         bottom: none;
-        right: 8px solid var(--light-purple);
+        right: 8px solid var(--accent);
       }
 
       padding: {
@@ -607,15 +612,14 @@ br.optional {
 .SeasonNav {
   font-size: var(--fs-m);
   clear: both;
-  background: var(--dark-purple);
+  background: var(--accent-dark);
 
   margin-top: var(--fs-xxxl);
   margin-left: -0.4rem;
   margin-right: -0.4rem;
   margin-bottom: -0.4rem;
-  border-left: 0.4rem solid var(--off-white);
-  border-right: 0.4rem solid var(--off-white);
-  border-bottom: 0.4rem solid var(--off-white);
+  border: 0.4rem solid var(--accent);
+  border-top: none;
 
   display: flex;
   justify-content: space-between;
@@ -632,7 +636,7 @@ br.optional {
 
     &:hover,
     &:active {
-      background: var(--pale-purple);
+      background: var(--accent);
       color: var(--off-white);
     }
 
