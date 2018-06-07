@@ -7,7 +7,7 @@
       <ul class='EpisodeList'>
          {% for article in articles %}
             <li class="EpisodeList-episode">
-                  <a class="EpisodeList-link EpisodeSummary" href="{{SITEURL}}/{{article.url}}">
+                  <a class="EpisodeList-link EpisodeSummary" href="/{{article.url}}">
                      <div class="EpisodeSummary-meta EpisodeSummary-meta--primary EpisodeMeta">
                         <span class="EpisodeMeta-field EpisodeMeta-field--num">Episode {{article.category}}.{{article.number}}</span>
                         <span class="EpisodeMeta-field EpisodeMeta-field--title">{{article.title}}</span>

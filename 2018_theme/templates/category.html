@@ -20,14 +20,17 @@
       {% if SEASONS[category.name].number %}
          {% for cat, _articles in categories %}
             {% if SEASONS[cat.name].number %}
+               {% set prefix = SEASONS[cat.name].prefix %}
+               {% set text = SEASONS[cat.name].prefix if prefix else SEASONS[cat.name].title %}
+
                {% set int_cat = cat.name|int %}
                {% if int_cat == (curr + 1) %}
                   <a class="SeasonNav-season SeasonNav-season--next" href="/{{ cat.url }}">
-                     {{SEASONS[cat.name].prefix}} <i class="fa fa-fw fa-long-arrow-right"></i>
+                     {{text}} <i class="fa fa-fw fa-long-arrow-right"></i>
                   </a>
                {% elif int_cat == (curr - 1) %}
                   <a class="SeasonNav-season SeasonNav-season--prev" href="/{{ cat.url }}">
-                     <i class="fa fa-fw fa-long-arrow-left"></i> {{SEASONS[cat.name].prefix}}
+                     <i class="fa fa-fw fa-long-arrow-left"></i> {{text}}
                   </a>
                {% endif %}
             {% endif %}

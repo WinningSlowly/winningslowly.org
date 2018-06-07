@@ -57,19 +57,15 @@
    <nav class='SeasonNav'>
       {% for cat, _ in categories %}
       <a class="SeasonNav-season" href="/{{cat.url}}">
-         {% if SEASONS[cat.name].prefix %}
+         {% if SEASONS[cat.name].prefix != None %}
             {{SEASONS[cat.name].prefix}}
-         {% elif SEASONS[cat.name].title %}
+         {% elif SEASONS[cat.name].title != None %}
             {{SEASONS[cat.name].title}}
          {% endif %}
       </a>
       {% endfor %}
    </nav>
    {% endblock %}
-
-   <footer>
-      {% include "includes/footer.html" %}
-   </footer>
 </body>
 
 </html>

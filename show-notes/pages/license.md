@@ -16,13 +16,9 @@ The only restriction we have on the use of our content is that you cite
 it---that's just being a good neighbor.
 
 Our name and logo? Feel free to riff on them. You just can't claim the work as
-your own. The design of the logo belongs to our friend [Cameron Morgan][cam].
-He's great. If you steal his stuff, we may not break your knee caps, but we
-might just set the snarling hordes of the internet on you.
+your own.
 
 The legalese below just outlines this policy in lawyer-friendly terms.
-
-[cam]: //www.krop.com/spidercam/
 
 ### Legalese
 
@@ -296,7 +292,7 @@ Again, the legalese below just says all of this in lawyer-friendly terms.
 
 The MIT License (MIT)
 
-Copyright &copy; 2013 Chris Krycho and Stephen Carradini
+Copyright &copy; 2013–2018 Chris Krycho and Stephen Carradini
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in

@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 {% block index_content %}
-   <article class='Content Content--meta'>
+   <article class='Content Content--index Content--meta'>
       <p>
          There are plenty of podcasts that will tell you how the latest tech gadget or “innovation” will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in a decade. In a culture obsessed with <em>now</em>, how can we make choices with a view for tomorrow, next year, and beyond?
       </p>
@@ -26,7 +26,7 @@
          {% if category == CURRENT_SEASON.number %}
             {% for article in category_articles %}
                <li class="EpisodeList-episode">
-                  <a class="EpisodeList-link EpisodeSummary" href="{{SITEURL}}/{{article.url}}">
+                  <a class="EpisodeList-link EpisodeSummary" href="/{{article.url}}">
                      <div class="EpisodeSummary-meta EpisodeSummary-meta--primary EpisodeMeta">
                         <span class="EpisodeMeta-field EpisodeMeta-field--num">Episode {{article.category}}.{{article.number}}</span>
                         <span class="EpisodeMeta-field EpisodeMeta-field--title">{{article.title}}</span>
@@ -42,6 +42,63 @@
       {% endfor %}
       </ul>
    </section>
+
+   <hr class='Divider'>
+
+   <article class="Content Content--index Content--subscribe">
+      <h3>Subscribe/Follow</h3>
+      <ul>
+         <li><a href="{{ IDENTITY['Site']['RSS'] }}"><i class="fa fa-fw fa-rss"></i>Feed</a></li><!--
+      --><li><a href="{{ IDENTITY['Site']['iTunes'] }}"><i class="fa fa-fw fa-music"></i>iTunes</a></li><!--
+      --><li><a href="{{ IDENTITY['Site']['Overcast'] }}"><i class="fa fa-fw fa-play-circle-o"></i>Overcast</a></li><!--
+      --><li><a href="{{ IDENTITY['Site']['Pocket Casts'] }}"><i class="fa fa-fw fa-play-circle"></i>Pocket Casts</a></li><!--
+      --><li><a href="{{ IDENTITY['Site']['Twitter'] }}"><i class="fa fa-fw fa-twitter"></i>Twitter</a></li>
+      </ul>
+   </article>
+
+   <article class='Content Content--index'>
+      <h3 id="support-us">Support Us!</h3>
+      <section>
+         <p>You can subscribe to our
+            <a class="social-inline-link" href="/feed.xml">
+               <i class="fa fa-fw fa-rss"></i>feed</a> directly or via
+            <a class="social-inline-link" href="{{IDENTITY['Site']['iTunes']}}">
+               <i class="fa fa-fw fa-play-circle"></i>iTunes</a>. You can also find us on
+            <a class="social-inline-link" href="{{IDENTITY['Site']['Twitter']}}">
+               <i class="fa fa-twitter"></i>Twitter</a> or
+            <a class="social-inline-link" href="{{IDENTITY['Site']['Facebook']}}">
+               <i class="fa fa-facebook"></i>Facebook</a>.
+         </p>
+         <p>You can support the show via a monthly pledge at
+            <a href="{{IDENTITY['Site']['Patreon']}}">Patreon</a> or by giving directly with
+            <a href="{{IDENTITY['Site']['Square']}}">Square Cash</a>. 10% of all support for the show goes to the Internet Archive.</p>
+
+         <h4>Sponsors</h4>
+         <ul class='sponsors-list'>
+            <li class='sponsors-list__sponsor'>Kurt Klassen (September–October 2016)</li>
+         </ul>
+      </section>
+   </article>
+
+   <article class='Content Content--index'>
+      <h3 id="who">Who</h3>
+      <section>
+         <p>
+            <strong>Chris Krycho</strong> is a
+            <a href="https://www.olo.com" title="Online ordering by OLO">software engineer</a>,
+            <a href='https://www.chriskrycho.com/podcasts' title='podcasts'>podcaster</a>,
+            <a href="https://www.chriskrycho.com" title="chriskrycho.com">writer</a>, and
+            <a href="https://soundcloud.com/chriskrycho">occasional composer</a>. He lives with his family in Colorado.
+         </p>
+         <p>
+            <strong>Stephen Carradini</strong> is a
+            <a href="https://cisa.asu.edu/tech-comm/faculty" title="Assistant Professor of Technical Communication in Arizona State University’s Technical Communication">digital media scholar and professor</a>,
+            <a href="//independentclauses.com" title="Independent Clauses music blog">writer</a>,
+            <a href="//stephencarradini.com" title="StephenCarradini.com">editor</a>, and
+            <a href="//themidnightsons.bandcamp.com" title="The Midnight Sons">songwriter</a>. He lives with his family in Arizona.
+         </p>
+      </section>
+   </article>
 
    <hr class='Divider'>
 
@@ -72,6 +129,7 @@
          </ul>
          </h4>
       </article>
+
       <article class='SeasonDescription'>
          <h4 class='SeasonDescription-title' id="season-4">
             <a href="/{{SEASONS['4'].slug}}.html">
@@ -120,9 +178,9 @@
       </article>
       <article class='SeasonDescription'>
          <h4 class='SeasonDescription-title' id="season-1">
-            <a href="/{{SEASONS['2'].slug}}.html">
-               {%set season_prefix = SEASONS['2'].prefix ~ ': ' if SEASONS['2'].prefix else '' %}
-               {{season_prefix}}{{SEASONS['2'].title}}
+            <a href="/{{SEASONS['1'].slug}}.html">
+               {%set season_prefix = SEASONS['1'].prefix ~ ': ' if SEASONS['1'].prefix else '' %}
+               {{season_prefix}}{{SEASONS['1'].title}}
             </a>
          </h4>
          <p>
@@ -138,11 +196,8 @@
                {{season_prefix}}{{SEASONS['0'].title}}
             </a>
          </h4>
-         <p>Our first season: “This is a beta; bear with us!”—in which we spent a few months just figuring out what we were
-            doing, ran from January 28, 2014 until May 20, 2014. Seriously: we had
-            <em>no idea</em> what we were doing; we just knew we had a good idea for a show and wanted to figure out how to make
-            it work. There is good content here, but we have kept this around mostly for historical interest—it’s
-            <em>rough</em>.
+         <p>
+            Our first season: “This is a beta; bear with us!”—in which we spent a few months just figuring out what we were doing, ran from January 28, 2014 until May 20, 2014. Seriously: we had <em>no idea</em> what we were doing; we just knew we had a good idea for a show and wanted to figure out how to make it work. There is good content here, but we have kept this around mostly for historical interest—it’s <em>rough</em>.
          </p>
          <p>
             Episodes ranged in length from over 45 minutes to under 20 minutes as we figured out our approach to the show, solicited regular feedback, and general got a handle on the whole thing. By the final episode, <a href="https://winningslowly.org/0.14/">0.14: Deep In Their Bones</a>, we had found our basic formula and settled into a nice rhythm, which we were then able to carry into Season 1.
@@ -150,46 +205,17 @@
       </article>
    </section>
 
-   <article class='Content'>
-      <h3 id="who">Who</h3>
-      <section>
-         <p>
-            <strong>Chris Krycho</strong> is a
-            <a href="https://www.olo.com" title="Online ordering by OLO">software engineer</a>,
-            <a href='https://chriskrycho.com/podcasts' title='podcasts'>podcaster</a>,
-            <a href="https://chriskrycho.com" title="chriskrycho.com">writer</a>, and
-            <a href="https://soundcloud.com/chriskrycho">occasional composer</a>. He lives with his family in Colorado.
-         </p>
-         <p>
-            <strong>Stephen Carradini</strong> is a
-            <a href="https://cisa.asu.edu/tech-comm/faculty" title="Assistant Professor of Technical Communication in Arizona State University’s Technical Communication">digital media scholar and professor</a>,
-            <a href="//independentclauses.com" title="Independent Clauses music blog">writer</a>,
-            <a href="//stephencarradini.com" title="StephenCarradini.com">editor</a>, and
-            <a href="//themidnightsons.bandcamp.com" title="The Midnight Sons">songwriter</a>. He lives with his family in Arizona.
-         </p>
-      </section>
-   </article>
+   <hr class='Divider'>
 
-   <article class='Content'>
-      <h3 id="support-us">Support Us!</h3>
-      <section>
-         <p>You can subscribe to our
-            <a class="social-inline-link" href="/feed.xml">
-               <i class="fa fa-fw fa-rss"></i>feed</a> directly or via
-            <a class="social-inline-link" href="{{IDENTITY['Site']['iTunes']}}">
-               <i class="fa fa-fw fa-play-circle"></i>iTunes</a>. You can also find us on
-            <a class="social-inline-link" href="{{IDENTITY['Site']['Twitter']}}">
-               <i class="fa fa-twitter"></i>Twitter</a> or
-            <a class="social-inline-link" href="{{IDENTITY['Site']['Facebook']}}">
-               <i class="fa fa-facebook"></i>Facebook</a>.</p>
-         <p>You can support the show via a monthly pledge at
-            <a href="{{IDENTITY['Site']['Patreon']}}">Patreon</a> or by giving directly with
-            <a href="{{IDENTITY['Site']['Square']}}">Square Cash</a>. 10% of all support for the show goes to the Internet Archive.</p>
-
-         <h4>Sponsors</h4>
-         <ul class='sponsors-list'>
-            <li class='sponsors-list__sponsor'>Kurt Klassen (September–October 2016)</li>
-         </ul>
-      </section>
+   <article class='Content Content--index'>
+      <h3>Colophon</h3>
+      <p>
+         &copy;2013&ndash;2018 Stephen Carradini and Chris Krycho.
+         Design by <a href="{{ IDENTITY['Chris']['Homepage'] }}">Chris Krycho</a>.
+         All content licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+         (Translation: please <em>don't</em> just copy and paste; please <em>do</em> copy and modify for any use, giving credit where due.)
+         <a href="{{ SITEURL }}/licenses.html">Read more on our licenses.</a>
+      </p>
+      <p>Typography: <a href='https://klim.co.nz/retail-fonts/tiempos-headline/'>Tiempos Headline</a> and <a href='https://klim.co.nz/retail-fonts/tiempos-text/'>Tiempos Text</a>, by <a href="https://klim.co.nz/">Klim Type Foundry</a>.</p>
    </article>
 {% endblock %}

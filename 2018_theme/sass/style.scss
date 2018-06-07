@@ -37,8 +37,6 @@
   --dark-purple: hsl(238.3, 53.4%, 37.8%);
   --light-purple: hsl(238.3, 49.3%, 58.2%);
   --pale-purple: hsl(238.4, 41.6%, 63.7%);
-  --light-blue: hsl(204.6, 48.3%, 54.5%);
-  --dark-blue: hsl(204.8, 61.9%, 32.9%);
 }
 
 /* Styles */
@@ -49,7 +47,6 @@ body {
   line-height: var(--lh);
   background: var(--off-white);
   border: 0.4rem solid var(--dark-gray);
-  border-bottom: none;
 }
 
 b,
@@ -145,7 +142,7 @@ a:visited {
 
   &:hover,
   &:active {
-    color: var(--light-blue);
+    color: var(--dark-purple);
   }
 }
 
@@ -225,7 +222,7 @@ br.optional {
     }
 
     &:hover {
-      color: var(--light-blue);
+      color: var(--dark-purple);
     }
   }
 
@@ -257,10 +254,11 @@ br.optional {
 }
 
 .Content {
-  max-width: 40em;
+  max-width: 38em;
   margin: {
     left: auto;
     right: auto;
+    bottom: 2em;
   }
 
   &--meta {
@@ -269,7 +267,7 @@ br.optional {
   }
 
   &--index {
-    padding-bottom: var(--fs-m);
+    font-size: var(--fs-ms);
   }
 
   h1 {
@@ -466,6 +464,31 @@ br.optional {
       padding-right: 2px;
     }
   }
+
+  &--subscribe {
+    text-align: center;
+    font-size: var(--fs-ms);
+
+    ul {
+      list-style: none;
+
+      li {
+        display: inline-block;
+
+        &::after {
+          display: inline-block;
+          width: 1em;
+          margin-left: 0.1em;
+          text-align: center;
+          content: "◦";
+        }
+
+        &:last-child::after {
+          content: "";
+        }
+      }
+    }
+  }
 }
 
 .SeasonHeading {
@@ -591,7 +614,11 @@ br.optional {
 }
 
 .SeasonDescription {
+  h4,
   &-title {
+    font-size: var(--fs-l);
+    padding-bottom: var(--fs-r);
+    margin-top: var(--fs-r);
     a {
       text-decoration: none;
     }
@@ -601,16 +628,15 @@ br.optional {
 .SeasonNav {
   font-size: var(--fs-m);
   clear: both;
-  background: var(--light-purple);
+  background: var(--dark-purple);
 
+  margin-top: var(--fs-xxxl);
   margin-left: -0.4rem;
   margin-right: -0.4rem;
+  margin-bottom: -0.4rem;
   border-left: 0.4rem solid var(--off-white);
   border-right: 0.4rem solid var(--off-white);
-  padding: {
-    top: 0.4rem;
-    bottom: 0.4rem;
-  }
+  border-bottom: 0.4rem solid var(--off-white);
 
   display: flex;
   justify-content: space-between;
@@ -623,7 +649,7 @@ br.optional {
     border: none;
     color: var(--off-white);
     text-align: center;
-    padding: --var(fs-s) / 2 var(--fs-s);
+    padding: 0.4em;
 
     &:hover,
     &:active {
@@ -631,7 +657,8 @@ br.optional {
       color: var(--off-white);
     }
 
-    &:visited {
+    &:visited,
+    &:visited:hover {
       color: var(--off-white);
     }
 
@@ -643,94 +670,6 @@ br.optional {
     &--next {
       text-align: right;
       padding-right: 12%;
-    }
-  }
-}
-
-footer {
-  display: flex;
-  justify-content: space-around;
-  align-content: flex-start;
-  flex-flow: row wrap;
-
-  clear: both;
-
-  margin-left: -0.4rem;
-  margin-right: -0.4rem;
-  border: 0.4rem solid var(--light-purple);
-  border-top: none;
-
-  background: var(--dark-gray);
-  color: var(--off-white);
-  text-align: center;
-  padding-top: var(--fs-l);
-
-  p,
-  ul,
-  ol,
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    font-size: 90%;
-  }
-
-  p {
-    text-align: left;
-    font-weight: 300;
-  }
-
-  a,
-  a:visited {
-    color: var(--pale-purple);
-  }
-
-  .footer_item {
-    width: 40%;
-    max-width: 461px;
-    padding-bottom: var(--fs-xxl);
-
-    h1 {
-      font-size: var(--fs-ml);
-      font-weight: 300;
-      letter-spacing: 1px;
-      color: orange;
-      text-shadow: 1px 1px 1px var(--light-gray);
-      border-bottom: 1px solid var(--light-gray);
-      margin-bottom: 1rem;
-    }
-
-    h2 {
-      font-size: var(--fs-rm);
-      font-style: italic;
-      font-weight: 400;
-      padding-bottom: 0.444rem;
-    }
-
-    ul,
-    ol {
-      padding-bottom: var(--fs-m);
-    }
-
-    ul {
-      list-style: none;
-      padding-left: 0;
-    }
-
-    a i.fa {
-      display: inline-block;
-      padding-right: 5px;
-      color: white;
-    }
-  }
-
-  #social-wrapper {
-    ul {
-      text-align: left;
-      padding-left: 8.889em;
-      list-style: none;
     }
   }
 }
