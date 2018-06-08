@@ -266,6 +266,8 @@ Creative Commons may be contacted at [creativecommons.org][cc].
 [policies]: //creativecommons.org/policies
 [cc]: //creativecommons.org
 
+---
+
 ## Software
 
 ### Human-friendly
