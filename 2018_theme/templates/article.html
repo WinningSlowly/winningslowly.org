@@ -2,12 +2,18 @@
 
 {% set audio_slug = article.audio_slug if article.audio_slug else article.category|lower ~ '.' ~ article.number %}
 
-{% block title %}
-   {% if article.category != 'Bonus' %}{{ article.category }}.{% endif %}{{ article.number }}:
-   {{ article.title}} &#9702; {{ SITENAME }}
-{% endblock %}
-{% block description %}{{ article.description|striptags }}{% endblock %}
 {% block content %}
+{%block title%}
+   {%set season = SEASONS[article.category.name]%}
+   {%set sep = season.epSep%}
+   {%set number = season.number ~ sep ~ article.number if season.number else article.number%}
+
+   {%set category = '' if season.number else season.epPrefix%}
+   {%set title = category ~ ' ' ~ number ~ ': ' ~ article.title|striptags%}
+
+   {{title}} &#9702; {{SITENAME}}
+{%endblock%}
+{%block description%}{{article.description|striptags}}{%endblock%}
    <article class="Content">
       {% include "includes/item-header.html" %}
 

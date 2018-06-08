@@ -2,38 +2,54 @@
 <meta name="twitter:site" content="@winningslowly" />
 <meta name="twitter:creator" content="@winningslowly" />
 
-{% if article is defined %}
+{%if article is defined%}
    <meta property="og:url" content="{{SITEURL}}/{{article.url}}" />
+   {%set season = SEASONS[article.category.name]%}
+   {%set sep = season.epSep%}
+   {%set number = season.number ~ sep ~ article.number if season.number else article.number%}
 
-   {% set category = article.category ~ '.' if SEASONS[article.category.name].number else article.category ~ ' ' %}
-   {% set title_prefix =  article.number ~ ': ' if article.number is defined else '' %}
-   {% set title = category ~ title_prefix ~ article.title|striptags %}
+   {%set category = '' if season.number else season.epPrefix%}
+   {%set title = category ~ ' ' ~ number ~ ': ' ~ article.title|striptags ~ ' &#9702; ' ~ SITENAME%}
    <meta property="og:title" content="{{title}}" />
    <meta name="twitter:title" content="{{title}}" />
 
-   {% set description = article.subtitle|striptags %}
+   {%set description = article.subtitle|striptags%}
    <meta property="og:description" content="{{description}}" />
    <meta name="twitter:description" content="{{description}}" />
 
    <meta property="og:type" content="article" />
-   {% if article.image is defined %}
+   {%if article.image is defined%}
       <meta property="og:image" content="{{article.image}}" />
       <meta name="twitter:image" content="{{article.image}}" />
-   {% else %}
+   {%else%}
       <meta property="og:image" content="{{SITEURL}}/{{LOGO}}" />
       <meta name="twitter:image" content="{{SITEURL}}/{{LOGO}}" />
-   {% endif %}
-   {% if article.mp3 is defined %}
+   {%endif%}
+   {%if article.mp3 is defined%}
       <meta property="og:audio" content="{{SITEURL}}/{{article.mp3}}"/>
       <meta property="og:audio:type" content="audio/mp3" />
-   {% endif %}
-{% else %}
-   <meta property="og:url" content="{{SITEURL}}" />
-   <meta property="og:title" content="{{SITENAME}}" />
-   <meta property="og:description" content="{{SITE_DESCRIPTION}}" />
+   {%endif%}
+{%else%}
+   {%if page is defined%}
+      <meta property="og:url" content="{{SITEURL}}/{{page.url}}" />
+      <meta property="og:type" content="website" />
+
+      {%set title = page.title ~ ' &#9702; ' ~ SITENAME%}
+      <meta property="og:title" content="{{title}}" />
+      <meta name="twitter:title" content="{{title}}" />
+
+      {%set description = page.slug%}
+      <meta property="og:description" content="{{description}}" />
+      <meta name="twitter:description" content="{{description}}" />
+   {%else%}
+      <meta property="og:url" content="{{SITEURL}}" />
+      <meta property="og:type" content="website" />
+      <meta property="og:title" content="{{SITENAME}}" />
+      <meta name="twitter:title" content="{{SITENAME}}" />
+      <meta property="og:description" content="{{SITE_DESCRIPTION}}" />
+      <meta name="twitter:description" content="{{SITE_DESCRIPTION}}" />
+   {%endif%}
+
    <meta property="og:image" content="{{SITEURL}}/{{LOGO}}" />
-   <meta property="og:type" content="website" />
-   <meta name="twitter:title" content="{{SITENAME}}" />
-   <meta name="twitter:description" content="{{SITE_DESCRIPTION}}" />
    <meta name="twitter:image" content="{{SITEURL}}/{{LOGO}}" />
-{% endif %}
+{%endif%}
