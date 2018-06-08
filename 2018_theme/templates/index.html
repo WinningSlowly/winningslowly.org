@@ -1,5 +1,5 @@
-{% extends "base.html" %}
-{% block before_content %}
+{%extends "base.html"%}
+{%block before_content%}
    <article class='Content Content--meta'>
       <p>
          There are plenty of podcasts that will tell you how the latest tech gadget or “innovation” will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in a decade. In a culture obsessed with <em>now</em>, how can we make choices with a view for tomorrow, next year, and beyond?
@@ -8,9 +8,9 @@
          25–35-minute episodes released every other week.
       </p>
    </article>
-{% endblock %}
+{%endblock%}
 
-{% block content %}
+{%block content%}
    <section class='CurrentSeasonInfo'>
       <h3 class='CurrentSeasonInfo-title'>
          <a class='CurrentSeasonInfo-link SeasonHeading' href="/{{CURRENT_SEASON.slug}}.html">
@@ -22,12 +22,16 @@
       </h3>
 
       <ul class='EpisodeList'>
-      {% for category, category_articles in categories %}
-         {% if category == CURRENT_SEASON.number %}
-            {% for article in category_articles %}
+      {%for category, category_articles in categories%}
+         {%if category == CURRENT_SEASON.number or category == CURRENT_SEASON.title%}
+            {%for article in category_articles%}
                <li class="EpisodeList-episode">
                   <a class="EpisodeList-link" href="/{{article.url}}">
                      <div class='EpisodeSummary'>
+                        {%set season = SEASONS[article.category.name]%}
+                        {%set prefix = season.epPrefix%}
+                        {%set sep = season.epSep%}
+                        {%set number = season.number ~ sep ~ article.number if season.number else article.number%}
                         <span class="EpisodeSummary-field EpisodeSummary-field--number">
                            Episode {{article.category}}.{{article.number}}
                         </span>
@@ -43,15 +47,15 @@
                      </div>
                   </a>
                </li>
-            {% endfor %}
-         {% endif %}
-      {% endfor %}
+            {%endfor%}
+         {%endif%}
+      {%endfor%}
       </ul>
    </section>
 
    <hr>
 
-   {% include "includes/about.html" %}
+   {%include "includes/about.html"%}
 
    <hr>
 
@@ -60,7 +64,7 @@
       <article class='SeasonDescription'>
          <h4 class='SeasonDescription-title' id="season-5">
             <a href="/{{SEASONS['5'].slug}}.html">
-               {%set season_prefix = SEASONS['5'].prefix ~ ': ' if SEASONS['5'].prefix else '' %}
+               {%set season_prefix = SEASONS['5'].prefix ~ ': ' if SEASONS['5'].prefix else ''%}
                {{season_prefix}}{{SEASONS['5'].title}}
             </a>
          </h4>
@@ -86,7 +90,7 @@
       <article class='SeasonDescription'>
          <h4 class='SeasonDescription-title' id="season-4">
             <a href="/{{SEASONS['4'].slug}}.html">
-               {%set season_prefix = SEASONS['4'].prefix ~ ': ' if SEASONS['4'].prefix else '' %}
+               {%set season_prefix = SEASONS['4'].prefix ~ ': ' if SEASONS['4'].prefix else ''%}
                {{season_prefix}}{{SEASONS['4'].title}}
             </a>
          </h4>
@@ -103,7 +107,7 @@
       <article class='SeasonDescription'>
          <h4 class='SeasonDescription-title' id="season-3">
             <a href="/{{SEASONS['3'].slug}}.html">
-               {%set season_prefix = SEASONS['3'].prefix ~ ': ' if SEASONS['3'].prefix else '' %}
+               {%set season_prefix = SEASONS['3'].prefix ~ ': ' if SEASONS['3'].prefix else ''%}
                {{season_prefix}}{{SEASONS['3'].title}}
             </a>
          </h4>
@@ -118,7 +122,7 @@
       <article class='SeasonDescription'>
          <h4 class='SeasonDescription-title' id="season-2">
             <a href="/{{SEASONS['2'].slug}}.html">
-               {%set season_prefix = SEASONS['2'].prefix ~ ': ' if SEASONS['2'].prefix else '' %}
+               {%set season_prefix = SEASONS['2'].prefix ~ ': ' if SEASONS['2'].prefix else ''%}
                {{season_prefix}}{{SEASONS['2'].title}}
             </a>
          </h4>
@@ -132,7 +136,7 @@
       <article class='SeasonDescription'>
          <h4 class='SeasonDescription-title' id="season-1">
             <a href="/{{SEASONS['1'].slug}}.html">
-               {%set season_prefix = SEASONS['1'].prefix ~ ': ' if SEASONS['1'].prefix else '' %}
+               {%set season_prefix = SEASONS['1'].prefix ~ ': ' if SEASONS['1'].prefix else ''%}
                {{season_prefix}}{{SEASONS['1'].title}}
             </a>
          </h4>
@@ -145,7 +149,7 @@
       <article class='SeasonDescription'>
          <h4 class='SeasonDescription-title' id="season-0">
             <a href="/{{SEASONS['0'].slug}}.html">
-               {%set season_prefix = SEASONS['0'].prefix ~ ': ' if SEASONS['0'].prefix else '' %}
+               {%set season_prefix = SEASONS['0'].prefix ~ ': ' if SEASONS['0'].prefix else ''%}
                {{season_prefix}}{{SEASONS['0'].title}}
             </a>
          </h4>
@@ -157,4 +161,4 @@
          </p>
       </article>
    </section>
-{% endblock %}
+{%endblock%}

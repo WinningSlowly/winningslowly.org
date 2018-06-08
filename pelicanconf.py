@@ -119,7 +119,7 @@ IDENTITY = {'Site': {'RSS': FEED_DOMAIN + '/' + CUSTOM_FEED_URL,
                      'Twitter': 'https://twitter.com/winningslowly'},
             'Chris': {'GitHub': 'https://github.com/chriskrycho',
                       'Twitter': 'https://twitter.com/chriskrycho',
-                      'Homepage': 'http://chriskrycho.com'},
+                      'Homepage': 'https://chriskrycho.com'},
             'Stephen': {'Twitter': 'https://twitter.com/scarradini',
                         'Homepage': 'http://stephencarradini.com'}}
 

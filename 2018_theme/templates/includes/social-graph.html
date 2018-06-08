@@ -2,9 +2,16 @@
 <meta name="twitter:site" content="@winningslowly" />
 <meta name="twitter:creator" content="@winningslowly" />
 
+<meta name="og:author" content="{{IDENTITY['Chris']['Homepage']}}" />
+<meta name="og:author" content="{{IDENTITY['Stephen']['Homepage']}}" />
+
 {%if article is defined%}
    <meta property="og:url" content="{{SITEURL}}/{{article.url}}" />
+
    {%set season = SEASONS[article.category.name]%}
+   {%set season_title = season.prefix ~ ': ' ~ season.title if season.prefix else season.title%}
+   <meta property="og:section" content="{{season_title}}" />
+
    {%set sep = season.epSep%}
    {%set number = season.number ~ sep ~ article.number if season.number else article.number%}
 
@@ -18,6 +25,18 @@
    <meta name="twitter:description" content="{{description}}" />
 
    <meta property="og:type" content="article" />
+
+   {%set time_format = '%Y-%m-%dT%H:%M%S%z'%}
+   <meta property="og:published_time" content="{{article.date.strftime(time_format)}}" />
+
+   {%if article.modified is defined%}
+      <meta property="og:modified_time" content="{{article.modified.strftime(time_format)}}" />
+   {%endif%}
+
+   {%for tag in article.tags%}
+      <meta property="og:tag" content={{tag}} />
+   {%endfor%}
+
    {%if article.image is defined%}
       <meta property="og:image" content="{{article.image}}" />
       <meta name="twitter:image" content="{{article.image}}" />
@@ -25,6 +44,7 @@
       <meta property="og:image" content="{{SITEURL}}/{{LOGO}}" />
       <meta name="twitter:image" content="{{SITEURL}}/{{LOGO}}" />
    {%endif%}
+
    {%if article.mp3 is defined%}
       <meta property="og:audio" content="{{SITEURL}}/{{article.mp3}}"/>
       <meta property="og:audio:type" content="audio/mp3" />
@@ -32,7 +52,7 @@
 {%else%}
    {%if page is defined%}
       <meta property="og:url" content="{{SITEURL}}/{{page.url}}" />
-      <meta property="og:type" content="website" />
+      <meta property="og:type" content="article" />
 
       {%set title = page.title ~ ' &#9702; ' ~ SITENAME%}
       <meta property="og:title" content="{{title}}" />
