@@ -31,3 +31,8 @@
       {{article.content}}
    </article>
 {%endblock content%}
+
+{%block after_content%}
+   <hr>
+   {% include "includes/about.html"%}
+{%endblock%}

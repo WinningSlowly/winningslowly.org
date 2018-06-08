@@ -2,30 +2,30 @@
 <html lang="{{DEFAULT_LANG}}" prefix="og: http://ogp.me/ns#">
 
 <head>
-   <title>{% block title %}{{SITENAME}}{% endblock %}</title>
+   <title>{%block title%}{{SITENAME}}{%endblock%}</title>
    <meta
       name="description"
-      content="{% block description %}{{SITE_DESCRIPTION}}{% endblock %}"
+      content="{%block description%}{{SITE_DESCRIPTION}}{%endblock%}"
    />
 
    <meta charset="UTF-8" />
    <meta name="viewport" content="width=device-width,initial-scale=1" />
    <link rel="author" href="humans.txt" />
-   {% include "includes/social-graph.html" %}
+   {%include "includes/social-graph.html"%}
 
    <link href="/{{CSS_FILE}}" type="text/css" rel="stylesheet" />
    <link
       href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css"
       rel="stylesheet"
    />
-   {% if CUSTOM_FEED_URL %}
+   {%if CUSTOM_FEED_URL%}
    <link
       href="/{{CUSTOM_FEED_URL}}"
       type="application/rss+xml"
       rel="alternate"
       title="{{SITENAME}} RSS Feed"
    />
-   {% endif %}
+   {%endif%}
 
    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -48,25 +48,27 @@
          </h2>
       </header>
 
-      {%block index_content %}{% endblock %}
+      {%block before_content%}{%endblock%}
 
       <hr>
 
-      {% block content %}{% endblock %}
+      {%block content%}{%endblock%}
+
+      {%block after_content%}{%endblock%}
    </main>
 
    <nav class='SeasonNav'>
-      {% block section_nav %}
-         {% for cat, _ in categories %}
+      {%block section_nav%}
+         {%for cat, _ in categories%}
             <a class="SeasonNav-season" href="/{{cat.url}}">
-               {% if SEASONS[cat.name].prefix != None %}
+               {%if SEASONS[cat.name].prefix != None%}
                   {{SEASONS[cat.name].prefix}}
-               {% elif SEASONS[cat.name].title != None %}
+               {%elif SEASONS[cat.name].title != None%}
                   {{SEASONS[cat.name].title}}
-               {% endif %}
+               {%endif%}
             </a>
-         {% endfor %}
-      {% endblock %}
+         {%endfor%}
+      {%endblock%}
    </nav>
 </body>
 

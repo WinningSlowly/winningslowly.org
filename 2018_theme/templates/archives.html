@@ -1,11 +1,11 @@
-{% extends "base.html" %}
+{%extends "base.html"%}
 
 {%block content%}
 
-   {% block heading %}{% endblock %}
+   {%block heading%}{%endblock%}
    {%if articles%}
       <ul class='EpisodeList'>
-         {% for article in articles %}
+         {%for article in articles%}
             <li class="EpisodeList-episode">
                <a class="EpisodeList-link" href="/{{article.url}}">
                   <div class='EpisodeSummary'>
@@ -24,12 +24,15 @@
                   </div>
                </a>
             </li>
-         {% endfor %}
+         {%endfor%}
       </ul>
-   {% else %}
-      {% include "includes/404-content.html" %}
+   {%else%}
+      {%include "includes/404-content.html"%}
    {%endif%}
 
-   {% include "includes/about.html" %}
+{%endblock%}
 
-{%endblock %}
+{%block after_content%}
+   <hr>
+   {% include "includes/about.html"%}
+{%endblock%}

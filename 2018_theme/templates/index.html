@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% block index_content %}
+{% block before_content %}
    <article class='Content Content--meta'>
       <p>
          There are plenty of podcasts that will tell you how the latest tech gadget or “innovation” will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in a decade. In a culture obsessed with <em>now</em>, how can we make choices with a view for tomorrow, next year, and beyond?
@@ -48,6 +48,8 @@
       {% endfor %}
       </ul>
    </section>
+
+   <hr>
 
    {% include "includes/about.html" %}
 
@@ -155,18 +157,4 @@
          </p>
       </article>
    </section>
-
-   <hr>
-
-   <article class='Content'>
-      <h3>Colophon</h3>
-      <p>
-         &copy;2013&ndash;2018 Stephen Carradini and Chris Krycho.
-         Design by <a href="{{ IDENTITY['Chris']['Homepage'] }}">Chris Krycho</a>.
-         All content licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-         (Translation: please <em>don't</em> just copy and paste; please <em>do</em> copy and modify for any use, giving credit where due.)
-         <a href="{{ SITEURL }}/licenses.html">Read more on our licenses.</a>
-      </p>
-      <p>Typography: <a href='https://klim.co.nz/retail-fonts/tiempos-headline/'>Tiempos Headline</a> and <a href='https://klim.co.nz/retail-fonts/tiempos-text/'>Tiempos Text</a>, by <a href="https://klim.co.nz/">Klim Type Foundry</a>.</p>
-   </article>
 {% endblock %}
