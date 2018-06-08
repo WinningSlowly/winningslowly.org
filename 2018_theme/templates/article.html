@@ -1,8 +1,7 @@
-{% extends "base.html" %}
+{%extends "base.html"%}
 
-{% set audio_slug = article.audio_slug if article.audio_slug else article.category|lower ~ '.' ~ article.number %}
+{%set audio_slug = article.audio_slug if article.audio_slug else article.category|lower ~ '.' ~ article.number%}
 
-{% block content %}
 {%block title%}
    {%set season = SEASONS[article.category.name]%}
    {%set sep = season.epSep%}
@@ -14,15 +13,20 @@
    {{title}} &#9702; {{SITENAME}}
 {%endblock%}
 {%block description%}{{article.description|striptags}}{%endblock%}
+{%block content%}
    <article class="Content">
-      {% include "includes/item-header.html" %}
+      {%include "includes/item-header.html"%}
 
-      <audio title="{{ article.title }}" controls="controls" preload="metadata">
-         <source src="{{ PODTRAC_MP3 }}/{{ CDN }}/{{ audio_slug }}{{ MP3 }}" />
-      </audio>
+      <section class="Audio">
+         <audio class="Audio-player" title="{{article.title}}" controls="controls" preload="metadata">
+            <source src="{{PODTRAC_MP3}}/{{CDN}}/{{audio_slug}}{{MP3}}" />
+         </audio>
 
-      <section id="notes">
-         {{ article.content }}
+         <p class="Audio-download">
+            (<a href="{{mp3}}" download="{{mp3}}">download directly</a>)
+         </p>
       </section>
+
+      {{article.content}}
    </article>
-{% endblock content %}
+{%endblock content%}

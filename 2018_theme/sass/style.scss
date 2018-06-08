@@ -45,13 +45,23 @@ html {
 
 /* Styles */
 body {
+  --wrapper-size: 0.5rem;
+
   font-size: var(--lh-r);
   color: var(--fg);
   font-family: var(--text);
   line-height: var(--lh);
   background: var(--bg);
-  margin: 0.5rem;
-  box-shadow: 0 0 0.5rem -0.1rem var(--fg), 0 0 0 0.5rem var(--accent);
+  margin: var(--wrapper-size);
+  box-shadow: 0 0 var(--wrapper-size) -0.1rem var(--fg), 0 0 0 var(--wrapper-size) var(--accent);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  min-height: calc(100vh - 2 * var(--wrapper-size));
+}
+
+.Main {
+  flex: 1;
 }
 
 b,
@@ -189,18 +199,11 @@ figure {
   }
 }
 
-/* Layout */
-#wrapper {
-  max-width: 44rem;
-  padding: 0 1rem var(--fs-xxl);
-  margin: auto;
-}
-
 br.optional {
   display: none;
 }
 
-.Divider {
+hr {
   width: 90%;
   max-width: 66rem;
   border-top: 1px solid var(--fg-alt);
@@ -280,17 +283,11 @@ br.optional {
   h2 {
     font: {
       family: var(--title);
-      weight: var(--title-bold);
+      weight: var(--title-light);
       size: var(--fs-l);
     }
     color: var(--fg-alt);
     text-align: center;
-    padding: {
-      top: 0.486em;
-      bottom: 0.243em;
-    }
-    margin-bottom: 0.243em;
-    border-bottom: 1px solid;
   }
 
   h3 {
@@ -344,127 +341,57 @@ br.optional {
     }
   }
 
-  header {
+  .ItemInfo {
+    line-height: var(--lh-s);
+    &-meta {
+      margin: 1rem 0 0;
+      padding: 0;
+    }
+  }
+
+  // Nested because we unfortunately *do* need specificity to be able to handle both
+  // default headings etc. above *and* specific overrides for titles etc.
+  .ItemTitle {
     text-align: center;
-    .title {
-      line-height: 0.9;
-      h1 {
-        #episode-num,
-        #episode-title {
-          display: block;
-        }
+    font: {
+      family: var(--title);
+      size: var(--fs-l);
+    }
+    line-height: var(--lh-s);
 
-        #episode-num {
-          margin-bottom: 1rem;
-        }
+    &-component {
+      display: block;
 
-        #episode-title {
-          font: {
-            weight: 700;
-          }
-          text-transform: uppercase;
-          letter-spacing: -1px;
-        }
+      &--num {
+        font-weight: var(--title-light);
       }
 
-      #episode-subtitle {
-        font-size: var(--fs-m);
-        padding-bottom: 0;
+      &--title {
+        font-weight: var(--title-bold);
       }
     }
+  }
 
-    .meta {
-      font-family: var(--text);
-      font-weight: 700;
-      color: var(--fg-alt);
+  .ItemSubtitle {
+    text-align: center;
+    font: {
+      family: var(--text);
+      size: var(--fs-ms);
+      style: italic;
     }
+    line-height: var(--lh-s);
+  }
 
-    ul.meta {
-      line-height: var(--lh-s);
-      display: inline-block;
-      padding: {
-        top: 1em;
-        bottom: 0;
-        left: 0;
-        right: 0;
-      }
+  .ItemMeta {
+    font: {
+      family: var(--text);
+      size: var(--fs-m);
+    }
+    color: var(--fg-alt);
+    text-align: center;
+
+    &-entry {
       margin-bottom: 0;
-      li {
-        display: inline-block;
-      }
-
-      > li:after {
-        content: "\25E6";
-        font-size: var(--fs-s);
-        padding: {
-          left: 1px;
-          right: 1px;
-        }
-      }
-
-      > li:last-child:after {
-        content: none;
-      }
-    }
-
-    li:last-child:after {
-      content: none;
-    }
-  }
-
-  audio {
-    display: block;
-    text-align: center;
-    width: 66.7%;
-    margin: {
-      top: var(--fs-xl);
-      bottom: var(--fs-l);
-      left: auto;
-      right: auto;
-    }
-  }
-
-  #download {
-    text-align: center;
-  }
-
-  #notes {
-    @mixin all {
-      max-width: 36rem;
-      margin: {
-        left: auto;
-        right: auto;
-      }
-    }
-
-    @mixin list() {
-      @include all();
-      padding-left: 1rem;
-    }
-
-    p {
-      @include all();
-    }
-
-    ul {
-      @include list();
-      list-style: circle;
-    }
-
-    ol {
-      @include list();
-      list-style: decimal-leading-zero;
-    }
-
-    h4 {
-      text-align: center;
-    }
-  }
-
-  section {
-    margin: {
-      left: auto;
-      right: auto;
     }
   }
 
@@ -479,6 +406,28 @@ br.optional {
 
   &--subscribe {
     text-align: center;
+  }
+}
+
+.Audio {
+  width: 100%;
+  margin: {
+    top: var(--fs-xl);
+    bottom: var(--fs-l);
+    left: auto;
+    right: auto;
+  }
+
+  &-player {
+    display: block;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 0.5em;
+  }
+
+  &-download {
+    text-align: center;
+    font-size: var(--fs-ms);
   }
 }
 
@@ -571,16 +520,6 @@ br.optional {
 }
 
 .EpisodeSummary {
-  display: flex;
-  justify-content: space-between;
-  align-content: flex-start;
-  flex-flow: row wrap;
-  text-align: left;
-  font-family: var(--title);
-  line-height: var(--lh-s);
-}
-
-.EpisodeMeta {
   display: grid;
   grid-template-areas:
     "number date"
@@ -721,7 +660,7 @@ br.optional {
     }
   }
 
-  .Divider {
+  hr {
     margin: {
       top: var(--fs-m);
       bottom: var(--fs-m);
@@ -797,11 +736,6 @@ br.optional {
   }
 
   article {
-    section,
-    audio {
-      width: 100%;
-    }
-
     header {
       .title {
         text-align: center;

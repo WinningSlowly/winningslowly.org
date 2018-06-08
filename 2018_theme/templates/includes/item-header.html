@@ -11,43 +11,44 @@
 {%endif%}
 
 {%if item is defined%}
-<header class="EpisodeInfo">
-   <section class="EpisodeInfo-title">
-      <h1>
+<header class="ItemInfo">
+   <section class="ItemInfo-titles">
+      <h1 class="ItemTitle">
       {%if item.number is defined%}
-         {%set epPrefix = 'Episode' if item.category not in SPECIAL_CATEGORIES else ''%}
-         {%set episodeSep = '.' if item.category not in SPECIAL_CATEGORIES else ' '%}
-         {%if item.number%}
-            <span id="episode-num">
-               {{ epPrefix }} {{ item.category.name }}{{ episodeSep }}{{ item.number }}
-            </span>
-         {%endif%}
-         <span id="episode-title">{{ item.title }}</span>
+         {%set season = SEASONS[item.category.name]%}
+         {%set prefix = season.epPrefix%}
+         {%set sep = season.epSep%}
+         {%set number = season.number ~ sep ~ item.number if season.number else item.number%}
+         <span class="ItemTitle-component ItemTitle-component--num">{{prefix}} {{number}}</span>
+         <span class="ItemTitle-component ItemTitle-component--title">{{item.title}}</span>
       {%else%}
-         {{ item.title }}
+         <span class="ItemTitle-component ItemTitle-component--title">{{item.title}}</span>
       {%endif%}
       </h1>
-      {%if item.subtitle%}<p id="episode-subtitle">{{ item.subtitle }}</p>{%endif%}
+      {%if item.subtitle%}
+         <h2 class="ItemSubtitle">{{item.subtitle}}</h2>
+      {%endif%}
+      {%if page is defined%}
+         <hr>
+      {%endif%}
    </section>
 
    {%if item.date is defined or item.tags is defined or item.mp3 is defined%}
-   <ul class="EpisodeInfo-meta">
-      {%if item.date is defined%}<li id="episode-date">
-         {{ item.locale_date }}
-      </li>{%endif%}
+   <section class="ItemInfo-meta ItemMeta">
+      {%if item.date is defined%}
+      <p class="ItemMeta-entry ItemMeta-entry--date">{{item.locale_date}}</p>
+      {%endif%}
 
       {%if item.tags is defined%}
-      <li id="topics">
-         Topics: {%for tag in item.tags|sort%}<a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>{%if not loop.last%}, {%endif%}{%endfor%}
-      </li>
+      <p class="ItemMeta-entry ItemMeta-entry--topics ItemTopics">
+         Topics:
+         {%for tag in item.tags|sort%}
+            {%set sep = ', ' if not loop.last else ''%}
+            <a href="/{{tag.url}}" class="ItemTopics-topic">{{tag}}</a>{{sep}}
+         {%endfor%}
+      </p>
       {%endif%}
-
-      {%if article is defined%}
-      <li id="download">
-         <a href="{{ mp3 }}" download="{{ mp3 }}">Download!</a>
-      </li>
-      {%endif%}
-   </ul>
+   </section>
    {%endif%}
 </header>
 {%endif%}

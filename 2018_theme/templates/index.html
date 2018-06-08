@@ -27,17 +27,17 @@
             {% for article in category_articles %}
                <li class="EpisodeList-episode">
                   <a class="EpisodeList-link" href="/{{article.url}}">
-                     <div class='EpisodeMeta'>
-                        <span class="EpisodeMeta-field EpisodeMeta-field--number">
+                     <div class='EpisodeSummary'>
+                        <span class="EpisodeSummary-field EpisodeSummary-field--number">
                            Episode {{article.category}}.{{article.number}}
                         </span>
-                        <span class="EpisodeMeta-field EpisodeMeta-field--title">
+                        <span class="EpisodeSummary-field EpisodeSummary-field--title">
                            {{article.title}}
                         </span>
-                        <span class="EpisodeMeta-field EpisodeMeta-field--date">
+                        <span class="EpisodeSummary-field EpisodeSummary-field--date">
                            {{article.locale_date}}
                         </span>
-                        <span class="EpisodeMeta-field EpisodeMeta-field--subtitle">
+                        <span class="EpisodeSummary-field EpisodeSummary-field--subtitle">
                            {{article.subtitle}}
                         </span>
                      </div>
@@ -51,7 +51,7 @@
 
    {% include "includes/about.html" %}
 
-   <hr class='Divider'>
+   <hr>
 
    <section class='Content'>
       <h3>Previous Seasons</h3>
@@ -156,7 +156,7 @@
       </article>
    </section>
 
-   <hr class='Divider'>
+   <hr>
 
    <article class='Content'>
       <h3>Colophon</h3>

@@ -37,35 +37,37 @@
 
 </head>
 <body>
-   <header class="Banner">
-      <h1 class='Banner-title'>
-         <a class='Banner-link' href="{{SITEURL}}">Winning Slowly</a>
-      </h1>
-      <h2 class='Banner-subtitle'>
-         Taking the long view on<br class="optional" />
-         technology, religion, ethics, and art.
-      </h2>
-   </header>
+   <main class="Main">
+      <header class="Banner">
+         <h1 class='Banner-title'>
+            <a class='Banner-link' href="{{SITEURL}}">Winning Slowly</a>
+         </h1>
+         <h2 class='Banner-subtitle'>
+            Taking the long view on<br class="optional" />
+            technology, religion, ethics, and art.
+         </h2>
+      </header>
 
-   {%block index_content %}{% endblock %}
+      {%block index_content %}{% endblock %}
 
-   <hr class="Divider">
+      <hr>
 
-   {% block content %}{% endblock %}
+      {% block content %}{% endblock %}
+   </main>
 
-   {% block section_nav %}
    <nav class='SeasonNav'>
-      {% for cat, _ in categories %}
-      <a class="SeasonNav-season" href="/{{cat.url}}">
-         {% if SEASONS[cat.name].prefix != None %}
-            {{SEASONS[cat.name].prefix}}
-         {% elif SEASONS[cat.name].title != None %}
-            {{SEASONS[cat.name].title}}
-         {% endif %}
-      </a>
-      {% endfor %}
+      {% block section_nav %}
+         {% for cat, _ in categories %}
+            <a class="SeasonNav-season" href="/{{cat.url}}">
+               {% if SEASONS[cat.name].prefix != None %}
+                  {{SEASONS[cat.name].prefix}}
+               {% elif SEASONS[cat.name].title != None %}
+                  {{SEASONS[cat.name].title}}
+               {% endif %}
+            </a>
+         {% endfor %}
+      {% endblock %}
    </nav>
-   {% endblock %}
 </body>
 
 </html>
