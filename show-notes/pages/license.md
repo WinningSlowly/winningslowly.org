@@ -16,13 +16,9 @@ The only restriction we have on the use of our content is that you cite
 it---that's just being a good neighbor.
 
 Our name and logo? Feel free to riff on them. You just can't claim the work as
-your own. The design of the logo belongs to our friend [Cameron Morgan][cam].
-He's great. If you steal his stuff, we may not break your knee caps, but we
-might just set the snarling hordes of the internet on you.
+your own.
 
 The legalese below just outlines this policy in lawyer-friendly terms.
-
-[cam]: //www.krop.com/spidercam/
 
 ### Legalese
 
@@ -270,20 +266,13 @@ Creative Commons may be contacted at [creativecommons.org][cc].
 [policies]: //creativecommons.org/policies
 [cc]: //creativecommons.org
 
+---
+
 ## Software
 
 ### Human-friendly
 
-Pretty much the same as with our content: mash this content up however you like.
-Winning Slowly was built with the free tools of the internet age---great things
-like HTML and [SASS][sass] (for all the shiny front end), and [Pelican][pelican]
-and [GitHub][gh] (for the gnarly backend). Just about everything the designer
-([Chris Krycho][chris]) knows about design, he learned from the largesse of
-others who made their own HTML and CSS available, and who shared their knowledge
-freely via countless blog posts, tutorials, and walkthroughs. Go and do
-likewise. You can use this theme as the basis for your own, you can learn from
-every last thing done right (and, no doubt, more than a few things done wrong)
-here, and you can share it yourself. Just give credit where credit is due.
+Pretty much the same as with our content: mash this content up however you like. Winning Slowly was built with the free tools of the internet age---great things like HTML and [SCSS][sass] (for all the shiny front end), and [Pelican][pelican] and [GitHub][gh] (for the gnarly backend). Just about everything the designer ([Chris Krycho][chris]) knows about design, he learned from the largesse of others who made their own HTML and CSS available, and who shared their knowledge freely via countless blog posts, tutorials, and walkthroughs. Go and do likewise. You can use this theme as the basis for your own, you can learn from every last thing done right (and, no doubt, more than a few things done wrong) here, and you can share it yourself. Just give credit where credit is due.
 
 Again, the legalese below just says all of this in lawyer-friendly terms.
 
@@ -296,21 +285,10 @@ Again, the legalese below just says all of this in lawyer-friendly terms.
 
 The MIT License (MIT)
 
-Copyright &copy; 2013 Chris Krycho and Stephen Carradini
+Copyright &copy; 2013–2018 Chris Krycho and Stephen Carradini
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the "Software"), to deal in
-the Software without restriction, including without limitation the rights to
-use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
-the Software, and to permit persons to whom the Software is furnished to do so,
-subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
-COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
-IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
-CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+*The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.*
