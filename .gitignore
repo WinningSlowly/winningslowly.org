@@ -56,3 +56,6 @@ cache
 
 # Ulysses bits
 .Ulysses*
+
+# Pelican server files
+*.pid
