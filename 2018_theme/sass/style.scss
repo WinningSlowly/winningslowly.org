@@ -708,7 +708,7 @@ hr {
     line-height: var(--lh-m);
   }
 
-  .EpisodeMeta {
+  .EpisodeSummary {
     grid-template-areas:
       "number"
       "title"
@@ -735,41 +735,17 @@ hr {
     }
   }
 
-  article {
-    header {
-      .title {
-        text-align: center;
-        padding-left: 1em;
-        padding-right: 1em;
-        order: 2;
-
-        h1 {
-          font-size: var(--fs-m);
-
-          #episode-title {
-            font-size: var(--fs-ms);
-          }
-        }
-
-        #episode-subtitle {
-          font-size: var(--fs-r);
-          line-height: var(--lh-s);
-        }
-      }
+  .Content {
+    .ItemTitle {
+      font-size: var(--fs-ml);
     }
 
-    .meta {
-      text-align: center;
-      padding-right: 1em;
-      padding-left: 1em;
-      height: auto;
-      margin-bottom: 0.364em;
-      padding-bottom: 0;
-      order: 1;
+    .ItemSubtitle {
+      font-size: var(--fs-r);
     }
 
-    h3 {
-      font-size: var(--fs-m);
+    .ItemMeta {
+      font-size: var(--fs-ms);
     }
   }
 }
