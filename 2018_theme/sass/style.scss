@@ -283,7 +283,14 @@ br.optional {
       weight: var(--title-bold);
       size: var(--fs-l);
     }
+    color: var(--fg-alt);
     text-align: center;
+    padding: {
+      top: 0.486em;
+      bottom: 0.243em;
+    }
+    margin-bottom: 0.243em;
+    border-bottom: 1px solid;
   }
 
   h3 {
@@ -312,7 +319,12 @@ br.optional {
   }
 
   h5 {
-    font-size: var(--fs-ms);
+    font: {
+      size: var(--fs-ms);
+      family: var(--title);
+      weight: var(--title-bold);
+    }
+    color: var(--fg-alt);
   }
 
   h6 {
