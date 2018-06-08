@@ -2,9 +2,6 @@
 <meta name="twitter:site" content="@winningslowly" />
 <meta name="twitter:creator" content="@winningslowly" />
 
-<meta name="og:author" content="{{IDENTITY['Chris']['Homepage']}}" />
-<meta name="og:author" content="{{IDENTITY['Stephen']['Homepage']}}" />
-
 {%set logo%}
    <meta property="og:image" content="{{SITEURL}}/{{LOGO}}" />
    <meta property="og:image:type" content="image/png" />
@@ -19,10 +16,12 @@
 
 {%if article is defined%}
    <meta property="og:url" content="{{SITEURL}}/{{article.url}}" />
+   <meta name="article:author" content="{{IDENTITY['Chris']['Homepage']}}" />
+   <meta name="article:author" content="{{IDENTITY['Stephen']['Homepage']}}" />
 
    {%set season = SEASONS[article.category.name]%}
    {%set season_title = season.prefix ~ ': ' ~ season.title if season.prefix else season.title%}
-   <meta property="og:section" content="{{season_title}}" />
+   <meta property="article:section" content="{{season_title}}" />
 
    {%set sep = season.epSep%}
    {%set number = season.number ~ sep ~ article.number if season.number else article.number%}
