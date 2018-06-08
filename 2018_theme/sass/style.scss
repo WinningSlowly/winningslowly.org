@@ -577,7 +577,11 @@ hr {
 }
 
 .SeasonNav {
-  font-size: var(--fs-m);
+  font: {
+    family: var(--title);
+    weight: var(--title-light);
+    size: var(--fs-m);
+  }
   background: var(--accent-dark);
   margin-top: var(--fs-xxxl);
   display: flex;
