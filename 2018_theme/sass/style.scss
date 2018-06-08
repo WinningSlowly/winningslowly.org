@@ -227,7 +227,7 @@ br.optional {
     }
 
     &:hover {
-      color: var(--accent);
+      color: var(--accent-light);
     }
   }
 
@@ -325,11 +325,11 @@ br.optional {
   ol {
     padding: {
       top: 0;
-      bottom: var(--fs-r);
+      bottom: 0;
     }
     margin: {
       top: 0;
-      bottom: 0;
+      bottom: var(--fs-r);
     }
   }
 
@@ -488,7 +488,7 @@ br.optional {
 
 .EpisodeList {
   font-size: var(--fs-ms);
-  max-width: 66rem;
+  max-width: 44rem;
   list-style: none;
   margin: {
     left: auto;
@@ -529,12 +529,12 @@ br.optional {
 
     &:hover,
     &:active {
-      color: var(--accent);
+      color: var(--accent-dark);
       border: {
         top: none;
-        left: 8px solid var(--accent);
+        left: 8px solid var(--accent-light);
         bottom: none;
-        right: 8px solid var(--accent);
+        right: 8px solid var(--accent-light);
       }
 
       padding: {
@@ -551,7 +551,7 @@ br.optional {
   align-content: flex-start;
   flex-flow: row wrap;
   text-align: left;
-  font-family: var(--text);
+  font-family: var(--title);
   line-height: var(--lh-s);
 
   &-meta {
@@ -561,7 +561,7 @@ br.optional {
 
     &--primary {
       flex: 1 40%;
-      font-weight: var(--text-bold);
+      font-weight: var(--title-bold);
       text-align: right;
       padding-right: 0.243rem;
     }
@@ -569,11 +569,19 @@ br.optional {
     &--secondary {
       flex: 1 55%;
       padding-left: 0.243rem;
+      font-weight: var(--title-light);
     }
   }
 }
 
 .EpisodeMeta {
+  display: grid;
+  grid-template-areas:
+    "number date"
+    "title  subtitle";
+  grid-template-columns: 45% 50%;
+  grid-column-gap: 0.486rem;
+
   &-field {
     display: block;
     margin: {
@@ -585,10 +593,28 @@ br.optional {
       bottom: 0;
     }
 
+    &--number {
+      grid-area: number;
+      text-align: right;
+      font-weight: var(--title-bold);
+    }
+
     &--date {
+      grid-area: date;
       font-style: italic;
       margin-top: -1px;
-      padding-bottom: 1px;
+      text-align: left;
+    }
+
+    &--title {
+      grid-area: title;
+      text-align: right;
+      font-weight: var(--title-bold);
+    }
+
+    &--subtitle {
+      grid-area: subtitle;
+      text-align: left;
     }
   }
 }
@@ -642,5 +668,158 @@ br.optional {
   }
 }
 
-/* Import media queries at the end to override the base */
-@import "media";
+@media only screen and (max-width: 800px) {
+  html {
+    font-size: 92.5%;
+  }
+
+  .SeasonNav {
+    font-size: var(--fs-ms);
+  }
+
+  .Banner {
+    padding-bottom: 0;
+    h1 {
+      a,
+      a:visited {
+        display: flex;
+        justify-content: space-around;
+        align-content: center;
+        flex-flow: column wrap;
+        flex: 1 50%;
+      }
+    }
+  }
+
+  .EpisodeMeta {
+    &-field {
+      &--date {
+        margin-top: -0.5px;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 580px) {
+  html {
+    font-size: 85%;
+  }
+
+  .flex-item {
+    flex: 1 100%;
+  }
+
+  br.optional {
+    display: inherit;
+  }
+
+  .Content {
+    &--meta {
+      margin-bottom: 0;
+      padding-bottom: 0;
+    }
+  }
+
+  .Divider {
+    margin: {
+      top: var(--fs-m);
+      bottom: var(--fs-m);
+    }
+  }
+
+  .SeasonHeading {
+    font-size: var(--fs-ml);
+  }
+
+  .SeasonNav {
+    font-size: var(--fs-r);
+
+    .prev {
+      padding-left: 6%;
+    }
+
+    .next {
+      padding-right: 6%;
+    }
+  }
+
+  .Banner {
+    font-size: var(--fs-xxl);
+    padding: {
+      top: var(--fs-m);
+      bottom: 0;
+    }
+
+    &-title {
+      font-size: var(--fs-l);
+    }
+
+    &-subtitle {
+      font-size: var(--fs-r);
+    }
+  }
+
+  .EpisodeList {
+    margin: {
+      left: auto;
+      right: auto;
+    }
+    padding: {
+      left: 0;
+      right: 0;
+      bottom: var(--fs-r);
+    }
+    line-height: var(--lh-m);
+  }
+
+  .EpisodeMeta {
+    &-field {
+      &--date {
+        margin-top: 0;
+      }
+    }
+  }
+
+  article {
+    section,
+    audio {
+      width: 100%;
+    }
+
+    header {
+      .title {
+        text-align: center;
+        padding-left: 1em;
+        padding-right: 1em;
+        order: 2;
+
+        h1 {
+          font-size: var(--fs-m);
+
+          #episode-title {
+            font-size: var(--fs-ms);
+          }
+        }
+
+        #episode-subtitle {
+          font-size: var(--fs-r);
+          line-height: var(--lh-s);
+        }
+      }
+    }
+
+    .meta {
+      text-align: center;
+      padding-right: 1em;
+      padding-left: 1em;
+      height: auto;
+      margin-bottom: 0.364em;
+      padding-bottom: 0;
+      order: 1;
+    }
+
+    h3 {
+      font-size: var(--fs-m);
+    }
+  }
+}
