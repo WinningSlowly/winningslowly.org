@@ -23,5 +23,6 @@
   ],
   "[scss]": {
     "editor.formatOnSave": true
-  }
+  },
+  "prettier.printWidth": 90
 }
