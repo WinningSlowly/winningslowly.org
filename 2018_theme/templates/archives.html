@@ -7,17 +7,23 @@
       <ul class='EpisodeList'>
          {% for article in articles %}
             <li class="EpisodeList-episode">
-                  <a class="EpisodeList-link EpisodeSummary" href="/{{article.url}}">
-                     <div class="EpisodeSummary-meta EpisodeSummary-meta--primary EpisodeMeta">
-                        <span class="EpisodeMeta-field EpisodeMeta-field--num">Episode {{article.category}}.{{article.number}}</span>
-                        <span class="EpisodeMeta-field EpisodeMeta-field--title">{{article.title}}</span>
-                     </div>
-                     <div class="EpisodeSummary-meta EpisodeSummary-meta--secondary EpisodeMeta">
-                        <span class="EpisodeMeta-field EpisodeMeta-field--date">{{article.locale_date}}</span>
-                        <span class="EpisodeMeta-field EpisodeMeta-field--subtitle">{{article.subtitle}}</span>
-                     </div>
-                  </a>
-               </li>
+               <a class="EpisodeList-link" href="/{{article.url}}">
+                  <div class='EpisodeMeta'>
+                     <span class="EpisodeMeta-field EpisodeMeta-field--number">
+                        Episode {{article.category}}.{{article.number}}
+                     </span>
+                     <span class="EpisodeMeta-field EpisodeMeta-field--title">
+                        {{article.title}}
+                     </span>
+                     <span class="EpisodeMeta-field EpisodeMeta-field--date">
+                        {{article.locale_date}}
+                     </span>
+                     <span class="EpisodeMeta-field EpisodeMeta-field--subtitle">
+                        {{article.subtitle}}
+                     </span>
+                  </div>
+               </a>
+            </li>
          {% endfor %}
       </ul>
    {% else %}

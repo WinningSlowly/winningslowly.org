@@ -31,12 +31,12 @@
   --lh-s: 1.171;
 
   // Colors
-  --off-white: #fcfcfc;
-  --dark-gray: hsl(210, 2%, 27%);
-  --light-gray: hsl(210, 10%, 50%);
-  --accent-dark: hsl(210, 87%, 32%);
+  --bg: #fcfcfc;
+  --fg: hsl(210, 2%, 27%);
+  --fg-alt: hsl(210, 10%, 50%);
+  --accent-dark: hsl(210, 82%, 31%);
   --accent: hsl(210, 67%, 41%);
-  --accent-light: hsl(209.7, 51.8%, 61%);
+  --accent-light: hsl(210, 52%, 61%);
 }
 
 html {
@@ -46,12 +46,12 @@ html {
 /* Styles */
 body {
   font-size: var(--lh-r);
-  color: var(--dark-gray);
+  color: var(--fg);
   font-family: var(--text);
   line-height: var(--lh);
-  background: var(--off-white);
+  background: var(--bg);
   margin: 0.5rem;
-  box-shadow: 0 0 0.5rem -0.1rem var(--dark-gray), 0 0 0 0.5rem var(--accent);
+  box-shadow: 0 0 0.5rem -0.1rem var(--fg), 0 0 0 0.5rem var(--accent);
 }
 
 b,
@@ -93,7 +93,7 @@ blockquote {
   margin: 0.5em 0;
   padding: 0 1em;
   border-left: 2px solid var(--accent-light);
-  color: var(--light-gray);
+  color: var(--fg-alt);
 
   em {
     font-style: normal;
@@ -204,7 +204,7 @@ br.optional {
 .Divider {
   width: 90%;
   max-width: 66rem;
-  border-top: 1px solid var(--light-gray);
+  border-top: 1px solid var(--fg-alt);
   margin: {
     top: var(--fs-l);
     bottom: var(--fs-l);
@@ -217,7 +217,7 @@ br.optional {
   padding-bottom: var(--fs-m);
 
   a {
-    color: var(--dark-gray);
+    color: var(--fg);
 
     &:link,
     &:visited,
@@ -365,7 +365,7 @@ br.optional {
     .meta {
       font-family: var(--text);
       font-weight: 700;
-      color: var(--light-gray);
+      color: var(--fg-alt);
     }
 
     ul.meta {
@@ -488,29 +488,42 @@ br.optional {
 
 .EpisodeList {
   font-size: var(--fs-ms);
-  max-width: 44rem;
+  max-width: 52rem;
   list-style: none;
   margin: {
     left: auto;
     right: auto;
   }
 
+  padding: {
+    left: 0;
+    right: 0;
+  }
+
   &-episode {
     min-height: 4em;
-    padding-bottom: 2em;
-
-    &:last-of-type {
-      padding-bottom: 0;
+    padding: {
+      top: 0.5em;
+      bottom: 0.5em;
     }
   }
 
   a,
+  a:link,
   a:visited {
-    color: var(--dark-gray);
-    text-decoration: none;
+    color: var(--fg);
+
+    &:hover,
+    &:active {
+      color: var(--accent-dark);
+    }
   }
 
   &-link {
+    color: var(--fg);
+    text-decoration: none;
+    display: block;
+
     // Border and padding operate together with the animation so that
     // the size of the contained element remains constant: as the border
     // grows on hover, the padding shrinks. This prevents reflow of the
@@ -522,19 +535,20 @@ br.optional {
       right: 1px solid transparent;
     }
 
+    --hover-width: 8px;
+
     padding: {
-      left: 8px;
-      right: 8px;
+      left: var(--hover-width);
+      right: var(--hover-width);
     }
 
     &:hover,
     &:active {
-      color: var(--accent-dark);
       border: {
         top: none;
-        left: 8px solid var(--accent-light);
+        left: var(--hover-width) solid var(--accent-light);
         bottom: none;
-        right: 8px solid var(--accent-light);
+        right: var(--hover-width) solid var(--accent-light);
       }
 
       padding: {
@@ -553,25 +567,6 @@ br.optional {
   text-align: left;
   font-family: var(--title);
   line-height: var(--lh-s);
-
-  &-meta {
-    margin: 0;
-    padding-top: 0;
-    color: var(--dark-gray);
-
-    &--primary {
-      flex: 1 40%;
-      font-weight: var(--title-bold);
-      text-align: right;
-      padding-right: 0.243rem;
-    }
-
-    &--secondary {
-      flex: 1 55%;
-      padding-left: 0.243rem;
-      font-weight: var(--title-light);
-    }
-  }
 }
 
 .EpisodeMeta {
@@ -579,10 +574,14 @@ br.optional {
   grid-template-areas:
     "number date"
     "title  subtitle";
-  grid-template-columns: 45% 50%;
+  grid-template-columns: 45% 55%;
   grid-column-gap: 0.486rem;
+  grid-row-gap: calc(0.243rem - 0.1 * 1em); // account for line-height of `&-field`.
+  justify-content: center;
+  padding: 1em 0.5em;
 
   &-field {
+    line-height: 1.1;
     display: block;
     margin: {
       top: 0;
@@ -602,7 +601,6 @@ br.optional {
     &--date {
       grid-area: date;
       font-style: italic;
-      margin-top: -1px;
       text-align: left;
     }
 
@@ -641,19 +639,19 @@ br.optional {
     text-decoration: none;
     flex: 1 0 auto;
     border: none;
-    color: var(--off-white);
+    color: var(--bg);
     text-align: center;
     padding: 0.4em;
 
     &:hover,
     &:active {
-      background: var(--accent);
-      color: var(--off-white);
+      background: var(--accent-light);
+      color: var(--bg);
     }
 
     &:visited,
     &:visited:hover {
-      color: var(--off-white);
+      color: var(--bg);
     }
 
     &--prev {
@@ -687,14 +685,6 @@ br.optional {
         align-content: center;
         flex-flow: column wrap;
         flex: 1 50%;
-      }
-    }
-  }
-
-  .EpisodeMeta {
-    &-field {
-      &--date {
-        margin-top: -0.5px;
       }
     }
   }
@@ -764,18 +754,33 @@ br.optional {
       left: auto;
       right: auto;
     }
-    padding: {
-      left: 0;
-      right: 0;
-      bottom: var(--fs-r);
-    }
+    padding: 0;
     line-height: var(--lh-m);
   }
 
   .EpisodeMeta {
+    grid-template-areas:
+      "number"
+      "title"
+      "date"
+      "subtitle";
+    grid-template-columns: auto;
+
     &-field {
+      &--number {
+        text-align: center;
+      }
+
+      &--title {
+        text-align: center;
+      }
+
       &--date {
-        margin-top: 0;
+        text-align: center;
+      }
+
+      &--subtitle {
+        text-align: center;
       }
     }
   }

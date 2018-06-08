@@ -26,19 +26,21 @@
          {% if category == CURRENT_SEASON.number %}
             {% for article in category_articles %}
                <li class="EpisodeList-episode">
-                  <a class="EpisodeList-link EpisodeMeta" href="/{{article.url}}">
-                     <span class="EpisodeMeta-field EpisodeMeta-field--number">
-                        Episode {{article.category}}.{{article.number}}
-                     </span>
-                     <span class="EpisodeMeta-field EpisodeMeta-field--title">
-                        {{article.title}}
-                     </span>
-                     <span class="EpisodeMeta-field EpisodeMeta-field--date">
-                        {{article.locale_date}}
-                     </span>
-                     <span class="EpisodeMeta-field EpisodeMeta-field--subtitle">
-                        {{article.subtitle}}
-                     </span>
+                  <a class="EpisodeList-link" href="/{{article.url}}">
+                     <div class='EpisodeMeta'>
+                        <span class="EpisodeMeta-field EpisodeMeta-field--number">
+                           Episode {{article.category}}.{{article.number}}
+                        </span>
+                        <span class="EpisodeMeta-field EpisodeMeta-field--title">
+                           {{article.title}}
+                        </span>
+                        <span class="EpisodeMeta-field EpisodeMeta-field--date">
+                           {{article.locale_date}}
+                        </span>
+                        <span class="EpisodeMeta-field EpisodeMeta-field--subtitle">
+                           {{article.subtitle}}
+                        </span>
+                     </div>
                   </a>
                </li>
             {% endfor %}
