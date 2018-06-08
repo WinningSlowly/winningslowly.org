@@ -1,14 +1,14 @@
 @media only screen and (max-width: 800px) {
+  html {
+    font-size: 92.5%;
+  }
+
   br.optional {
     display: inherit;
   }
 
   .SeasonNav {
     font-size: var(--fs-ms);
-  }
-
-  article {
-    line-height: var(--lh);
   }
 
   .Banner {
@@ -21,7 +21,6 @@
         align-content: center;
         flex-flow: column wrap;
         flex: 1 50%;
-        height: 3em;
       }
     }
   }
@@ -49,35 +48,9 @@
 
 @media only screen and (max-width: 580px), only screen and (max-height: 640px) {
   html {
-    font-size: 100%;
+    font-size: 85%;
   }
 
-  h1 {
-    font-size: var(--fs-xxl);
-  }
-
-  h2 {
-    font-size: var(--fs-xl);
-  }
-
-  h3 {
-    font-size: var(--fs-l);
-  }
-
-  h4 {
-    font-size: var(--fs-ml);
-  }
-
-  h5 {
-    font-size: var(--fs-m);
-  }
-
-  h6 {
-    font-size: var(--fs-r);
-  }
-}
-
-@media only screen and (max-width: 580px), only screen and (max-height: 580px) {
   .flex-item {
     flex: 1 100%;
   }
@@ -88,6 +61,7 @@
     .prev {
       padding-left: 6%;
     }
+
     .next {
       padding-right: 6%;
     }
