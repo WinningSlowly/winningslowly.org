@@ -40,11 +40,11 @@
       {%endif%}
 
       {%if item.tags is defined%}
-      <p class="ItemMeta-entry ItemMeta-entry--topics ItemTopics">
-         Topics:
+      <p class="ItemMeta-entry ItemMeta-entry--topics ItemTags">
+         Tagged:
          {%for tag in item.tags|sort%}
             {%set sep = ', ' if not loop.last else ''%}
-            <a href="/{{tag.url}}" class="ItemTopics-topic">{{tag}}</a>{{sep}}
+            <a href="/{{tag.url}}" class="ItemTags-tag">{{tag}}</a>{{sep}}
          {%endfor%}
       </p>
       {%endif%}
