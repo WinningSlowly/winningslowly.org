@@ -405,7 +405,9 @@ hr {
   }
 
   &--subscribe {
-    text-align: center;
+    h5 {
+      text-align: center;
+    }
   }
 }
 
