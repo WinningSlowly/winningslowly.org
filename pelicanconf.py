@@ -9,8 +9,8 @@ AUTHOR = 'Chris Krycho and Stephen Carradini'
 SITENAME = 'Winning Slowly'
 SITE_DESCRIPTION = 'Culture, technology, religion, ethics, and art—from the long view.'
 SITEURL = ''
-LOGO = 'static/images/winning-slowly_circle.png'
-PODCAST_LOGO = 'static/images/winning-slowly_podcast_small.png'
+LOGO = 'static/images/Winning-Slowly_podcast.png'
+PODCAST_LOGO = 'static/images/Winning-Slowly_podcast.png'
 
 TIMEZONE = 'America/New_York'
 
@@ -19,17 +19,89 @@ DEFAULT_LANG = 'en'
 THEME = "design"
 
 # Show configuration
-CURRENT_SEASON = {
-    'title': 'Season 6: Rejecting the Inevitable Future',
-    'number': '6',
-    'slug': 'season-6'
-}
-
 SEASON_TITLES = {
     '6': 'Rejecting the Inevitable Future',
     '5': 'Structure and Agency',
     '4': 'Globalization'
 }
+
+# Show configuration
+SEASONS = {
+    '6': {
+        'prefix': 'Season 6',
+        'title': 'Rejecting the Inevitable Future',
+        'slug': 'season-6',
+        'number': '6',
+        'epPrefix': 'Episode',
+        'epSep': '.',
+    },
+    '5': {
+        'prefix': 'Season 5',
+        'title': 'Structure and Agency',
+        'slug': 'season-5',
+        'number': '5',
+        'epPrefix': 'Episode',
+        'epSep': '.',
+    },
+    '4': {
+        'prefix': 'Season 4',
+        'title': 'Globalization',
+        'slug': 'season-4',
+        'number': '4',
+        'epPrefix': 'Episode',
+        'epSep': '.',
+    },
+    '3': {
+        'prefix': None,
+        'title': 'Season 3',
+        'slug': 'season-3',
+        'number': '3',
+        'epPrefix': 'Episode',
+        'epSep': '.',
+    },
+    '2': {
+        'prefix': None,
+        'title': 'Season 2',
+        'slug': 'season-2',
+        'number': '2',
+        'epPrefix': 'Episode',
+        'epSep': '.',
+    },
+    '1': {
+        'prefix': None,
+        'title': 'Season 1',
+        'slug': 'season-1',
+        'number': '1',
+        'epPrefix': 'Episode',
+        'epSep': '.',
+    },
+    '0': {
+        'prefix': 'Season 0',
+        'title': 'This Is In Beta!',
+        'slug': 'season-0',
+        'number': '0',
+        'epPrefix': 'Episode',
+        'epSep': '.',
+    },
+    'Standalone Episodes': {
+        'prefix': None,
+        'title': 'Standalone Episodes',
+        'slug': 'standalone-episodes',
+        'number': None,
+        'epPrefix': 'Standalone Episode',
+        'epSep': '',
+    },
+    'Bonus': {
+        'prefix': None,
+        'title': 'Bonus',
+        'slug': 'bonus-episodes',
+        'number': None,
+        'epPrefix': 'Bonus Episode',
+        'epSep': '',
+    }
+}
+
+CURRENT_SEASON = SEASONS['6']
 
 # Feed generation is usually not desired when developing
 FEED_DOMAIN = SITEURL

@@ -4,14 +4,14 @@
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>Taking the long view on technology, religion, ethics, and art. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 3 3.5.10(3072); Mac OS X Version 10.13.4 (Build 17E202) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.5.10(3072); Mac OS X Version 10.13.5 (Build 17F77) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2014–2016 Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Tue, 15 May 2018 21:25:48 -0600</pubDate>
-        <lastBuildDate>Tue, 15 May 2018 21:25:49 -0600</lastBuildDate>
+        <pubDate>Wed, 13 Jun 2018 18:47:13 -0600</pubDate>
+        <lastBuildDate>Wed, 13 Jun 2018 18:47:14 -0600</lastBuildDate>
         <ttl>30</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -41,6 +41,54 @@
             <itunes:category text="Christianity"/>
         </itunes:category>
         <itunes:type>serial</itunes:type>
+        <item>
+            <title>6.07: People Do Reject Technologies, Part 1</title>
+            <link>https://www.winningslowly.org/6.07/</link>
+            <description><![CDATA[<p>Google Glass, snap judgments, and how we form ourselves to make those snap judgments well.</p>
+<h3 id="show-notes">Show Notes</h3>
+<p>Google Glass failed miserably. Why? Because people sometimes <em>do</em> reject technologies. But <em>why</em>? People’s snap judgments are far from infallible, of course, but in this case they seem to have been correct. How can we train our snap judgments to be correct more often? And how can we interrogate and sharpen our own judgments?</p>
+<h4 id="links">Links</h4>
+<p>Google Glass background and commentary:</p>
+<ul>
+<li><p><a href="https://www.theatlantic.com/magazine/archive/2017/11/x-google-moonshot-factory/540648/">Google X and the Science of Radical Creativity: How the secretive Silicon Valley lab is trying to resurrect the lost art of invention</a> (<em>The Atlantic</em>) – with this important note that Stephen mentioned during the show:</p>
+<blockquote>
+<p>First, they said, Glass flopped not because it was a bad consumer product but because it wasn’t a consumer product at all. The engineering team at X had wanted to send Glass prototypes to a few thousand tech nerds to get feedback. But as buzz about Glass grew, Google, led by its gung-ho co-founder Sergey Brin, pushed for a larger publicity tour—including a ted Talk and a fashion show with Diane von Furstenberg. Photographers captured Glass on the faces of some of the world’s biggest celebrities, including Beyoncé and Prince Charles, and Google seemed to embrace the publicity. At least implicitly, Google promised a product. It mailed a prototype. (Four years later, Glass has reemerged as a tool for factory workers, the same group that showed the most enthusiasm for the initial design.)</p>
+</blockquote></li>
+<li><p><a href="https://www.wired.com/2013/12/glasshole/">“I, Glasshole: My Year With Google Glass”</a> – Matt Honan at <em>Wired</em></p></li>
+<li><p><a href="https://www.theatlantic.com/technology/archive/2013/04/rise-term-glasshole-explained-linguists/316015/">“The Rise of the Term ‘Glasshole,’ Explained by Linguists”</a> (<em>The Atlantic</em>)</p></li>
+<li><p><a href="https://www.theatlantic.com/technology/archive/2015/01/how-the-camera-doomed-google-glass/384570/">“How the Camera Doomed Google Glass: By including a recording device, the first-gen smart specs went from dorky to disturbing.”</a> (<em>The Atlantic</em>)</p></li>
+<li><p><a href="https://www.wired.com/story/google-glass-2-is-here/">“Google Glass 2.0 Is A Startling Second Act”</a> – Steven Levy at <em>Wired</em>, covering how Glass is finding its home in a more sensible role</p></li>
+</ul>
+<p>Chris’ example of his own snap judgment was in reading <a href="https://www.theverge.com/2018/5/17/17344250/google-x-selfish-ledger-video-data-privacy">“Google’s Selfish Ledger Is An Unsettling Vision Of Silicon Valley Social Engineering”</a> at <em>The Verge</em>.</p>
+<h3 id="music">Music</h3>
+<ul>
+<li><a href="https://blacknight.bandcamp.com/track/leafroad">“Leafroad”</a> by <a href="https://blacknight.bandcamp.com">BLACKNIGHT</a>. Used by permission.</li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho.</li>
+</ul>
+<h3 id="sponsors">Sponsors</h3>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Andrew Fallows</li>
+<li>Kurt Klassen</li>
+<li>Jake Grant</li>
+<li>Jeremy W. Sherman</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href="https://www.patreon.com/winningslowly">Patreon</a> or give directly via <a href="https://cash.me/$winningslowly">Square Cash</a>.</p>
+<h3 id="respond">Respond</h3>
+<p>We love to hear your thoughts. Hit us up via <a href="//www.twitter.com/winningslowly">Twitter</a>, <a href="//www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=6.05:%20Crispr">email</a>!</p>
+]]></description>
+            <pubDate>Wed, 13 Jun 2018 18:45:00 -0600</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/6.07.mp3" length="29341945" type="audio/mpeg"/>
+            <guid isPermaLink="false">4B68F8E5-E88B-4B4F-A80C-4BB68079FD9E</guid>
+            <itunes:subtitle>Google Glass, snap judgments, and how we form ourselves to make those snap judgments well.</itunes:subtitle>
+            <itunes:summary>Google Glass, snap judgments, and how we form ourselves to make those snap judgments well.</itunes:summary>
+            <itunes:duration>30:32</itunes:duration>
+            <itunes:season>6</itunes:season>
+            <itunes:episode>7</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="http://www.winningslowly.org/podcast.png"/>
+        </item>
         <item>
             <title>6.06: A Kind of Blindness</title>
             <link>https://www.winningslowly.org/6.06/</link>
