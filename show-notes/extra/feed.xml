@@ -10,8 +10,8 @@
         <copyright>2014–2016 Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Wed, 13 Jun 2018 18:47:13 -0600</pubDate>
-        <lastBuildDate>Wed, 13 Jun 2018 18:47:14 -0600</lastBuildDate>
+        <pubDate>Sat, 07 Jul 2018 16:52:20 -0600</pubDate>
+        <lastBuildDate>Sat, 07 Jul 2018 16:52:20 -0600</lastBuildDate>
         <ttl>30</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -41,6 +41,127 @@
             <itunes:category text="Christianity"/>
         </itunes:category>
         <itunes:type>serial</itunes:type>
+        <item>
+            <title>6.09: Granular Levels of Tomato Tracking</title>
+            <link>https://www.winningslowly.org/6.09/</link>
+            <description><![CDATA[<p>Blockchain, the necessity of regulation, and the regulatory challenges posed by truly global technologies.</p>
+<h3 id="show-notes">Show Notes</h3>
+<p>Blockchain and the associated currencies and techniques derived from it have been in the news a lot for the last few years. And it’s an incredibly interesting technology, which basically only has <em>benefits</em> for individual users – but has some profoundly distortive effects at scale, on everything from economics to energy consumption. So what do we do about it?</p>
+<h4 id="links">Links</h4>
+<ul>
+<li><p><a href="https://www.cryptokitties.co/">Cryptokitties</a></p></li>
+<li><p><a href="http://money.cnn.com/2018/02/09/technology/bitcoin-mining-china-canada/index.html">Chinese Bitcoin Miners getting relocated to… Canada.</a></p></li>
+<li><p><a href="https://www.cnbc.com/2017/10/05/how-icos-setting-the-vc-world-ablaze-work.html">ICOs (“initial coin offerings”) explained</a></p></li>
+<li><p><a href="https://www.fool.com/investing/2018/03/09/smart-contracts-and-the-blockchain-explained.aspx">“Smart Contracts”</a></p></li>
+<li><p>current regulatory approaches</p>
+<ul>
+<li><p><a href="https://bitcoinmagazine.com/articles/european-commission-urges-nations-embrace-blockchain-tech-address-risks/">in Europe</a></p></li>
+<li><p><a href="https://cointelegraph.com/explained/south-korea-and-crypto-regulations-explained">in South Korea</a>, including <a href="https://blokt.com/news/south-korea-unveils-new-supportive-crypto-regulations">the latest as of the show’s publication</a></p></li>
+<li><p>related: <a href="https://www.bloomberg.com/news/articles/2018-03-01/nafta-negotiators-said-to-agree-to-regulatory-best-practices">the relationship between trade agreements and regulation</a></p></li>
+</ul></li>
+<li><p>Blockchain and triple-entry accounting</p>
+<ul>
+<li><p><a href="https://hackernoon.com/why-everyone-missed-the-most-important-invention-in-the-last-500-years-c90b0151c169">that’s exactly what it is!</a></p></li>
+<li><a href="https://www.forbes.com/sites/forbesfinancecouncil/2017/11/28/triple-entry-accounting-and-blockchain-a-common-misconception/2/#6d4891d2678c">that’s not what it is</a></li>
+</ul></li>
+<li><p><a href="https://www.independent.co.uk/life-style/gadgets-and-tech/news/bitcoin-mining-energy-use-electricity-cryptocurrency-a8353981.html">Bitcoin will use 0.5% of the world’s electricity by the end of 2018</a></p></li>
+<li><p><a href="http://thehill.com/opinion/cybersecurity/377415-terrorists-have-been-using-bitcoin-for-four-years-so-whats-the-surprise">Terrorists have (unsurprisingly) <em>already</em> been using cryptocurrencies</a></p></li>
+<li><p><a href="https://www.politico.com/magazine/story/2018/03/09/bitcoin-mining-energy-prices-smalltown-feature-217230">Bitcoin in your (rural!) neighborhood</a></p></li>
+<li><p>On the basically-asymptotic difficulty of “mining”:</p>
+<ul>
+<li><p><a href="https://bitcoin.stackexchange.com/questions/57483/is-the-asymptotic-performance-of-bitcoin-on-relative-to-the-block-chain-length">“Is the asymptotic performance of bitcoin O(n) relative to the block chain length?”</a></p></li>
+<li><p><a href="https://bitcoin.stackexchange.com/questions/161/how-many-bitcoins-will-there-eventually-be">“How many bitcoins will there eventually be?”</a></p>
+<blockquote>
+<p>Every block introduces 50 new coins in the system. This quantity (50) halves every 210,000 blocks. So, getting the limit of coins it is possible to generate is quite easy: it’s the sum of a geometric series.</p>
+</blockquote>
+<p>The total number of bitcoins that <em>can</em> ever be created is 21,000,000.</p></li>
+</ul></li>
+</ul>
+<p>We also discussed the importance of regulation in some detail in a couple episodes in season 5:</p>
+<ul>
+<li><a href="https://winningslowly.org/5.09/">5.09: Regulate All the Things</a> - on regulations and the open internet</li>
+<li><a href="https://winningslowly.org/5.11/">5.11: Fences, Neighbors, Etc.</a> – on vaccinations and the application of force</li>
+</ul>
+<h3 id="music">Music</h3>
+<ul>
+<li><a href="https://palmghosts.bandcamp.com/track/heavy-eyes">“Heavy Eyes”</a> by <a href="https://palmghosts.net">Palm Ghosts</a>. Used by permission.</li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho.</li>
+</ul>
+<h3 id="sponsors">Sponsors</h3>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Andrew Fallows</li>
+<li>Kurt Klassen</li>
+<li>Jake Grant</li>
+<li>Jeremy W. Sherman</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href="https://www.patreon.com/winningslowly">Patreon</a> or give directly via <a href="https://cash.me/$winningslowly">Square Cash</a>.</p>
+<h3 id="respond">Respond</h3>
+<p>We love to hear your thoughts. Hit us up via <a href="//www.twitter.com/winningslowly">Twitter</a>, <a href="//www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=6.05:%20Crispr">email</a>!</p>
+]]></description>
+            <pubDate>Sat, 07 Jul 2018 16:45:00 -0600</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/6.09.mp3" length="33612636" type="audio/mpeg"/>
+            <guid isPermaLink="false">CD5D85C2-617C-4058-8B1F-E93751B90F32</guid>
+            <itunes:subtitle>Blockchain, the necessity of regulation, and the regulatory challenges posed by truly global technologies.</itunes:subtitle>
+            <itunes:summary>Blockchain, the necessity of regulation, and the regulatory challenges posed by truly global technologies.</itunes:summary>
+            <itunes:duration>34:59</itunes:duration>
+            <itunes:season>6</itunes:season>
+            <itunes:episode>9</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <media:thumbnail url="http://www.winningslowly.org/podcast.png"/>
+        </item>
+        <item>
+            <title>People Do Reject Technologies, Part 2</title>
+            <link>https://www.winningslowly.org/6.08/</link>
+            <description><![CDATA[<p>Nuclear weapons, nuclear waste, and how to argue well with intractable disagreements.</p>
+<h3 id="show-notes">Show Notes</h3>
+<p>Sometimes, the rejection of a technology is far less clear cut than in last week’s discussion of Google Glass. With nuclear weapons (and nuclear waste), for example, decades of rejection by <em>many</em> people has not stepped further development and proliferation. What do we do when we face intractable disagreements, especially about things we think represent grave moral evils?</p>
+<h4 id="links">Links</h4>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki">Hiroshima and Nagasaki</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Bombing_of_Dresden_in_World_War_II">Fire bombing of Dresden</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Nuclear_fallout">Nuclear fallout</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Half-life">Half-lives</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Sulfur_mustard">Mustard gas</a></li>
+<li><a href="https://www.independent.co.uk/news/world/politics/the-nine-countries-that-have-nuclear-weapons-a6798756.html">9 countries with nukes</a></li>
+<li><a href="https://thenevadaindependent.com/article/concerns-about-government-bullying-and-safety-were-the-top-reasons-for-those-opposing-the-house-yucca-bill">Yucca mountain explainer</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Yellow_journalism">Yellow journalism</a></li>
+<li><a href="https://www.newyorker.com/magazine/2015/07/20/the-really-big-one">“The Really Big One: An earthquake will destroy a sizable portion of the coastal Northwest. The question is when.”</a>, on the Pacific Coast Warning System</li>
+</ul>
+<p>Previous discussion of similar themes on the show:</p>
+<ul>
+<li><a href="https://winningslowly.org/4.05/">4.05</a> – The Price of Democracy: The necessity and the limitations of gradualism, incrementalism, and compromise in politics.</li>
+<li><a href="https://winningslowly.org/4.10/">4.10</a> – The Ancient Wisdom of Usenet: Populism, social media, and wisdom in when, how, and where to (dis)engage with people you disagree with.</li>
+<li><a href="https://winningslowly.org/5.11/">5.11</a> – Fences, Neighbors, etc.: How do we defend great common goods when they pose small, but real, individual risks?</li>
+</ul>
+<h3 id="music">Music</h3>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=aSKjyo6b6FM">“Assembling the Fleets”</a> by <a href="http://www.andreaswaldetoft.com">Andreas Waldetoft</a>. Used by permission.</li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho.</li>
+</ul>
+<h3 id="sponsors">Sponsors</h3>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Andrew Fallows</li>
+<li>Kurt Klassen</li>
+<li>Jake Grant</li>
+<li>Jeremy W. Sherman</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href="https://www.patreon.com/winningslowly">Patreon</a> or give directly via <a href="https://cash.me/$winningslowly">Square Cash</a>.</p>
+<h3 id="respond">Respond</h3>
+<p>We love to hear your thoughts. Hit us up via <a href="//www.twitter.com/winningslowly">Twitter</a>, <a href="//www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=6.05:%20Crispr">email</a>!</p>]]></description>
+            <pubDate>Fri, 22 Jun 2018 07:15:56 -0600</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/6.08.mp3" length="35408400" type="audio/mpeg"/>
+            <guid isPermaLink="false">15C07E0A-758B-466A-9FA0-2FD0D9AE697B</guid>
+            <itunes:subtitle>Nuclear weapons, nuclear waste, and how to argue well with intractable disagreements.</itunes:subtitle>
+            <itunes:summary>What do we do when we face intractable disagreements, especially about technologies we think represent grave moral evils – like nuclear weapons?</itunes:summary>
+            <itunes:duration>36:52</itunes:duration>
+            <itunes:season>6</itunes:season>
+            <itunes:episode>8</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="http://www.winningslowly.org/podcast.png"/>
+        </item>
         <item>
             <title>6.07: People Do Reject Technologies, Part 1</title>
             <link>https://www.winningslowly.org/6.07/</link>
