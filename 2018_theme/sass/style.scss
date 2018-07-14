@@ -37,6 +37,9 @@
   --accent-dark: hsl(210, 82%, 31%);
   --accent: hsl(210, 67%, 41%);
   --accent-light: hsl(210, 52%, 61%);
+
+  // Sizes
+  --sane-width: 52rem;
 }
 
 html {
@@ -215,25 +218,23 @@ hr {
 
 /* Header */
 .Banner {
+  max-width: var(--sane-width);
   padding-top: var(--fs-l);
   padding-bottom: var(--fs-m);
-
-  a {
-    color: var(--fg);
-
-    &:link,
-    &:visited,
-    &:hover,
-    &:active {
-      text-decoration: none;
-    }
-
-    &:hover {
-      color: var(--accent-light);
-    }
+  margin: {
+    left: auto;
+    right: auto;
   }
 
+  display: grid;
+  grid-template-areas: "title subtitle";
+  grid-template-columns: 45% 55%;
+  grid-column-gap: 1em;
+  justify-content: center;
+  align-content: center;
+
   &-title {
+    grid-area: title;
     text-align: center;
     font: {
       family: var(--title);
@@ -245,12 +246,69 @@ hr {
   }
 
   &-subtitle {
-    text-align: center;
-    color: var(--accent);
-    font: {
-      family: var(--text);
-      size: var(--fs-m);
-      style: italic;
+    grid-area: subtitle;
+  }
+}
+
+.BannerTitle {
+  &-text {
+    display: block;
+    width: 100%;
+    text-align: right;
+    line-height: 0.9;
+
+    &--winning {
+      color: var(--fg);
+    }
+
+    &--slowly {
+      color: var(--accent);
+    }
+  }
+}
+
+.BannerSubtitle {
+  transition: all 0.2s;
+  text-align: left;
+  color: var(--fg-alt);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 0.7em; // account for visual alignment of WS.
+
+  font: {
+    family: var(--text);
+    size: var(--fs-ms);
+    style: italic;
+  }
+
+  &-line {
+    display: block;
+    width: 100%;
+    line-height: var(--lh-m);
+  }
+}
+
+a.Banner {
+  // needs resetting
+  transition: all 0.2s;
+
+  &:link,
+  &:visited,
+  &:hover,
+  &:active {
+    text-decoration: none;
+  }
+
+  &:hover {
+    color: var(--accent-light);
+    transition: all 0.2s;
+
+    .BannerSubtitle,
+    .BannerTitle-text--winning,
+    .BannerTitle-text--slowly {
+      color: var(--accent-light);
+      transition: all 0.2s;
     }
   }
 }
@@ -450,7 +508,7 @@ hr {
 
 .EpisodeList {
   font-size: var(--fs-ms);
-  max-width: 52rem;
+  max-width: var(--sane-width);
   list-style: none;
   margin: {
     left: auto;
@@ -632,17 +690,7 @@ hr {
   }
 
   .Banner {
-    padding-bottom: 0;
-    h1 {
-      a,
-      a:visited {
-        display: flex;
-        justify-content: space-around;
-        align-content: center;
-        flex-flow: column wrap;
-        flex: 1 50%;
-      }
-    }
+    padding-bottom: var(--fs-r);
   }
 }
 
@@ -690,10 +738,9 @@ hr {
   }
 
   .Banner {
-    font-size: var(--fs-xxl);
     padding: {
       top: var(--fs-m);
-      bottom: 0;
+      bottom: var(--fs-m);
     }
 
     &-title {
