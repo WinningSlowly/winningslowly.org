@@ -4,14 +4,14 @@
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>Taking the long view on technology, religion, ethics, and art. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 3 3.5.10(3072); Mac OS X Version 10.13.5 (Build 17F77) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.5.11(3080); Mac OS X Version 10.13.5 (Build 17F77) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2014–2016 Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Sat, 07 Jul 2018 16:52:20 -0600</pubDate>
-        <lastBuildDate>Sat, 07 Jul 2018 16:52:20 -0600</lastBuildDate>
+        <pubDate>Thu, 19 Jul 2018 22:29:19 -0600</pubDate>
+        <lastBuildDate>Thu, 19 Jul 2018 22:29:19 -0600</lastBuildDate>
         <ttl>30</ttl>
         <image>
             <url>http://www.winningslowly.org/assets/images/winning-slowly_podcast.png</url>
@@ -41,6 +41,50 @@
             <itunes:category text="Christianity"/>
         </itunes:category>
         <itunes:type>serial</itunes:type>
+        <item>
+            <title>6.10: The Future of Something Like Work</title>
+            <link>https://www.winningslowly.org/6.10/</link>
+            <description><![CDATA[<p>The end of work, post-work, universal basic income—and a more hopeful frame than these.</p>
+<h3 id="show-notes">Show Notes</h3>
+<p>Economists, guilt-ridden Silicon Valley inventors and investors, and others have been looking at the future of work. One possible conclusion? That it’s going away. We don’t think that’s quite right—and we don’t think it would be good if it did. Not exactly, anyway.</p>
+<h4 id="links">Links</h4>
+<ul>
+<li><a href="https://data.bls.gov/timeseries/LNS14000000">current US unemployment rate</a></li>
+<li>Tolkien on subcreation: see his essay <a href="https://www.alibris.com/Tolkien-on-Fairy-Stories-Verlyn-Flieger/book/14565726?matches=25">On Fairy-Stories</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Johann_Sebastian_Bach#Reception">notes on J. S. Bach’s reception over time</a></li>
+<li>Previous episodes
+<ul>
+<li><a href="https://www.winningslowly.org/3.13/">3.13: Inevitable?</a> – Self-driving cars, the limits of technology, and the tension between the personal and the communal.</li>
+<li><a href="https://www.winningslowly.org/3.07/">3.07: One Size Does Not Fit All</a> – Amazon’s workplace culture as a view into corporate ethics and responsibility</li>
+</ul></li>
+</ul>
+<h3 id="music">Music</h3>
+<ul>
+<li><a href="http://smarturl.it/forevertgh">“Forever”</a> by <a href="https://thegrayhavens.bandcamp.com">The Gray Havens</a>. Used by permission.</li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho.</li>
+</ul>
+<h3 id="sponsors">Sponsors</h3>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Kurt Klassen</li>
+<li>Jake Grant</li>
+<li>Jeremy W. Sherman</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href="https://www.patreon.com/winningslowly">Patreon</a> or give directly via <a href="https://cash.me/$winningslowly">Square Cash</a>.</p>
+<h3 id="respond">Respond</h3>
+<p>We love to hear your thoughts. Hit us up via <a href="//www.twitter.com/winningslowly">Twitter</a>, <a href="//www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=6.10:%20The%20Future%20of%20Something%20Like%20Work">email</a>!</p>]]></description>
+            <pubDate>Fri, 20 Jul 2018 07:00:00 -0600</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/6.10.mp3" length="32214171" type="audio/mpeg"/>
+            <guid isPermaLink="false">65338967-1436-4695-8C45-0341FECFD0DC</guid>
+            <itunes:subtitle>The end of work, post-work, universal basic income—and a more hopeful frame than these.</itunes:subtitle>
+            <itunes:summary>The end of work, post-work, universal basic income—and a more hopeful frame than these.</itunes:summary>
+            <itunes:duration>32:51</itunes:duration>
+            <itunes:season>6</itunes:season>
+            <itunes:episode>10</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="http://www.winningslowly.org/podcast.png"/>
+        </item>
         <item>
             <title>6.09: Granular Levels of Tomato Tracking</title>
             <link>https://www.winningslowly.org/6.09/</link>
