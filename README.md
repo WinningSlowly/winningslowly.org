@@ -21,6 +21,12 @@ the [`LICENSE`].
 
 [`LICENSE`]: https://github.com/WinningSlowly/winningslowly.org/blob/master/LICENSE
 
+**Note:** The typefaces are *not* open-source, but available for purchase from
+the genuinely excellent [Klim Type Foundry](https://klim.co.nz). As we say with
+the music we use in each episode: please *don't* use these fonts without
+permission; go buy them and support the excellent work of their creator instead
+if you like them!
+
 Neat!
 -----
 
