@@ -16,7 +16,7 @@ TIMEZONE = 'America/Denver'
 
 DEFAULT_LANG = 'en'
 
-THEME = "2018_theme"
+THEME = "design"
 
 # Show configuration
 SEASONS = {
