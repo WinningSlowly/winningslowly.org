@@ -125,7 +125,7 @@ IDENTITY = {'Site': {'RSS': FEED_DOMAIN + '/' + CUSTOM_FEED_URL,
 
 CDN = 'cdn.winningslowly.org'
 MP3 = '.mp3'
-PODTRAC_REDIRECT = 'https://www.podtrac.com/pts/redirect'
+PODTRAC_REDIRECT = 'http://www.podtrac.com/pts/redirect'
 PODTRAC_MP3 = PODTRAC_REDIRECT + MP3
 
 DEFAULT_PAGINATION = False
