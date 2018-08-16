@@ -4,14 +4,14 @@
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>Taking the long view on technology, religion, ethics, and art. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 3 3.5.11(3080); Mac OS X Version 10.13.5 (Build 17F77) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.5.11(3080); Mac OS X Version 10.13.6 (Build 17G65) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Mon, 23 Jul 2018 20:07:22 -0600</pubDate>
-        <lastBuildDate>Mon, 23 Jul 2018 20:07:22 -0600</lastBuildDate>
+        <pubDate>Thu, 16 Aug 2018 06:34:09 -0600</pubDate>
+        <lastBuildDate>Thu, 16 Aug 2018 06:34:10 -0600</lastBuildDate>
         <ttl>5</ttl>
         <image>
             <url>https://winningslowly.org/images/logotype.png</url>
@@ -41,6 +41,57 @@
             <itunes:category text="Christianity"/>
         </itunes:category>
         <itunes:type>serial</itunes:type>
+        <item>
+            <title>100!</title>
+            <link>http://www.winningslowly.org/standalone-episodes.03/</link>
+            <description><![CDATA[<p>Our 100th episode spectacular – with a look at where we have come from and where we are going.</p>
+<h3 id="show-notes">Show Notes</h3>
+<p>It’s been four and a half years and 100 episodes of Winning Slowly! We pause to take a bit to reflect on what we’ve done, what we’re about, and where we hope to go from here. We also reflect on some of our craziest titles along the way. (“Buying Me Off With Warm Fuzzies”? “Juice Up the Weird Edges of the Ecosystem”? These got wild at times.)</p>
+<h4 id="links">Links</h4>
+<ul>
+<li><a href="https://twitter.com/spidercam">Cameron Morgan</a></li>
+<li>Vallor’s book: <a href="https://global.oup.com/academic/product/technology-and-the-virtues-9780190498511?cc=ca&amp;lang=en&amp;"><em>Technology and the Virtues: A Philosophical Guide to a Future Worth Wanting</em></a>
+<ul>
+<li>My blog post about it: <a href="https://www.chriskrycho.com/2018/good-arguments.html">Good Arguments</a></li>
+</ul></li>
+<li><a href="https://www.wsj.com/articles/ibm-bet-billions-that-watson-could-improve-cancer-treatment-it-hasnt-worked-1533961147?mod=trending_now_4">IBM Has a Watson Dilemma - WSJ</a></li>
+</ul>
+<h4 id="previous-episodes">Previous episodes</h4>
+<p>I mean, look people: basically it’s just “go look at earlier seasons.” So… quick links to earlier seasons it is!</p>
+<ul>
+<li><a href="https://winningslowly.org/season-0">Season 0</a></li>
+<li><a href="https://winningslowly.org/season-1">Season 1</a></li>
+<li><a href="https://winningslowly.org/season-2">Season 2</a></li>
+<li><a href="https://winningslowly.org/season-3">Season 3</a></li>
+<li><a href="https://winningslowly.org/season-4">Season 4</a></li>
+<li><a href="https://winningslowly.org/season-5">Season 5</a></li>
+<li><a href="https://winningslowly.org/season-6">Season 6</a></li>
+</ul>
+<h3 id="music">Music</h3>
+<ul>
+<li><a href="https://themidnightsons.bandcamp.com/track/no-haters">“No Haters”</a> from <a href="https://themidnightsons.bandcamp.com/album/new-life"><em>New Life</em></a> by <a href="https://themidnightsons.bandcamp.com">The Midnight Sons</a>, a.k.a. Stephen. It’s Creative Commons Attribution licensed, just like this website!</li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho.</li>
+</ul>
+<h3 id="sponsors">Sponsors</h3>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Kurt Klassen</li>
+<li>Jeremy W. Sherman</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href="https://www.patreon.com/winningslowly">Patreon</a> or give directly via <a href="https://cash.me/$winningslowly">Square Cash</a>.</p>
+<h3 id="respond">Respond</h3>
+<p>We love to hear your thoughts. Hit us up via <a href="//www.twitter.com/winningslowly">Twitter</a>, <a href="//www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=Some%20Sciency%20Stuff">email</a>!</p>
+]]></description>
+            <pubDate>Thu, 16 Aug 2018 06:34:00 -0600</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/100.mp3" length="39337247" type="audio/mpeg"/>
+            <guid isPermaLink="false">72EC0E43-B85E-42B6-A6CA-D6428D9C05A1</guid>
+            <itunes:subtitle>Our 100th episode spectacular – with a look at where we have come from and where we are going.</itunes:subtitle>
+            <itunes:summary>Our 100th episode spectacular – with a look at where we have come from and where we are going.</itunes:summary>
+            <itunes:duration>40:25</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="https://winningslowly.org/images/logotype.png"/>
+        </item>
         <item>
             <title>6.10: The Future of Something Like Work</title>
             <link>https://www.winningslowly.org/6.10/</link>
