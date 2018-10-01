@@ -123,9 +123,9 @@ IDENTITY = {'Site': {'RSS': FEED_DOMAIN + '/' + CUSTOM_FEED_URL,
             'Stephen': {'Twitter': 'https://twitter.com/scarradini',
                         'Homepage': 'http://stephencarradini.com'}}
 
-CDN = 'cdn.winningslowly.org'
+CDN = 'f001.backblazeb2.com/file/winningslowly/'
 MP3 = '.mp3'
-PODTRAC_REDIRECT = 'http://www.podtrac.com/pts/redirect'
+PODTRAC_REDIRECT = 'https://www.podtrac.com/pts/redirect'
 PODTRAC_MP3 = PODTRAC_REDIRECT + MP3
 
 DEFAULT_PAGINATION = False
