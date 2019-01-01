@@ -4,14 +4,14 @@
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>Taking the long view on technology, religion, ethics, and art. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 3 3.6.1(3174); Mac OS X Version 10.14.1 (Build 18B75) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.6.2(3180); Mac OS X Version 10.14.2 (Build 18C54) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Wed, 07 Nov 2018 21:02:23 -0700</pubDate>
-        <lastBuildDate>Wed, 07 Nov 2018 21:02:24 -0700</lastBuildDate>
+        <pubDate>Mon, 31 Dec 2018 22:38:07 -0700</pubDate>
+        <lastBuildDate>Mon, 31 Dec 2018 22:38:07 -0700</lastBuildDate>
         <ttl>5</ttl>
         <image>
             <url>https://winningslowly.org/images/logotype.png</url>
@@ -41,6 +41,52 @@
             <itunes:category text="Christianity"/>
         </itunes:category>
         <itunes:type>serial</itunes:type>
+        <item>
+            <title>A Four-in-One Special</title>
+            <link>https://www.winningslowly.org/6.13/</link>
+            <description><![CDATA[<p>Wrapping up Season 6 by covering the topics we intended to cover before Chris’ experience with burnout broke everything.</p>
+<h3 id="show-notes">Show Notes</h3>
+<ul>
+<li>On burnout:
+<ul>
+<li><a href="https://newrustacean.com/show_notes/bonus/burnout/">Chris’ New Rustacean episode</a></li>
+<li><a href="https://www.chriskrycho.com/burnout/">Chris’ blog posts</a></li>
+</ul></li>
+<li><a href="https://www.shannonvallor.net">Shannon Vallor</a> and <a href="http://global.oup.com/academic/product/technology-and-the-virtues-9780190498511"><cite>Technology and the Virtues</cite></a></li>
+<li><a href="https://motherboard.vice.com/en_us/article/xykkkd/why-american-farmers-are-hacking-their-tractors-with-ukrainian-firmware">“Why American Farmers Are Hacking Their Tractors With Ukrainian Firmware”</a></li>
+</ul>
+<h3 id="music">Music</h3>
+<ul>
+<li><a href="https://soundcloud.com/cameronblakemusic/06-tiananmen-square?in=cameronblakemusic/sets/fear-not">“Tiananmen Square”</a> by <a href="http://www.cameronblakemusic.com">Cameron Blake</a></li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho.</li>
+</ul>
+<h3 id="sponsors">Sponsors</h3>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Daniel Ellcey</li>
+<li>Kurt Klassen</li>
+<li>Jake Grant</li>
+<li>Jeremy W. Sherman</li>
+<li>Marnix Klooster</li>
+<li>Nathaniel Blaney</li>
+<li>Spencer Smith</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href="https://www.patreon.com/winningslowly">Patreon</a> or give directly via <a href="https://cash.me/$winningslowly">Square Cash</a>.</p>
+<h3 id="respond">Respond</h3>
+<p>We love to hear your thoughts. Hit us up via <a href="//www.twitter.com/winningslowly">Twitter</a>, <a href="//www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=6.11:%20Very%20Thoughtful%20Ethics%20Dogs">email</a>!</p>
+]]></description>
+            <pubDate>Mon, 31 Dec 2018 22:30:00 -0700</pubDate>
+            <enclosure url="https://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/winningslowly/6.13.mp3" length="36250104" type="audio/mpeg"/>
+            <guid isPermaLink="false">BAA60C89-7670-4225-8D8A-E74135E20EB0</guid>
+            <itunes:subtitle>Wrapping up Season 6 by covering the topics we intended to cover before Chris’ experience with burnout broke everything.</itunes:subtitle>
+            <itunes:summary>Wrapping up Season 6 by covering the topics we intended to cover before Chris’ experience with burnout broke everything.</itunes:summary>
+            <itunes:duration>37:22</itunes:duration>
+            <itunes:season>6</itunes:season>
+            <itunes:episode>13</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="https://winningslowly.org/images/logotype.png"/>
+        </item>
         <item>
             <title>6.12: Beer Rules</title>
             <link>https://www.winningslowly.org/6.12/</link>
