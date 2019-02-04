@@ -94,7 +94,7 @@ SEASONS = {
     }
 }
 
-CURRENT_SEASON = SEASONS['6']
+CURRENT_SEASON = SEASONS['Standalone Episodes']
 
 # Feed generation is usually not desired when developing
 FEED_DOMAIN = SITEURL
