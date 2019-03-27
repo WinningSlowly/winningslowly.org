@@ -20,6 +20,14 @@ THEME = "design"
 
 # Show configuration
 SEASONS = {
+    '7': {
+        'prefix': 'Season 7',
+        'title': 'Tech Criticism… and Hope',
+        'slug': 'season-7',
+        'number': '7',
+        'epPrefix': 'Episode',
+        'epSep': '.',
+    },
     '6': {
         'prefix': 'Season 6',
         'title': 'Rejecting the Inevitable Future',
