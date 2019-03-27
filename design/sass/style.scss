@@ -1,5 +1,5 @@
-@import 'reset';
-@import 'fonts';
+@import "reset";
+@import "fonts";
 
 :root {
   // Typefaces
@@ -70,6 +70,11 @@ body {
 b,
 strong {
   font-weight: var(--text-bold);
+}
+
+i,
+em {
+  font-style: italic;
 }
 
 @mixin content-head {
@@ -195,7 +200,7 @@ figure {
 
     &::after,
     &::before {
-      content: '✨';
+      content: "✨";
       display: inline-block;
       width: 2em;
     }
@@ -227,7 +232,7 @@ hr {
   }
 
   display: grid;
-  grid-template-areas: 'title subtitle';
+  grid-template-areas: "title subtitle";
   grid-template-columns: 45% 55%;
   grid-column-gap: 1em;
   justify-content: center;
@@ -582,8 +587,8 @@ a.Banner {
 .EpisodeSummary {
   display: grid;
   grid-template-areas:
-    'number date'
-    'title  subtitle';
+    "number date"
+    "title  subtitle";
   grid-template-columns: 45% 55%;
   grid-column-gap: 0.486rem;
   grid-row-gap: calc(0.243rem - 0.1 * 1em); // account for line-height of `&-field`.
@@ -763,10 +768,10 @@ a.Banner {
 
   .EpisodeSummary {
     grid-template-areas:
-      'number'
-      'title'
-      'date'
-      'subtitle';
+      "number"
+      "title"
+      "date"
+      "subtitle";
     grid-template-columns: auto;
 
     &-field {
