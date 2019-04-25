@@ -4,14 +4,14 @@
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>Taking the long view on technology, religion, ethics, and art. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 3 3.6.4(3196); Mac OS X Version 10.14.4 (Build 18E226) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.6.5(3200); Mac OS X Version 10.14.4 (Build 18E226) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Wed, 10 Apr 2019 17:19:36 -0600</pubDate>
-        <lastBuildDate>Wed, 10 Apr 2019 17:19:36 -0600</lastBuildDate>
+        <pubDate>Wed, 24 Apr 2019 21:17:28 -0600</pubDate>
+        <lastBuildDate>Wed, 24 Apr 2019 21:17:29 -0600</lastBuildDate>
         <ttl>5</ttl>
         <image>
             <url>https://winningslowly.org/images/logotype.png</url>
@@ -41,6 +41,80 @@
             <itunes:category text="Christianity"/>
         </itunes:category>
         <itunes:type>serial</itunes:type>
+        <item>
+            <title>7.03: Ari Wallach</title>
+            <link>https://www.winningslowly.org/7.03/</link>
+            <description><![CDATA[<p>An interview with the founder of Longpath about his vision for the future and trans-generational ethics.</p>
+<h2 id="show-notes">Show Notes</h2>
+<p>We chat with <a href="https://en.wikipedia.org/wiki/Special:Search?search=ari%20wallach&amp;go=Go">Ari Wallach</a> of <a href="https://www.longpath.org">Longpath</a> about his vision for the future and the importance of trans-generational ethics. (There’s obviously a lot we both find valuable and disagree with here… keep your ears open for reflection on some of those differences in the future!)</p>
+<h3 id="corrigenda">Corrigenda</h3>
+<p>Buckminster Fuller <a href="https://www.britannica.com/biography/Anton-Flettner">didn’t invent the trimtab</a>—but he did invent the metaphor of the social aspects of trimtab!</p>
+<h3 id="links">Links</h3>
+<ul>
+<li><a href="https://www.wired.co.uk/article/forget-short-termism">Forget short-termism: it’s time to think longpath</a></li>
+<li><a href="https://medium.com/@ariw/our-longpath-future-b5de2bac4b6">Our longpath future</a></li>
+<li>“Faithful extension” – <a href="https://www.eerdmans.com/Products/Default.aspx?bookid=7379"><cite>Evolution and the Fall</cite>, Cavanaugh and Smith</a>, and <a href="https://mereorthodoxy.com/faithful-extension-question-human-origins/">Chris’ review of the same</a></li>
+<li>Ari’s TED talk: <a href="https://www.ted.com/talks/ari_wallach_3_ways_to_plan_for_the_very_long_term?language=en">3 Ways to Plan for the Very Long Term</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Epigenetics">epigenetics</a> and <a href="https://en.wikipedia.org/wiki/Mitochondrial_DNA">mitochondrial DNA</a></li>
+<li><a href="https://auburnseminary.org">Auburn Theological Seminary</a> (notably, a seminary with <em>wildly</em> different theology from our own!)</li>
+<li><a href="https://en.wikipedia.org/wiki/Theodor_W._Adorno">Theodor Adorno</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Max_Horkheimer">Max Horkheimer</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Jürgen_Habermas">Jürgen Habermas</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Karl_Marx">Karl Marx</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Frankfurt_School">Frankfurt School</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Sigmund_Freud">Freud</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Friedrich_Nietzsche">Friedrich_Nietzsche</a> and <a href="https://en.wikipedia.org/wiki/God_is_dead">“God is dead”</a></li>
+<li><a href="https://www.berkeley.edu">UC Berkley</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Buckminster_Fuller">Buckminster Fuller</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Peter_Schwartz_(futurist)">Peter Schwartz</a> and <a href="https://en.wikipedia.org/wiki/Stewart_Brand">Stewart Brand</a>, and their <a href="https://en.wikipedia.org/wiki/Global_Business_Network">Global Business Network</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Peter_Gabriel">Peter Gabriel</a> and <a href="https://en.wikipedia.org/wiki/Brian_Eno">Brian Eno</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Transhumanism">transhumanism</a> and <a href="https://en.wikipedia.org/wiki/Technological_singularity">singularitism</a>, the religions of SV</li>
+<li><a href="https://en.wikipedia.org/wiki/Moore%27s_law">Moore’s Law</a></li>
+<li>analogy to “interventions” from epidemiology – e.g. <a href="https://en.wikipedia.org/wiki/Ignaz_Semmelweis">hand-washing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Neuroplasticity">neuroplasticity</a></li>
+<li><a href="https://winningslowly.org/6.09/">blockchain</a>, <a href="https://en.wikipedia.org/wiki/Monorail">monorails</a>, jetpacks</li>
+<li><a href="https://en.wikipedia.org/wiki/Trim_tab">trim tab</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Woke">“stay woke”</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Hermann_Hesse">Hermann Hesse</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Sōtō">Soto Zen tradition</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Yurt">yurts</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Yeshiva">yeshiva model</a></li>
+<li><a href="https://www.wework.com">WeWork</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Telos"><em>telos</em></a></li>
+<li><a href="https://www.esv.org/Exodus+1/">Exodus narrative</a></li>
+<li><a href="https://www.longpath.org/practice">longpath.gather</a></li>
+<li><a href="https://www.futurecongress.org">Future Congress</a></li>
+</ul>
+<h2 id="music">Music</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=RhCfDnMe7cE">”First Do No Harm”</a> by <a href="http://kazyak.com">Kazyak</a></li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho.</li>
+</ul>
+<h2 id="sponsors">Sponsors</h2>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Daniel Ellcey</li>
+<li>Jake Grant</li>
+<li>Jeremy W. Sherman</li>
+<li>Marnix Klooster</li>
+<li>Nathaniel Blaney</li>
+<li>Spencer Smith</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href="https://www.patreon.com/winningslowly">Patreon</a> or give directly via <a href="https://cash.me/$winningslowly">Square Cash</a>.</p>
+<h2 id="respond">Respond</h2>
+<p>We love to hear your thoughts. Hit us up via <a href="//www.twitter.com/winningslowly">Twitter</a>, <a href="//www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=7.02:%20People%20Who%20Don’t%20Want%20To%20Do%20Things">email</a>!</p>
+]]></description>
+            <pubDate>Wed, 24 Apr 2019 21:15:00 -0600</pubDate>
+            <enclosure url="https://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/winningslowly/7.03.mp3" length="47318516" type="audio/mpeg"/>
+            <guid isPermaLink="false">3AFC7ED7-B439-4A58-A487-90F2EAB40F1B</guid>
+            <itunes:subtitle>An interview with the founder of Longpath about his vision for the future and trans-generational ethics.</itunes:subtitle>
+            <itunes:duration>49:00</itunes:duration>
+            <itunes:season>7</itunes:season>
+            <itunes:episode>3</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="https://winningslowly.org/images/logotype.png"/>
+        </item>
         <item>
             <title>7.02: People Who Don’t Want To Do Things</title>
             <link>https://www.winningslowly.org/7.02/</link>
