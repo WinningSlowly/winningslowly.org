@@ -4,14 +4,14 @@
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>Taking the long view on technology, religion, ethics, and art. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 3 3.6.5(3200); Mac OS X Version 10.14.4 (Build 18E226) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.6.6(3202); Mac OS X Version 10.14.4 (Build 18E226) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Wed, 08 May 2019 22:05:58 -0600</pubDate>
-        <lastBuildDate>Wed, 08 May 2019 22:05:58 -0600</lastBuildDate>
+        <pubDate>Wed, 22 May 2019 22:31:28 -0600</pubDate>
+        <lastBuildDate>Wed, 22 May 2019 22:31:28 -0600</lastBuildDate>
         <ttl>5</ttl>
         <image>
             <url>https://winningslowly.org/images/logotype.png</url>
@@ -41,6 +41,53 @@
             <itunes:category text="Christianity"/>
         </itunes:category>
         <itunes:type>serial</itunes:type>
+        <item>
+            <title>7.05: Chattanooga, China, and Subsidiarity</title>
+            <link>https://www.winningslowly.org/7.05/</link>
+            <description><![CDATA[<p><i>Localism is great! …but it is no panacea.</i></p>
+<h2 id="show-notes">Show Notes</h2>
+<p>We look at everything from American racial history to the differences between Chattanooga’s and China’s “local” internets.</p>
+<figure>
+<img src="https://winningslowly.org/images/stephen-gesticulating-7.05.jpg" alt="Stephen gesticulating wildly!" /><figcaption>Stephen gesticulating wildly!</figcaption>
+</figure>
+<h3 id="links">Links</h3>
+<ul>
+<li><p><a href="https://logicmag.io/03-the-new-sewer-socialists/">The New Sewer Socialists</a>, Evan Malmgren, <cite>Logic</cite></p></li>
+<li><p><a href="https://nadiaeghbal.com/tragedy-of-the-commons">An alternate ending to the tragedy of the commons</a>, Nadia Eghbal, on Elinor Ostrom’s <a href="https://www.alibris.com/Governing-the-Commons-The-Evolution-of-Institutions-for-Collective-Action-Elinor-Ostrom/book/2669676?matches=45"><cite>Governing the Commons: The Evolution of Institutions for Collective Action</cite></a></p>
+<blockquote>
+<p>Ostrom noticed there are many situations where common resources are allocated efficiently, without intervention from the market or state. She explores, through a series of case studies, why this occurred, and under what conditions we could recreate these situations.</p>
+</blockquote></li>
+</ul>
+<h2 id="music">Music</h2>
+<ul>
+<li><a href="https://soundcloud.com/ryandugre/bali">Bali”</a> by <a href="http://ryandugre.com">Ryan Dugré</a></li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho.</li>
+</ul>
+<h2 id="sponsors">Sponsors</h2>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Daniel Ellcey</li>
+<li>Jake Grant</li>
+<li>Jeremy W. Sherman</li>
+<li>Marnix Klooster</li>
+<li>Nathaniel Blaney</li>
+<li>Spencer Smith</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href="https://www.patreon.com/winningslowly">Patreon</a> or give directly via <a href="https://cash.me/$winningslowly">Square Cash</a>.</p>
+<h2 id="respond">Respond</h2>
+<p>We love to hear your thoughts. Hit us up via <a href="//www.twitter.com/winningslowly">Twitter</a>, <a href="//www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=7.02:%20People%20Who%20Don’t%20Want%20To%20Do%20Things">email</a>!</p>
+]]></description>
+            <pubDate>Wed, 22 May 2019 22:30:00 -0600</pubDate>
+            <enclosure url="https://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/winningslowly/7.05.mp3" length="34310555" type="audio/mpeg"/>
+            <guid isPermaLink="false">63D748AE-EB04-4AF9-8CA4-41EE701DCC27</guid>
+            <itunes:subtitle>Localism is great! …but it is no panacea.</itunes:subtitle>
+            <itunes:duration>35:27</itunes:duration>
+            <itunes:season>7</itunes:season>
+            <itunes:episode>5</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="https://winningslowly.org/images/logotype.png"/>
+        </item>
         <item>
             <title>7.04: Not Better Enough</title>
             <link>https://www.winningslowly.org/7.04/</link>
