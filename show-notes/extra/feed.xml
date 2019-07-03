@@ -4,14 +4,14 @@
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>Taking the long view on technology, religion, ethics, and art. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 3 3.6.6(3202); Mac OS X Version 10.14.4 (Build 18E226) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.6.7(3212); Mac OS X Version 10.14.5 (Build 18F132) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Wed, 22 May 2019 22:31:28 -0600</pubDate>
-        <lastBuildDate>Wed, 22 May 2019 22:31:28 -0600</lastBuildDate>
+        <pubDate>Tue, 02 Jul 2019 22:09:00 -0600</pubDate>
+        <lastBuildDate>Tue, 02 Jul 2019 22:09:00 -0600</lastBuildDate>
         <ttl>5</ttl>
         <image>
             <url>https://winningslowly.org/images/logotype.png</url>
@@ -41,6 +41,56 @@
             <itunes:category text="Christianity"/>
         </itunes:category>
         <itunes:type>serial</itunes:type>
+        <item>
+            <title>7.06: The ERLC AI Statement, Part 1</title>
+            <link>https://www.winningslowly.org/7.06/</link>
+            <description><![CDATA[<p><i>People reflecting proactively on ethics? Sold! …mostly. Mostly!</i></p>
+<h2 id="show-notes">Show Notes</h2>
+<p>The ERLC published a statement on artificial intelligence and ethics. We give them an ‘A’ but have some substantive disagreements.</p>
+<h3 id="links">Links</h3>
+<ul>
+<li><a href="https://erlc.com/resource-library/statements/artificial-intelligence-an-evangelical-statement-of-principles">Artificial Intelligence: An Evangelical Statement of Principles</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Mass_Effect">Mass Effect</a> - <a href="https://massaffection.com">Mass Affection</a></li>
+<li><a href="https://en.wikipedia.org/wiki/I%2C_Robot"><cite>I, Robot</cite></a></li>
+<li><a href="https://en.wikipedia.org/wiki/Ray_Kurzweil">Ray Kurzweil</a>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Technological_singularity">The Singularity</a></li>
+<li><a href="https://www.alibris.com/Newtons-Wake-A-Space-Opera-Ken-MacLeod/book/9007100"><cite>Newton’s Wake</cite>, Ken Macleod</a></li>
+</ul></li>
+<li><a href="https://winningslowly.org/6.03/">6.03: I’m Not Puttin’ That Chip in My Cheek—Bodily modification, from hip replacement to magnets in your fingers.</a></li>
+<li><a href="https://winningslowly.org/6.05/">6.05: Crispr—Setting limits on how far we modify ourselves</a></li>
+<li><a href="https://www.washingtonpost.com/technology/2018/12/30/fake-porn-videos-are-being-weaponized-harass-humiliate-women-everybody-is-potential-target/">Deepfakes</a></li>
+</ul>
+<h2 id="music">Music</h2>
+<ul>
+<li><a href="https://mixtapedmonk.bandcamp.com/track/indifferent-universe">Mixtaped Monk</a> by <a href="https://mixtapedmonk.bandcamp.com">Mixtaped Monk</a></li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho.</li>
+</ul>
+<h2 id="sponsors">Sponsors</h2>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Daniel Ellcey</li>
+<li>Jake Grant</li>
+<li>Jeremy W. Sherman</li>
+<li>Marnix Klooster</li>
+<li>Nathaniel Blaney</li>
+<li>Spencer Smith</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href="https://www.patreon.com/winningslowly">Patreon</a> or give directly via <a href="https://cash.me/$winningslowly">Square Cash</a>.</p>
+<h2 id="respond">Respond</h2>
+<p>We love to hear your thoughts. Hit us up via <a href="//www.twitter.com/winningslowly">Twitter</a>, <a href="//www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=7.02:%20People%20Who%20Don’t%20Want%20To%20Do%20Things">email</a>!</p>
+]]></description>
+            <pubDate>Wed, 03 Jul 2019 09:00:00 -0600</pubDate>
+            <enclosure url="https://www.podtrac.com/pts/redirect.mp3/f001.backblazeb2.com/file/winningslowly/7.06.mp3" length="41806566" type="audio/mpeg"/>
+            <guid isPermaLink="false">4CAA01D9-82AE-4A7D-96D9-A2EA90C8CB30</guid>
+            <itunes:subtitle>People reflecting proactively on ethics? Sold! …mostly. Mostly!</itunes:subtitle>
+            <itunes:summary>People reflecting proactively on ethics? Sold! …mostly. Mostly!</itunes:summary>
+            <itunes:duration>43:15</itunes:duration>
+            <itunes:season>7</itunes:season>
+            <itunes:episode>6</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+        </item>
         <item>
             <title>7.05: Chattanooga, China, and Subsidiarity</title>
             <link>https://www.winningslowly.org/7.05/</link>
