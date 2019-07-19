@@ -4,14 +4,14 @@
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>Taking the long view on technology, religion, ethics, and art. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 3 3.6.7(3212); Mac OS X Version 10.14.5 (Build 18F132) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.6.9(3228); Mac OS X Version 10.14.5 (Build 18F132) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Tue, 02 Jul 2019 22:09:00 -0600</pubDate>
-        <lastBuildDate>Tue, 02 Jul 2019 22:09:00 -0600</lastBuildDate>
+        <pubDate>Thu, 18 Jul 2019 21:28:16 -0600</pubDate>
+        <lastBuildDate>Thu, 18 Jul 2019 21:28:16 -0600</lastBuildDate>
         <ttl>5</ttl>
         <image>
             <url>https://winningslowly.org/images/logotype.png</url>
@@ -41,6 +41,63 @@
             <itunes:category text="Christianity"/>
         </itunes:category>
         <itunes:type>serial</itunes:type>
+        <item>
+            <title>7.07: The ERLC AI Statement, Part 2</title>
+            <link>https://www.winningslowly.org/7.07/</link>
+            <description><![CDATA[<p><i>Data privacy, just war, the sovereignty of God… there’s a lot here!</i></p>
+<h2 id="show-notes">Show Notes</h2>
+<p>We dig into the rest of the ERLC’s statement on AI—everything from security and privacy to just war and the sovereignty of God.</p>
+<h3 id="links">Links</h3>
+<ul>
+<li><p><a href="https://erlc.com/resource-library/statements/artificial-intelligence-an-evangelical-statement-of-principles">Artificial Intelligence: An Evangelical Statement of Principles</a></p></li>
+<li><p><a href="https://www.alibris.com/In-Search-of-the-Common-Good-Christian-Fidelity-in-a-Fractured-World-Jake-Meador/book/42719272?matches=19"><cite>In Search of the Common Good</cite>, Jake Meador</a></p></li>
+<li><p><a href="https://en.wikipedia.org/wiki/Minority_Report_(film)"><cite>Minority Report</cite></a></p></li>
+<li><p><a href="https://www.washingtonpost.com/technology/2018/12/30/fake-porn-videos-are-being-weaponized-harass-humiliate-women-everybody-is-potential-target/">Deepfakes</a></p>
+<ul>
+<li><a href="https://mashable.com/article/nancy-pelosi-edited-video-sound-drunk-deepfakes/">Fake ‘drunk’ Nancy Pelosi video goes viral, and it wasn’t even that hard to make (Mashable)</a></li>
+</ul></li>
+<li><p><a href="https://winningslowly.org/6.06/">6.06: A Kind of Blindness</a>—Smart cities, “big data”, and the meaninglessness of mere information.</p></li>
+<li><p><a href="https://en.wikipedia.org/wiki/Just_War_theory">Just war theory</a> (Wikipedia)</p>
+<ul>
+<li>Niebuhr is sometimes <em>described</em> as adhering to just war theory, but in fact articulated a different strand of thought: <a href="https://en.wikipedia.org/wiki/Christian_realism">Christian realism</a></li>
+</ul></li>
+<li><p><a href="https://www.alibris.com/Evolution-and-the-Fall/book/36478377?matches=11"><cite>Evolution and the Fall</cite>, eds. William T. Cavanaugh and James K. A. Smith</a></p>
+<blockquote>
+<p>…we will have to concede that the determination of [what falls outside the essence of the Christian tradition] is entrusted to the people of God, which is wider than the realm of academics, scholars, and scientists (though scholars and scientists who are part of this community of practice also get to participate in this discernment process).</p>
+</blockquote>
+<p>See also Chris’ review at Mere Orthodoxy: <a href="https://mereorthodoxy.com/faithful-extension-question-human-origins/">Faithful Extension and the Question of Human Origins</a></p></li>
+</ul>
+<h2 id="music">Music</h2>
+<ul>
+<li><a href="https://megareset.bandcamp.com/track/signals">Signals</a> by <a href="https://megareset.bandcamp.com">Arwen &amp; the Mega Reset</a></li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho.</li>
+</ul>
+<h2 id="sponsors">Sponsors</h2>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Daniel Ellcey</li>
+<li>Jake Grant</li>
+<li>Jeremy W. Sherman</li>
+<li>Marnix Klooster</li>
+<li>Nathaniel Blaney</li>
+<li>Spencer Smith</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href='https://www.patreon.com/winningslowly' rel='payment'>Patreon</a> or give directly via <a href="https://cash.me/$winningslowly">Square Cash</a>.</p>
+<h2 id="respond">Respond</h2>
+<p>We love to hear your thoughts. Hit us up via <a href="//www.twitter.com/winningslowly">Twitter</a>, <a href="//www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=7.02:%20People%20Who%20Don’t%20Want%20To%20Do%20Things">email</a>!</p>
+]]></description>
+            <pubDate>Thu, 18 Jul 2019 21:30:00 -0600</pubDate>
+            <enclosure url="https://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/file/winningslowly/7.07.mp3" length="44014967" type="audio/mpeg"/>
+            <guid isPermaLink="false">6D84F507-FE67-4E11-9C22-3309F0A9C5F4</guid>
+            <itunes:subtitle>Data privacy, just war, the sovereignty of God… there’s a lot here!</itunes:subtitle>
+            <itunes:summary>Data privacy, just war, the sovereignty of God… there’s a lot here!</itunes:summary>
+            <itunes:duration>45:34</itunes:duration>
+            <itunes:season>7</itunes:season>
+            <itunes:episode>7</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="https://winningslowly.org/images/logotype.png"/>
+        </item>
         <item>
             <title>7.06: The ERLC AI Statement, Part 1</title>
             <link>https://www.winningslowly.org/7.06/</link>
