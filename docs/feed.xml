@@ -10,8 +10,8 @@
         <copyright>Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Thu, 18 Jul 2019 21:28:16 -0600</pubDate>
-        <lastBuildDate>Thu, 18 Jul 2019 21:28:16 -0600</lastBuildDate>
+        <pubDate>Wed, 07 Aug 2019 21:26:25 -0600</pubDate>
+        <lastBuildDate>Wed, 07 Aug 2019 21:26:26 -0600</lastBuildDate>
         <ttl>5</ttl>
         <image>
             <url>https://winningslowly.org/images/logotype.png</url>
@@ -41,6 +41,73 @@
             <itunes:category text="Christianity"/>
         </itunes:category>
         <itunes:type>serial</itunes:type>
+        <item>
+            <title>7.08: Literally Metaphorically Listen for Earthquakes</title>
+            <link>https://www.winningslowly.org/7.08/</link>
+            <description><![CDATA[<h2 id="show-notes">Show Notes</h2>
+<p>We pause from issue-focused episodes and try to pull together the threads of the season so far to take a step toward our ethic of technology.</p>
+<h3 id="links">Links</h3>
+<ul>
+<li><p><a href="https://www.usatoday.com/story/news/politics/2018/05/23/trump-cannot-block-critical-twitter-users-federal-court-rules/637454002/">Donald Trump cannot block critical Twitter users, court rules</a></p></li>
+<li><p><a href="https://www.johndcook.com/blog/2012/12/17/the-lindy-effect/">The Lindy effect</a> – John D. Cook on the expected lifetimes of technology:</p>
+<blockquote>
+<p>…if all you know is that a technology has survived a certain amount of time, you can estimate that it will survive about that much longer.</p>
+</blockquote></li>
+<li><p><a href="https://www.youtube.com/watch?v=KjmjqlOPd6A">President Bush’s “can’t get fooled again” gaffe</a></p></li>
+<li><p><a href="http://www.worldwidewords.org/qa/qa-kee1.htm">“Keep your eyes peeled”</a></p></li>
+<li><p><a href="https://stratechery.com/2019/a-framework-for-moderation/">A Framework for Moderation</a> – Ben Thompson, published two days after we recorded</p></li>
+<li><p><a href="https://www.thenewatlantis.com/publications/after-technopoly">After Technopoloy</a>, Alan Jacobs. Stephen to this referred to as “Against Solutionism”—accidentally conflating Jacobs’ piece with a thesis Chris has been mulling on/slowly building an essay around this year. Chris is, uhh, <em>flattered</em> to be confused with Jacobs.</p>
+<ul>
+<li><a href="http://text-patterns.thenewatlantis.com/search/label/Solutionism">Jacobs’ other blog posts on solutionism</a></li>
+</ul></li>
+</ul>
+<p>Things Chris has written related to this episode:</p>
+<ul>
+<li><p><a href="https://buttondown.email/chriskrycho/archive/b4f45a6e-ff51-4cb9-8d25-6a9f61215fd0">Friction is the Friend of Serendipity</a></p></li>
+<li><p><a href="https://v4.chriskrycho.com/2018/zuckerbergs-blindness-and-ours-l-m-sacasas.html">“Zuckerberg’s Blindness and Ours” (L. M. Sacasas)—Solutionism is a nasty besetting culture-level sin we barely recognize as such.</a> (riffing on a post by L. M. Sacasas)</p></li>
+<li><p><a href="https://v4.chriskrycho.com/2018/free-speech.html">“Free Speech”</a></p>
+<blockquote>
+<p>…the whole reason we have these arguments — and the reason people tend to think as they do about the “free speech” question in these situations, legally nonsensical or not — is that we have outsourced the vast majority of our public discourse to these private platforms.</p>
+</blockquote></li>
+<li><p><a href="https://buttondown.email/chriskrycho/archive/2f8a7099-e483-40b9-94e6-0f6e488cdfae">“The Slow Web” and the limits of “solutions”</a> (from the email archive, discussed in more depth in <a href="https://winningslowly.org/7.04/">7.04</a>)</p></li>
+</ul>
+<p>Previous episode:</p>
+<ul>
+<li><a href="https://winningslowly.org/2.03/">2.03: Impervious Scale—The Roman Empire and Friendster Have Things to Say to You</a></li>
+<li><a href="https://winningslowly.org/6.08/">6.08: People Do Reject Technologies, Part 2—Nuclear weapons, nuclear waste, and how to argue well with intractable disagreements.</a></li>
+<li><a href="https://winningslowly.org/7.01/">7.01: Do We Really Need to Keep the Internet Around?—Season 7’s charter—by way of a rollicking argument about Alan Jacobs’ The Year of Our Lord 1943 and Tolkien’s idea of eucatastrophe.</a></li>
+</ul>
+<h2 id="music">Music</h2>
+<ul>
+<li><a href="https://misterlies.bandcamp.com/track/the-commuter">The Commuter</a> by <a href="https://misterlies.bandcamp.com">Mister Lies</a></li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho.</li>
+</ul>
+<h2 id="sponsors">Sponsors</h2>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Daniel Ellcey</li>
+<li>Jake Grant</li>
+<li>Jeremy W. Sherman</li>
+<li>Marnix Klooster</li>
+<li>Nathaniel Blaney</li>
+<li>Spencer Smith</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href='https://www.patreon.com/winningslowly' rel='payment'>Patreon</a> or give directly via <a href="https://cash.me/$winningslowly">Square Cash</a>.</p>
+<h2 id="respond">Respond</h2>
+<p>We love to hear your thoughts. Hit us up via <a href="//www.twitter.com/winningslowly">Twitter</a>, <a href="//www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=7.02:%20People%20Who%20Don’t%20Want%20To%20Do%20Things">email</a>!</p>
+]]></description>
+            <pubDate>Wed, 07 Aug 2019 21:30:00 -0600</pubDate>
+            <enclosure url="https://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/file/winningslowly/7.08.mp3" length="36877589" type="audio/mpeg"/>
+            <guid isPermaLink="false">EED26CD5-D3DE-42E4-A93B-3BF46258A325</guid>
+            <itunes:subtitle>Trying to pull together the threads of the season so far toward our ethic of technology.</itunes:subtitle>
+            <itunes:summary>Trying to pull together the threads of the season so far toward our ethic of technology.</itunes:summary>
+            <itunes:duration>37:49</itunes:duration>
+            <itunes:season>7</itunes:season>
+            <itunes:episode>8</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="https://winningslowly.org/images/logotype.png"/>
+        </item>
         <item>
             <title>7.07: The ERLC AI Statement, Part 2</title>
             <link>https://www.winningslowly.org/7.07/</link>
