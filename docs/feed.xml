@@ -4,14 +4,14 @@
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>Taking the long view on technology, religion, ethics, and art. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 3 3.6.9(3228); Mac OS X Version 10.14.5 (Build 18F132) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.7(3248); Mac OS X Version 10.14.6 (Build 18G87) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Thu, 08 Aug 2019 07:48:16 -0600</pubDate>
-        <lastBuildDate>Thu, 08 Aug 2019 07:48:16 -0600</lastBuildDate>
+        <pubDate>Wed, 28 Aug 2019 20:29:04 -0600</pubDate>
+        <lastBuildDate>Wed, 28 Aug 2019 20:29:05 -0600</lastBuildDate>
         <ttl>5</ttl>
         <image>
             <url>https://winningslowly.org/images/logotype.png</url>
@@ -26,12 +26,14 @@
         <itunes:summary>Taking the long view on technology, religion, ethics, and art. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2026. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</itunes:summary>
         <itunes:keywords>technology,religion,ethics,art,music,journalism,Christianity,new media,patience,winning,slowly,social justice,movies</itunes:keywords>
         <itunes:image href="https://winningslowly.org/images/logotype.png"/>
+        <itunes:explicit>clean</itunes:explicit>
         <itunes:owner>
             <itunes:name>Chris Krycho and Stephen Carradini</itunes:name>
             <itunes:email>hello@winningslowly.org</itunes:email>
         </itunes:owner>
         <itunes:block>no</itunes:block>
-        <itunes:category text="Technology">
+        <itunes:category text="Technology"/>
+        <itunes:category text="News">
             <itunes:category text="Tech News"/>
         </itunes:category>
         <itunes:category text="Arts">
@@ -41,6 +43,65 @@
             <itunes:category text="Christianity"/>
         </itunes:category>
         <itunes:type>serial</itunes:type>
+        <item>
+            <title>7.09: Frictioneers</title>
+            <link>https://www.winningslowly.org/7.09/</link>
+            <description><![CDATA[<p><i>Can adding a little friction back to user interfaces save us?</i><h2></h2></p>
+<h1 id="show-notes">Show notes</h1>
+<p>We talk about the currently-trendy concept of (design) friction and how it is necessary but not sufficient for right action on the Internet.</p>
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="https://venturebeat.com/2019/01/26/facebook-admitted-defrauding-kids-and-parents-of-thousands-of-dollars-in-early-free-to-play-games/">Facebook admits that it intentionally defrauded children by making it easy to buy in-game purchases</a></li>
+<li><a href="https://www.buzzfeednews.com/article/alexkantrowitz/how-the-retweet-ruined-the-internet">The creator of the retweet button now thinks it was a bad idea</a> (Mea culpa: We stated this article was written in Wired but it was in BuzzFeed)</li>
+<li><a href="https://www.wired.com/story/alt-meat-trounces-animal-meats-massive-inefficiencies/">Alt-Meat Trounces Animal Meat’s Massive Inefficiencies</a></li>
+<li><a href="https://story.californiasunday.com/cosmic-crisp-apple-launch">The Launch: After two decades of research and development, WA 38 lands this fall. It could disrupt an entire industry.—It’s an apple.</a></li>
+<li><a href="https://www.washingtonpost.com/news/the-intersect/wp/2014/10/14/the-only-guide-to-gamergate-you-will-ever-need-to-read/">A short history of Gamergate</a></li>
+<li><a href="https://www.nytimes.com/interactive/2019/08/15/opinion/what-is-gamergate.html">A compendium of articles concerning how Gamergate changed the Internet</a></li>
+<li><a href="https://www.newsweek.com/gamergate-about-media-ethics-or-harassing-women-harassment-data-show-279736">Data arguing that Gamergate was more about harassment than ethics</a></li>
+<li><a href="https://www.vox.com/the-goods/2019/7/26/8930765/tech-apologies-former-facebook-google-twitter-employees-list">A growing list of former tech company workers who regret their design decisions</a></li>
+<li><a href="https://humanetech.com/podcast/">The Center for Humane Tech’s podcast <em>Your Undivided Attention</em></a></li>
+<li><a href="https://www.cnbc.com/2018/11/05/inventor-of-the-web-says-the-internet-is-at-a-tipping-point-and-reveals-a-new-plan-to-fix-it.html">Tim-Berners Lee on his disappointments and frustrations with what people did to the world wide web</a></li>
+</ul>
+<h1 id="things-chris-has-written-in-relation-to-this-episode">Things Chris has written in relation to this episode:</h1>
+<ul>
+<li><a href="https://buttondown.email/chriskrycho/archive/b4f45a6e-ff51-4cb9-8d25-6a9f61215fd0">Friction is the Friend of Serendipity</a></li>
+</ul>
+<h1 id="previous-episodes">Previous episodes:</h1>
+<ul>
+<li><a href="https://winningslowly.org/2.03/">2.03: Impervious Scale�The Roman Empire and Friendster Have Things to Say to You</a></li>
+<li><a href="https://winningslowly.org/6.08/">6.08: People Do Reject Technologies, Part 2—Nuclear weapons, nuclear waste, and how to argue well with intractable disagreements.</a></li>
+<li><a href="https://winningslowly.org/7.01/">7.01: Do We Really Need to Keep the Internet Around? Season 7’s charter—by way of a rollicking argument about Alan Jacobs’ <cite>The Year of Our Lord 1943</cite> and Tolkien’s idea of eucatastrophe.</a></li>
+</ul>
+<h1 id="music">Music</h1>
+<p>“<a href="https://eltoppo.bandcamp.com/releases">Stig of the Dump / Ogglet (Live)</a>” - <a href="https://www.instagram.com/eltoppoband/">El Toppo</a> (By the way, <em>Stig of the Dump</em> is a classic British children’s story, just in case you were wondering. Stephen looked it up after the show.) - <a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho.</p>
+<h2 id="sponsors">Sponsors</h2>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Daniel Ellcey</li>
+<li>Jake Grant</li>
+<li>Jeremy W. Sherman</li>
+<li>Marnix Klooster</li>
+<li>Nathaniel Blaney</li>
+<li>Spencer Smith</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href='https://www.patreon.com/winningslowly' rel='payment'>Patreon</a> or give directly via <a href="https://cash.me/$winningslowly">Square Cash</a>.</p>
+<h2 id="respond">Respond</h2>
+<p>We love to hear your thoughts. Hit us up via <a href="//www.twitter.com/winningslowly">Twitter</a>, <a href="//www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=7.02:%20People%20Who%20Don’t%20Want%20To%20Do%20Things">email</a>!</p>
+]]></description>
+            <pubDate>Wed, 28 Aug 2019 20:30:00 -0600</pubDate>
+            <enclosure url="https://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/file/winningslowly/7.09.mp3" length="36351684" type="audio/mpeg"/>
+            <guid isPermaLink="false">5B6E3676-7730-4911-A4F8-6708C72110D1</guid>
+            <itunes:subtitle>Can adding a little friction back to user interfaces save us?</itunes:subtitle>
+            <itunes:summary>Can adding a little friction back to user interfaces save us?
+
+We talk about the currently-trendy concept of (design) friction and how it is necessary but not sufficient for right action on the Internet.</itunes:summary>
+            <itunes:duration>37:29</itunes:duration>
+            <itunes:season>7</itunes:season>
+            <itunes:episode>9</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="https://winningslowly.org/images/logotype.png"/>
+        </item>
         <item>
             <title>7.08: Literally Metaphorically Listen for Earthquakes</title>
             <link>https://www.winningslowly.org/7.08/</link>
