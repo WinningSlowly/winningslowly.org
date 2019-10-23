@@ -443,6 +443,10 @@ a.Banner {
       style: italic;
     }
     line-height: var(--lh-s);
+
+    em {
+      font-style: normal;
+    }
   }
 
   .ItemMeta {
