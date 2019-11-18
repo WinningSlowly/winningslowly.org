@@ -4,46 +4,73 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: Current
 - type: directory
   path: show-notes/season-7
   label: Season 7
   create: all
   match: "**/*"
+  templates:
+  - episode
+- type: directory
+  path: show-notes/standalone-episodes
+  label: Standalone Episodes
+  create: documents
+  match: "**/*"
+  templates:
+  - episode
+- type: heading
+  label: Previous
 - type: directory
   path: show-notes/season-6
   label: Season 6
   create: all
   match: "**/*"
+  templates:
+  - episode
 - type: directory
   path: show-notes/season-5
   label: Season 5
   create: all
   match: "**/*"
+  templates:
+  - episode
 - type: directory
   path: show-notes/season-4
   label: Season 4
   create: all
   match: "**/*"
+  templates:
+  - episode
 - type: directory
   path: show-notes/season-3
   label: Season 3
   create: all
   match: "**/*"
+  templates:
+  - episode
 - type: directory
   path: show-notes/season-2
   label: Season 2
   create: all
   match: "**/*"
+  templates:
+  - episode
 - type: directory
   path: show-notes/season-1
   label: Season 1
   create: all
   match: "**/*"
+  templates:
+  - episode
 - type: directory
   path: show-notes/season-0
   label: Season 0
   create: all
   match: "**/*.md"
+  templates:
+  - episode
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
