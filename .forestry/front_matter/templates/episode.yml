@@ -28,16 +28,6 @@ fields:
   label: Date
   config:
     export_format: YYYY-MM-DD HH:mm
-- type: list
-  name: Tags
-  label: Tags
-  config:
-    use_select: false
-    source:
-      type: simple
-- type: textarea
-  name: Summary
-  label: Summary
 - name: status
   type: select
   default: draft
@@ -53,3 +43,19 @@ fields:
       path: 
   label: Status
   description: Published or not?
+- type: list
+  name: Tags
+  label: Tags
+  config:
+    use_select: false
+    source:
+      type: simple
+- type: textarea
+  name: Summary
+  label: Summary
+- name: Image
+  type: text
+  config:
+    required: false
+  label: Image
+  description: Splash image that will be used with for the episode
