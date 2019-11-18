@@ -38,3 +38,18 @@ fields:
 - type: textarea
   name: Summary
   label: Summary
+- name: status
+  type: select
+  default: draft
+  config:
+    required: true
+    options:
+    - draft
+    - published
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Status
+  description: Published or not?
