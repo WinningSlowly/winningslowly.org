@@ -3,6 +3,21 @@ label: Episode
 hide_body: false
 display_field: Number
 fields:
+- name: status
+  type: select
+  default: draft
+  config:
+    required: true
+    options:
+    - draft
+    - published
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Status
+  description: Published or not?
 - type: text
   name: Category
   label: Season
@@ -28,21 +43,6 @@ fields:
   label: Date
   config:
     export_format: YYYY-MM-DD HH:mm
-- name: status
-  type: select
-  default: draft
-  config:
-    required: true
-    options:
-    - draft
-    - published
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Status
-  description: Published or not?
 - type: list
   name: Tags
   label: Tags
