@@ -1,0 +1,25 @@
+---
+label: Episode
+hide_body: false
+fields:
+- type: text
+  name: Category
+  label: Category
+- type: text
+  name: Number
+  label: Number
+- type: text
+  name: Title
+  label: Title
+- type: text
+  name: Subtitle
+  label: Subtitle
+- type: datetime
+  name: Date
+  label: Date
+- type: list
+  name: Tags
+  label: Tags
+- type: textarea
+  name: Summary
+  label: Summary
