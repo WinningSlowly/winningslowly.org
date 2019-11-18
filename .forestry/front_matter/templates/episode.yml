@@ -1,25 +1,40 @@
 ---
 label: Episode
 hide_body: false
+display_field: Number
 fields:
 - type: text
   name: Category
-  label: Category
+  label: Season
+  config:
+    required: true
 - type: text
   name: Number
   label: Number
+  config:
+    required: true
 - type: text
   name: Title
   label: Title
+  config:
+    required: true
 - type: text
   name: Subtitle
   label: Subtitle
+  config:
+    required: true
 - type: datetime
   name: Date
   label: Date
+  config:
+    export_format: YYYY-MM-DD HH:mm
 - type: list
   name: Tags
   label: Tags
+  config:
+    use_select: false
+    source:
+      type: simple
 - type: textarea
   name: Summary
   label: Summary
