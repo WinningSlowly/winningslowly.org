@@ -4,14 +4,14 @@
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>Taking the long view on technology, religion, ethics, and art. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 3 3.7(3248); Mac OS X Version 10.15 (Build 19A602) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.7(3248); Mac OS X Version 10.15.1 (Build 19B88) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Wed, 23 Oct 2019 08:00:31 -0600</pubDate>
-        <lastBuildDate>Wed, 23 Oct 2019 08:00:31 -0600</lastBuildDate>
+        <pubDate>Thu, 21 Nov 2019 09:52:04 -0700</pubDate>
+        <lastBuildDate>Thu, 21 Nov 2019 09:52:05 -0700</lastBuildDate>
         <ttl>5</ttl>
         <image>
             <url>https://winningslowly.org/images/logotype.png</url>
@@ -43,6 +43,56 @@
             <itunes:category text="Christianity"/>
         </itunes:category>
         <itunes:type>serial</itunes:type>
+        <item>
+            <title>7.13: A Healthy Tension</title>
+            <link>https://www.winningslowly.org/7.13/</link>
+            <description><![CDATA[<p><i>Chris and Stephen talk about an interesting article… and then pivot to the nature of this podcast and some of their healthy differences—about the show, and in approach to these questions in general.</i></p>
+<h3 id="show-notes">Show notes</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Isaac_Asimov">Isaac Asimov</a>’s <a href="https://www.alibris.com/Caves-of-Steel-Isaac-Asimov/book/975867?matches=268"><cite>Caves of Steel</cite></a></li>
+<li><a href="https://pinboard.in/u:ayjay">Alan Jacobs’ Pinboard</a></li>
+<li><a href="https://www.baldurbjarnason.com/the-weakened-web/">“The Web Falls Apart”</a></li>
+<li>Chris’ newsletter <a href="https://buttondown.email/chriskrycho">Across the Sundering Seas</a> the last couple weeks, on progress and decline:
+<ul>
+<li><a href="https://buttondown.email/chriskrycho/archive/e560eb56-0c05-43e3-a57e-970acba8851e">Flux (#27)</a></li>
+<li><a href="https://buttondown.email/chriskrycho/archive/7570b305-fc9b-445b-8a56-aed54a1f99cc">Edges (#28)</a></li>
+</ul></li>
+<li><a href="http://www.jaronlanier.com">Jaron Lanier</a></li>
+<li><a href="https://humanetech.com/podcast/">Your Undivided Attention</a>, <a href="https://humanetech.com/podcast/#e8">Episode 9: The Dictator’s Playbook</a></li>
+<li><a href="https://v4.chriskrycho.com/2019/christology-god-with-us-and-for-us.html">Chris’ Christology class</a></li>
+</ul>
+<p>Chris also wrote <a href="https://v5.chriskrycho.com/journal/twitter-bots-and-decline/">a follow-up post on Twitter bots and decline</a>.</p>
+<h3 id="music">Music</h3>
+<ul>
+<li>“Emerge” by <a href="http://liamjhennessy.com">Liam J. Hennessy</a></li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho.</li>
+</ul>
+<h3 id="sponsors">Sponsors</h3>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Daniel Ellcey</li>
+<li>Jake Grant</li>
+<li>Jeremy W. Sherman</li>
+<li>Marnix Klooster</li>
+<li>Nathaniel Blaney</li>
+<li>Spencer Smith</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href='https://www.patreon.com/winningslowly' rel='payment'>Patreon</a> or give directly via <a href="https://cash.me/$winningslowly">Square Cash</a>.</p>
+<h3 id="respond">Respond</h3>
+<p>We love to hear your thoughts. Hit us up via <a href="//www.twitter.com/winningslowly">Twitter</a>, <a href="//www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=7.12:%20An%20Experiment%20in%20Moral%20Imagination,%20Pt.%203">email</a>!</p>
+]]></description>
+            <pubDate>Thu, 21 Nov 2019 10:00:00 -0700</pubDate>
+            <enclosure url="https://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/file/winningslowly/7.13.mp3" length="42758401" type="audio/mpeg"/>
+            <guid isPermaLink="false">1946235A-18F3-40A2-BC89-74284D33E640</guid>
+            <itunes:subtitle>Wrestling with the limits of what we have managed to say this season.</itunes:subtitle>
+            <itunes:summary>Chris and Stephen talk about an interesting article… and then pivot to the nature of this podcast and some of their healthy differences—about the show, and in approach to these questions in general.</itunes:summary>
+            <itunes:duration>44:03</itunes:duration>
+            <itunes:season>7</itunes:season>
+            <itunes:episode>13</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="https://winningslowly.org/images/logotype.png"/>
+        </item>
         <item>
             <title>7.12: An Experiment in Moral Imagination, Pt. 3</title>
             <link>https://www.winningslowly.org/7.12/</link>
