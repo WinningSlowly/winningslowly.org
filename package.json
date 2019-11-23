@@ -1,4 +1,15 @@
 {
+  "name": "winningslowly",
+  "version": "1.0.0",
+  "description": "Taking the long view on technology, religion, ethics, and art.",
+  "main": ".eleventy.js",
+  "repository": "git@github.com:WinningSlowly/winningslowly.org.git",
+  "author": "Chris Krycho <hello@chriskrycho.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.9.0",
+    "typescript": "^3.7.2"
+  },
   "volta": {
     "node": "12.13.1",
     "yarn": "1.19.2"
