@@ -33,7 +33,7 @@
                         {%set sep = season.epSep%}
                         {%set number = season.number ~ sep ~ article.number if season.number else article.number%}
                         <span class="EpisodeSummary-field EpisodeSummary-field--number">
-                           Episode {{article.category}}.{{article.number}}
+                           {{prefix}} {{number}}
                         </span>
                         <span class="EpisodeSummary-field EpisodeSummary-field--title">
                            {{article.title}}
