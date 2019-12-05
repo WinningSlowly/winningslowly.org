@@ -37,6 +37,20 @@
 
 </head>
 <body>
+   <nav class='SeasonNav'>
+      {%block section_nav%}
+         {%for cat, _ in categories%}
+            <a class="SeasonNav-season" href="/{{cat.url}}">
+               {%if SEASONS[cat.name].prefix != None%}
+                  {{SEASONS[cat.name].prefix}}
+               {%elif SEASONS[cat.name].title != None%}
+                  {{SEASONS[cat.name].title}}
+               {%endif%}
+            </a>
+         {%endfor%}
+      {%endblock%}
+   </nav>
+
    <main class="Main">
       <a class='Banner' href="/">
          <h1 class='Banner-title BannerTitle'>
@@ -57,20 +71,6 @@
 
       {%block after_content%}{%endblock%}
    </main>
-
-   <nav class='SeasonNav'>
-      {%block section_nav%}
-         {%for cat, _ in categories%}
-            <a class="SeasonNav-season" href="/{{cat.url}}">
-               {%if SEASONS[cat.name].prefix != None%}
-                  {{SEASONS[cat.name].prefix}}
-               {%elif SEASONS[cat.name].title != None%}
-                  {{SEASONS[cat.name].title}}
-               {%endif%}
-            </a>
-         {%endfor%}
-      {%endblock%}
-   </nav>
 </body>
 
 </html>

@@ -652,11 +652,12 @@ a.Banner {
     size: var(--fs-m);
   }
   background: var(--accent-dark);
-  margin-top: var(--fs-xxxl);
   display: flex;
   justify-content: space-between;
   align-content: flex-start;
   flex-flow: row wrap;
+  position: sticky;
+  top: 0;
 
   &-season {
     text-decoration: none;

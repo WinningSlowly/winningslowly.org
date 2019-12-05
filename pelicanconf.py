@@ -87,7 +87,7 @@ SEASONS = {
     'Standalone Episodes': {
         'prefix': None,
         'title': 'Standalone Episodes',
-        'slug': 'standalone-episodes',
+        'slug': 'season-standalone-episodes',
         'number': None,
         'epPrefix': 'Standalone Episode',
         'epSep': '',
