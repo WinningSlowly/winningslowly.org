@@ -35,6 +35,15 @@
          {% endif %}
       {% endfor %}
    {% else %}
-      <a class='SeasonNav-season' href='/'>Home</a>
+      {# TODO: this duplicates the nav in base.html; extract to a macro #}
+      {%for cat, _ in categories%}
+         <a class="SeasonNav-season" href="/{{cat.url}}">
+            {%if SEASONS[cat.name].prefix != None%}
+               {{SEASONS[cat.name].prefix}}
+            {%elif SEASONS[cat.name].title != None%}
+               {{SEASONS[cat.name].title}}
+            {%endif%}
+         </a>
+      {%endfor%}
    {% endif %}
 {% endblock %}
