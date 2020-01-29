@@ -20,6 +20,15 @@ THEME = "design"
 
 # Show configuration
 SEASONS = {
+    '8': {
+        'prefix': 'Season 8',
+        'title': 'The Winning Slowly Epistemology Book (and Film) Club',
+        'slug': 'season-8',
+        'number': '8',
+        'epPrefix': 'Episode',
+        'epSep': '.',
+        'sort': 'chronological'
+    },
     '7': {
         'prefix': 'Season 7',
         'title': 'Tech Criticism… and Hope',
@@ -27,6 +36,7 @@ SEASONS = {
         'number': '7',
         'epPrefix': 'Episode',
         'epSep': '.',
+        'sort': 'chronological'
     },
     '6': {
         'prefix': 'Season 6',
@@ -35,6 +45,7 @@ SEASONS = {
         'number': '6',
         'epPrefix': 'Episode',
         'epSep': '.',
+        'sort': 'chronological'
     },
     '5': {
         'prefix': 'Season 5',
@@ -43,6 +54,7 @@ SEASONS = {
         'number': '5',
         'epPrefix': 'Episode',
         'epSep': '.',
+        'sort': 'chronological'
     },
     '4': {
         'prefix': 'Season 4',
@@ -51,6 +63,7 @@ SEASONS = {
         'number': '4',
         'epPrefix': 'Episode',
         'epSep': '.',
+        'sort': 'chronological'
     },
     '3': {
         'prefix': None,
@@ -59,6 +72,7 @@ SEASONS = {
         'number': '3',
         'epPrefix': 'Episode',
         'epSep': '.',
+        'sort': 'chronological'
     },
     '2': {
         'prefix': None,
@@ -67,6 +81,7 @@ SEASONS = {
         'number': '2',
         'epPrefix': 'Episode',
         'epSep': '.',
+        'sort': 'chronological'
     },
     '1': {
         'prefix': None,
@@ -75,6 +90,7 @@ SEASONS = {
         'number': '1',
         'epPrefix': 'Episode',
         'epSep': '.',
+        'sort': 'chronological'
     },
     '0': {
         'prefix': 'Season 0',
@@ -83,6 +99,7 @@ SEASONS = {
         'number': '0',
         'epPrefix': 'Episode',
         'epSep': '.',
+        'sort': 'chronological'
     },
     'Standalone Episodes': {
         'prefix': None,
@@ -91,6 +108,7 @@ SEASONS = {
         'number': None,
         'epPrefix': 'Standalone Episode',
         'epSep': '',
+        'sort': 'reverse-chronological'
     },
     'Bonus': {
         'prefix': None,
@@ -99,10 +117,11 @@ SEASONS = {
         'number': None,
         'epPrefix': 'Bonus Episode',
         'epSep': '',
+        'sort': 'reverse-chronological'
     }
 }
 
-CURRENT_SEASON = SEASONS['Standalone Episodes']
+CURRENT_SEASON = SEASONS['8']
 
 # Feed generation is usually not desired when developing
 FEED_DOMAIN = SITEURL

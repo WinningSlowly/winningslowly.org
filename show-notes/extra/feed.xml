@@ -4,14 +4,14 @@
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>Taking the long view on technology, religion, ethics, and art. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 3 3.7.2(3302); Mac OS X Version 10.15.1 (Build 19B88) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.7.2(3302); Mac OS X Version 10.15.2 (Build 19C57) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Wed, 04 Dec 2019 19:14:13 -0700</pubDate>
-        <lastBuildDate>Wed, 04 Dec 2019 19:14:13 -0700</lastBuildDate>
+        <pubDate>Tue, 28 Jan 2020 21:02:51 -0700</pubDate>
+        <lastBuildDate>Tue, 28 Jan 2020 21:02:51 -0700</lastBuildDate>
         <ttl>5</ttl>
         <image>
             <url>https://winningslowly.org/images/logotype.png</url>
@@ -43,6 +43,50 @@
             <itunes:category text="Christianity"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>8.01</title>
+            <link>https://winningslowly.org/8.01</link>
+            <description>
+                <content:encoded><![CDATA[<p><i>An overview of Season 8: a book (and movie!) club devoted to the canon (as we define it!) for technology and ethics.</i></p>
+<h3 id="show-notes">Show Notes</h3>
+<p>The authors and topics we discussed in detail on the show:</p>
+<ul>
+<li><a href="https://www.alibris.com/booksearch?keyword=phaedrus">Phaedrus</a> – linked here are a <em>wide</em> array of translations</li>
+<li><a href="https://en.wikipedia.org/wiki/Elizabeth_Eisenstein">Elizabeth Eisenstein</a>, <a href="https://www.alibris.com/The-Printing-Press-as-an-Agent-of-Change-Elizabeth-L-Eisenstein/book/5343362?matches=34"><cite>The Printing Press as an Agent of Change</cite></a></li>
+<li><a href="https://en.wikipedia.org/wiki/Jane_Jacobs">Jane Jacobs</a>, <a href="https://www.alibris.com/The-Death-and-Life-of-Great-American-Cities-50th-Anniversary-Edition-Jane-Jacobs/book/28856432?matches=20"><cite>The Death and Life of Great American Cities</cite></a></li>
+<li><a href="https://www.dancarlin.com/hardcore-history-series/">Hardcore History</a></li>
+</ul>
+<h3 id="music">Music</h3>
+<ul>
+<li><a href="https://arylbarkley.bandcamp.com/track/to-my-brain">“To My Brain”</a> by <a href="https://arylbarkley.bandcamp.com">Aryl Barkley</a></li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho.</li>
+</ul>
+<h3 id="sponsors">Sponsors</h3>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Daniel Ellcey</li>
+<li>Jake Grant</li>
+<li>Marnix Klooster</li>
+<li>Nathaniel Blaney</li>
+<li>Spencer Smith</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href="https://www.patreon.com/winningslowly">Patreon</a> or give directly via <a href="https://cash.me/$winningslowly">Square Cash</a>.</p>
+<h3 id="respond">Respond</h3>
+<p>We love to hear your thoughts. Hit us up via <a href="https://www.twitter.com/winningslowly">Twitter</a>, <a href="https://www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=8.01:%20A%20Book%20Club!">email</a>!</p>
+]]></content:encoded>
+            </description>
+            <pubDate>Wed, 29 Jan 2020 08:00:00 -0700</pubDate>
+            <enclosure url="https://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/file/winningslowly/8.01.mp3" length="31291053" type="audio/mpeg"/>
+            <guid isPermaLink="false">AC64C500-769B-4682-AE77-6E5E3D6545F2</guid>
+            <itunes:subtitle>An overview of Season 8: a book (and movie!) club devoted to the canon (as we define it!) for technology and ethics.</itunes:subtitle>
+            <itunes:summary>An overview of Season 8: a book (and movie!) club devoted to the canon (as we define it!) for technology and ethics.</itunes:summary>
+            <itunes:duration>1923</itunes:duration>
+            <itunes:season>8</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="https://winningslowly.org/images/logotype.png"/>
+        </item>
         <item>
             <title>Jake Meador: In Search of the Common Good</title>
             <link>http://www.winningslowly.org/standalone-episodes.05/</link>
