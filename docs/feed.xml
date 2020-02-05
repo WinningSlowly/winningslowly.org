@@ -10,8 +10,8 @@
         <copyright>Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Wed, 05 Feb 2020 13:43:11 -0700</pubDate>
-        <lastBuildDate>Wed, 05 Feb 2020 13:43:12 -0700</lastBuildDate>
+        <pubDate>Wed, 05 Feb 2020 13:50:05 -0700</pubDate>
+        <lastBuildDate>Wed, 05 Feb 2020 13:50:05 -0700</lastBuildDate>
         <ttl>5</ttl>
         <image>
             <url>https://winningslowly.org/images/logotype.png</url>
@@ -45,7 +45,7 @@
         <itunes:type>episodic</itunes:type>
         <item>
             <title>8.02: Phaedrus Explained</title>
-            <link>https://winningslowly.org/8.02.html</link>
+            <link>https://winningslowly.org/8.02/</link>
             <description>
                 <content:encoded><![CDATA[<p><i>What did Plato actually argue two and a half millennia ago?</i></p>
 <h3 id="show-notes">Show Notes</h3>
@@ -85,7 +85,7 @@
         </item>
         <item>
             <title>8.01: A Book Club!</title>
-            <link>https://winningslowly.org/8.01.html</link>
+            <link>https://winningslowly.org/8.01/</link>
             <description>
                 <content:encoded><![CDATA[<p><i>An overview of Season 8: a book (and movie!) club devoted to the canon (as we define it!) for technology and ethics.</i></p>
 <h3 id="show-notes">Show Notes</h3>
