@@ -4,14 +4,14 @@
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>Taking the long view on technology, religion, ethics, and art. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 3 3.7.2(3302); Mac OS X Version 10.15.2 (Build 19C57) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.7.2(3302); Mac OS X Version 10.15.3 (Build 19D76) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Tue, 28 Jan 2020 21:02:51 -0700</pubDate>
-        <lastBuildDate>Tue, 28 Jan 2020 21:02:51 -0700</lastBuildDate>
+        <pubDate>Wed, 05 Feb 2020 06:56:49 -0700</pubDate>
+        <lastBuildDate>Wed, 05 Feb 2020 06:56:50 -0700</lastBuildDate>
         <ttl>5</ttl>
         <image>
             <url>https://winningslowly.org/images/logotype.png</url>
@@ -20,7 +20,7 @@
             <width>144</width>
             <height>144</height>
         </image>
-        <atom:link href="http://www.winningslowly.org/feed.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://winningslowly.org/feed.xml" rel="self" type="application/rss+xml"/>
         <itunes:author>Chris Krycho and Stephen Carradini</itunes:author>
         <itunes:subtitle>A weekly podcast by Chris Krycho and Stephen Carradini, offering thoughtful commentary on trends in culture, technology, religion, ethics, and art. Releases Tuesdays at 7am Eastern time.</itunes:subtitle>
         <itunes:summary>Taking the long view on technology, religion, ethics, and art. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2026. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</itunes:summary>
@@ -44,12 +44,51 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <item>
-            <title>8.01</title>
+            <title>8.02: Phaedrus Explained</title>
+            <link>https://winningslowly.org/8.02.html</link>
+            <description>
+                <content:encoded><![CDATA[<p><I>What did Plato actually argue two and a half millennia ago?</I></p>
+<h3 id="show-notes">Show Notes</h3>
+<p>We really only did one thing in this episode: talked about Plato’s <a href="https://www.alibris.com/booksearch?keyword=phaedrus"><cite>Phaedrus</cite></a>! What did Plato say? How did he say it? What does it mean?</p>
+<h3 id="music">Music</h3>
+<ul>
+<li><a href="https://soundcloud.com/ivanmuela/oak-forest">“Oak Forest”</a> by <a href="https://soundcloud.com/ivanmuela">Ivan Muela</a></li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho.</li>
+</ul>
+<h3 id="sponsors">Sponsors</h3>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Daniel Ellcey</li>
+<li>Douglas Campos</li>
+<li>Jake Grant</li>
+<li>Marnix Klooster</li>
+<li>Spencer Smith</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href="https://www.patreon.com/winningslowly" rel='payment'>Patreon</a> or give directly via <a href="https://cash.me/$winningslowly">Square Cash</a>.</p>
+<h3 id="respond">Respond</h3>
+<p>We love to hear your thoughts. Hit us up via <a href="https://www.twitter.com/winningslowly">Twitter</a>, <a href="https://www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=8.02:%20Phaedrus%20Explained">email</a>!</p>
+]]></content:encoded>
+            </description>
+            <pubDate>Wed, 05 Feb 2020 11:00:00 -0700</pubDate>
+            <enclosure url="https://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/file/winningslowly/8.02.mp3" length="0" type="audio/mpeg"/>
+            <guid isPermaLink="false">2C4C004A-D003-455C-B773-CE02F6728128</guid>
+            <itunes:summary>What did Plato actually argue two and a half millennia ago?</itunes:summary>
+            <itunes:season>8</itunes:season>
+            <itunes:episode>2</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>8.02: Phaedrus Explained</itunes:title>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="https://winningslowly.org/images/logotype.png"/>
+        </item>
+        <item>
+            <title>8.01: A Book Club!</title>
             <link>https://winningslowly.org/8.01</link>
             <description>
-                <content:encoded><![CDATA[<p><i>An overview of Season 8: a book (and movie!) club devoted to the canon (as we define it!) for technology and ethics.</i></p>
+                <content:encoded><![CDATA[<i>An overview of Season 8: a book (and movie!) club devoted to the canon (as we define it!) for technology and ethics.</i>
+<br />
 <h3 id="show-notes">Show Notes</h3>
 <p>The authors and topics we discussed in detail on the show:</p>
+
 <ul>
 <li><a href="https://www.alibris.com/booksearch?keyword=phaedrus">Phaedrus</a> – linked here are a <em>wide</em> array of translations</li>
 <li><a href="https://en.wikipedia.org/wiki/Elizabeth_Eisenstein">Elizabeth Eisenstein</a>, <a href="https://www.alibris.com/The-Printing-Press-as-an-Agent-of-Change-Elizabeth-L-Eisenstein/book/5343362?matches=34"><cite>The Printing Press as an Agent of Change</cite></a></li>
@@ -63,6 +102,7 @@
 </ul>
 <h3 id="sponsors">Sponsors</h3>
 <p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+
 <ul>
 <li>Daniel Ellcey</li>
 <li>Jake Grant</li>
@@ -70,12 +110,12 @@
 <li>Nathaniel Blaney</li>
 <li>Spencer Smith</li>
 </ul>
-<p>If you’d like to support the show, you can make a pledge at <a href="https://www.patreon.com/winningslowly">Patreon</a> or give directly via <a href="https://cash.me/$winningslowly">Square Cash</a>.</p>
+If you’d like to support the show, you can make a pledge at <a href="https://www.patreon.com/winningslowly">Patreon</a> or give directly via <a href="https://cash.me/$winningslowly">Square Cash</a>.
+<br />
 <h3 id="respond">Respond</h3>
-<p>We love to hear your thoughts. Hit us up via <a href="https://www.twitter.com/winningslowly">Twitter</a>, <a href="https://www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=8.01:%20A%20Book%20Club!">email</a>!</p>
-]]></content:encoded>
+<p>We love to hear your thoughts. Hit us up via <a href="https://www.twitter.com/winningslowly">Twitter</a>, <a href="https://www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=8.01:%20A%20Book%20Club!">email</a>!</p>]]></content:encoded>
             </description>
-            <pubDate>Wed, 29 Jan 2020 08:00:00 -0700</pubDate>
+            <pubDate>Wed, 05 Feb 2020 06:53:50 -0700</pubDate>
             <enclosure url="https://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/file/winningslowly/8.01.mp3" length="31291053" type="audio/mpeg"/>
             <guid isPermaLink="false">AC64C500-769B-4682-AE77-6E5E3D6545F2</guid>
             <itunes:subtitle>An overview of Season 8: a book (and movie!) club devoted to the canon (as we define it!) for technology and ethics.</itunes:subtitle>
@@ -84,6 +124,7 @@
             <itunes:season>8</itunes:season>
             <itunes:episode>1</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>8.01: A Book Club!</itunes:title>
             <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
             <media:thumbnail url="https://winningslowly.org/images/logotype.png"/>
         </item>
