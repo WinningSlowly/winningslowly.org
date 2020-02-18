@@ -10,8 +10,8 @@
         <copyright>Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Wed, 05 Feb 2020 14:49:39 -0700</pubDate>
-        <lastBuildDate>Wed, 05 Feb 2020 14:49:40 -0700</lastBuildDate>
+        <pubDate>Tue, 18 Feb 2020 09:46:07 -0700</pubDate>
+        <lastBuildDate>Tue, 18 Feb 2020 09:46:08 -0700</lastBuildDate>
         <ttl>5</ttl>
         <image>
             <url>https://winningslowly.org/images/logotype.png</url>
@@ -43,6 +43,53 @@
             <itunes:category text="Christianity"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>8.03: Phaedrus Examined</title>
+            <link>https://winningslowly.org/8.03/</link>
+            <description>
+                <content:encoded><![CDATA[<p><i>Should we even keep reading this book—with its criticisms of books?</i></p>
+<h3 id="show-notes">Show Notes</h3>
+<p>We dig into our our disagreements with and appreciations of Plato’s <a href="https://www.alibris.com/booksearch?keyword=phaedrus"><cite>Phaedrus</cite></a>!</p>
+<p>Other things mentioned on the show:</p>
+<ul>
+<li><a href="https://www.uniontheology.org/resources/doctrine/jesus/introduction-to-on-the-incarnation">C. S. Lewis’ Introduction to Athanasius’ <cite>On the Incarnation</cite></a></li>
+<li><a href="https://en.wikipedia.org/wiki/Marshall_McLuhan">Marshall McLuhan</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Jacques_Ellul">Ellul</a> and <a href="https://en.wikipedia.org/wiki/Lewis_Mumford">Mumford</a></li>
+<li><a href="https://winningslowly.org/2.02/">2.02: Basketballs ≠ Pumpkins</a></li>
+<li>Chat apps <a href="https://slack.com">Slack</a> and <a href="https://twist.com">Twist</a></li>
+</ul>
+<p>Next month’s book: <a href="https://www.alibris.com/The-Postmodern-Condition-A-Report-on-Knowledge-Jean-Francois-Lyotard/book/5256171"><cite>The Postmodern Condition</cite>, Jean–François Lyotard</a></p>
+<h3 id="music">Music</h3>
+<ul>
+<li><a href="https://elkhornbbib.bandcamp.com/track/electric-one-part-b">“Electric 1 (Part B)”</a> by <a href="https://www.elkhornmusic.com">Elkhorn</a></li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho.</li>
+</ul>
+<h3 id="sponsors">Sponsors</h3>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Daniel Ellcey</li>
+<li>Douglas Campos</li>
+<li>Jake Grant</li>
+<li>Marnix Klooster</li>
+<li>Spencer Smith</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href='https://www.patreon.com/winningslowly' rel='payment'>Patreon</a> or give directly via <a href="https://cash.me/$winningslowly">Square Cash</a>.</p>
+<h3 id="respond">Respond</h3>
+<p>We love to hear your thoughts. Hit us up via <a href="https://www.twitter.com/winningslowly">Twitter</a>, <a href="https://www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=8.03:%20Phaedrus%20Examined">email</a>!</p>
+]]></content:encoded>
+            </description>
+            <pubDate>Wed, 19 Feb 2020 07:00:00 -0700</pubDate>
+            <enclosure url="https://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/file/winningslowly/8.03.mp3" length="39585199" type="audio/mpeg"/>
+            <guid isPermaLink="true">https://winningslowly.org/8.03/</guid>
+            <itunes:subtitle>Should we even keep reading this book—with its criticisms of books?</itunes:subtitle>
+            <itunes:summary>Should we even keep reading this book—with its criticisms of books?</itunes:summary>
+            <itunes:duration>1956</itunes:duration>
+            <itunes:season>8</itunes:season>
+            <itunes:episode>3</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="https://winningslowly.org/images/logotype.png"/>
+        </item>
         <item>
             <title>8.02: Phaedrus Explained</title>
             <link>https://winningslowly.org/8.02/</link>
