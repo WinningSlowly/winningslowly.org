@@ -39,6 +39,10 @@
 <body>
    <nav class='SeasonNav'>
       {%block section_nav%}
+         <a class="SeasonNav-season" href="https://patreon.com/winningslowly">
+            Patreon
+         </a>
+
          {%for cat, _ in categories%}
             <a class="SeasonNav-season" href="/{{cat.url}}">
                {%if SEASONS[cat.name].prefix != None%}
