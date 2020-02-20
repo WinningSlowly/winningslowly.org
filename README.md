@@ -24,8 +24,6 @@ To get the site itself, look at [the `docs` directory]. Because of the way [Peli
 [the `docs` directory]: https://github.com/WinningSlowly/winningslowly.org/tree/master/docs
 [GitHub Pages]: https://pages.github.com
 
-If you have any questions, feel free to ping [Chris] via [Twitter]. (You could ask [Stephen], but he probably won't be able to tell you much apart from how to write in Markdown.)
+If you have any questions, feel [shoot us an email][email].
 
-[Chris]: https://www.chriskrycho.com
-[Twitter]: https://www.twitter.com/chriskrycho
-[Stephen]: https://stephencarradini.com
+[email]: mailto:hello@winningslowly.org
