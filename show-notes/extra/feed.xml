@@ -10,8 +10,8 @@
         <copyright>Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Wed, 04 Mar 2020 07:00:48 -0700</pubDate>
-        <lastBuildDate>Wed, 04 Mar 2020 07:00:49 -0700</lastBuildDate>
+        <pubDate>Wed, 04 Mar 2020 12:17:49 -0700</pubDate>
+        <lastBuildDate>Wed, 04 Mar 2020 12:17:49 -0700</lastBuildDate>
         <ttl>5</ttl>
         <image>
             <url>https://winningslowly.org/images/logotype.png</url>
@@ -47,7 +47,8 @@
             <title>8.04: The Postmodern Condition—Explained</title>
             <link>https://winningslowly.org/8.04/</link>
             <description>
-                <content:encoded><![CDATA[<p><i>Jean-François Lyotard on postmodernity, science, and kitschy art.</i></p>
+                <content:encoded><![CDATA[<p><b>Note:</b> Hey listeners, sorry for the weirdness—I (Chris) accidentally published this pointing to the audio for <em>last</em> week’s episode. All fixed now!</p>
+<p><i>Jean-François Lyotard on postmodernity, science, and kitschy art.</i></p>
 <p><a href="https://www.alibris.com/The-Postmodern-Condition-A-Report-on-Knowledge-Jean-Francois-Lyotard/book/5256171"><cite>The Postmodern Condition</cite>, Jean–François Lyotard</a></p>
 <h3 id="show-notes">Show Notes</h3>
 <p>We do our best to explain this dense piece of French aesthetic theory, its arguments with German idealist philosophers, and its very strong feelings about non-avant-garde art.</p>
@@ -101,9 +102,9 @@
 <p>We love to hear your thoughts. Hit us up via <a href="https://www.twitter.com/winningslowly">Twitter</a>, <a href="https://www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=8.04:%20The%20Postmodern%20Condition—Explained">email</a>!</p>
 ]]></content:encoded>
             </description>
-            <pubDate>Wed, 04 Mar 2020 07:00:00 -0700</pubDate>
-            <enclosure url="https://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/file/winningslowly/8.03.mp3" length="34982569" type="audio/mpeg"/>
-            <guid isPermaLink="true">https://winningslowly.org/8.04/</guid>
+            <pubDate>Wed, 04 Mar 2020 12:15:00 -0700</pubDate>
+            <enclosure url="https://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/file/winningslowly/8.04.mp3" length="34982569" type="audio/mpeg"/>
+            <guid isPermaLink="false">F62967B2-A51F-4398-B091-794666CF89D1</guid>
             <itunes:subtitle>Jean-François Lyotard on postmodernity, science, and kitschy art.</itunes:subtitle>
             <itunes:summary>Jean-François Lyotard on postmodernity, science, and kitschy art.</itunes:summary>
             <itunes:duration>2145</itunes:duration>
