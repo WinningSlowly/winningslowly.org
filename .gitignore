@@ -171,3 +171,6 @@ tmp/
 temp/
 
 # End of https://www.gitignore.io/api/node
+
+# Ignore sublime files that get modified on every session
+*.sublime-workspace
