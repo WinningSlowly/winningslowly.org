@@ -10,8 +10,8 @@
         <copyright>Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Wed, 04 Mar 2020 12:17:49 -0700</pubDate>
-        <lastBuildDate>Wed, 04 Mar 2020 12:17:49 -0700</lastBuildDate>
+        <pubDate>Tue, 17 Mar 2020 20:01:24 -0600</pubDate>
+        <lastBuildDate>Tue, 17 Mar 2020 20:01:24 -0600</lastBuildDate>
         <ttl>5</ttl>
         <image>
             <url>https://winningslowly.org/images/logotype.png</url>
@@ -43,6 +43,59 @@
             <itunes:category text="Christianity"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>8.05: The Postmodern Condition—Examined</title>
+            <link>https://winningslowly.org/8.05/</link>
+            <description>
+                <content:encoded><![CDATA[<p><a href="https://www.alibris.com/The-Postmodern-Condition-A-Report-on-Knowledge-Jean-Francois-Lyotard/book/5256171"><cite>The Postmodern Condition</cite>, Jean–François Lyotard</a></p>
+<p><i>Lyotard’s postmodernism, the politics of power, and aesthetics: what do we keep and what do we reject?</i></p>
+<h3 id="show-notes">Show Notes</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Information_wants_to_be_free">“Information wants to be free”</a></li>
+<li><a href="https://www.alibris.com/search/books/isbn/9780190864651?qwork=40202620"><cite>The Year of Our Lord 1943</cite>, Alan Jacobs</a>, which we discussed <a href="https://winningslowly.org/7.01/">7.01: Do We Really Need to Keep the Internet Around?</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Simone_Weil">Simone Weil</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Jacques_Ellul">Jacques Ellul</a></li>
+<li><a href="https://www.alibris.com/The-Structure-of-Scientific-Revolutions-50th-Anniversary-Edition-Thomas-S-Kuhn/book/19698083?matches=108"><cite>The Structure of Scientific Revolutions</cite>, Thomas Kuhn</a></li>
+<li>From Chris’ newsletter, quoting and discussing Elizabeth Eisenstein’s note on learning: <a href="https://buttondown.email/chriskrycho/archive/322b4d6a-e012-4b96-924a-b31c7d4eb91f">Across the Sundering Seas 2020 #07</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Richard_Dawkins">Richard Dawkins</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apophatic_theology">Apophatic theology and <i>via negativa</i></a></li>
+</ul>
+<h4 id="upcoming-books">Upcoming books</h4>
+<ul>
+<li><strong>April:</strong> <a href="https://www.alibris.com/The-Age-of-Spiritual-Machines-Ray-Kurzweil-PhD/book/167799?matches=156"><cite>The Age of Spiritual Machines</cite></a>, Ray Kurzweil</li>
+<li><strong>May:</strong> <a href="https://www.alibris.com/Jurassic-Park-Michael-Crichton/book/3483033?matches=846"><cite>Jurassic Park</cite></a>, Michael Crichton (and the movie!)</li>
+<li><strong>June:</strong> <a href="https://www.alibris.com/Dark-Matters-On-the-Surveillance-of-Blackness-Simone-Browne/book/32087130?matches=27"><cite>Dark Matters: On the Surveillance of Blackness</cite></a>, Simone Brown</li>
+</ul>
+<h3 id="music">Music</h3>
+<ul>
+<li><a href="https://menaceparis.bandcamp.com/track/tony-sendo-2">“Tony Sendo”</a> by <a href="https://menaceparis.bandcamp.com/album/bluestaeb-s-fidelity-present-underground-canopy">Camel Power Club</a></li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho.</li>
+</ul>
+<h3 id="sponsors">Sponsors</h3>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Daniel Ellcey</li>
+<li>Douglas Campos</li>
+<li>Jake Grant</li>
+<li>Marnix Klooster</li>
+<li>Spencer Smith</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href='https://www.patreon.com/winningslowly' rel='payment'>Patreon</a> or give directly via <a href="https://cash.me/$winningslowly">Square Cash</a>.</p>
+<h3 id="respond">Respond</h3>
+<p>We love to hear your thoughts. Hit us up via <a href="https://www.twitter.com/winningslowly">Twitter</a>, <a href="https://www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=8.05:%20The%20Postmodern%20Condition—Examined">email</a>!</p>
+]]></content:encoded>
+            </description>
+            <pubDate>Wed, 18 Mar 2020 07:00:00 -0600</pubDate>
+            <enclosure url="https://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/file/winningslowly/8.05.mp3" length="39036926" type="audio/mpeg"/>
+            <guid isPermaLink="true">https://winningslowly.org/8.05/</guid>
+            <itunes:subtitle>Lyotard’s postmodernism, the politics of power, and aesthetics: what do we keep and what do we reject?</itunes:subtitle>
+            <itunes:summary>Lyotard’s postmodernism, the politics of power, and aesthetics: what do we keep and what do we reject?</itunes:summary>
+            <itunes:duration>2399</itunes:duration>
+            <itunes:season>8</itunes:season>
+            <itunes:episode>5</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+        </item>
         <item>
             <title>8.04: The Postmodern Condition—Explained</title>
             <link>https://winningslowly.org/8.04/</link>
