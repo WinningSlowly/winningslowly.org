@@ -4,14 +4,14 @@
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>Taking the long view on technology, religion, ethics, and art. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 3 3.7.2(3302); Mac OS X Version 10.15.3 (Build 19D76) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.7.2(3302); Mac OS X Version 10.15.4 (Build 19E266) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Wed, 18 Mar 2020 16:20:07 -0600</pubDate>
-        <lastBuildDate>Wed, 18 Mar 2020 16:20:07 -0600</lastBuildDate>
+        <pubDate>Tue, 31 Mar 2020 21:48:46 -0600</pubDate>
+        <lastBuildDate>Tue, 31 Mar 2020 21:48:46 -0600</lastBuildDate>
         <ttl>5</ttl>
         <image>
             <url>https://winningslowly.org/images/logotype.png</url>
@@ -43,6 +43,73 @@
             <itunes:category text="Christianity"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>8.06: The Age of Spiritual Machines—Explained</title>
+            <link>https://winningslowly.org/8.06/</link>
+            <description>
+                <content:encoded><![CDATA[<p><i>Reading Ray Kurzweil’s prognostications about the future—and coming to terms with his ruthless optimism.</i></p>
+<p><a href="https://www.alibris.com/The-Age-of-Spiritual-Machines-Ray-Kurzweil-PhD/book/167799"><cite>The Age of Spiritual Machines</cite>, Ray Kurzweil</a></p>
+<h3 id="show-notes">Show Notes</h3>
+<h4 id="things-mentioned-on-the-show">Things mentioned on the show</h4>
+<ul>
+<li><a href="https://www.alibris.com/The-Age-of-Intelligent-Machines-Ray-Kurzweil-PhD/book/26551301"><cite>The Age of Intelligent Machines</cite></a></li>
+<li><a href="https://en.m.wikipedia.org/wiki/Moore%27s_law">Moore’s Law</a></li>
+<li><a href="https://en.m.wikipedia.org/wiki/Physical_constant">Universal constants</a>, and especially <a href="https://en.m.wikipedia.org/wiki/Speed_of_light">the speed of light</a></li>
+<li><a href="https://www.alibris.com/You-Are-Not-a-Gadget-A-Manifesto-Jaron-Lanier/book/11650739?matches=122"><cite>You Are Not a Gadget</cite></a>, by <a href="https://en.m.wikipedia.org/wiki/Jaron_Lanier">Jaron Lanier</a></li>
+<li><a href=""><cite>The Shallows</cite></a>, by <a href="https://en.m.wikipedia.org/wiki/Nicholas_G._Carr">Nicholas Carr</a></li>
+<li><a href="https://en.m.wikipedia.org/wiki/René_Descartes">René Descartes</a></li>
+<li><a href="https://en.m.wikipedia.org/wiki/Ludwig_Wittgenstein">Ludwig Wittgenstein</a></li>
+<li><a href="https://en.m.wikipedia.org/wiki/Paul_Feyerabend">Paul Feyerabend</a></li>
+<li><a href="https://en.m.wikipedia.org/wiki/Thomas_Kuhn">Thomas Kuhn</a> and particularly <a href="https://www.alibris.com/The-Structure-of-Scientific-Revolutions-50th-Anniversary-Edition-Thomas-S-Kuhn/book/19698083?matches=79"><cite>The Structure of Scientific Revolutions</cite></a></li>
+<li><a href="https://en.m.wikipedia.org/wiki/Daniel_Dennett">Daniel Dennett</a></li>
+<li><a href="https://en.m.wikipedia.org/wiki/Pentium_III">Pentium III</a> and <a href="https://en.m.wikipedia.org/wiki/List_of_Intel_Core_i7_microprocessors">Core i7s</a></li>
+<li><a href="https://en.m.wikipedia.org/wiki/Turing_test">Turing test</a> and <a href="https://en.m.wikipedia.org/wiki/Alan_Turing">Alan Turing</a>
+<ul>
+<li><a href="https://en.m.wikipedia.org/wiki/John_Searle">John Searle’s</a> Chinese Room Argument: <a href="http://cogprints.org/7150/1/10.1.1.83.5248.pdf">“Minds, Brains and Programs”</a>
+<ul>
+<li><a href="https://plato.stanford.edu/entries/chinese-room/">a helpful deep dive</a></li>
+<li><a href="https://v4.chriskrycho.com/2018/the-chinese-room-argument.html">Chris’ blog post about it in 2018</a></li>
+</ul></li>
+<li><a href="https://hedgehogreview.com/blog/infernal-machine/posts/79-theses-on-technology-for-disputation">Lanier via Jacobs, 59th thesis</a></li>
+</ul></li>
+<li><a href="https://en.m.wikipedia.org/wiki/Calico_(company)">Google’s Calico project</a></li>
+</ul>
+<h4 id="upcoming-books">Upcoming books</h4>
+<ul>
+<li><strong>May:</strong> <a href="https://www.alibris.com/Jurassic-Park-Michael-Crichton/book/3483033?matches=846"><cite>Jurassic Park</cite></a>, Michael Crichton (and the movie!)</li>
+<li><strong>June:</strong> <a href="https://www.alibris.com/Dark-Matters-On-the-Surveillance-of-Blackness-Simone-Browne/book/32087130?matches=27"><cite>Dark Matters: On the Surveillance of Blackness</cite></a>, Simone Brown</li>
+</ul>
+<h3 id="music">Music</h3>
+<ul>
+<li><a href="https://alexdowling.bandcamp.com/track/king-of-thumbs">“King of Thumbs”</a> by <a href="https://alexdowling.bandcamp.com/releases">Alex Dowling</a></li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho.</li>
+</ul>
+<h3 id="sponsors">Sponsors</h3>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Daniel Ellcey</li>
+<li>Douglas Campos</li>
+<li>Jake Grant</li>
+<li>Marnix Klooster</li>
+<li>Spencer Smith</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href='https://www.patreon.com/winningslowly' rel='payment'>Patreon</a> or give directly via <a href="https://cash.me/$winningslowly">Square Cash</a>.</p>
+<h3 id="respond">Respond</h3>
+<p>We love to hear your thoughts. Hit us up via <a href="https://www.twitter.com/winningslowly">Twitter</a>, <a href="https://www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=8.06:%20The%20Age%20of%20Spiritual%20Machines—Explained">email</a>!</p>
+]]></content:encoded>
+            </description>
+            <pubDate>Wed, 01 Apr 2020 07:00:00 -0600</pubDate>
+            <enclosure url="https://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/file/winningslowly/8.06.mp3" length="33558666" type="audio/mpeg"/>
+            <guid isPermaLink="true">https://winningslowly.org/8.06/</guid>
+            <itunes:subtitle>Reading Ray Kurzweil’s prognostications about the future—and coming to terms with his ruthless optimism.</itunes:subtitle>
+            <itunes:summary>Reading Ray Kurzweil’s prognostications about the future—and coming to terms with his ruthless optimism.</itunes:summary>
+            <itunes:duration>2073</itunes:duration>
+            <itunes:season>8</itunes:season>
+            <itunes:episode>6</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="https://winningslowly.org/images/logotype.png"/>
+        </item>
         <item>
             <title>8.05: The Postmodern Condition—Examined</title>
             <link>https://winningslowly.org/8.05/</link>
