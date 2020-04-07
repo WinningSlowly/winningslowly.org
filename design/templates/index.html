@@ -1,14 +1,14 @@
 {%extends "base.html"%}
 
-{% macro season_title(seasons, id) -%}
+{%macro season_title(seasons, id)-%}
    <h4 class='SeasonDescription-title' id="season-{{id}}">
-      {%set season = seasons[id] %}
+      {%set season = seasons[id]%}
       <a href="/{{season.slug}}.html">
          {%set season_prefix = season.prefix ~ ': ' if season.prefix else ''%}
          {{season_prefix}}{{season.title}} →
       </a>
    </h4>
-{%- endmacro %}
+{%-endmacro%}
 
 {%block before_content%}
    <article class='Content Content--meta'>
@@ -74,7 +74,8 @@
       <h3>Previous Seasons</h3>
 
       <article class='SeasonDescription'>
-         {{ season_title(SEASONS, '7')}}
+         {{season_title(SEASONS, '7')}}
+
          <p>
             If we’re going to avoid the “inevitable” future (as we talked about in <a href='/season-6.html'>Season 6</a>) we need to be able to imagine a better one. That means rejecting techno-utopianism <em>and</em> techno-despair. In Season 7, we took a swing at doing just that—by way of <a href="https://winningslowly.org/7.03/">small interventions</a>, <a href="https://winningslowly.org/7.09/">friction</a>, and <a href="https://winningslowly.org/7.06/">policy statements</a>, among other things. We even tried a grand experiment in <a href="https://winningslowly.org/7.10/">imagining a non-technocratic future</a>!
          </p>
@@ -103,7 +104,8 @@
       </article>
 
       <article class='SeasonDescription'>
-         {{ season_title(SEASONS, '6')}}
+         {{season_title(SEASONS, '6')}}
+
          <p>
             We are often told that particular visions of the future are inevitabilities. We have <a href='https://winningslowly.org/3.13/'>long said</a>: <i>not so!</i> And here we took on the task of articulating when and how we might <em>reject</em> some of the technologies profferred by Silicon Valley giants and prognosticators of the future.
          </p>
@@ -126,7 +128,7 @@
       </article>
 
       <article class='SeasonDescription'>
-         {{ season_title(SEASONS, '5')}}
+         {{season_title(SEASONS, '5')}}
 
          <p>
             A deep dive on the "structure/agency" problem, or: how individuals and systems relate. This one had a quirk to it, though: we recorded the first nine episodes in the fall of 2016, then the last three in the fall of 2017. (Stephen finishing his Ph.D. and moving across the country, and Chris finishing his M. Div. and moving across the country... had consequences.)
@@ -148,7 +150,7 @@
       </article>
 
       <article class='SeasonDescription'>
-         {{ season_title(SEASONS, '4')}}
+         {{season_title(SEASONS, '4')}}
 
          <p>
             In our spring 2016 season, we took a long look at globalization: the good, the bad, the ugly. This was also the first time we planned a season start to finish before we kicked it off, and it shows.
@@ -161,7 +163,7 @@
          </p>
       </article>
       <article class='SeasonDescription'>
-         {{ season_title(SEASONS, '3')}}
+         {{season_title(SEASONS, '3')}}
 
          <p>
             Season 3 was our first attempt at doing a more topical season, with an emphasis on the relationship between advertising, business interests, and capitalism and human flourishing.
@@ -172,7 +174,7 @@
          </p>
       </article>
       <article class='SeasonDescription'>
-         {{ season_title(SEASONS, '2')}}
+         {{season_title(SEASONS, '2')}}
 
          <p>
             Season 2 began with <a href="https://winningslowly.org/2.01/">2.01: Take My Money Please!</a> on January 27, 2015 and concluded with <a href="https://winningslowly.org/2.15/">2.15: Metapodcasting</a> on May 12, 2015.
@@ -182,7 +184,7 @@
          </p>
       </article>
       <article class='SeasonDescription'>
-         {{ season_title(SEASONS, '1')}}
+         {{season_title(SEASONS, '1')}}
 
          <p>
             Our first “official” season—the one that was <em>not</em> a “beta”—started on July 15, 2014, with <a href="https://winningslowly.org/1.01/">1.01: Massive Emotional Contagion</a>, and wrapped up with the release of <a href="https://winningslowly.org/1.18/">1.18: Keep On Keepin’ On</a> on November 18, 2014.</p>
@@ -191,7 +193,7 @@
          </p>
       </article>
       <article class='SeasonDescription'>
-         {{ season_title(SEASONS, '0')}}
+         {{season_title(SEASONS, '0')}}
 
          <p>
             Our first season: “This is a beta; bear with us!”—in which we spent a few months just figuring out what we were doing, ran from January 28, 2014 until May 20, 2014. Seriously: we had <em>no idea</em> what we were doing; we just knew we had a good idea for a show and wanted to figure out how to make it work. There is good content here, but we have kept this around mostly for historical interest—it’s <em>rough</em>.
