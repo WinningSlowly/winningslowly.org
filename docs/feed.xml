@@ -10,8 +10,8 @@
         <copyright>Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Wed, 15 Apr 2020 06:57:36 -0600</pubDate>
-        <lastBuildDate>Wed, 15 Apr 2020 06:57:36 -0600</lastBuildDate>
+        <pubDate>Fri, 01 May 2020 16:13:58 -0600</pubDate>
+        <lastBuildDate>Fri, 01 May 2020 16:13:59 -0600</lastBuildDate>
         <ttl>5</ttl>
         <image>
             <url>https://winningslowly.org/images/logotype.png</url>
@@ -43,6 +43,61 @@
             <itunes:category text="Christianity"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>8.08: Jurassic Park—Explained</title>
+            <link>https://winningslowly.org/8.08/</link>
+            <description>
+                <content:encoded><![CDATA[<p><i>What the well-known novel and movie have to say about science, ethics, epistemology, and hubris.</i></p>
+<p><a href="https://www.alibris.com/Jurassic-Park-Michael-Crichton/book/3483033"><cite>Jurassic Park</cite></a>, Michael Crichton (and the movie!)</p>
+<h3 id="show-notes">Show Notes</h3>
+<h4 id="things-mentioned-on-the-show">Things mentioned on the show</h4>
+<ul>
+<li>Media OS—see <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/ExtremeGraphicalRepresentation">TVTropes’ “Extreme Graphical Representation”</a> for <em>many</em> examples.</li>
+<li>[The Expanse]</li>
+<li><a href="https://en.m.wikipedia.org/wiki/Nuclear_meltdown">Nuclear meltdowns</a>
+<ul>
+<li><a href="https://en.m.wikipedia.org/wiki/Three_Mile_Island_accident">Three-Mile Island</a></li>
+<li><a href="https://en.m.wikipedia.org/wiki/Chernobyl_disaster">Chernobyl</a></li>
+<li><a href="https://en.m.wikipedia.org/wiki/Fukushima_Daiichi_nuclear_disaster">Fukushima</a></li>
+</ul></li>
+</ul>
+<h4 id="upcoming-books">Upcoming books</h4>
+<p>Note that we’ve ended up changing plans since we recorded our Kurzweil Episode! We originally planned to read Simone Browne’s <cite>Dark Matters: On the Surveillance of Blackness</cite></p>
+<ul>
+<li><b>June:</b> <a href="https://www.alibris.com/The-Printing-Press-as-an-Agent-of-Change-Elizabeth-L-Eisenstein/book/5343362"><cite>The Printing Press as an Agent of Change</cite></a>, Elizabeth Eisenstein</li>
+<li><b>July:</b> <a href="https://www.alibris.com/Dark-Matters-On-the-Surveillance-of-Blackness-Simone-Browne/book/32087130"><cite>Dark Matters: On the Surveillance of Blackness</cite></a>, Simone Brown</li>
+</ul>
+<h3 id="music">Music</h3>
+<ul>
+<li><a href="https://tenggerbbib.bandcamp.com/album/nomad-pre-order">“Achime”</a> by <a href="https://www.facebook.com/tenggerland">TENGGER</a></li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho.</li>
+</ul>
+<h3 id="sponsors">Sponsors</h3>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Daniel Ellcey</li>
+<li>Douglas Campos</li>
+<li>Jake Grant</li>
+<li>Marnix Klooster</li>
+<li>Spencer Smith</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href='https://www.patreon.com/winningslowly' rel='payment'>Patreon</a> or give directly via <a href="https://cash.me/$winningslowly">Square Cash</a>.</p>
+<h3 id="respond">Respond</h3>
+<p>We love to hear your thoughts. Hit us up via <a href="https://www.twitter.com/winningslowly">Twitter</a>, <a href="https://www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=8.07:%20The%20Age%20of%20Spiritual%20Machines—Examined">email</a>!</p>
+]]></content:encoded>
+            </description>
+            <pubDate>Wed, 06 May 2020 08:00:00 -0600</pubDate>
+            <enclosure url="https://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/file/winningslowly/8.08.mp3" length="27192155" type="audio/mpeg"/>
+            <guid isPermaLink="true">https://winningslowly.org/8.08/</guid>
+            <itunes:subtitle>What the well-known novel and movie have to say about science, ethics, epistemology, and hubris.</itunes:subtitle>
+            <itunes:summary>What the well-known novel and movie have to say about science, ethics, epistemology, and hubris.</itunes:summary>
+            <itunes:duration>1631</itunes:duration>
+            <itunes:season>8</itunes:season>
+            <itunes:episode>8</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="https://winningslowly.org/images/logotype.png"/>
+        </item>
         <item>
             <title>8.07: The Age of Spiritual Machines—Examined</title>
             <link>https://winningslowly.org/8.07/</link>
