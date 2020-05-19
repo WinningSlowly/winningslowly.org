@@ -10,8 +10,8 @@
         <copyright>Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Fri, 01 May 2020 16:32:38 -0600</pubDate>
-        <lastBuildDate>Fri, 01 May 2020 16:32:39 -0600</lastBuildDate>
+        <pubDate>Wed, 20 May 2020 08:32:27 -0600</pubDate>
+        <lastBuildDate>Wed, 20 May 2020 08:32:27 -0600</lastBuildDate>
         <ttl>5</ttl>
         <image>
             <url>https://winningslowly.org/images/logotype.png</url>
@@ -43,6 +43,111 @@
             <itunes:category text="Christianity"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>8.09: Jurassic Park—Examined</title>
+            <link>https://winningslowly.org/8.09/</link>
+            <description>
+                <content:encoded><![CDATA[<p><i>Don’t go into science for the money: you will get killed by dinosaurs.</i></p>
+<p>
+<a href="https://www.alibris.com/Jurassic-Park-Michael-Crichton/book/3483033"><cite>Jurassic Park</cite></a>, Michael Crichton (<a href="https://www.imdb.com/title/tt0107290/">and the movie</a>!)
+</p>
+<h3 id="show-notes">
+Show Notes
+</h3>
+<p>
+We put dinosaurs mostly in the background and talk about what Crichton really wanted to discuss: the science/industrial complex, the limits of science to interpret or re-create nature, the limits of discovery, and disciplinary power.
+</p>
+<h4 id="things-mentioned-on-the-show">
+Things mentioned on the show
+</h4>
+<ul>
+<li>
+<a href="https://www.theatlantic.com/magazine/archive/2017/04/pleistocene-park/517779/">People trying to recreate mammoths in Siberia to fix … climate change?</a>
+</li>
+<li>
+The world’s fastest supercomputer <a href="https://www.nbcnews.com/mach/science/5-ways-world-s-fastest-supercomputer-could-change-world-ncna883766">being used for climate simulations</a>, among other things
+</li>
+<li>
+The wild tale of <a href="https://arstechnica.com/cars/2020/04/levandowski-says-uber-must-pay-his-179-million-judgment-to-google/">Anthony Levandoski’s self-driving cars corporate espionage</a>
+</li>
+<li>
+Self-driving cars as <a href="https://www.theverge.com/2018/2/13/16996864/waymo-vs-uber-trial-settlement-self-driving-car-confidence">a zero-sum game</a>
+</li>
+</ul>
+<p>
+We also mentioned the famous “you didn’t stop to consider whether you <em>should</em>…” quote in <a href="https://winningslowly.org/6.11/">6.11: Very Thoughtful Ethics Dogs</a>.
+</p>
+<h4 id="upcoming-books">
+Upcoming books
+</h4>
+<p>
+Note that we’ve ended up changing plans since we recorded our Kurzweil episodes! We originally planned to read Simone Browne’s <cite>Dark Matters: On the Surveillance of Blackness</cite>, but decided to talk about our “background” reading so far!
+</p>
+<ul>
+<li>
+<b>June:</b> <a href="https://www.alibris.com/The-Printing-Press-as-an-Agent-of-Change-Elizabeth-L-Eisenstein/book/5343362"><cite>The Printing Press as an Agent of Change</cite></a>, Elizabeth Eisenstein
+</li>
+<li>
+<b>July:</b> <a href="https://www.alibris.com/Dark-Matters-On-the-Surveillance-of-Blackness-Simone-Browne/book/32087130"><cite>Dark Matters: On the Surveillance of Blackness</cite></a>, Simone Brown
+</li>
+</ul>
+<h3 id="music">
+Music
+</h3>
+<ul>
+<li>
+<a href="https://summerooms.bandcamp.com/track/pull-apart">“Pull Apart (feat. Samantha Eason)”</a> by <a href="https://summerooms.bandcamp.com/">Summerooms</a>
+</li>
+<li>
+<a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho
+</li>
+</ul>
+<h3 id="sponsors">
+Sponsors
+</h3>
+<p>
+Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:
+</p>
+<ul>
+<li>
+Daniel Ellcey
+</li>
+<li>
+Douglas Campos
+</li>
+<li>
+Jake Grant
+</li>
+<li>
+Marnix Klooster
+</li>
+<li>
+Spencer Smith
+</li>
+</ul>
+<p>
+If you’d like to support the show, you can make a pledge at <a href='https://www.patreon.com/winningslowly' rel='payment'>Patreon</a> or give directly via <a href="https://cash.me/$winningslowly">Square Cash</a>.
+</p>
+<h3 id="respond">
+Respond
+</h3>
+<p>
+We love to hear your thoughts. Hit us up via <a href="https://www.twitter.com/winningslowly">Twitter</a>, <a href="https://www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=8.09:%20Jurassic%20Park—Examined">email</a>!
+</p>
+]]></content:encoded>
+            </description>
+            <pubDate>Wed, 20 May 2020 08:30:00 -0600</pubDate>
+            <enclosure url="https://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/file/winningslowly/8.09.mp3" length="36320438" type="audio/mpeg"/>
+            <guid isPermaLink="true">https://winningslowly.org/8.09/</guid>
+            <itunes:subtitle>Don’t go into science for the money: you will get killed by dinosaurs.</itunes:subtitle>
+            <itunes:summary>Don’t go into science for the money: you will get killed by dinosaurs.</itunes:summary>
+            <itunes:duration>2217</itunes:duration>
+            <itunes:season>8</itunes:season>
+            <itunes:episode>9</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="https://winningslowly.org/images/logotype.png"/>
+        </item>
         <item>
             <title>8.08: Jurassic Park—Explained</title>
             <link>https://winningslowly.org/8.08/</link>
