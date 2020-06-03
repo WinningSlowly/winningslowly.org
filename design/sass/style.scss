@@ -34,9 +34,12 @@
   --bg: #fcfcfc;
   --fg: hsl(210, 2%, 27%);
   --fg-alt: hsl(210, 10%, 50%);
-  --accent-dark: hsl(210, 82%, 31%);
-  --accent: hsl(210, 67%, 41%);
-  --accent-light: hsl(210, 52%, 61%);
+  // --accent-dark: hsl(210, 82%, 31%);
+  --accent-dark: #000;
+  // --accent: hsl(210, 67%, 41%);
+  --accent: #000;
+  // --accent-light: hsl(210, 52%, 61%);
+  --accent-light: #777777;
 
   // Sizes
   --sane-width: 52rem;
