@@ -4,14 +4,14 @@
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>Taking the long view on technology, religion, ethics, and art. There are plenty of podcasts that will tell you how Apple’s latest product will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in 2024. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond?</description>
-        <generator>Feeder 3 3.7.2(3302); Mac OS X Version 10.15.5 (Build 19F96) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.7.2(3302); Mac OS X Version 10.15.5 (Build 19F101) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Tue, 02 Jun 2020 20:44:23 -0600</pubDate>
-        <lastBuildDate>Tue, 02 Jun 2020 20:44:23 -0600</lastBuildDate>
+        <pubDate>Wed, 17 Jun 2020 10:44:55 -0600</pubDate>
+        <lastBuildDate>Wed, 17 Jun 2020 10:44:56 -0600</lastBuildDate>
         <ttl>5</ttl>
         <image>
             <url>https://winningslowly.org/images/logotype.png</url>
@@ -43,6 +43,71 @@
             <itunes:category text="Christianity"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>8.11: The Printing Press as an Agent of Change—Analogs to the Internet</title>
+            <link>https://winningslowly.org/8.11/</link>
+            <description>
+                <content:encoded><![CDATA[<p><i>The printing press and the internet are often compared. How similar in impact are they really?</i></p>
+<figure>
+<img src="https://cdn.winningslowly.org/file/winningslowly/images/printing-press.jpg" alt="" /><figcaption><a href="https://www.alibris.com/The-Printing-Press-as-an-Agent-of-Change-Elizabeth-L-Eisenstein/book/5343362"><cite>The Printing Press as an Agent of Change</cite></a>, Elizabeth Eisenstein</figcaption>
+</figure>
+<h3 id="show-notes">Show Notes</h3>
+<p>Eisenstein’s outline:</p>
+<ul>
+<li>dissemination</li>
+<li>standardization</li>
+<li>reorganization</li>
+<li>data collection</li>
+<li>preservation</li>
+<li>amplification</li>
+<li>reinforcement</li>
+<li>cultural effects</li>
+<li>the Republic of Letters</li>
+</ul>
+<p>Links to things mentioned on the show:</p>
+<ul>
+<li>On context collapse: <a href="https://winningslowly.org/2.02/">2.02: Basketballs ≠ Pumpkins</a></li>
+<li>Our strongest take on “big data:” <a href="https://winningslowly.org/6.06/">6.06: A Kind of Blindness—Smart cities, “big data”, and the meaninglessness of mere information.</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Republic_of_Letters">The Republic of Letters</a></li>
+<li><a href="http://arthurcclarke.org/site/enquiries/clarkives/">Clarkives</a></li>
+</ul>
+<h4 id="upcoming-books">Upcoming books</h4>
+<ul>
+<li><b>July (8.12 and 8.13):</b> <a href="https://www.alibris.com/Dark-Matters-On-the-Surveillance-of-Blackness-Simone-Browne/book/32087130"><cite>Dark Matters: On the Surveillance of Blackness</cite></a>, Simone Brown</li>
+<li><b>August (8.14 and 8.15):</b> <a href="https://www.alibris.com/The-Real-World-of-Technology-Dr-Ursula-M-Franklin-PH-D/book/5575099"><cite>The Real World of Technology</cite></a>, Ursula Franklin</li>
+<li><b>September (8.16 and 8.17):</b> (probably) <a href="https://www.alibris.com/Technopoly-The-Surrender-of-Culture-to-Technology-Neil-Postman/book/6588282"><cite>Technopoly</cite></a>, Neil Postman</li>
+</ul>
+<h3 id="music">Music</h3>
+<ul>
+<li><a href="https://trevorransom.bandcamp.com/track/drawn-2">drawn</a>, by <a href="https://trevorransom.bandcamp.com/">Trevor Ransom</a>. Used by permission.</li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho</li>
+</ul>
+<h3 id="sponsors">Sponsors</h3>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Daniel Ellcey</li>
+<li>Douglas Campos</li>
+<li>Jake Grant</li>
+<li>Marnix Klooster</li>
+<li>Spencer Smith</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href=‘https://www.patreon.com/winningslowly’ rel=‘payment’>Patreon</a> or give directly via <a href="https://cash.me/$winningslowly">Square Cash</a>.</p>
+<h3 id="respond">Respond</h3>
+<p>We love to hear your thoughts. Hit us up via <a href="https://www.twitter.com/winningslowly">Twitter</a>, <a href="https://www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=8.11:%20The%20Printing%20Press%20as%20an%20Agent%20of%20Change—Analogs to the Internet">email</a>!</p>
+]]></content:encoded>
+            </description>
+            <pubDate>Wed, 17 Jun 2020 10:45:00 -0600</pubDate>
+            <enclosure url="https://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/file/winningslowly/8.11.mp3" length="34252363" type="audio/mpeg"/>
+            <guid isPermaLink="true">https://winningslowly.org/8.11/</guid>
+            <itunes:subtitle>The printing press and the internet are often compared. How similar in impact are they really?</itunes:subtitle>
+            <itunes:summary>The printing press and the internet are often compared. How similar in impact are they really?</itunes:summary>
+            <itunes:duration>2109</itunes:duration>
+            <itunes:season>8</itunes:season>
+            <itunes:episode>11</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="https://winningslowly.org/images/logotype.png"/>
+        </item>
         <item>
             <title>8.10: The Printing Press as an Agent of Change—Explained</title>
             <link>https://winningslowly.org/8.10/</link>
