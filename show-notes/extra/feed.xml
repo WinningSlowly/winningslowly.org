@@ -4,14 +4,14 @@
         <title>Winning Slowly</title>
         <link>http://winningslowly.org/</link>
         <description>There are plenty of podcasts that will tell you how the latest tech gadget or “innovation” will affect the tech landscape tomorrow, but there aren’t that many concerned with the potential impact of that tech in a decade—much less a century. In a culture obsessed with now, how can we make choices with a view for tomorrow, next year, and beyond? 25–35-minute episodes released the first and third Wednesdays of the month.</description>
-        <generator>Feeder 3 3.7.3(3312); Mac OS X Version 10.15.6 (Build 19G2021) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.7.4(3330); Mac OS X Version 10.15.6 (Build 19G2021) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Tue, 15 Sep 2020 21:07:10 -0600</pubDate>
-        <lastBuildDate>Tue, 15 Sep 2020 21:07:10 -0600</lastBuildDate>
+        <pubDate>Tue, 06 Oct 2020 20:46:00 -0600</pubDate>
+        <lastBuildDate>Tue, 06 Oct 2020 20:46:01 -0600</lastBuildDate>
         <ttl>5</ttl>
         <image>
             <url>https://winningslowly.org/images/logotype.png</url>
@@ -43,6 +43,62 @@
             <itunes:category text="Christianity"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>8.18: Contact—Explained</title>
+            <link>https://winningslowly.org/8.18/</link>
+            <description><![CDATA[<p><i>Another book from the ’80s, but hey: at least this one is fiction!</i></p>
+<figure>
+<img src="https://cdn.winningslowly.org/file/winningslowly/images/contact.jpg" alt="Contact, Carl Sagan" /><figcaption aria-hidden="true"><a href="https://www.alibris.com/Contact-Carl-Sagan/book/1307274"><cite>Contact</cite></a>, Carl Sagan</figcaption>
+</figure>
+<h3 id="show-notes">Show Notes</h3>
+<p>We read Carl Sagan’s 1985 novel Contact and watched the 1995 movie of the same name. In this episode, our overview of the book: its plot and its basic interests.</p>
+<p>Things we mentioned on the show, in the order we mentioned them:</p>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Carl_Sagan">Carl Sagan</a></li>
+<li><cite>Cosmos</cite>: <a href="https://www.imdb.com/title/tt0081846/">TV show</a> and <a href="https://www.alibris.com/Cosmos-Carl-Sagan/book/1355371">book</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson">Neil Degrasse Tyson</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Fermi_paradox">Fermi Paradox</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Wow!_signal">Wow! signal</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Very_Large_Array">Very Large Array</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Arecibo_Observatory">Arecibo Observatory</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Neil_Patrick_Harris">Neil Patrick Harris</a> (wait for it, it’ll all make sense in the end)</li>
+</ul>
+<h3 id="upcoming-book">Upcoming Book</h3>
+<ul>
+<li><b>November (8.20 and 8.21):</b> <a href="https://www.alibris.com/booksearch?keyword=twitter+and+tear+gas&amp;mtype=B&amp;hs.x=0&amp;hs.y=0"><cite>Twitter and Tear Gas: The Power and Fragility of Networked Protest</cite></a>, Zeynep Tufecki. You can also download it from <a href="https://www.twitterandteargas.org/downloads/twitter-and-tear-gas-by-zeynep-tufekci.pdf">Tufecki’s website</a> as a PDF.</li>
+<li><b>December (8.22 and 8.23):</b> <a href=""><cite>Mr. Penumbra’s 24-Hour Bookstore</cite></a>, Robin Sloan.</li>
+</ul>
+<h3 id="credits">Credits</h3>
+<h4 id="music">Music</h4>
+<ul>
+<li><a href="https://joshcaress.bandcamp.com/track/its-a-movie-its-a-dream">“It’s a Movie, It’s a Dream”</a> by <a href="https://joshcaress.com">Josh Caress</a>. Used by permission, please don’t use without permission.</li>
+<li><a href="https://soundcloud.com/chriskrycho/winning-slowly">“Winning Slowly Theme”</a> by Chris Krycho. Licensed under <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, meaning <em>you can do whatever you want with this music</em>… as long as you share it for others to likewise do what <em>they</em> want.</li>
+</ul>
+<h4 id="sponsors">Sponsors</h4>
+<p>Many thanks to the people who help us make this show possible by their financial support! This month’s sponsors:</p>
+<ul>
+<li>Daniel Ellcey</li>
+<li>Douglas Campos</li>
+<li>Jake Grant</li>
+<li>Marnix Klooster</li>
+<li>Spencer Smith</li>
+</ul>
+<p>If you’d like to support the show, you can make a pledge at <a href='https://www.patreon.com/winningslowly' rel='payment'>Patreon</a> or give directly via <a href="https://cash.me/$winningslowly">Square Cash</a>.</p>
+<h3 id="respond">Respond</h3>
+<p>We love to hear your thoughts. Shoot us an <a href="mailto:hello@winningslowly.org?subject=8.18:%20Contact—Explained">email</a>, or hit us up on <a href="https://www.twitter.com/winningslowly">Twitter</a> or <a href="https://www.facebook.com/winningslowlypodcast">Facebook</a>!</p>
+]]></description>
+            <pubDate>Wed, 07 Oct 2020 08:00:00 -0600</pubDate>
+            <enclosure url="https://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/file/winningslowly/8.18.mp3" length="27114059" type="audio/mpeg"/>
+            <guid isPermaLink="true">https://winningslowly.org/8.18/</guid>
+            <itunes:subtitle>Another book from the ’80s, but hey: at least this one is fiction!</itunes:subtitle>
+            <itunes:summary>Another book from the ’80s, but hey: at least this one is fiction! We read Carl Sagan’s 1985 novel Contact and watched the 1995 movie of the same name. In this episode, our overview of the book: its plot and its basic interests.</itunes:summary>
+            <itunes:duration>1670</itunes:duration>
+            <itunes:season>8</itunes:season>
+            <itunes:episode>18</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <dc:creator>Chris Krycho and Stephen Carradini</dc:creator>
+            <media:thumbnail url="https://cdn.winningslowly.org/file/winningslowly/images/contact.jpg"/>
+        </item>
         <item>
             <title>8.17: Evolution as a Religion—Examined</title>
             <link>https://winningslowly.org/8.17/</link>
