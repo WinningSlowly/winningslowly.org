@@ -10,8 +10,8 @@
         <copyright>Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Wed, 16 Dec 2020 22:37:41 -0700</pubDate>
-        <lastBuildDate>Wed, 16 Dec 2020 22:37:41 -0700</lastBuildDate>
+        <pubDate>Thu, 17 Dec 2020 09:06:39 -0700</pubDate>
+        <lastBuildDate>Thu, 17 Dec 2020 09:06:39 -0700</lastBuildDate>
         <ttl>5</ttl>
         <image>
             <url>https://winningslowly.org/images/logotype.png</url>
@@ -46,7 +46,7 @@
         <item>
             <title>8.22: Mr. Penumbra’s 24-Hour Bookstore</title>
             <link>https://winningslowly.org/8.22/</link>
-            <description><![CDATA[<p><i>Neil Stephenson at double speed and with a smile on his face.</i>
+            <description><![CDATA[<p><i>Neal Stephenson at double speed and with a smile on his face.</i>
 <figure>
 <img src="https://cdn.winningslowly.org/file/winningslowly/images/mr-penumbras-24-hour-bookstore.jpg" alt="Mr. Penumbra’s 24-Hour Bookstore, Robin Sloan" /><figcaption aria-hidden="true"><a href="https://www.alibris.com/Mr-Penumbras-24-Hour-Bookstore-Robin-Sloan/book/21924389"><cite>Mr. Penumbra’s 24-Hour Bookstore</cite></a>, Robin Sloan</figcaption>
 </figure>
@@ -79,11 +79,11 @@
 <h3 id="respond">Respond</h3>
 <p>We love to hear your thoughts. Shoot us an <a href="mailto:hello@winningslowly.org?subject=8.22:%20Mr.%20Penumbra’s%2024-Hour%20Bookstore">email</a>, or hit us up on <a href="https://www.twitter.com/winningslowly">Twitter</a> or <a href="https://www.facebook.com/winningslowlypodcast">Facebook</a>!</p>
 ]]></description>
-            <pubDate>Wed, 16 Dec 2020 22:45:00 -0700</pubDate>
+            <pubDate>Thu, 17 Dec 2020 09:06:35 -0700</pubDate>
             <enclosure url="https://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/file/winningslowly/8.22.mp3" length="29032781" type="audio/mpeg"/>
             <guid isPermaLink="true">https://winningslowly.org/8.22/</guid>
             <itunes:subtitle>Neil Stephenson at double speed and with a smile on his face.</itunes:subtitle>
-            <itunes:summary>Neil Stephenson at double speed and with a smile on his face.</itunes:summary>
+            <itunes:summary>Neal Stephenson at double speed and with a smile on his face.</itunes:summary>
             <itunes:duration>1772</itunes:duration>
             <itunes:season>8</itunes:season>
             <itunes:episode>22</itunes:episode>
