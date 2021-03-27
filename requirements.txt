@@ -17,7 +17,7 @@ Pygments==2.2.0
 pylint==1.9.2
 python-dateutil==2.6.1
 pytz==2017.3
-PyYAML==5.1
+PyYAML==5.4
 six==1.11.0
 Unidecode==1.0.22
 wrapt==1.10.11
