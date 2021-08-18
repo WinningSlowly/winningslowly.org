@@ -2,6 +2,7 @@
 {% set prefix = SEASONS[category.name].prefix ~ ': ' if SEASONS[category.name].prefix else '' %}
 {% set title = SEASONS[category.name].title if SEASONS[category.name].title else '' %}
 {% set metatitle = prefix ~ title %}
+{% set shouldReverse = true %}
 
 {% block title %}{{metatitle}} &#9702; {{ SITENAME }}{% endblock %}
 

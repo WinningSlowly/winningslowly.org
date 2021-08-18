@@ -5,30 +5,57 @@
    {%block heading%}{%endblock%}
    {%if articles%}
       <ul class='EpisodeList'>
-         {%for article in articles%}
-            <li class="EpisodeList-episode">
-               <a class="EpisodeList-link" href="/{{article.url}}">
-                  <div class='EpisodeSummary'>
-                     {%set season = SEASONS[article.category.name]%}
-                     {%set prefix = season.epPrefix%}
-                     {%set sep = season.epSep%}
-                     {%set number = season.number ~ sep ~ article.number if season.number else article.number%}
-                     <span class="EpisodeSummary-field EpisodeSummary-field--number">
-                        {{prefix}} {{number}}
-                     </span>
-                     <span class="EpisodeSummary-field EpisodeSummary-field--title">
-                        {{article.title}}
-                     </span>
-                     <span class="EpisodeSummary-field EpisodeSummary-field--date">
-                        {{article.locale_date}}
-                     </span>
-                     <span class="EpisodeSummary-field EpisodeSummary-field--subtitle">
-                        {{article.subtitle}}
-                     </span>
-                  </div>
-               </a>
-            </li>
-         {%endfor%}
+         {%if shouldReverse%}
+            {%for article in articles|reverse%}
+               <li class="EpisodeList-episode">
+                  <a class="EpisodeList-link" href="/{{article.url}}">
+                     <div class='EpisodeSummary'>
+                        {%set season = SEASONS[article.category.name]%}
+                        {%set prefix = season.epPrefix%}
+                        {%set sep = season.epSep%}
+                        {%set number = season.number ~ sep ~ article.number if season.number else article.number%}
+                        <span class="EpisodeSummary-field EpisodeSummary-field--number">
+                           {{prefix}} {{number}}
+                        </span>
+                        <span class="EpisodeSummary-field EpisodeSummary-field--title">
+                           {{article.title}}
+                        </span>
+                        <span class="EpisodeSummary-field EpisodeSummary-field--date">
+                           {{article.locale_date}}
+                        </span>
+                        <span class="EpisodeSummary-field EpisodeSummary-field--subtitle">
+                           {{article.subtitle}}
+                        </span>
+                     </div>
+                  </a>
+               </li>
+            {%endfor%}
+         {%else%}
+            {%for article in articles%}
+               <li class="EpisodeList-episode">
+                  <a class="EpisodeList-link" href="/{{article.url}}">
+                     <div class='EpisodeSummary'>
+                        {%set season = SEASONS[article.category.name]%}
+                        {%set prefix = season.epPrefix%}
+                        {%set sep = season.epSep%}
+                        {%set number = season.number ~ sep ~ article.number if season.number else article.number%}
+                        <span class="EpisodeSummary-field EpisodeSummary-field--number">
+                           {{prefix}} {{number}}
+                        </span>
+                        <span class="EpisodeSummary-field EpisodeSummary-field--title">
+                           {{article.title}}
+                        </span>
+                        <span class="EpisodeSummary-field EpisodeSummary-field--date">
+                           {{article.locale_date}}
+                        </span>
+                        <span class="EpisodeSummary-field EpisodeSummary-field--subtitle">
+                           {{article.subtitle}}
+                        </span>
+                     </div>
+                  </a>
+               </li>
+            {%endfor%}
+         {%endif%}
       </ul>
    {%else%}
       {%include "includes/404-content.html"%}
