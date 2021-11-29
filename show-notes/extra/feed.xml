@@ -10,8 +10,8 @@
         <copyright>Winning Slowly</copyright>
         <managingEditor>hello@winningslowly.org (Stephen Carradini and Chris Krycho)</managingEditor>
         <webMaster>chris@winningslowly.org (Chris Krycho)</webMaster>
-        <pubDate>Wed, 30 Dec 2020 14:20:52 -0700</pubDate>
-        <lastBuildDate>Wed, 30 Dec 2020 14:20:52 -0700</lastBuildDate>
+        <pubDate>Mon, 29 Nov 2021 08:00:00 -0700</pubDate>
+        <lastBuildDate>Mon, 29 Nov 2021 08:00:00 -0700</lastBuildDate>
         <ttl>5</ttl>
         <image>
             <url>https://winningslowly.org/images/logotype.png</url>
@@ -44,8 +44,8 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <item>
-            <title></title>
-            <link></link>
+            <title>Farewell… at least for now!</title>
+            <link>https://winningslowly.org/indefinite-hiatus.farewell/</link>
             <description><![CDATA[<h3 id="show-notes">Show Notes</h3>
 <p>You heard that right, everyone. Who knows, maybe we’ll be back someday, though!</p>
 <p>(Long-time listeners: stick around for the last bit of this episode. Trust us.)</p>
@@ -57,7 +57,7 @@
 <h3 id="respond">Respond</h3>
 <p>We (still!) love to hear your thoughts. Hit us up via <a href="https://www.twitter.com/winningslowly">Twitter</a>, <a href="https://www.facebook.com/winningslowlypodcast">Facebook</a>, or <a href="mailto:hello@winningslowly.org?subject=Farewell%20for%20now">email</a>!</p>
 ]]></description>
-            <pubDate>Wed, 30 Dec 2020 14:00:00 -0700</pubDate>
+            <pubDate>Mon, 29 Nov 2021 08:00:00 -0700</pubDate>
             <enclosure url="https://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/file/winningslowly/farewell.mp3" length="46256811" type="audio/mpeg"/>
             <guid isPermaLink="true">https://winningslowly.org/indefinite-hiatus.farewell/</guid>
             <itunes:subtitle>Winning Slowly is going on indefinite hiatus. We reflect on the show!</itunes:subtitle>
