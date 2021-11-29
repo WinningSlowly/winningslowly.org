@@ -12,6 +12,7 @@ Tags:
   - reading
 Summary: >
     Winning Slowly is going on indefinite hiatus. We reflect on the show!
+audio_slug: farewell
 
 ---
 
