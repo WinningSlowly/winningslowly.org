@@ -24,7 +24,7 @@ You heard that right, everyone. Who knows, maybe we’ll be back someday, though
 ### Music
 
 * [“Winning Slowly Theme”](https://soundcloud.com/chriskrycho/winning-slowly) by Chris Krycho.
-* [Something special](https://soundcloud.com/chriskrycho/winning-slowly-2021)
+* [Something special](https://soundcloud.com/chriskrycho/winning-slowly-2021/s-YninVaoIO7X?si=8288214151034afd81e2fdc75f6b66fa)
 
 ### Respond
 
