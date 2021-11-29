@@ -20,6 +20,16 @@ THEME = "design"
 
 # Show configuration
 SEASONS = {
+    'Indefinite Hiatus': {
+        'prefix': None,
+        'title': 'Indefinite Hiatus',
+        'slug': 'indefinite-hiatus',
+        'number': None,
+        'epPrefix': '',
+        'epSep': '',
+        'sort': 'chronological',
+        'includeInNav': False
+    },
     '8': {
         'prefix': 'Season 8',
         'title': 'The Winning Slowly Epistemology Book (and Film) Club',
@@ -27,7 +37,8 @@ SEASONS = {
         'number': '8',
         'epPrefix': 'Episode',
         'epSep': '.',
-        'sort': 'chronological'
+        'sort': 'chronological',
+        'includeInNav': True
     },
     '7': {
         'prefix': 'Season 7',
@@ -36,7 +47,8 @@ SEASONS = {
         'number': '7',
         'epPrefix': 'Episode',
         'epSep': '.',
-        'sort': 'chronological'
+        'sort': 'chronological',
+        'includeInNav': True
     },
     '6': {
         'prefix': 'Season 6',
@@ -45,7 +57,8 @@ SEASONS = {
         'number': '6',
         'epPrefix': 'Episode',
         'epSep': '.',
-        'sort': 'chronological'
+        'sort': 'chronological',
+        'includeInNav': True
     },
     '5': {
         'prefix': 'Season 5',
@@ -54,7 +67,8 @@ SEASONS = {
         'number': '5',
         'epPrefix': 'Episode',
         'epSep': '.',
-        'sort': 'chronological'
+        'sort': 'chronological',
+        'includeInNav': True
     },
     '4': {
         'prefix': 'Season 4',
@@ -63,7 +77,8 @@ SEASONS = {
         'number': '4',
         'epPrefix': 'Episode',
         'epSep': '.',
-        'sort': 'chronological'
+        'sort': 'chronological',
+        'includeInNav': True
     },
     '3': {
         'prefix': None,
@@ -72,7 +87,8 @@ SEASONS = {
         'number': '3',
         'epPrefix': 'Episode',
         'epSep': '.',
-        'sort': 'chronological'
+        'sort': 'chronological',
+        'includeInNav': True
     },
     '2': {
         'prefix': None,
@@ -81,7 +97,8 @@ SEASONS = {
         'number': '2',
         'epPrefix': 'Episode',
         'epSep': '.',
-        'sort': 'chronological'
+        'sort': 'chronological',
+        'includeInNav': True
     },
     '1': {
         'prefix': None,
@@ -90,7 +107,8 @@ SEASONS = {
         'number': '1',
         'epPrefix': 'Episode',
         'epSep': '.',
-        'sort': 'chronological'
+        'sort': 'chronological',
+        'includeInNav': True
     },
     '0': {
         'prefix': 'Season 0',
@@ -99,7 +117,8 @@ SEASONS = {
         'number': '0',
         'epPrefix': 'Episode',
         'epSep': '.',
-        'sort': 'chronological'
+        'sort': 'chronological',
+        'includeInNav': True
     },
     'Standalone Episodes': {
         'prefix': None,
@@ -108,7 +127,8 @@ SEASONS = {
         'number': None,
         'epPrefix': 'Standalone Episode',
         'epSep': '',
-        'sort': 'reverse-chronological'
+        'sort': 'reverse-chronological',
+        'includeInNav': True
     },
     'Bonus': {
         'prefix': None,
@@ -117,11 +137,12 @@ SEASONS = {
         'number': None,
         'epPrefix': 'Bonus Episode',
         'epSep': '',
-        'sort': 'reverse-chronological'
+        'sort': 'reverse-chronological',
+        'includeInNav': True
     }
 }
 
-CURRENT_SEASON = SEASONS['8']
+CURRENT_SEASON = SEASONS['Indefinite Hiatus']
 
 # Feed generation is usually not desired when developing
 FEED_DOMAIN = SITEURL
