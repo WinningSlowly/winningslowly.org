@@ -5,7 +5,7 @@ Title: >
     …at least for now
 Subtitle: >
     Winning Slowly is going on indefinite hiatus. We reflect on the show!
-Date: 2021-12-01 08:00
+Date: 2021-11-28 08:00
 Tags:
   - ethics
   - technology
