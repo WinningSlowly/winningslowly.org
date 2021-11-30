@@ -23,7 +23,7 @@ SEASONS = {
     'Indefinite Hiatus': {
         'prefix': None,
         'title': 'Indefinite Hiatus',
-        'slug': 'indefinite-hiatus',
+        'slug': 'season-indefinite-hiatus',
         'number': None,
         'epPrefix': '',
         'epSep': '',
