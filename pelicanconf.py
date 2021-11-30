@@ -28,7 +28,8 @@ SEASONS = {
         'epPrefix': '',
         'epSep': '',
         'sort': 'chronological',
-        'includeInNav': False
+        'includeInNav': False,
+        'linkToSeason': False,
     },
     '8': {
         'prefix': 'Season 8',
@@ -38,7 +39,8 @@ SEASONS = {
         'epPrefix': 'Episode',
         'epSep': '.',
         'sort': 'chronological',
-        'includeInNav': True
+        'includeInNav': True,
+        'linkToSeason': True,
     },
     '7': {
         'prefix': 'Season 7',
@@ -48,7 +50,8 @@ SEASONS = {
         'epPrefix': 'Episode',
         'epSep': '.',
         'sort': 'chronological',
-        'includeInNav': True
+        'includeInNav': True,
+        'linkToSeason': True,
     },
     '6': {
         'prefix': 'Season 6',
@@ -58,7 +61,8 @@ SEASONS = {
         'epPrefix': 'Episode',
         'epSep': '.',
         'sort': 'chronological',
-        'includeInNav': True
+        'includeInNav': True,
+        'linkToSeason': True,
     },
     '5': {
         'prefix': 'Season 5',
@@ -68,7 +72,8 @@ SEASONS = {
         'epPrefix': 'Episode',
         'epSep': '.',
         'sort': 'chronological',
-        'includeInNav': True
+        'includeInNav': True,
+        'linkToSeason': True,
     },
     '4': {
         'prefix': 'Season 4',
@@ -78,7 +83,8 @@ SEASONS = {
         'epPrefix': 'Episode',
         'epSep': '.',
         'sort': 'chronological',
-        'includeInNav': True
+        'includeInNav': True,
+        'linkToSeason': True,
     },
     '3': {
         'prefix': None,
@@ -88,7 +94,8 @@ SEASONS = {
         'epPrefix': 'Episode',
         'epSep': '.',
         'sort': 'chronological',
-        'includeInNav': True
+        'includeInNav': True,
+        'linkToSeason': True,
     },
     '2': {
         'prefix': None,
@@ -98,7 +105,8 @@ SEASONS = {
         'epPrefix': 'Episode',
         'epSep': '.',
         'sort': 'chronological',
-        'includeInNav': True
+        'includeInNav': True,
+        'linkToSeason': True,
     },
     '1': {
         'prefix': None,
@@ -108,7 +116,8 @@ SEASONS = {
         'epPrefix': 'Episode',
         'epSep': '.',
         'sort': 'chronological',
-        'includeInNav': True
+        'includeInNav': True,
+        'linkToSeason': True,
     },
     '0': {
         'prefix': 'Season 0',
@@ -118,7 +127,8 @@ SEASONS = {
         'epPrefix': 'Episode',
         'epSep': '.',
         'sort': 'chronological',
-        'includeInNav': True
+        'includeInNav': True,
+        'linkToSeason': True,
     },
     'Standalone Episodes': {
         'prefix': None,
@@ -128,7 +138,8 @@ SEASONS = {
         'epPrefix': 'Standalone Episode',
         'epSep': '',
         'sort': 'reverse-chronological',
-        'includeInNav': True
+        'includeInNav': True,
+        'linkToSeason': True,
     },
     'Bonus': {
         'prefix': None,
@@ -138,7 +149,8 @@ SEASONS = {
         'epPrefix': 'Bonus Episode',
         'epSep': '',
         'sort': 'reverse-chronological',
-        'includeInNav': True
+        'includeInNav': True,
+        'linkToSeason': True,
     }
 }
 

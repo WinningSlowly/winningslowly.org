@@ -24,12 +24,22 @@
 {%block content%}
    <section class='CurrentSeasonInfo'>
       <h3 class='CurrentSeasonInfo-title'>
+         {%if CURRENT_SEASON.linkToSeason%}
          <a class='CurrentSeasonInfo-link SeasonHeading' href="/{{CURRENT_SEASON.slug}}.html">
             {%if CURRENT_SEASON.prefix%}
                <span class='SeasonHeading-prefix'>{{CURRENT_SEASON.prefix}}</span>
             {%endif%}
             <span class='SeasonHeading-title'>{{CURRENT_SEASON.title}}</span>
          </a>
+         {%else%}
+         <span class='SeasonHeading'>
+            {%if CURRENT_SEASON.prefix%}
+               <span class='SeasonHeading-prefix'>{{CURRENT_SEASON.prefix}}</span>
+            {%endif%}
+            <span class='SeasonHeading-title'>{{CURRENT_SEASON.title}}</span>
+         </span>
+         {%endif%}
+         </span>
       </h3>
 
       <ul class='EpisodeList'>
