@@ -14,7 +14,7 @@ msgpack==1.2.1
 neovim==0.2.1
 pelican>=4.7
 Pygments>=2.6
-pylint==1.9.2
+pylint==4.0.9
 python-dateutil>=2.8
 pytz>=2020.1
 PyYAML==5.4
